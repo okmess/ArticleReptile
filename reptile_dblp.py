@@ -27,6 +27,7 @@ def spider(start_url):
             articles.extend(temp)
             if int(year) == 2018:
                 break
+    browser.quit()
     return articles
 
 
@@ -76,11 +77,6 @@ def journal(journal_type):
     return articles
 
 
-def acm_spider():
-    with open('ACM_journal.json', 'r') as file:
-        content = file.read()
-
-
 if __name__ == "__main__":
     # with open('ACM_journal.json', 'w') as file1:
     #     json.dump(journal('ACM'), file1, indent=4)
@@ -88,5 +84,5 @@ if __name__ == "__main__":
     with open('IEEE_journal.json', 'w') as file2:
         json.dump(journal('IEEE'), file2, indent=4)
 
-    with open('Springer_journal.json', 'w') as file3:
-        json.dump(journal('Springer'), file3, indent=4)
+    # with open('Springer_journal.json', 'w') as file3:
+    #     json.dump(journal('Springer'), file3, indent=4)

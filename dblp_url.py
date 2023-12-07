@@ -24,9 +24,7 @@ IEEE_url = [
     {'journal': 'IEEE Transactions on Knowledge and Data Engineering', 'url': 'http://dblp.uni-trier.de/db/journals/tkde/', 'shorter_form': 'TKDE'},
     {'journal': 'IEEE Transactions on Information Theory', 'url': 'http://dblp.uni-trier.de/db/journals/tit/', 'shorter_form': 'TIT'},
     {'journal': 'IEEE Transactions on Image Processing', 'url': 'http://dblp.uni-trier.de/db/journals/tip/', 'shorter_form': 'TIP'},
-    {'journal': 'IEEE Transactions on Visualization and Computer Graphics', 'url': 'http://dblp.uni-trier.de/db/journals/tvcg/', 'shorter_form': 'TVCG'},
-    {'journal': 'IEEE Trans on Pattern Analysis and Machine Intelligence', 'url': 'http://dblp.uni-trier.de/db/journals/pami/', 'shorter_form': 'TPAMI'},
-    {'journal': 'Proceedings of the IEEE', 'url': 'http://dblp.uni-trier.de/db/journals/pieee/', 'shorter_form': 'Proc. IEEE'},
+    {'journal': 'IEEE Transactions on Visualization and Computer Graphics', 'url': 'http://dblp.uni-trier.de/db/journals/tvcg/', 'shorter_form': 'TVCG'}
 ]
 
 Springer_url = [
