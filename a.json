@@ -1,0 +1,455 @@
+{
+  "result": {
+    "query": ":facetid:toc:\"db/journals/joc/joc37.bht\"",
+    "status": {
+      "@code": "200",
+      "text": "OK"
+    },
+    "time": {
+      "@unit": "msecs",
+      "text": "0.40"
+    },
+    "completions": {
+      "@total": "1",
+      "@computed": "1",
+      "@sent": "1",
+      "c": {
+        "@sc": "3",
+        "@dc": "3",
+        "@oc": "3",
+        "@id": "42279905",
+        "text": ":facetid:toc:db/journals/joc/joc37.bht"
+      }
+    },
+    "hits": {
+      "@total": "3",
+      "@computed": "3",
+      "@sent": "3",
+      "@first": "0",
+      "hit": [
+        {
+          "@score": "1",
+          "@id": "2731",
+          "info": {
+            "authors": {
+              "author": [
+                {
+                  "@pid": "12/9528",
+                  "text": "Elette Boyle"
+                },
+                {
+                  "@pid": "150/9418",
+                  "text": "Ran Cohen"
+                },
+                {
+                  "@pid": "172/0408",
+                  "text": "Aarushi Goel"
+                }
+              ]
+            },
+            "title": "Breaking the $O(\\sqrt{n})$-Bit Barrier: Byzantine Agreement with Polylog Bits Per Party.",
+            "venue": "J. Cryptol.",
+            "volume": "37",
+            "number": "1",
+            "pages": "2",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/joc/BoyleCG24",
+            "doi": "10.1007/S00145-023-09484-0",
+            "ee": "https://doi.org/10.1007/s00145-023-09484-0",
+            "url": "https://dblp.org/rec/journals/joc/BoyleCG24"
+          },
+          "url": "URL#2731"
+        },
+        {
+          "@score": "1",
+          "@id": "2732",
+          "info": {
+            "authors": {
+              "author": [
+                {
+                  "@pid": "179/7421",
+                  "text": "Nir Drucker"
+                },
+                {
+                  "@pid": "228/5499",
+                  "text": "Guy Moshkowich"
+                },
+                {
+                  "@pid": "313/8022",
+                  "text": "Tomer Pelleg"
+                },
+                {
+                  "@pid": "65/5447",
+                  "text": "Hayim Shaul"
+                }
+              ]
+            },
+            "title": "BLEACH: Cleaning Errors in Discrete Computations Over CKKS.",
+            "venue": "J. Cryptol.",
+            "volume": "37",
+            "number": "1",
+            "pages": "3",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/joc/DruckerMPS24",
+            "doi": "10.1007/S00145-023-09483-1",
+            "ee": "https://doi.org/10.1007/s00145-023-09483-1",
+            "url": "https://dblp.org/rec/journals/joc/DruckerMPS24"
+          },
+          "url": "URL#2732"
+        },
+        {
+          "@score": "1",
+          "@id": "2733",
+          "info": {
+            "authors": {
+              "author": [
+                {
+                  "@pid": "05/667",
+                  "text": "Yuval Ishai"
+                },
+                {
+                  "@pid": "272/2390",
+                  "text": "Alexis Korb"
+                },
+                {
+                  "@pid": "200/2034",
+                  "text": "Paul Lou"
+                },
+                {
+                  "@pid": "s/AmitSahai",
+                  "text": "Amit Sahai"
+                }
+              ]
+            },
+            "title": "Beyond the Csiszár-Körner Bound: Best-Possible Wiretap Coding via Obfuscation.",
+            "venue": "J. Cryptol.",
+            "volume": "37",
+            "number": "1",
+            "pages": "1",
+            "year": "2024",
+            "type": "Journal Articles",
+            "access": "closed",
+            "key": "journals/joc/IshaiKLS24",
+            "doi": "10.1007/S00145-023-09482-2",
+            "ee": "https://doi.org/10.1007/s00145-023-09482-2",
+            "url": "https://dblp.org/rec/journals/joc/IshaiKLS24"
+          },
+          "url": "URL#2733"
+        }
+      ]
+    }
+  }
+}
+
+[
+  {
+    'title': 'Software Prefetching for Indirect Memory Accesses: A Microarchitectural Perspective.',
+    'year': '2018',
+    'url': 'https://doi.org/10.1145/3319393'
+  },
+  {
+    'title': 'Effective Detection of Sleep-in-atomic-context Bugs in the Linux Kernel.',
+    'year': '2018',
+    'url': 'https://doi.org/10.1145/3381990'
+  },
+  {
+    'title': 'SILK+ Preventing Latency Spikes in Log-Structured Merge Key-Value Stores Running Heterogeneous Workloads.',
+    'year': '2018',
+    'url': 'https://doi.org/10.1145/3380905'
+  },
+  {
+    'title': 'SPIN: Seamless Operating System Integration of Peer-to-Peer DMA Between SSDs and GPUs.',
+    'year': '2018',
+    'url': 'https://doi.org/10.1145/3309987'
+  },
+  {
+    'title': 'An Instruction Set Architecture for Machine Learning.',
+    'year': '2018',
+    'url': 'https://doi.org/10.1145/3331469'
+  },
+  {
+    'title': 'Lock-Unlock: Is That All? A Pragmatic Analysis of Locking in Software Systems.',
+    'year': '2018',
+    'url': 'https://doi.org/10.1145/3301501'
+  },
+  {
+    'title': 'The Arm Triple Core Lock-Step (TCLS) Processor.',
+    'year': '2018',
+    'url': 'https://doi.org/10.1145/3323917'
+  },
+  {
+    'title': 'Corrigendum to &quot;Derecho: Fast State Machine Replication for Cloud Services&quot; by Jha et al., ACM Transactions on Computer Systems (TOCS) Volume 36, Issue 2, Article No. 4.',
+    'year': '2018',
+    'url': 'https://doi.org/10.1145/3395604'
+  },
+  {
+    'title': 'Derecho: Fast State Machine Replication for Cloud Services.',
+    'year': '2018',
+    'url': 'https://doi.org/10.1145/3302258'
+  },
+  {
+    'title': 'Transactuations: Where Transactions Meet the Physical World.',
+    'year': '2018',
+    'url': 'https://doi.org/10.1145/3380907'
+  },
+  {
+    'title': 'Introduction to the Special Issue on the Award Papers of USENIX ATC 2019.',
+    'year': '2018',
+    'url': 'https://doi.org/10.1145/3395034'
+  },
+  {
+    'title': 'Mitigating Load Imbalance in Distributed Data Serving with Rack-Scale Memory Pooling.',
+    'year': '2018',
+    'url': 'https://doi.org/10.1145/3309986'
+  },
+  {
+    'title': 'Deca: A Garbage Collection Optimizer for In-Memory Data Processing.',
+    'year': '2018',
+    'url': 'https://doi.org/10.1145/3310361'
+  },
+  {
+    'title': 'A Retargetable System-level DBT Hypervisor.',
+    'year': '2018',
+    'url': 'https://doi.org/10.1145/3386161'
+  },
+  {
+    'title': 'Venice: An Effective Resource Sharing Architecture for Data Center Servers.',
+    'year': '2018',
+    'url': 'https://doi.org/10.1145/3310360'
+  }
+]
+
+[
+  {
+    'title': 'Approx-RM: Reducing Energy on Heterogeneous Multicore Processors under Accuracy and Timing Constraints.',
+    'year': '2023',
+    'url': 'https://doi.org/10.1145/3605214'
+  },
+  {
+    'title': 'Multi-objective Hardware-aware Neural Architecture Search with Pareto Rank-preserving Surrogate Models.',
+    'year': '2023',
+    'url': 'https://doi.org/10.1145/3579853'
+  },
+  {
+    'title': 'Lock-Free High-performance Hashing for Persistent Memory via PM-aware Holistic Optimization.',
+    'year': '2023',
+    'url': 'https://doi.org/10.1145/3561651'
+  },
+  {
+    'title': 'Jointly Optimizing Job Assignment and Resource Partitioning for Improving System Throughput in Cloud Datacenters.',
+    'year': '2023',
+    'url': 'https://doi.org/10.1145/3593055'
+  },
+  {
+    'title': 'FlexPointer: Fast Address Translation Based on Range TLB and Tagged Pointers.',
+    'year': '2023',
+    'url': 'https://doi.org/10.1145/3579854'
+  },
+  {
+    'title': 'Fast One-Sided RDMA-Based State Machine Replication for Disaggregated Memory.',
+    'year': '2023',
+    'url': 'https://doi.org/10.1145/3587096'
+  },
+  {
+    'title': 'Puppeteer: A Random Forest Based Manager for Hardware Prefetchers Across the Memory Hierarchy.',
+    'year': '2023',
+    'url': 'https://doi.org/10.1145/3570304'
+  },
+  {
+    'title': 'Source Matching and Rewriting for MLIR Using String-Based Automata.',
+    'year': '2023',
+    'url': 'https://doi.org/10.1145/3571283'
+  },
+  {
+    'title': 'Occam: Optimal Data Reuse for Convolutional Neural Networks.',
+    'year': '2023',
+    'url': 'https://doi.org/10.1145/3566052'
+  },
+  {
+    'title': 'SplitZNS: Towards an Efficient LSM-Tree on Zoned Namespace SSDs.',
+    'year': '2023',
+    'url': 'https://doi.org/10.1145/3608476'
+  },
+  {
+    'title': 'A Fast and Flexible FPGA-based Accelerator for Natural Language Processing Neural Networks.',
+    'year': '2023',
+    'url': 'https://doi.org/10.1145/3564606'
+  },
+  {
+    'title': 'Hierarchical Model Parallelism for Optimizing Inference on Many-core Processor via Decoupled 3D-CNN Structure.',
+    'year': '2023',
+    'url': 'https://doi.org/10.1145/3605149'
+  },
+  {
+    'title': 'SpecTerminator: Blocking Speculative Side Channels Based on Instruction Classes on RISC-V.',
+    'year': '2023',
+    'url': 'https://doi.org/10.1145/3566053'
+  },
+  {
+    'title': 'YaConv: Convolution with Low Cache Footprint.',
+    'year': '2023',
+    'url': 'https://doi.org/10.1145/3570305'
+  },
+  {
+    'title': 'rNdN: Fast Query Compilation for NVIDIA GPUs.',
+    'year': '2023',
+    'url': 'https://doi.org/10.1145/3603503'
+  },
+  {
+    'title': 'Quantifying Resource Contention of Co-located Workloads with the System-level Entropy.',
+    'year': '2023',
+    'url': 'https://doi.org/10.1145/3563696'
+  },
+  {
+    'title': 'Unified Buffer: Compiling Image Processing and Machine Learning Applications to Push-Memory Accelerators.',
+    'year': '2023',
+    'url': 'https://doi.org/10.1145/3572908'
+  },
+  {
+    'title': 'Symbolic Analysis for Data Plane Programs Specialization.',
+    'year': '2023',
+    'url': 'https://doi.org/10.1145/3557727'
+  },
+  {
+    'title': 'An Optimized Framework for Matrix Factorization on the New Sunway Many-core Platform.',
+    'year': '2023',
+    'url': 'https://doi.org/10.1145/3571856'
+  },
+  {
+    'title': 'Design and Implementation for Nonblocking Execution in GraphBLAS: Tradeoffs and Performance.',
+    'year': '2023',
+    'url': 'https://doi.org/10.1145/3561652'
+  },
+  {
+    'title': 'Vitruvius+: An Area-Efficient RISC-V Decoupled Vector Coprocessor for High Performance Computing Applications.',
+    'year': '2023',
+    'url': 'https://doi.org/10.1145/3575861'
+  },
+  {
+    'title': 'ACTION: Adaptive Cache Block Migration in Distributed Cache Architectures.',
+    'year': '2023',
+    'url': 'https://doi.org/10.1145/3572911'
+  },
+  {
+    'title': 'PiDRAM: A Holistic End-to-end FPGA-based Framework for Processing-in-DRAM.',
+    'year': '2023',
+    'url': 'https://doi.org/10.1145/3563697'
+  },
+  {
+    'title': 'FlexHM: A Practical System for Heterogeneous Memory with Flexible and Efficient Performance Optimizations.',
+    'year': '2023',
+    'url': 'https://doi.org/10.1145/3565885'
+  },
+  {
+    'title': 'User-driven Online Kernel Fusion for SYCL.',
+    'year': '2023',
+    'url': 'https://doi.org/10.1145/3571284'
+  },
+  {
+    'title': 'Turn-based Spatiotemporal Coherence for GPUs.',
+    'year': '2023',
+    'url': 'https://doi.org/10.1145/3593054'
+  },
+  {
+    'title': 'TNT: A Modular Approach to Traversing Physically Heterogeneous NOCs at Bare-wire Latency.',
+    'year': '2023',
+    'url': 'https://doi.org/10.1145/3597611'
+  },
+  {
+    'title': 'Cache Programming for Scientific Loops Using Leases.',
+    'year': '2023',
+    'url': 'https://doi.org/10.1145/3600090'
+  },
+  {
+    'title': 'ASM: An Adaptive Secure Multicore for Co-located Mutually Distrusting Processes.',
+    'year': '2023',
+    'url': 'https://doi.org/10.1145/3587480'
+  },
+  {
+    'title': 'Delay-on-Squash: Stopping Microarchitectural Replay Attacks in Their Tracks.',
+    'year': '2023',
+    'url': 'https://doi.org/10.1145/3563695'
+  },
+  {
+    'title': 'XEngine: Optimal Tensor Rematerialization for Neural Networks in Heterogeneous Environments.',
+    'year': '2023',
+    'url': 'https://doi.org/10.1145/3568956'
+  },
+  {
+    'title': 'BullsEye : Scalable and Accurate Approximation Framework for Cache Miss Calculation.',
+    'year': '2023',
+    'url': 'https://doi.org/10.1145/3558003'
+  },
+  {
+    'title': 'TokenSmart: Distributed, Scalable Power Management in the Many-core Era.',
+    'year': '2023',
+    'url': 'https://doi.org/10.1145/3559762'
+  },
+  {
+    'title': 'HyGain: High-performance, Energy-efficient Hybrid Gain Cell-based Cache Hierarchy.',
+    'year': '2023',
+    'url': 'https://doi.org/10.1145/3572839'
+  },
+  {
+    'title': 'As-Is Approximate Computing.',
+    'year': '2023',
+    'url': 'https://doi.org/10.1145/3559761'
+  },
+  {
+    'title': 'Autotuning Convolutions Is Easier Than You Think.',
+    'year': '2023',
+    'url': 'https://doi.org/10.1145/3570641'
+  },
+  {
+    'title': 'MPU: Memory-centric SIMT Processor via In-DRAM Near-bank Computing.',
+    'year': '2023',
+    'url': 'https://doi.org/10.1145/3603113'
+  },
+  {
+    'title': 'SSD-SGD: Communication Sparsification for Distributed Deep Learning Training.',
+    'year': '2023',
+    'url': 'https://doi.org/10.1145/3563038'
+  },
+  {
+    'title': 'Accelerating Convolutional Neural Network by Exploiting Sparsity on GPUs.',
+    'year': '2023',
+    'url': 'https://doi.org/10.1145/3600092'
+  },
+  {
+    'title': 'Scale-out Systolic Arrays.',
+    'year': '2023',
+    'url': 'https://doi.org/10.1145/3572917'
+  },
+  {
+    'title': 'RegCPython: A Register-based Python Interpreter for Better Performance.',
+    'year': '2023',
+    'url': 'https://doi.org/10.1145/3568973'
+  },
+  {
+    'title': 'MFFT: A GPU Accelerated Highly Efficient Mixed-Precision Large-Scale FFT Framework.',
+    'year': '2023',
+    'url': 'https://doi.org/10.1145/3605148'
+  },
+  {
+    'title': 'Polyhedral Specification and Code Generation of Sparse Tensor Contraction with Co-iteration.',
+    'year': '2023',
+    'url': 'https://doi.org/10.1145/3566054'
+  },
+  {
+    'title': 'GraphTune: An Efficient Dependency-Aware Substrate to Alleviate Irregularity in Concurrent Graph Processing.',
+    'year': '2023',
+    'url': 'https://doi.org/10.1145/3600091'
+  },
+  {
+    'title': 'The Impact of Page Size and Microarchitecture on Instruction Address Translation Overhead.',
+    'year': '2023',
+    'url': 'https://doi.org/10.1145/3600089'
+  }
+]
+
+
+
