@@ -1,0 +1,1842 @@
+[
+    {
+        "title": "CoTree: A Side-Channel Collision Tool to Push the Limits of Conquerable Space.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3288512",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Collision avoidance[]Fault tolerant systems[]Correlation[]Mathematical models[]Liquid crystal displays[]FCC[]Side-channel attacks"
+    },
+    {
+        "title": "Unleashing the Potential of Sparse DNNs Through Synergistic Hardware-Sparsity Co-Design.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3191561",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Hardware[]Neurons[]Deep learning[]Training[]Mathematical models[]Computer architecture[]Computational modeling"
+    },
+    {
+        "title": "Verification of Camera-Based Autonomous Systems.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3240131",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Cameras[]Trajectory[]Sensors[]Image color analysis[]Apertures[]Laser radar[]Autonomous vehicles"
+    },
+    {
+        "title": "Robust Compact Model of High-Voltage MOSFET&apos;s Drift Region.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3172599",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "ntegrated circuit modeling[]Transient analysis[]Semiconductor process modeling[]Resistance[]Semiconductor device modeling[]SPICE[]Logic gates"
+    },
+    {
+        "title": "Unsupervised Two-Stage Root-Cause Analysis With Transfer Learning for Integrated Systems.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3176998",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Transfer learning[]Data mining[]Clustering methods[]Data models[]Decision trees[]Analytical models[]Integrated circuit modeling"
+    },
+    {
+        "title": "ELIXIR: An Expedient Connection Paradigm for Self-Powered IoT Devices.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3266724",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "nternet of Things[]Synchronization[]Protocols[]Power system reliability[]Delays[]Receivers[]Radio transmitters"
+    },
+    {
+        "title": "FSPDA: A Full Sequence Program Data Allocation Scheme for Boosting 3-D nand Flash Read Performance.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3294452",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Three-dimensional displays[]Flash memories[]Resource management[]Parallel processing[]Random access memory[]Throughput[]Low latency communication[]Data models"
+    },
+    {
+        "title": "PcGC: A Parity-Check Garbage Collection for Boosting 3-D NAND Flash Performance.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3281517",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Three-dimensional displays[]Time factors[]Memory management[]Flash memories[]Computer science[]Waste handling"
+    },
+    {
+        "title": "Translation Validation of Information Leakage of Compiler Optimizations.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3269954",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Security[]Optimization[]Program processors[]Registers[]Codes[]Adaptation models[]Arithmetic"
+    },
+    {
+        "title": "Unified Wear-Leveling Technique for NVM-Based Buffer of SSD.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3291671",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Metadata[]Nonvolatile memory[]Resource management[]Runtime[]Costs[]Solid state drives[]Phase change random access memory[]Solid state drives"
+    },
+    {
+        "title": "Pole-Aware Analog Layout Synthesis Considering Monotonic Current Flows and Wire Crossings.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3174166",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Routing[]Layout[]Wires[]Topology[]Wiring[]Analog circuits[]Minimization"
+    },
+    {
+        "title": "RHPM: Using Relative Hotness to Guide Page Migration for Hybrid Memory Systems.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3231836",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Metadata[]Random access memory[]Frequency modulation[]Computer architecture[]Bandwidth[]System-on-chip[]Nonvolatile memory"
+    },
+    {
+        "title": "Hardware Trojan Insertion in Finalized Layouts: From Methodology to a Silicon Demonstration.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3223846",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Trojan horses[]Layout[]Integrated circuits[]Foundries[]Computer architecture[]Clocks[]Microprocessors"
+    },
+    {
+        "title": "Intermittent Computing Emulation of Ultralow-Power Processors: Evaluation of Backup Strategies for RISC-V.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3169108",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Nonvolatile memory[]Computer architecture[]Transient analysis[]Internet of Things[]Registers[]Software[]Random access memory"
+    },
+    {
+        "title": "Knowledge-Intensive Diagnostics Using Case-Based Reasoning and Synthetic Case Generation.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3222287",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Circuit faults[]Solid modeling[]Maintenance engineering[]Production[]Data models[]Cognition[]Manufacturing"
+    },
+    {
+        "title": "Optimizing the Use of Behavioral Locking for High-Level Synthesis.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3179651",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "ntegrated circuits[]Security[]Measurement[]Behavioral sciences[]Foundries[]Space exploration[]Entropy"
+    },
+    {
+        "title": "Development and Efficiency Analysis of a Switching Scheme for INL Reduction in Unary DACs.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3233732",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Switches[]Systematics[]Error compensation[]Routing[]Layout[]Switching circuits[]Integrated circuits"
+    },
+    {
+        "title": "Topping Off Test Sets Under Bounded Transparent Scan.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3167885",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Circuit faults[]Clocks[]Integrated circuit modeling[]Logic gates[]Computational modeling[]Test pattern generators[]Compaction"
+    },
+    {
+        "title": "Functionally Possible Scan-Based Test Set as a Dual of a Compressed Multicycle Test Set.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3193902",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Circuit faults[]Test data compression[]Clocks[]Compaction[]Benchmark testing[]System-on-chip[]Voltage"
+    },
+    {
+        "title": "Estimating the Number of Extra Tests During Iterative Test Generation for Single-Cycle Gate-Exhaustive Faults.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3226677",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Circuit faults[]Logic gates[]Test pattern generators[]Iterative methods[]Compaction[]Benchmark testing[]Test data compression"
+    },
+    {
+        "title": "Storage-Based Logic Built-In Self-Test With Cyclic Tests.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3233737",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Circuit faults[]System-on-chip[]Clocks[]Test pattern generators[]Integrated circuit modeling[]Built-in self-test[]Computational modeling"
+    },
+    {
+        "title": "Partially Specified Output Response for Reduced Fail Data Volume.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3233319",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Circuit faults[]Integrated circuit modeling[]Data models[]Data collection[]Computational modeling[]Solid modeling[]Fault detection"
+    },
+    {
+        "title": "SeqL+: Secure Scan-Obfuscation With Theoretical and Empirical Validation.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3199153",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Flip-flops[]Logic gates[]Security[]Complexity theory[]Resists[]Resilience[]Iterative algorithms"
+    },
+    {
+        "title": "TRIM: A Design Space Exploration Model for Deep Neural Networks Inference and Training Accelerators.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3203959",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Training[]Hardware[]Computer architecture[]Task analysis[]Space exploration[]Analytical models[]Neural networks"
+    },
+    {
+        "title": "CDAR-DRAM: Enabling Runtime DRAM Performance and Energy Optimization via In-Situ Charge Detection and Adaptive Data Restoration.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3238292",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Random access memory[]Timing[]Voltage[]Runtime[]Computer architecture[]Energy efficiency[]Capacitors"
+    },
+    {
+        "title": "RBNN: Memory-Efficient Reconfigurable Deep Binary Neural Network With IP Protection for Internet of Things.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3197499",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Computational modeling[]Task analysis[]Training[]Quantization (signal)[]Internet of Things[]IP networks[]Neural networks"
+    },
+    {
+        "title": "A Coordinated Model Pruning and Mapping Framework for RRAM-Based DNN Accelerators.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3221906",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Computational modeling[]Neural networks[]Integrated circuit modeling[]Computer architecture[]Sparse matrices[]Hardware[]Degradation"
+    },
+    {
+        "title": "Training-Free Stuck-At Fault Mitigation for ReRAM-Based Deep Learning Accelerators.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3222288",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Circuit faults[]Hardware[]Training[]Memristors[]Costs[]Software[]Redundancy"
+    },
+    {
+        "title": "Evaluation of Binary Decision Diagrams Complexity Using Relative Arithmetic Width.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3239534",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Boolean functions[]Data structures[]Complexity theory[]Arithmetic[]Shape[]Heuristic algorithms[]Minimization"
+    },
+    {
+        "title": "Utilizing XMG-Based Synthesis to Preserve Self-Duality for RFET-Based Circuits.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3184633",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Logic gates[]Transistors[]Optimization[]Benchmark testing[]Silicon[]Runtime[]Nanoscale devices"
+    },
+    {
+        "title": "A Lightweight True Random Number Generator for Root of Trust Applications.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3237957",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Generators[]Ring oscillators[]Ring generators[]Inverters[]Logic gates[]Jitter[]Entropy"
+    },
+    {
+        "title": "STREAM: Toward READ-Based In-Memory Computing for Streaming-Based Processing for Data-Intensive Applications.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3263723",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "n-memory computing[]Nonvolatile memory[]Boolean functions[]Logic gates[]Data structures[]Kernel[]Memristors"
+    },
+    {
+        "title": "Fast and Inexpensive High-Level Synthesis Design Space Exploration: Machine Learning to the Rescue.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3258341",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Field programmable gate arrays[]Behavioral sciences[]Transfer learning[]Predictive models[]Licenses[]Space exploration[]Metaheuristics"
+    },
+    {
+        "title": "k-Degree Parallel Comparison-Free Hardware Sorter for Complete Sorting.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3207689",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Sorting[]Computer architecture[]Hardware[]Delays[]Parallel processing[]Clocks[]Logic gates"
+    },
+    {
+        "title": "Data-Driven Reliability Models of Quantum Circuit: From Traditional ML to Graph Neural Network.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3202430",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Quantum circuit[]Logic gates[]Quantum computing[]Computers[]Integrated circuit modeling[]Qubit[]Computational modeling"
+    },
+    {
+        "title": "Error Detection Architectures for Hardware/Software Co-Design Approaches of Number-Theoretic Transform.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3218614",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Circuit faults[]Field programmable gate arrays[]Registers[]Transforms[]Multiplexing[]Transient analysis[]Time complexity"
+    },
+    {
+        "title": "Cryptensor: A Resource-Shared Co-Processor to Accelerate Convolutional Neural Network and Polynomial Convolution.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3296375",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Convolutional neural networks[]Convolution[]Field programmable gate arrays[]Hardware[]Cryptography[]Memory management[]Systolic arrays"
+    },
+    {
+        "title": "Energy-Aware Real-Time Scheduling of Multiple Periodic DAGs on Heterogeneous Systems.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3228504",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Task analysis[]Real-time systems[]Program processors[]Processor scheduling[]Schedules[]Dynamic scheduling[]Cyber-physical systems"
+    },
+    {
+        "title": "Improved EM Side-Channel Analysis Attack Probe Detection Range Utilizing Coplanar Capacitive Asymmetry Sensing.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3227077",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Probes[]Capacitance[]Sensors[]Capacitors[]Oscillators[]Metals[]Sensitivity[]Electromagnetics[]Side-channel attacks"
+    },
+    {
+        "title": "Everything You Always Wanted to Know About Generalization of Proof Obligations in PDR.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3198260",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Planning[]Model checking[]Reachability analysis[]Hardware[]Artificial intelligence[]Task analysis[]Benchmark testing"
+    },
+    {
+        "title": "A Best Balance Ratio Ordered Feature Selection Methodology for Robust and Fast Statistical Analysis of Memory Designs.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3213762",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Support vector machines[]Monte Carlo methods[]Machine learning[]Analytical models[]Yield estimation[]Feature extraction[]Integrated circuit modeling"
+    },
+    {
+        "title": "Energy-Efficient Spintronic-Based Neuromorphic Computing System Using Current Mode Track and Termination Circuit.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3238879",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Switches[]Magnetic tunneling[]Neurons[]Switching circuits[]Energy consumption[]Synapses[]Memristors"
+    },
+    {
+        "title": "Keeping Deep Lithography Simulators Updated: Global-Local Shape-Based Novelty Detection and Active Learning.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3192175",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Layout[]Integrated circuit modeling[]Training[]Fabrication[]Lithography[]Anomaly detection[]Shape"
+    },
+    {
+        "title": "A Timing Yield Model for SRAM Cells at Sub/Near-Threshold Voltages Based on a Compact Drain Current Model.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3194812",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Analytical models[]Integrated circuit modeling[]Transistors[]SRAM cells[]Predictive models[]Estimation[]Systematics"
+    },
+    {
+        "title": "A Multiagent Reinforcement Learning-Assisted Cache Cleaning Scheme for DM-SMR.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3222670",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Cleaning[]Q-learning[]Degradation[]Tail[]System performance[]Real-time systems[]Linux"
+    },
+    {
+        "title": "Self-Supervised On-Device Federated Learning From Unlabeled Streams.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3274956",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Training[]Federated learning[]Distributed databases[]Servers[]Data models[]Visualization[]Image edge detection[]Self-supervised learning[]Learning systems"
+    },
+    {
+        "title": "Efficient Super-Resolution System With Block-Wise Hybridization and Quantized Winograd on FPGA.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3247621",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Convolution[]Optimization[]Interpolation[]Image quality[]Streaming media[]Scalability[]Costs"
+    },
+    {
+        "title": "LAYGO2: A Custom Layout Generation Engine Based on Dynamic Templates and Grids for Advanced CMOS Technologies.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3294462",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Layout[]Routing[]CMOS technology[]Generators[]Organizations[]Task analysis[]Codes[]Analog circuits"
+    },
+    {
+        "title": "TREAD-M3D: Temperature-Aware DNN Accelerators for Monolithic 3-D Mobile Systems.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3285039",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Systolic arrays[]Energy efficiency[]Three-dimensional displays[]Optimization[]Integrated circuits[]Resistive RAM[]Organizations"
+    },
+    {
+        "title": "Pragmatic Memory-System Support for Intermittent Computing Using Emerging Nonvolatile Memory.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3168263",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "ntegrated circuits[]Nonvolatile memory[]Task analysis[]Software[]Hardware[]Computer bugs[]Codes"
+    },
+    {
+        "title": "A Study of the Electroforming Process in 1T1R Memory Arrays.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3175947",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "ntegrated circuit modeling[]Electrodes[]Mathematical models[]Plugs[]Switches[]Resistance[]Computational modeling"
+    },
+    {
+        "title": "Real-Time Video Recognition via Decoder-Assisted Neural Network Acceleration Framework.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3217667",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Streaming media[]Artificial neural networks[]Image reconstruction[]Task analysis[]Computer architecture[]Decoding[]Real-time systems"
+    },
+    {
+        "title": "Clock-Latency-Aware Fault-Tolerant DLL for Multi-Die Clock Synchronization.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3226156",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Clocks[]Delays[]Field effect transistors[]Codes[]Circuit faults[]Delay lines[]Synchronization"
+    },
+    {
+        "title": "PHCG: Optimizing Simulink Code Generation for Embedded System With SIMD Instructions.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3197504",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Codes[]Computational modeling[]Software packages[]Data models[]Merging[]Integrated circuit modeling[]Computer architecture"
+    },
+    {
+        "title": "Germanium- and Silicon-Nanotransistor Designs by Electrical and Thermal Self-Consistent Analysis.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3240938",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Silicon[]Germanium[]Transistors[]Photonic band gap[]Doping[]Integrated circuit modeling[]Computational modeling"
+    },
+    {
+        "title": "NCache: A Machine-Learning Cache Management Scheme for Computational SSDs.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3208769",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Flash memories[]Spatiotemporal phenomena[]Costs[]Data models[]Time factors[]Tail[]Predictive models"
+    },
+    {
+        "title": "Asymptotically Optimal Circuit Depth for Quantum State Preparation and General Unitary Synthesis.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3244885",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Qubit[]Quantum circuit[]Logic gates[]Quantum state[]Complexity theory[]Encoding[]Task analysis"
+    },
+    {
+        "title": "Design of General Flux-Controlled and Charge-Controlled Memristor Emulators Based on Hyperbolic Functions.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3186928",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Memristors[]Integrated circuit modeling[]Mathematical models[]Voltage[]Capacitors[]Switching circuits[]Semiconductor device modeling"
+    },
+    {
+        "title": "Gibbon: An Efficient Co-Exploration Framework of NN Model and Processing-In-Memory Architecture.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3262201",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Computer architecture[]Artificial neural networks[]Hardware[]Computational modeling[]Search problems[]Statistics[]Sociology"
+    },
+    {
+        "title": "Golden-Free Robust Age Estimation to Triage Recycled ICs.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3238291",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "ntegrated circuits[]Aging[]Integrated circuit modeling[]Delays[]System-on-chip[]Degradation[]Estimation"
+    },
+    {
+        "title": "Joint Optimization of Dimension Reduction and Mixed-Precision Quantization for Activation Compression of Neural Networks.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3248503",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Quantization (signal)[]Dimensionality reduction[]Optimization[]Principal component analysis[]Memory management[]Measurement[]Discrete cosine transforms"
+    },
+    {
+        "title": "A Robustness-Based Confidence Measure for Hybrid System Falsification.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3201157",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Robustness[]Testing[]Heuristic algorithms[]Space exploration[]Vehicle dynamics[]Semantics[]Extraterrestrial measurements"
+    },
+    {
+        "title": "MCM-GPU Voltage Noise Characterization and Architecture-Level Mitigation.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3279304",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Voltage control[]Graphics processing units[]Computer architecture[]Random access memory[]Instruction sets[]Data models[]Smoothing methods[]Energy efficiency[]Noise measurement"
+    },
+    {
+        "title": "MAPD: An FPGA-Based Real-Time Video Haze Removal Accelerator Using Mixed Atmosphere Prior.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3291670",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Atmospheric modeling[]Streaming media[]Real-time systems[]Field programmable gate arrays[]Estimation[]Image restoration[]Hardware[]Videos[]Autonomous driving"
+    },
+    {
+        "title": "SpecWands: An Efficient Priority-Based Scheduler Against Speculation Contention Attacks.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3284290",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Pipelines[]Trojan horses[]Indexes[]Security[]Message systems[]Out of order[]Central Processing Unit[]Resource management[]Scheduling[]Program processors[]Multithreading"
+    },
+    {
+        "title": "Spintronic Memristor-Based Binarized Ensemble Convolutional Neural Network Architectures.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3213612",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Predictive models[]Data models[]Hardware[]Convolutional neural networks[]Biological neural networks[]Task analysis[]Performance evaluation"
+    },
+    {
+        "title": "A Markov Chain Framework for Modeling the Statistical Properties of Stochastic Computing Finite-State Machines.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3211487",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Markov processes[]Integrated circuit modeling[]Computational modeling[]Standards[]Correlation[]Behavioral sciences[]Arithmetic"
+    },
+    {
+        "title": "INFORM: Inverse Design Methodology for Constrained Multiobjective Optimization.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3217422",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Optimization[]Design methodology[]System analysis and design[]Genetic algorithms[]Artificial neural networks[]Sociology[]Next generation networking"
+    },
+    {
+        "title": "On Reducing LDE Variations in Modern Analog Placement.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3199307",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Layout[]Stress[]Optimization[]Minimization[]Simulated annealing[]Random access memory[]Linear programming"
+    },
+    {
+        "title": "Formal Modeling and Verification of Security Properties of a Ransomware-Resistant SSD.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3229596",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Ransomware[]Security[]Integrated circuit modeling[]Tracking[]Model checking[]Design automation[]Symbols"
+    },
+    {
+        "title": "SDP: Co-Designing Algorithm, Dataflow, and Architecture for In-SRAM Sparse NN Acceleration.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3172600",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Computer architecture[]Microprocessors[]Artificial neural networks[]SRAM cells[]Logic gates[]Design methodology[]Voltage"
+    },
+    {
+        "title": "AccelTran: A Sparsity-Aware Accelerator for Dynamic Inference With Transformers.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3273992",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Transformers[]Computational modeling[]Hardware[]Integrated circuit modeling[]Throughput[]Memory management[]Runtime"
+    },
+    {
+        "title": "TransCODE: Co-Design of Transformers and Accelerators for Efficient Training and Inference.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3283443",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Transformers[]Computational modeling[]Training[]Hardware[]Integrated circuit modeling[]Uncertainty[]Task analysis[]Application specific integrated circuits[]Hardware design languages[]Machine learning[]Neural networks"
+    },
+    {
+        "title": "SCV-GNN: Sparse Compressed Vector-Based Graph Neural Network Aggregation.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3291672",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Sparse matrices[]Graph neural networks[]Hardware[]Memory management[]Indexes[]Vector processors[]Accelerator architectures[]Neural networks"
+    },
+    {
+        "title": "Snap-3D: A Constrained Placement-Driven Physical Design Methodology for High Performance 3-D ICs.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3218763",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Three-dimensional displays[]Integrated circuits[]Routing[]Chatbots[]Stacking[]Pins[]Physical design"
+    },
+    {
+        "title": "Deep-Learning-Driven Random Walk Method for Capacitance Extraction.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3226402",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Dielectrics[]Conductors[]Green's function methods[]Capacitance[]Silicon[]Stochastic processes[]Neural networks"
+    },
+    {
+        "title": "Geometric Programming Approach to Glitch Minimization via Gate Sizing.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3207970",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Logic gates[]Delays[]Minimization[]Optimization[]Latches[]Iterative methods[]Standards"
+    },
+    {
+        "title": "A New Approach to Clock Skewing for Area and Power Optimization of ASICs Using Differential Flipflops and Local Clocking.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3264798",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Clocks[]Logic gates[]Registers[]Delays[]Computer architecture[]Transistors[]Silicon-on-insulator"
+    },
+    {
+        "title": "A Noise-Driven Heterogeneous Stochastic Computing Multiplier for Heuristic Precision Improvement in Energy-Efficient DNNs.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3178053",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Stochastic processes[]Computational modeling[]Generators[]Table lookup[]Energy efficiency[]Neural networks[]Encoding"
+    },
+    {
+        "title": "Hierarchical Relational Graph Learning for Autonomous Multirobot Cooperative Navigation in Dynamic Environments.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3260710",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Robots[]Collision avoidance[]Navigation[]Task analysis[]Graph neural networks[]Training[]Service robots"
+    },
+    {
+        "title": "A Fast FPGA Connection Router Using Prerouting-Based Parallel Local Routing Algorithm.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3274950",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Field programmable gate arrays[]Routing[]Runtime[]Pins[]Costs[]Wires[]Delays"
+    },
+    {
+        "title": "ProMiSE: A High-Performance Programmable Hardware Monitor for High Security Enforcement of Software Execution.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3271583",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Security[]Monitoring[]Software[]Hardware[]Law[]Threat modeling[]Runtime"
+    },
+    {
+        "title": "FCRoute: A Fast FPGA Connection Router Using Soft Routing-Space Pruning Algorithm.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3188964",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Routing[]Field programmable gate arrays[]Runtime[]Costs[]Backtracking[]Program processors[]Approximation algorithms"
+    },
+    {
+        "title": "Efficient Arithmetic Block Identification With Graph Learning and Network-Flow.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3227815",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Arithmetic[]Logic gates[]Graph neural networks[]Wires[]Task analysis[]Predictive models[]Representation learning"
+    },
+    {
+        "title": "Cooperative Buffer Management With Fine-Grained Data Migrations for Hybrid Memory Systems.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3210201",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Random access memory[]Memory management[]Benchmark testing[]Machine learning[]Indexes[]Costs[]Production"
+    },
+    {
+        "title": "VoxImp: Impedance Extraction Simulator for Voxelized Structures.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3218768",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "mpedance[]Resonant frequency[]Memory management[]Iterative methods[]Tensors[]Surface impedance[]Sparse matrices"
+    },
+    {
+        "title": "Design and Blocking Analysis of Locking Protocols for Real-Time DAG Tasks Under Federated Scheduling.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3264729",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Task analysis[]Protocols[]Real-time systems[]Program processors[]Timing[]Directed acyclic graph[]Behavioral sciences"
+    },
+    {
+        "title": "Warp-Aware Adaptive Energy Efficiency Calibration for Multi-GPU Systems.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3200528",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Task analysis[]Graphics processing units[]Optimization[]Parallel processing[]Power demand[]Instruction sets[]Energy consumption"
+    },
+    {
+        "title": "Retention-Aware Read Acceleration Strategy for LDPC-Based NAND Flash Memory.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3289328",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Flash memories[]Parity check codes[]Bit error rate[]Computer architecture[]Microprocessors[]Soft sensors[]Behavioral sciences"
+    },
+    {
+        "title": "HardGBM: A Framework for Accurate and Hardware-Efficient Gradient Boosting Machines.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3218509",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Hardware[]Boosting[]Training[]Random forests[]Regression tree analysis[]Ensemble learning[]Bagging"
+    },
+    {
+        "title": "Layout Aware Optimization Methodology for SOT-MRAM Based on Technically Feasible Top-Pinned Magnetic Tunnel Junction Process.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3207662",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Magnetic tunneling[]Layout[]Transistors[]Torque[]Switches[]Standards[]Perpendicular magnetic anisotropy"
+    },
+    {
+        "title": "M\u00b2NAS: Joint Neural Architecture Optimization System With Network Transmission.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3223852",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Computer architecture[]Microstructure[]Space exploration[]Optimization[]Complexity theory[]Hardware[]Manuals"
+    },
+    {
+        "title": "A High-Efficiency Design Method of TSV Array for Thermal Management of 3-D Integrated System.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3213610",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Through-silicon vias[]Computational modeling[]Silicon[]Three-dimensional displays[]Thermal management[]Finite element analysis[]Solid modeling"
+    },
+    {
+        "title": "Distributed Deep Learning Optimization of Heat Equation Inverse Problem Solvers.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3296370",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Mathematical models[]Heating systems[]Deep learning[]Computational modeling[]Parallel processing[]Training[]Data models[]Concurrent computing[]Decentralized control"
+    },
+    {
+        "title": "AutoMap: Automatic Mapping of Neural Networks to Deep Learning Accelerators for Edge Devices.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3232070",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "System-on-chip[]Deep learning[]Memory management[]Computational modeling[]Task analysis[]Hardware acceleration[]Feature extraction"
+    },
+    {
+        "title": "Highly Efficient Automatic Synthesis of a Millimeter-Wave On-Chip Deformable Spiral Inductor Using a Hybrid Knowledge-Guided and Data-Driven Technique.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3294449",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "nductors[]Spirals[]Inductance[]Integrated circuit modeling[]System-on-chip[]Radiofrequency integrated circuits[]Machine learning[]Design optimization[]Radio frequency"
+    },
+    {
+        "title": "Location-and-Preference Joint Prediction for Task Assignment in Spatial Crowdsourcing.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3188960",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Task analysis[]Sensors[]Predictive models[]Servers[]Crowdsourcing[]Trajectory[]Prediction algorithms"
+    },
+    {
+        "title": "A New Compact MOSFET Model Based on Artificial Neural Network With Unique Data Preprocessing and Sampling Techniques.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3193330",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Fitting[]Data models[]Integrated circuit modeling[]Transistors[]Semiconductor device modeling[]Training[]Artificial neural networks"
+    },
+    {
+        "title": "IMGA: Efficient In-Memory Graph Convolution Network Aggregation With Data Flow Optimizations.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3288509",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Computer architecture[]Random access memory[]Bandwidth[]Matrix converters[]Sparse matrices[]Optimization[]Magnetic tunneling[]Data flow computing[]Torque control"
+    },
+    {
+        "title": "A Multiscale Simulation Approach for Germanium-Hole-Based Quantum Processor.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3166107",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Quantum computing[]Germanium[]Logic gates[]Integrated circuit modeling[]Computational modeling[]Numerical models[]Silicon"
+    },
+    {
+        "title": "Efficient Statistical Parameter Extraction for Modeling MOSFET Mismatch.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3204716",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Random variables[]Integrated circuit modeling[]Standards[]Mathematical models[]Performance evaluation[]Semiconductor device modeling[]Numerical models"
+    },
+    {
+        "title": "Effective Stack Wear Leveling for NVM.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3240873",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Nonvolatile memory[]Phase change materials[]Optimization[]Hardware[]Random access memory[]Memory management[]Memory architecture"
+    },
+    {
+        "title": "Application of Load-Pull X-Parameters for GaN Device-Based Load Modulated Balanced Power Amplifier Design.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3226304",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "ntegrated circuit modeling[]Power generation[]Load modeling[]Power amplifiers[]Transistors[]Behavioral sciences[]Couplers"
+    },
+    {
+        "title": "IronMan-Pro: Multiobjective Design Space Exploration in HLS via Reinforcement Learning and Graph Neural Network-Based Modeling.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3185540",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Optimization[]Timing[]Resource management[]Codes[]Table lookup[]Space exploration[]Field programmable gate arrays"
+    },
+    {
+        "title": "Boosting Latent Defect Coverage in Automotive Mixed-Signal ICs Using SVM Classifiers.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3244892",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Testing[]Integrated circuit modeling[]Standards[]Production[]Transistors[]Logic gates[]Support vector machines"
+    },
+    {
+        "title": "An ILD Void Detection Method for Monolithic 3-D ICs Based on Switched Capacitors.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3226318",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Capacitance[]Logic gates[]Integrated circuits[]Silicon[]Transistors[]Switches[]Capacitors"
+    },
+    {
+        "title": "Drain-to-Drain Abutment-Aware Detailed Placement Refinement for Power Staple Insertion Optimization.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3194816",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Computer architecture[]Microprocessors[]Logic gates[]Rails[]Optimization[]Transistors[]Standards"
+    },
+    {
+        "title": "The Dark Side: Security and Reliability Concerns in Machine Learning for EDA.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3199172",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "ntegrated circuit modeling[]Data models[]Predictive models[]Security[]Companies[]Computational modeling[]Task analysis"
+    },
+    {
+        "title": "A High-Flexibility CAN-TSN Gateway With a Low-Congestion TSN-to-CAN Scheduler.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3277812",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Logic gates[]Switches[]Ethernet[]Multiprocessor interconnection[]Delays[]Prototypes[]Protocols[]Time measurement"
+    },
+    {
+        "title": "ML-Accelerated Yield Analysis Framework Using Regularization for Sparsity in High-Sigma and High-Dimensional Scenarios.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3192361",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "ntegrated circuit modeling[]SPICE[]Training[]Semiconductor process modeling[]Yield estimation[]Standards[]Random access memory"
+    },
+    {
+        "title": "RAPIDx: High-Performance ReRAM Processing In-Memory Accelerator for Sequence Alignment.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3239537",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Bioinformatics[]Genomics[]Parallel processing[]Optimization[]Sequential analysis[]Costs[]Computer architecture"
+    },
+    {
+        "title": "Optimizing Data Placement for Hybrid SRAM+Racetrack Memory SPM in Embedded Systems.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3185548",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Random access memory[]Costs[]Nonvolatile memory[]Memory management[]Phase change materials[]Micromagnetics[]Magnetic tunneling"
+    },
+    {
+        "title": "Ulgen: A Runtime Assurance Framework for Programming Safe Cyber-Physical Systems.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3246386",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Batteries[]Safety[]Runtime[]Task analysis[]Switches[]Computer architecture[]Programming"
+    },
+    {
+        "title": "LDAVPM: A Latch Design and Algorithm-Based Verification Protected Against Multiple-Node-Upsets in Harsh Radiation Environments.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3213212",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Latches[]Inverters[]Transistors[]Integrated circuits[]Feedback loop[]Switching circuits[]Feeds"
+    },
+    {
+        "title": "Semantic Segmentation-Based Wafer Map Mixed-Type Defect Pattern Recognition.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3274958",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Pattern recognition[]Semantic segmentation[]Semiconductor device modeling[]Convolutional neural networks[]Semantics[]Neural networks[]Labeling"
+    },
+    {
+        "title": "Routing and Wavelength Assignment for Multiple Multicasts in Optical Network-on-Chip (ONoC).",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3274951",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Routing[]Multicast communication[]Multicast algorithms[]Wavelength assignment[]Optical waveguides[]Optical interconnections[]Nonlinear optics"
+    },
+    {
+        "title": "Sequential Circuits Synthesis for Rapid Single Flux Quantum Logic Based on Finite State Machine Decomposition.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3245542",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Logic gates[]Sequential circuits[]Clocks[]Integrated circuit modeling[]Flip-flops[]Semiconductor device modeling[]Automata"
+    },
+    {
+        "title": "Poseidon-NDP: Practical Fully Homomorphic Encryption Accelerator Based on Near Data Processing Architecture.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3292211",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Hardware security[]Bandwidth[]Homomorphic encryption[]Computer architecture[]Central Processing Unit[]Graphics processing units[]Data processing[]Field programmable gate arrays[]Privacy"
+    },
+    {
+        "title": "PASGCN: An ReRAM-Based PIM Design for GCN With Adaptively Sparsified Graphs.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3175031",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Computer architecture[]Parallel processing[]Space exploration[]Hardware[]Costs[]Throughput[]Task analysis"
+    },
+    {
+        "title": "DTATrans: Leveraging Dynamic Token-Based Quantization With Accuracy Compensation Mechanism for Efficient Transformer Architecture.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3181541",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Quantization (signal)[]Computational modeling[]Transformers[]Natural language processing[]Task analysis[]Systolic arrays[]Hardware"
+    },
+    {
+        "title": "Leveraging Probabilistic Switching in Superparamagnets for Temporal Information Encoding in Neuromorphic Systems.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3233926",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Magnetic tunneling[]Encoding[]Switches[]Perpendicular magnetic anisotropy[]Hardware[]Neurons[]Magnetization"
+    },
+    {
+        "title": "ESSENCE: Exploiting Structured Stochastic Gradient Pruning for Endurance-Aware ReRAM-Based In-Memory Training Systems.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3216546",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Training[]Programming[]Kernel[]Convolutional neural networks[]Virtual machine monitors[]Random access memory[]Writing"
+    },
+    {
+        "title": "Efficient Proximity Effect Correction Using Fast Multipole Method With Unequally Spaced Grid for Electron Beam Lithography.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3171441",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Layout[]Convolution[]Lithography[]Scattering[]Proximity effects[]Electron beams[]Resists"
+    },
+    {
+        "title": "Aging-Aware Critical Path Selection via Graph Attention Networks.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3276944",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Aging[]Delays[]Integrated circuit modeling[]SPICE[]Reliability[]Degradation[]Machine learning[]Timing"
+    },
+    {
+        "title": "The Implementation and Optimization of Neuromorphic Hardware for Supporting Spiking Neural Networks With MLP and CNN Topologies.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3179246",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Neurons[]Computational modeling[]Hardware[]Mathematical models[]Biological system modeling[]Integrated circuit modeling[]Neuromorphics"
+    },
+    {
+        "title": "FairLight: Fairness-Aware Autonomous Traffic Signal Control With Hierarchical Action Space.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3226673",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Roads[]Aerospace electronics[]Space exploration[]Resource management[]Reinforcement learning[]Indexes[]Traffic congestion"
+    },
+    {
+        "title": "Securing Approximate Computing Systems via Obfuscating Approximate-Precise Boundary.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3168261",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Approximate computing[]Arithmetic[]Resilience[]Power demand[]Hardware[]Approximation algorithms[]Image edge detection"
+    },
+    {
+        "title": "CNN-Based Stochastic Regression for IDDQ Outlier Identification.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3253043",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Testing[]Stochastic processes[]Correlation[]Predictive models[]Standards[]Data models[]Convolutional neural networks"
+    },
+    {
+        "title": "A Reschedulable Dataflow-SIMD Execution for Increased Utilization in CGRA Cross-Domain Acceleration.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3185544",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Pipeline processing[]Codes[]Kernel[]Computer architecture[]System-on-chip[]Hardware[]Bandwidth"
+    },
+    {
+        "title": "SATA: Sparsity-Aware Training Accelerator for Spiking Neural Networks.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3213211",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Training[]Hardware[]Computer architecture[]Energy efficiency[]Costs[]Membrane potentials[]Neurons"
+    },
+    {
+        "title": "Ferroelectric Ternary Content Addressable Memories for Energy-Efficient Associative Search.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3197694",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "FeFETs[]Nonvolatile memory[]Computer architecture[]Semiconductor device modeling[]Delays[]Capacitance[]Graphics processing units"
+    },
+    {
+        "title": "Fast Surrogate-Assisted Constrained Multiobjective Optimization for Analog Circuit Sizing via Self-Adaptive Incremental Learning.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3221694",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Optimization[]Integrated circuit modeling[]Analog circuits[]Bayes methods[]Sorting[]Training[]Statistics"
+    },
+    {
+        "title": "Machine Learning-Based Read Access Yield Estimation and Design Optimization for High-Density SRAM.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3225066",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Random access memory[]Yield estimation[]Integrated circuit modeling[]Optimization[]Circuit synthesis[]Probability density function[]Design optimization"
+    },
+    {
+        "title": "A GPU-Enabled Level-Set Method for Mask Optimization.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3175939",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Level set[]Lithography[]Optical imaging[]Adaptive optics[]Optical diffraction[]Mathematical models[]Integrated optics"
+    },
+    {
+        "title": "LIAD: A Method for Extending the Effective Time of 3-D TLC NAND Flash Hard Decision.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3191548",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Ash[]Decoding[]Threshold voltage[]Sensors[]Mutual information[]Three-dimensional displays[]Parity check codes"
+    },
+    {
+        "title": "Interleaved LDPC Decoding Scheme Improves 3-D TLC NAND Flash Memory System Performance.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3266363",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Ash[]Decoding[]Three-dimensional displays[]Iterative decoding[]Reliability[]Optimization[]Memory management"
+    },
+    {
+        "title": "CTM-SRAF: Continuous Transmission Mask-Based Constraint-Aware Subresolution Assist Feature Generation.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3239559",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Lithography[]Shape[]Optical imaging[]Resists[]Optical distortion[]Optical diffraction[]Semiconductor device modeling"
+    },
+    {
+        "title": "Architecting the Autocuckoo Filter to Defend Against Cross-Core Cache Attacks.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3193325",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Security[]Information filters[]Recording[]Probes[]Fingerprint recognition[]Reverse engineering[]Layout"
+    },
+    {
+        "title": "Generalized Affine Equivalence Checking of Boolean Functions via Reachability Analysis.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3235802",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Boolean functions[]Libraries[]Cryptography[]Classification algorithms[]Logic gates[]Field programmable gate arrays[]Transforms"
+    },
+    {
+        "title": "McPAT-Calib: A RISC-V BOOM Microarchitecture Power Modeling Framework.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3169464",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "ntegrated circuit modeling[]Microarchitecture[]Analytical models[]Logic gates[]Costs[]Computational modeling[]Central Processing Unit"
+    },
+    {
+        "title": "Energy-Aware Partitioned Scheduling of Imprecise Mixed-Criticality Systems.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3246926",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Task analysis[]Job shop scheduling[]Heuristic algorithms[]Energy consumption[]Partitioning algorithms[]Switches[]Energy efficiency"
+    },
+    {
+        "title": "Cocktail: Mixing Data With Different Characteristics to Reduce Read Reclaims for nand Flash Memory.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3214679",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Ash[]Three-dimensional displays[]Threshold voltage[]Time factors[]Reliability[]Data mining[]Memory management"
+    },
+    {
+        "title": "AVATAR: An Aging- and Variation-Aware Dynamic Timing Analyzer for Error-Efficient Computing.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3255167",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Delays[]Aging[]Avatars[]Transistors[]Heuristic algorithms[]Pins[]Logic gates"
+    },
+    {
+        "title": "Old School, New Primitive: Toward Scalable PUF-Based Authenticated Encryption Scheme in IoT.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3286260",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "ncryption[]Ciphers[]Internet of Things[]Protocols[]Authentication[]Physical unclonable function[]Hardware"
+    },
+    {
+        "title": "A DFT-Compatible In-Situ Timing Error Detection and Correction Structure Featuring Low Area and Test Overhead.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3187311",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Flip-flops[]Delays[]Clocks[]Latches[]Complexity theory[]Discrete Fourier transforms[]Transistors"
+    },
+    {
+        "title": "GEM: A Generalized Memristor Device Modeling Framework Based on Neural Network for Transient Circuit Simulation.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3188961",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Memristors[]Integrated circuit modeling[]Behavioral sciences[]Mathematical models[]Computational modeling[]Artificial neural networks[]Switches"
+    },
+    {
+        "title": "Enhanced Built-In Self-Diagnosis and Self-Repair Techniques for Daisy-Chain Design in MEDA Digital Microfluidic Biochips.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3244524",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Biochips[]Circuit faults[]Microelectrodes[]Sensors[]Registers[]Real-time systems[]Maintenance engineering"
+    },
+    {
+        "title": "HyperSpikeASIC: Accelerating Event-Based Workloads With HyperDimensional Computing and Spiking Neural Networks.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3264167",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Neurons[]Computational modeling[]Encoding[]Feature extraction[]Training[]Energy efficiency[]Task analysis"
+    },
+    {
+        "title": "Mex+Sync: Software Covert Channels Exploiting Mutual Exclusion and Synchronization.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3291669",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Trojan horses[]Synchronization[]Software[]Hardware[]Process control[]Linux[]Time measurement"
+    },
+    {
+        "title": "Hot-Trim: Thermal and Reliability Management for Commercial Multicore Processors Considering Workload Dependent Hot Spots.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3216552",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Reliability[]Temperature measurement[]Task analysis[]Temperature sensors[]Multicore processing[]Thermal variables control[]Program processors"
+    },
+    {
+        "title": "Generating Unified Platforms Using Multigranularity Domain DSE (MG-DmDSE) Exploiting Application Similarities.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3172373",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Throughput[]Resource management[]Kernel[]Space exploration[]Fabrics[]Convolution[]Focusing"
+    },
+    {
+        "title": "eLDPC: An Efficient LDPC Coding Scheme for Phase-Change Memory.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3210068",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Resistance[]Decoding[]Sensors[]Phase change materials[]Iterative decoding[]Encoding[]Reliability"
+    },
+    {
+        "title": "Accelerate Safety Model Checking Based on Complementary Approximate Reachability.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3236272",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Automobiles[]Model checking[]Computer bugs[]Safety[]Hardware[]Portfolios[]Reachability analysis"
+    },
+    {
+        "title": "CompressKey - Near Lossless Layout Compression and Encryption Using Convolutional Auto-Encoder Model and Expansion-Reduction Pattern Techniques.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3195676",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Layout[]Image coding[]Encryption[]Integrated circuits[]Decoding[]Standards[]Neural networks"
+    },
+    {
+        "title": "SF-SGL: Solver-Free Spectral Graph Learning From Linear Measurements.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3198513",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Voltage measurement[]Laplace equations[]Topology[]Current measurement[]Task analysis[]Sparse matrices[]Resistors"
+    },
+    {
+        "title": "Adaptive Task-Based Intermittent Computing System With Parallel State Backup.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3213989",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Task analysis[]Computational modeling[]Nonvolatile memory[]Internet of Things[]Batteries[]Adaptive systems[]Adaptation models"
+    },
+    {
+        "title": "A High-Performance Accelerator for Super-Resolution Processing on Embedded GPU.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3241110",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Computational modeling[]Dictionaries[]Hardware[]Adaptation models[]Task analysis[]Superresolution[]Deep learning"
+    },
+    {
+        "title": "APPcache+: An STT-MRAM-Based Approximate Cache System With Low Power and Long Lifetime.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3267713",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Computer architecture[]Random access memory[]Writing[]Image coding[]Magnetic tunneling[]Torque[]Resistance"
+    },
+    {
+        "title": "Signal-Division-Aware Analog Circuit Topology Synthesis Aided by Transfer Learning.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3245979",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Topology[]Circuit topology[]Voltage[]Libraries[]Integrated circuits[]Transfer learning[]Network topology"
+    },
+    {
+        "title": "Data-Driven Feature Selection Framework for Approximate Circuit Design.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3260160",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Picture archiving and communication systems[]Hardware[]Circuit synthesis[]Error compensation[]Feature extraction[]Approximate computing[]Voltage"
+    },
+    {
+        "title": "Network Pruning for Bit-Serial Accelerators.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3203955",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Neural networks[]Artificial neural networks[]Pragmatics[]Hardware[]Load modeling[]Deep learning[]Computers"
+    },
+    {
+        "title": "A Low-Latency and High-Endurance MLC STT-MRAM-Based Cache System.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3169458",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Magnetic tunneling[]Encoding[]Random access memory[]Resistance[]Writing[]Tin[]Cache memory"
+    },
+    {
+        "title": "REMAP: A Spatiotemporal CNN Accelerator Optimization Methodology and Toolkit Thereof.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3207320",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Hardware[]Computational modeling[]Space exploration[]Optimization[]Field programmable gate arrays[]Convolution[]Costs"
+    },
+    {
+        "title": "Robust Wafer Classification With Imperfectly Labeled Data Based on Self-Boosting Co-Teaching.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3218239",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Training[]Feature extraction[]Semiconductor device modeling[]Noise measurement[]Classification algorithms[]Cleaning[]Training data"
+    },
+    {
+        "title": "A Highly Compressed Accelerator With Temporal Optical Flow Feature Fusion and Tensorized LSTM for Video Action Recognition on Terminal Device.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3241113",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Feature extraction[]Optical flow[]Computational modeling[]Data models[]Tensors[]Training[]Three-dimensional displays"
+    },
+    {
+        "title": "A Speculative Computation Approach for Energy-Efficient Deep Neural Network.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3183561",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Computational efficiency[]Energy efficiency[]Program processors[]Computational modeling[]Optimization[]Systematics[]Degradation"
+    },
+    {
+        "title": "An Energy-Efficient Inference Engine for a Configurable ReRAM-Based Neural Network Accelerator.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3184464",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Voltage[]Artificial neural networks[]Power demand[]Energy efficiency[]Virtual machine monitors[]Energy consumption[]Engines"
+    },
+    {
+        "title": "Revisiting Swapping in User-Space With Lightweight Threading.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3274953",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Circuit faults[]Kernel[]Instruction sets[]Monitoring[]Performance evaluation[]Throughput[]Switches"
+    },
+    {
+        "title": "Complexity Analysis of the SAT Attack on Logic Locking.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3240933",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Complexity theory[]Logic gates[]Electronics packaging[]Foundries[]Intellectual property[]Integrated circuit modeling[]Industries"
+    },
+    {
+        "title": "CoGNN: An Algorithm-Hardware Co-Design Approach to Accelerate GNN Inference With Minibatch Sampling.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3279302",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Neural networks[]Graph neural networks[]Computer architecture[]System-on-chip[]Quantization (signal)[]Inference algorithms[]Hardware acceleration[]Quantization (signal)"
+    },
+    {
+        "title": "Supervised Learning Enhanced Quantum Circuit Transformation.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3179223",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Logic gates[]Qubit[]Quantum circuit[]Artificial neural networks[]Supervised learning[]Heuristic algorithms[]Machine learning algorithms"
+    },
+    {
+        "title": "Optimizing Worst Case Data Freshness in RF-Powered Networked Embedded Systems.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3235799",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Real-time systems[]Monitoring[]Embedded systems[]Optimization[]Resource management[]Soft sensors[]Data integrity"
+    },
+    {
+        "title": "Energon: Toward Efficient Acceleration of Transformers Using Dynamic Sparse Attention.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3170848",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Transformers[]Task analysis[]Heuristic algorithms[]Random access memory[]Graphics processing units[]Computational modeling[]Hardware"
+    },
+    {
+        "title": "GridNetOpt: Fast Full-Chip EM-Aware Power Grid Optimization Accelerated by Deep Neural Networks.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3206397",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Wires[]Power grids[]Sensitivity[]Optimization[]Resistance[]Voltage[]Stress"
+    },
+    {
+        "title": "Swarm Intelligence-Based Task Scheduling for Enhancing Security for IoT Devices.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3207328",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Security[]Internet of Things[]Task analysis[]Logic gates[]Servers[]Particle swarm optimization[]Optimization"
+    },
+    {
+        "title": "Algorithmic Obfuscation for LDPC Decoders.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3175051",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Decoding[]Throughput[]Iterative decoding[]Codes[]Resistance[]Resists[]Machine learning algorithms"
+    },
+    {
+        "title": "Joint Protection Scheme for Deep Neural Network Hardware Accelerators and Models.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3282897",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Computational modeling[]Hardware security[]Memory management[]Training[]Hardware acceleration[]Integrated circuit modeling[]Analytical models[]Artificial neural networks"
+    },
+    {
+        "title": "FAT: An In-Memory Accelerator With Fast Addition for Ternary Weight Neural Networks.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3184276",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Random access memory[]Quantization (signal)[]Magnetic tunneling[]Fats[]Memory management[]Nonvolatile memory[]Neural networks"
+    },
+    {
+        "title": "A Combined N/PFET CFET-Based Design and Logic Technology Framework for CMOS Applications.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3282576",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Logic gates[]Integrated circuit modeling[]Computer architecture[]Transistors[]Microprocessors[]Random access memory[]Standards[]Field effect transistors[]Inverters"
+    },
+    {
+        "title": "ELight: Toward Efficient and Aging-Resilient Photonic In-Memory Neurocomputing.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3180969",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Pulse modulation[]Photonics[]Phase change materials[]Wires[]Aging[]Optimization[]Computer architecture"
+    },
+    {
+        "title": "MNSIM 2.0: A Behavior-Level Modeling Tool for Processing-In-Memory Architectures.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3251696",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Computational modeling[]Computer architecture[]Integrated circuit modeling[]Scheduling[]Hardware[]Memristors[]Convolutional neural networks"
+    },
+    {
+        "title": "EBIO: An Efficient Block I/O Stack for NVMe SSDs With Mixed Workloads.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3296369",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Nonvolatile memory[]Central Processing Unit[]Hardware[]Switches[]Resource management[]Software engineering[]Interference[]Queueing analysis[]Input-output programs"
+    },
+    {
+        "title": "A Fast Method to Estimate Through-Bump Current for Power Delivery Verification.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3203957",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "timation[]Time-domain analysis[]Power grids[]Power system reliability[]Switches[]Stress[]Silicon"
+    },
+    {
+        "title": "Design of Ultracompact Content Addressable Memory Exploiting 1T-1MTJ Cell.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3204515",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Cams[]Magnetic tunneling[]Transistors[]Resistance[]Voltage[]Sensors[]Energy efficiency"
+    },
+    {
+        "title": "Incremental 3-D Global Routing Considering Cell Movement and Complex Routing Constraints.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3210493",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Routing[]Three-dimensional displays[]Solid modeling[]Runtime[]Pins[]Costs[]Integrated circuit modeling"
+    },
+    {
+        "title": "reTSN: Resilient and Efficient Time-Sensitive Network for Automotive In-Vehicle Communication.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3190235",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Switches[]Bandwidth[]Schedules[]Circuit faults[]Uncertainty[]Time factors[]Standards"
+    },
+    {
+        "title": "F-LEMMA: Fast Learning-Based Energy Management for Multi-/Many-Core Processors.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2022.3176219",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Voltage control[]Power system management[]Regulators[]Program processors[]Time-frequency analysis[]Power system dynamics[]Multicore processing"
+    },
+    {
+        "title": "Security-Aware Resource Binding to Enhance Logic Obfuscation.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TCAD.2023.3294453",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Security[]Resilience[]Integrated circuits[]IP networks[]Fabrication[]Logic gates[]Cost function[]Resource management[]Benchmark testing[]Fabrication"
+    },
+    {
+        "title": "BLAST: Belling the Black-Hat High-Level Synthesis Tool.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TCAD.2022.3200513",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Trojan horses[]Hardware[]Codes[]Integrated circuit modeling[]Registers[]Optimization[]Automata"
+    },
+    {
+        "title": "FastSim: A Fast Simulation Framework for High-Level Synthesis.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TCAD.2021.3090339",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Tools[]Integrated circuit modeling[]C++ languages[]Hardware design languages[]Hardware[]Estimation[]Software"
+    },
+    {
+        "title": "A Hierarchical Performance Equation Library for Basic Op-Amp Design.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TCAD.2021.3101691",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Mathematical model[]Topology[]Libraries[]Transistors[]Integrated circuit modeling[]Manuals[]Databases"
+    },
+    {
+        "title": "Accuracy-Based Hybrid Parasitic Capacitance Extraction Using Rule-Based, Neural-Networks, and Field-Solver Methods.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TCAD.2022.3161199",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Layout[]Parasitic capacitance[]Integrated circuit interconnections[]Neural networks[]Feature extraction"
+    },
+    {
+        "title": "Stochastic Guarantees for Adaptive Energy Harvesting Systems.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TCAD.2022.3198519",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "nergy management[]Batteries[]Energy harvesting[]Analytical models[]Power system management[]Measurement[]Adaptation models"
+    },
+    {
+        "title": "Mining Patterns From Concurrent Execution Traces.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TCAD.2021.3109513",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Protocols[]System-on-chip[]Data mining[]Software[]Runtime[]Micromechanical devices[]Visualization"
+    },
+    {
+        "title": "Deeper Weight Pruning Without Accuracy Loss in Deep Neural Networks: Signed-Digit Representation-Based Approach.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TCAD.2021.3064914",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Parallel processing[]Hardware[]Neural networks[]Acceleration[]Performance evaluation[]Computational modeling[]Shortest path problem"
+    },
+    {
+        "title": "State-of-Charge Estimation of Supercapacitors in Transiently-Powered Sensor Nodes.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TCAD.2021.3059561",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Supercapacitors[]Estimation[]Integrated circuit modeling[]Capacitors[]Computational modeling[]Hardware[]Equivalent circuits"
+    },
+    {
+        "title": "Design of Time-Mode PI Controller for Switched-Capacitor DC/DC Converter Using Differential Evolution Algorithm - A Design Methodology.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TCAD.2022.3149850",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "DC-DC power converters[]PI control[]Voltage control[]Design methodology[]Capacitors"
+    },
+    {
+        "title": "LeGO: A Learning-Guided Obfuscation Framework for Hardware IP Protection.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TCAD.2021.3075939",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Hardware[]Logic gates[]Security[]IP networks[]Table lookup[]Observability[]Multiplexing"
+    },
+    {
+        "title": "GNN4REL: Graph Neural Networks for Predicting Circuit Reliability Degradation.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TCAD.2022.3197521",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Delays[]Aging[]Transistors[]Degradation[]Integrated circuit modeling[]Reliability[]Libraries"
+    },
+    {
+        "title": "GNN-RE: Graph Neural Networks for Reverse Engineering of Gate-Level Netlists.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TCAD.2021.3110807",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Logic gates[]Feature extraction[]Reverse engineering[]Integrated circuit modeling[]DH-HEMTs[]Libraries[]Benchmark testing"
+    },
+    {
+        "title": "EigenCircuit: Divergent Synthetic Benchmark Generation for Hardware Security Using PCA and Linear Programming.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TCAD.2022.3166675",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Benchmark testing[]Security[]Hardware[]Trojan horses[]Principal component analysis[]Optimization"
+    },
+    {
+        "title": "A Two-Level Approximate Logic Synthesis Combining Cube Insertion and Removal.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TCAD.2022.3143489",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Measurement[]Runtime[]Approximation algorithms[]Benchmark testing[]Scalability[]Error analysis[]Time complexity"
+    },
+    {
+        "title": "Three-Dimensional Neuromorphic Computing System With Two-Layer and Low-Variation Memristive Synapses.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TCAD.2021.3061481",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Memristors[]Metals[]Heating systems[]Synapses[]Switches[]Resistance[]Three-dimensional displays"
+    },
+    {
+        "title": "CASPHAr: Cache-Managed Accelerator Staging and Pipelining in Heterogeneous System Architectures.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TCAD.2022.3197535",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Synchronization[]Software[]Optimization[]Computer architecture[]System-on-chip[]Random access memory[]Pipeline processing"
+    },
+    {
+        "title": "Timing-Aware Fill Insertions With Design-Rule and Density Constraints.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TCAD.2021.3133854",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Capacitance[]Couplings[]Metals[]Conductors[]Layout[]Dielectrics[]Delays"
+    },
+    {
+        "title": "QuCTS - Single-Flux Quantum Clock Tree Synthesis.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TCAD.2021.3123141",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Clocks[]Delays[]Logic gates[]Registers[]Robustness[]Integrated circuit interconnections[]Sequential circuits"
+    },
+    {
+        "title": "SPROUT - Smart Power Routing Tool for Board-Level Exploration and Prototyping.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TCAD.2021.3101411",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Layout[]Routing[]Impedance[]Prototypes[]Metals[]Integrated circuits[]Capacitors"
+    },
+    {
+        "title": "Reducing LUT Count for Mealy FSMs With Transformation of States.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TCAD.2021.3081058",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Table lookup[]Field programmable gate arrays[]Encoding[]Digital systems[]Integrated circuit interconnections[]Measurement[]Clocks"
+    },
+    {
+        "title": "An Efficient EM-Based Synthesis Technique for Single-Band and Dual-Band Waveguide Filters.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TCAD.2021.3093016",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Resonator filters[]Couplings[]Microwave filters[]Resonators[]Three-dimensional displays[]Iris[]Filtering theory"
+    },
+    {
+        "title": "NEAT: Nonlinearity Aware Training for Accurate, Energy-Efficient, and Robust Implementation of Neural Networks on 1T-1R Crossbars.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TCAD.2021.3109857",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Transistors[]Logic gates[]Training[]Synapses[]Neural networks[]Standards[]Perturbation methods"
+    },
+    {
+        "title": "Clock-Gated Variable Frequency Signaling to Alleviate Power Supply Noise in a Packaged IC.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TCAD.2021.3099438",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "ntegrated circuits[]System-on-chip[]Packaging[]Clocks[]Central Processing Unit[]Inductance[]Resistance"
+    },
+    {
+        "title": "Cyber-Physical Verification of Intermittently Powered Embedded Systems.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TCAD.2022.3197541",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Task analysis[]Games[]Vaccines[]Syntactics[]Monitoring[]Temperature sensors[]COVID-19"
+    },
+    {
+        "title": "An I/O Virtualization Framework With I/O-Related Memory Contention Control for Real-Time Systems.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TCAD.2022.3202434",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Virtualization[]Virtual machine monitors[]Hardware[]Regulation[]Security[]Regulators[]Quality of service"
+    },
+    {
+        "title": "Mesh of Trees FPGA Architecture: Exploration and Optimization.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TCAD.2021.3120549",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Field programmable gate arrays[]Integrated circuit interconnections[]Routing[]Table lookup[]Computer architecture[]Topology[]Switches"
+    },
+    {
+        "title": "Achievable-Rate-Aware Retention-Error Correction for Multi-Level-Cell NAND Flash Memory.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TCAD.2021.3123288",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Ash[]Decoding[]Estimation[]Threshold voltage[]Programming[]Memory management[]Transmitters"
+    },
+    {
+        "title": "An Efficient Analog Circuit Sizing Method Based on Machine Learning Assisted Global Optimization.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TCAD.2021.3081405",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Optimization[]Integrated circuit modeling[]Computational modeling[]Integrated circuits[]Machine learning[]Neurons[]Training data"
+    },
+    {
+        "title": "A Taxonomy of Modern GPGPU Programming Methods: On the Benefits of a Unified Specification.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TCAD.2021.3082863",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Graphics processing units[]Programming[]Hardware[]Kernel[]Standards[]Semantics[]Encoding"
+    },
+    {
+        "title": "A Modified General Diode Equation.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TCAD.2021.3116456",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Mathematical models[]Resistance[]Integrated circuit modeling[]SPICE[]Current measurement[]Light emitting diodes[]Circuit theory"
+    },
+    {
+        "title": "Toward Minimum WCRT Bound for DAG Tasks Under Prioritized List Scheduling Algorithms.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TCAD.2022.3197532",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Task analysis[]Real-time systems[]Time factors[]Parallel processing[]Scheduling algorithms[]Multicore processing[]Sun"
+    },
+    {
+        "title": "When B-Tree Meets Skyrmion Memory: How Skyrmion Memory Affects an Indexing Scheme.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TCAD.2022.3197519",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Micromagnetics[]Computer architecture[]Indexing[]Random access memory[]Writing[]Magnetic domains[]Magnetic domain walls"
+    },
+    {
+        "title": "EMT: Elegantly Measured Tanner for Key-Value Store on SSD.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TCAD.2021.3055489",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Performance evaluation[]Resource management[]Relational databases[]Solid state drives[]Protocols[]Metadata[]Memory management"
+    },
+    {
+        "title": "Mapping Nearest Neighbor Compliant Quantum Circuits Onto a 2-D Hexagonal Architecture.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TCAD.2021.3127868",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Logic gates[]Qubit[]Quantum circuit[]Computer architecture[]Costs[]Benchmark testing[]Urban areas"
+    },
+    {
+        "title": "Design-Aware Partitioning-Based 3-D IC Design Flow With 2-D Commercial Tools.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TCAD.2021.3065005",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "ntegrated circuits[]Three-dimensional displays[]Two dimensional displays[]Timing[]Wires[]Optimization[]Tools"
+    },
+    {
+        "title": "Leveraging Write Heterogeneity of Phase Change Memory on Supporting Self-Balancing Binary Tree.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TCAD.2021.3097298",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Phase change materials[]Random access memory[]Vegetation[]Binary search trees[]Nonvolatile memory[]Memory management[]Energy consumption"
+    },
+    {
+        "title": "MFS: A Brain-Inspired Memory Formation System for GAN.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TCAD.2021.3108706",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Task analysis[]Generative adversarial networks[]Neuroscience[]Indexes[]Encoding[]Weight measurement[]Training"
+    },
+    {
+        "title": "C-Testing and Efficient Fault Localization for AI Accelerators.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TCAD.2021.3107401",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Arrays[]Compaction[]Location awareness[]Automatic test pattern generation[]AI accelerators[]Life estimation[]Circuit faults"
+    },
+    {
+        "title": "Functional Criticality Analysis of Structural Faults in AI Accelerators.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TCAD.2022.3166108",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Circuit faults[]Systolic arrays[]AI accelerators[]Generative adversarial networks[]Deep learning"
+    },
+    {
+        "title": "EI-NK: A Robust Exponential Integrator Method With Singularity Removal and Newton-Raphson Iterations for Transient Nonlinear Circuit Simulation.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TCAD.2021.3098749",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "ntegrated circuit modeling[]Nonlinear circuits[]Eigenvalues and eigenfunctions[]Transient analysis[]Mathematical model[]Robustness[]Circuit simulation"
+    },
+    {
+        "title": "Efficient Identification of Critical Faults in Memristor-Based Inferencing Accelerators.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TCAD.2021.3102894",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Circuit faults[]Memristors[]Fault tolerant systems[]Training[]Adaptation models[]Computational modeling[]Integrated circuit modeling"
+    },
+    {
+        "title": "LAMP: Load-Balanced Multipath Parallel Transmission in Point-to-Point NoCs.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TCAD.2022.3151021",
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+        "journal_shorter_form": "TCAD",
+        "keywords": "Routing[]Hardware[]Software[]Multiplexing[]Network-on-chip[]Load management"
+    }
+]

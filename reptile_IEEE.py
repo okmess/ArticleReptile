@@ -45,7 +45,7 @@ def ieee_spider():
                     keywords = spider(data['url'])
                     data['keywords'] = keywords
                     print(data)
-                    time.sleep(3)
+                    time.sleep(1)
             with open(f'IEEEData/IEEE_journal{index + 1}.json', 'w') as file:
                 json.dump(content, file, indent=4)
         except:
