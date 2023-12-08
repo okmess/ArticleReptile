@@ -1,0 +1,1842 @@
+[
+    {
+        "title": "PRIMER: Profiling Interrupts Using Electromagnetic Side-Channel for Embedded Devices.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3109457",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Codes[]Monitoring[]Internet of Things[]Performance evaluation[]Time-domain analysis[]Object recognition[]Hardware"
+    },
+    {
+        "title": "DML: Dynamic Partial Reconfiguration With Scalable Task Scheduling for Multi-Applications on FPGAs.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3137785",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "A High-Level Synthesis Methodology for Energy and Reliability-Oriented Designs.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2020.3043885",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Reliability[]Integrated circuit reliability[]Reliability engineering[]Transient analysis[]Energy consumption[]Transistors[]Digital systems"
+    },
+    {
+        "title": "Fast Generation of RSA Keys Using Smooth Integers.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3095669",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "Breaking the Interaction Wall: A DLPU-Centric Deep Learning Computing System.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2020.3044245",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Deep learning[]Central Processing Unit[]Process control[]Task analysis[]Computational modeling[]Pipelines[]Runtime"
+    },
+    {
+        "title": "Lightweight, Effective Detection and Characterization of Mobile Malware Families.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2022.3143439",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Malware[]Feature extraction[]Codes[]Measurement[]Static analysis[]Smart phones[]Electronic mail"
+    },
+    {
+        "title": "VMT: Virtualized Multi-Threading for Accelerating Graph Workloads on Commodity Processors.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3086069",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "nstruction sets[]Computer architecture[]Hardware[]Registers[]Software[]Message systems[]Switches"
+    },
+    {
+        "title": "MM-FSM$: $: A High-Efficiency General Nonlinear Function Generator for Stochastic Computation.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3117127",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "RvDfi: A RISC-V Architecture With Security Enforcement by High Performance Complete Data-Flow Integrity.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3133701",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Security[]Software[]Rockets[]Hardware[]Open source software[]Micromechanical devices[]Memory management"
+    },
+    {
+        "title": "BAFL: A Blockchain-Based Asynchronous Federated Learning Framework.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3072033",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Blockchain[]Training[]Data models[]Servers[]Collaborative work[]Computational modeling[]Load modeling"
+    },
+    {
+        "title": "Guest Editorial: IEEE TC Special Issue: Hardware Acceleration of Machine Learning.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2022.3216428",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Special issues and sections[]Neural networks[]Hardware acceleration[]Heuristic algorithms[]Tensors[]Memory management[]Machine learning[]Bandwidth[]Transformers"
+    },
+    {
+        "title": "Malware Analysis by Combining Multiple Detectors and Observation Windows.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3082002",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Malware[]Detectors[]Feature extraction[]Training[]Detection algorithms[]Switches[]Resilience"
+    },
+    {
+        "title": "Non-Triangular Self-Synchronizing Stream Ciphers.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2020.3043714",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "JBNN: A Hardware Design for Binarized Neural Networks Using Single-Flux-Quantum Circuits.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2022.3215085",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Josephson junctions[]Superconducting logic circuits[]Logic gates[]Superconducting transmission lines[]Neural networks[]Switches[]Hardware"
+    },
+    {
+        "title": "Efficient and Scalable FPGA Design of GF($2m$2m) Inversion for Post-Quantum Cryptosystems.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2022.3149422",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Cryptography[]Hardware[]Field programmable gate arrays[]Software algorithms[]Codes[]Elliptic curve cryptography[]Software"
+    },
+    {
+        "title": "An End-to-End Learning-Based Metadata Management Approach for Distributed File Systems.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3070471",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "Evaluation and Optimization of Distributed Machine Learning Techniques for Internet of Things.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3135752",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "Brain-Inspired Computing for Circuit Reliability Characterization.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2022.3151857",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Reliability[]Integrated circuit modeling[]Degradation[]Integrated circuit reliability[]Transistors[]Semiconductor device measurement[]Computational modeling"
+    },
+    {
+        "title": "On the Reliability of FeFET On-Chip Memory.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3066899",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "FeFETs[]Reliability[]Transistors[]Integrated circuit reliability[]System-on-chip[]Nonvolatile memory[]Hafnium oxide"
+    },
+    {
+        "title": "PySchedCL: Leveraging Concurrency in Heterogeneous Data-Parallel Systems.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3125792",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "Algorithm and Hardware Co-Design of Energy-Efficient LSTM Networks for Video Recognition With Hierarchical Tucker Tensor Decomposition.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2022.3212642",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Tensors[]Hardware[]Energy efficiency[]Computer architecture[]Task analysis[]Data models[]Computational modeling"
+    },
+    {
+        "title": "A Fluid Scheduling Algorithm for DAG Tasks With Constrained or Arbitrary Deadlines.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3111512",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Task analysis[]Optimal scheduling[]Job shop scheduling[]Program processors[]Scheduling algorithms[]Schedules[]Parallel processing"
+    },
+    {
+        "title": "Endogenous Trusted DRL-Based Service Function Chain Orchestration for IoT.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3051681",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Internet of Things[]Blockchain[]Security[]Computer architecture[]Service function chaining[]Resource management[]Object recognition"
+    },
+    {
+        "title": "Scalability in Computing and Robotics.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3089044",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "EGCN: An Efficient GCN Accelerator for Minimizing Off-Chip Memory Access.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2022.3211413",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "Remap-Based Inter-Partition Copy for Arrayed Solid-State Drives.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3099694",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "CAMDNN: Content-Aware Mapping of a Network of Deep Neural Networks on Edge MPSoCs.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2022.3207137",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "Adaptive Page Migration Policy With Huge Pages in Tiered Memory Systems.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2020.3036686",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Memory management[]Linux[]Hardware[]Bandwidth[]Kernel[]Adaptive systems[]Emulation"
+    },
+    {
+        "title": "Online Machine Learning for Energy-Aware Multicore Real-Time Embedded Systems.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3056070",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Task analysis[]Multicore processing[]Runtime[]Monitoring[]Bandwidth[]Real-time systems[]Predictive models"
+    },
+    {
+        "title": "A Systematic View of Model Leakage Risks in Deep Neural Network Systems.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2022.3148235",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Security[]Computational modeling[]Data models[]Analytical models[]Predictive models[]Network architecture[]Data mining"
+    },
+    {
+        "title": "STT-MRAM-Based Reliable Weak PUF.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3095657",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Reliability[]Physical unclonable function[]Magnetic tunneling[]Security[]Resistance[]Hardware[]Bit error rate"
+    },
+    {
+        "title": "Flow-Based Microfluidic Biochips With Distributed Channel Storage: Synthesis, Physical Design, and Wash Optimization.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3054689",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "Precise Dynamic Symbolic Execution for Nonuniform Data Access in Smart Contracts.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3092639",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Smart contracts[]Arrays[]Tools[]Semantics[]Detectors[]Libraries[]Memory management"
+    },
+    {
+        "title": "Shuhai: A Tool for Benchmarking High Bandwidth Memory on FPGAs.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3075765",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Field programmable gate arrays[]Benchmark testing[]Bandwidth[]Graphics processing units[]Switches[]Random access memory[]Throughput"
+    },
+    {
+        "title": "Incentive Assignment in Hybrid Consensus Blockchain Systems in Pervasive Edge Environments.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3122891",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Blockchains[]Security[]Edge computing[]Smart devices[]Proof of Work[]Privacy[]Heuristic algorithms"
+    },
+    {
+        "title": "CEnT: An Efficient Architecture to Eliminate Intra-Array Write Disturbance in PCM.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3068577",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "Asymmetric Crosstalk Harness Signaling for Common Eigenmode Elimination.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3120242",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "ncoding[]Crosstalk[]Wires[]Couplings[]Routing[]Decoding[]Sensitivity"
+    },
+    {
+        "title": "Efficient Hardware Malware Detectors That are Resilient to Adversarial Evasion.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3068873",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Malware[]Detectors[]Resists[]Switches[]Hardware[]Resilience[]Training"
+    },
+    {
+        "title": "SLA-Based Scheduling of Spark Jobs in Hybrid Cloud Computing Environments.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3075625",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "Stochastic SOT Device Based SNN Architecture for On-Chip Unsupervised STDP Learning.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3119180",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Synapses[]Neurons[]Computer architecture[]Switches[]Hardware[]Magnetization[]Magnetic tunneling"
+    },
+    {
+        "title": "BlueVisor: Time-Predictable Hardware Hypervisor for Many-Core Embedded Systems.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3125226",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Virtualization[]Hardware[]Software[]Virtual machine monitors[]Real-time systems[]Program processors[]Device drivers"
+    },
+    {
+        "title": "Enhanced Side-Channel Analysis on ECDSA Employing Fixed-Base Comb Method.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2022.3191736",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Security[]Digital signatures[]Computer crime[]Microcontrollers[]Licenses[]Libraries[]Indexes"
+    },
+    {
+        "title": "Architecting a Flash-Based Storage System for Low-Cost Inference of Extreme-Scale DNNs.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2022.3209920",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Transformers[]Frequency modulation[]Bandwidth[]Decoding[]Flash memories[]Throughput[]Memory management"
+    },
+    {
+        "title": "Clustering Driven Iterated Hybrid Search for Vertex Bisection Minimization.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3128504",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "A Data Layout With Good Data Locality for Single-Machine Based Graph Engines.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3107725",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Layout[]Engines[]Performance evaluation[]Distributed databases[]Central Processing Unit[]Social networking (online)[]Pattern matching"
+    },
+    {
+        "title": "Convolutional Neural Networks With Discrete Cosine Transform Features.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2022.3150574",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Convolution[]Discrete cosine transforms[]Feature extraction[]Convolutional neural networks[]Training[]Computer architecture[]Transforms"
+    },
+    {
+        "title": "Near-Precise Parameter Approximation for Multiple Multiplications on a Single DSP Block.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3119187",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Field programmable gate arrays[]Computer architecture[]Optimization[]Hardware[]Table lookup[]Systolic arrays[]Convolution"
+    },
+    {
+        "title": "Multi-Bank On-Chip Memory Management Techniques for CNN Accelerators.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3076987",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "System-on-chip[]Random access memory[]Convolution[]Memory management[]Delays[]Frequency modulation[]Prefetching"
+    },
+    {
+        "title": "OpenHD: A GPU-Powered Framework for Hyperdimensional Computing.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2022.3179226",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Graphics processing units[]Training[]Clustering algorithms[]Parallel processing[]Classification algorithms[]Encoding[]Computational modeling"
+    },
+    {
+        "title": "S-FLASH: A NAND Flash-Based Deep Neural Network Accelerator Exploiting Bit-Level Sparsity.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3082003",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Throughput[]Neural networks[]Memory management[]Threshold voltage[]Random access memory[]Flash memories[]Convolution"
+    },
+    {
+        "title": "Efficient, Flexible, and Constant-Time Gaussian Sampling Hardware for Lattice Cryptography.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3107729",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Hardware[]Cryptography[]Gaussian distribution[]Standards[]Timing[]Optimization[]Encryption"
+    },
+    {
+        "title": "FeFET Multi-Bit Content-Addressable Memories for In-Memory Nearest Neighbor Search.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3136576",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "FeFETs[]Cams[]Programming[]Threshold voltage[]Iron[]Hardware[]Switches"
+    },
+    {
+        "title": "High-Performance FPGA Accelerator for SIKE.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3078691",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "NIST[]Security[]Public key[]Computer architecture[]Hardware[]Adders[]Elliptic curves"
+    },
+    {
+        "title": "Stereo: Assignment and Scheduling in MPSoC Under Process Variation by Combining Stochastic and Decomposition Approaches.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2022.3141841",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Task analysis[]Program processors[]Scheduling[]Processor scheduling[]Real-time systems[]Heating systems[]Programming"
+    },
+    {
+        "title": "SOT-MRAM Digital PIM Architecture With Extended Parallelism in Matrix Multiplication.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2022.3155277",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Memory management[]Magnetic tunneling[]Logic gates[]Throughput[]Performance evaluation[]Hardware[]Switches"
+    },
+    {
+        "title": "ComPreEND: Computation Pruning through Predictive Early Negative Detection for ReLU in a Deep Neural Network Accelerator.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3092205",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "Unsupervised Spiking Instance Segmentation on Event Data Using STDP Features.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2022.3191968",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "mage segmentation[]Semantics[]Feature extraction[]Object detection[]Decoding[]Task analysis[]Face recognition"
+    },
+    {
+        "title": "GANDAFL: Dataflow Acceleration for Short Read Alignment on NGS Data.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2022.3144115",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Sequential analysis[]Genomics[]Bioinformatics[]Software[]Field programmable gate arrays[]Task analysis[]DNA"
+    },
+    {
+        "title": "Exploring Model Stability of Deep Neural Networks for Reliable RRAM-Based In-Memory Acceleration.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2022.3174585",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Stability analysis[]Computational modeling[]Quantization (signal)[]Semiconductor device modeling[]Training[]Perturbation methods[]Neural networks"
+    },
+    {
+        "title": "An Open-Source Platform for High-Performance Non-Coherent On-Chip Communication.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3107726",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "System-on-chip[]Protocols[]Complexity theory[]Ports (computers)[]Bandwidth[]Fabrics[]Computer architecture"
+    },
+    {
+        "title": "Building and Checking Suffix Array Simultaneously by Induced Sorting Method.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3061709",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Sorting[]Random access memory[]Buildings[]Complexity theory[]Arrays[]Indexing[]Warranties"
+    },
+    {
+        "title": "Protecting Synchronization Mechanisms of Parallel Big Data Kernels via Logging.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3122993",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "nstruction sets[]Synchronization[]Transient analysis[]Checkpointing[]Kernel[]Fault tolerant systems[]Fault tolerance"
+    },
+    {
+        "title": "$\\mathsf{MC{-}FLEX}$MC-FLEX: Flexible Mixed-Criticality Real-Time Scheduling by Task-Level Mode Switch.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3111743",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Task analysis[]Switches[]Runtime[]Real-time systems[]Industries[]Automotive engineering[]Timing"
+    },
+    {
+        "title": "Bypassing Multicore Memory Bugs With Coarse-Grained Reconfigurable Logic.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3125188",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Computer bugs[]Program processors[]Microarchitecture[]Hardware[]Runtime[]Multicore processing[]Monitoring"
+    },
+    {
+        "title": "Probabilistically Guaranteeing End-to-End Latencies in Autonomous Vehicle Computing Systems.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2022.3152105",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Task analysis[]Probabilistic logic[]Sensors[]Safety[]Analytical models[]Robot sensing systems[]Laser radar"
+    },
+    {
+        "title": "Future Scaling of Memory Hierarchy for Tensor Cores and Eliminating Redundant Shared Memory Traffic Using Inter-Warp Multicasting.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2022.3207134",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Tensors[]Graphics processing units[]Bandwidth[]Memory management[]Radio frequency[]Multicast communication[]Integrated circuits"
+    },
+    {
+        "title": "DVREI: Dynamic Verifiable Retrieval Over Encrypted Images.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3106482",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "An Efficient CRT-Based Bit-Parallel Multiplier for Special Pentanomials.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3058346",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Complexity theory[]Cathode ray tubes[]Time complexity[]Delays[]Proposals[]Logic gates[]Fans"
+    },
+    {
+        "title": "Edge-Centric Programming for IoT Applications With Automatic Code Partitioning.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3129367",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Codes[]Internet of Things[]Programming[]Servers[]Loading[]Performance evaluation[]Speech recognition"
+    },
+    {
+        "title": "Enabling Large-Scale Simulation of CAM on the Sunway TaihuLight Supercomputer.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3063422",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Atmospheric modeling[]Computational modeling[]Meteorology[]Computer architecture[]Numerical models[]Supercomputers[]Mathematical model"
+    },
+    {
+        "title": "Hybrid Memory Buffer Microarchitecture for High-Radix Routers.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3076431",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Random access memory[]Switches[]Organizations[]Microarchitecture[]Ports (computers)[]Magnetic tunneling[]System-on-chip"
+    },
+    {
+        "title": "Detecting Spectre Attacks Using Hardware Performance Counters.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3082471",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "Enabling Secure and Space-Efficient Metadata Management in Encrypted Deduplication.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3067326",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Metadata[]Cryptography[]Maximum likelihood estimation[]Encryption[]Security[]Indexes[]Servers"
+    },
+    {
+        "title": "The Graph Structure of the Generalized Discrete Arnold&apos;s Cat Map.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3051387",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "Reinforcement Learning-Based Resource Partitioning for Improving Responsiveness in Cloud Gaming.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3070879",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "MGARD+: Optimizing Multilevel Methods for Error-Bounded Scientific Data Reduction.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3092201",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "MAGIC: Making IMR-Based HDD Perform Like CMR-Based HDD.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3059770",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Degradation[]Layout[]Performance evaluation[]Hard disks[]Tracking[]Space heating[]Postal services"
+    },
+    {
+        "title": "A Structure-Aware Storage Optimization for Out-of-Core Concurrent Graph Processing.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3098976",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Throughput[]Loading[]Partitioning algorithms[]Graphene[]Computer science[]Social networking (online)[]Runtime"
+    },
+    {
+        "title": "Enabling Efficient Random Data Insertion/Deletion on Block-Based File Systems.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3092178",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "Better Adaptive Malicious Users Detection Algorithm in Human Contact Networks.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2022.3142626",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Feature extraction[]Hypercubes[]Topology[]Adaptation models[]Routing[]Protocols[]Network topology"
+    },
+    {
+        "title": "Rad-Hard Designs by Automated Latching-Delay Assignment and Time-Borrowable D-Flip-Flop.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3070213",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Delays[]Radiation hardening (electronics)[]Latches[]Clocks[]Benchmark testing[]Transient analysis[]Single event upsets"
+    },
+    {
+        "title": "Extending On-Chain Trust to Off-Chain - Trustworthy Blockchain Data Collection Using Trusted Execution Environment (TEE).",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2022.3148379",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Blockchains[]Vaccines[]Monitoring[]Real-time systems[]Sensors[]Protocols[]Fault tolerant systems"
+    },
+    {
+        "title": "Blockchain-Cloud Transparent Data Marketing: Consortium Management and Fairness.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2022.3150724",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "The Butterfly Effect in Primary Visual Cortex.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2022.3173080",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Neurons[]Brain modeling[]Computational modeling[]Visualization[]Task analysis[]Numerical models[]Biological system modeling"
+    },
+    {
+        "title": "Dynamic Sparse Attention for Scalable Transformer Acceleration.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2022.3208206",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "Improving Blockchains With Client-Assistance.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3072129",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Blockchain[]Smart contracts[]Safety[]Peer-to-peer computing[]Cryptography[]Consensus protocol[]Bitcoin"
+    },
+    {
+        "title": "Selective Neuron Re-Computation (SNRC) for Error-Tolerant Neural Networks.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3056992",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Neurons[]Artificial neural networks[]Biological neural networks[]Software[]Error correction codes[]Redundancy[]Training"
+    },
+    {
+        "title": "Real-Time Task Scheduling for Machine Perception in Intelligent Cyber-Physical Systems.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3106496",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "Enabling Homomorphically Encrypted Inference for Large DNN Models.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3076123",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Random access memory[]Encryption[]Memory management[]Computational modeling[]Software[]Neural networks[]Central Processing Unit"
+    },
+    {
+        "title": "Time-Coded Spiking Fourier Transform in Neuromorphic Hardware.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2022.3162708",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "OctCNN: A High Throughput FPGA Accelerator for CNNs Using Octave Convolution Algorithm.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3110413",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Convolution[]Field programmable gate arrays[]Kernel[]Computational modeling[]Signal processing algorithms[]Computer architecture[]Hardware"
+    },
+    {
+        "title": "A Ferroelectric-Based Volatile/Non-Volatile Dual-Mode Buffer Memory for Deep Neural Network Accelerators.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3122872",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Random access memory[]Nonvolatile memory[]Ferroelectric films[]Logic gates[]Training[]FeFETs[]System-on-chip"
+    },
+    {
+        "title": "DeepP: Deep Learning Multi-Program Prefetch Configuration for the IBM POWER 8.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3139997",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Prefetching[]Training[]Hardware[]Bandwidth[]Deep learning[]Interference[]Multicore processing"
+    },
+    {
+        "title": "Quantum Dimension Reduction for Pattern Recognition in High-Resolution Spatio-Spectral Data.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2020.3034883",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Logic gates[]Qubit[]Computers[]Transforms[]Dimensionality reduction"
+    },
+    {
+        "title": "Revisiting the Optimization of Cauchy Reed-Solomon Coding Matrix for Fault-Tolerant Data Storage.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3110131",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Codes[]Encoding[]Systematics[]Reed-Solomon codes[]Perturbation methods[]Generators[]Heuristic algorithms"
+    },
+    {
+        "title": "NBBS: A Non-Blocking Buddy System for Multi-Core Machines.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3060393",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "nstruction sets[]Resource management[]Memory management[]Proposals[]Scalability[]Message systems[]Data structures"
+    },
+    {
+        "title": "An Extensive Study of Flexible Design Methods for the Number Theoretic Transform.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2020.3017930",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Hardware[]Cryptography[]Generators[]Software[]Design methodology[]Tools[]Throughput"
+    },
+    {
+        "title": "Low-Latency ASIC Algorithms of Modular Squaring of Large Integers for VDF Evaluation.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2020.3043400",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Delays[]Logic gates[]Hardware[]Measurement[]Adders[]Throughput[]Field programmable gate arrays"
+    },
+    {
+        "title": "General and Fast Inter-Process Communication via Bypassing Privileged Software.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3130751",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Virtual machine monitors[]Databases[]Serverless computing[]Switches[]Throughput[]Software[]Virtual machining"
+    },
+    {
+        "title": "Svelto: High-Level Synthesis of Multi-Threaded Accelerators for Graph Analytics.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3057860",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "FIFA: A Fully Invertible FPGA Architecture to Reduce BTI-Induced Aging Effects.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3127082",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Field programmable gate arrays[]Aging[]Routing[]Table lookup[]Transistors[]SRAM cells[]Computer architecture"
+    },
+    {
+        "title": "Tremors: Privacy-Breaching Inference of Computing Tasks Using Vibration-Based Condition Monitors.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3139181",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Vibrations[]Monitoring[]Task analysis[]Hardware[]Sensors[]Privacy[]Security"
+    },
+    {
+        "title": "Energy-Efficient Instruction Delivery in Embedded Systems With Domain Wall Memory.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3117439",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "SWEL-COFAE : Wear Leveling and Adaptive Encoding Assisted Compression of Frequent Words in Non-Volatile Main Memories.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3126156",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Phase change materials[]Encoding[]Nonvolatile memory[]Memory management[]Random access memory[]Writing[]Indexes"
+    },
+    {
+        "title": "Efficient 4-Way Vectorizations of the Montgomery Ladder.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3060505",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "Enabling Pulse-Level Programming, Compilation, and Execution in XACC.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3057166",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "How to Reduce the Bit-Width of an Ising Model by Adding Auxiliary Spins.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2020.3045112",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Annealing[]Stationary state[]Computational modeling[]Optimization[]Numerical models[]Topology[]Semiconductor device modeling"
+    },
+    {
+        "title": "A Syscall-Level Binary-Compatible Unikernel.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3122896",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Linux[]Libraries[]Kernel[]Software[]Cloud computing[]Virtualization[]Containers"
+    },
+    {
+        "title": "A Framework for Crossing Temperature-Induced Timing Errors Underlying Hardware Accelerators to the Algorithm and Application Layers.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3050978",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Timing[]Hardware[]Aging[]Degradation[]Heuristic algorithms[]Runtime[]Integrated circuit modeling"
+    },
+    {
+        "title": "Hardware-Assisted Malware Detection and Localization Using Explainable Machine Learning.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2022.3150573",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Malware[]Hardware[]Machine learning[]Task analysis[]Software[]Location awareness[]Decision trees"
+    },
+    {
+        "title": "FLiMS: A Fast Lightweight 2-Way Merger for Sorting.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2022.3146509",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "Rare Computing: Removing Redundant Multiplications From Sparse and Repetitive Data in Deep Neural Networks.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3063269",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Computer architecture[]Hardware[]Quantization (signal)[]Neural networks[]Computational modeling[]Bandwidth[]Redundancy"
+    },
+    {
+        "title": "Weight-Aware Cache for Application-Level Proportional I/O Sharing.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3129366",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "Speculative Barriers With Transactional Memory.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2020.3044234",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "MDev-NVMe: Mediated Pass-Through NVMe Virtualization Solution With Adaptive Polling.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2020.3045785",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Nonvolatile memory[]Virtualization[]Performance evaluation[]Cloud computing[]Buffer storage[]Scalability[]Throughput"
+    },
+    {
+        "title": "Lime: Low-Cost and Incremental Learning for Dynamic Heterogeneous Information Networks.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3057082",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Task analysis[]Social networking (online)[]Heuristic algorithms[]Computational modeling[]Optimization[]Semantics[]Recurrent neural networks"
+    },
+    {
+        "title": "Predictive Execution of Parallel Simulations in Hard Real-Time Systems.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2022.3147416",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Real-time systems[]Computational modeling[]Task analysis[]Hardware[]Predictive models[]Processor scheduling[]Parallel processing"
+    },
+    {
+        "title": "Memory Efficient Hash-Based Longest Prefix Matching Architecture With Zero False +ve and Nearly Zero False -ve Rate for IP Processing.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3080184",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "P networks[]Routing[]Computer architecture[]Memory management[]Hash functions[]Random access memory[]Hardware"
+    },
+    {
+        "title": "Folding BIKE: Scalable Hardware Implementation for Reconfigurable Devices.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3078294",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Decoding[]Hardware[]Field programmable gate arrays[]Cryptography[]NIST[]Hamming weight[]Encapsulation"
+    },
+    {
+        "title": "High Fidelity Simulation of Hybrid Systems using Higher Order Hybrid Automata.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3100746",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Automobiles[]Mathematical model[]Software packages[]Laser radar[]Automata[]Taylor series[]Tools"
+    },
+    {
+        "title": "Exploiting Hardware-Based Data-Parallel and Multithreading Models for Smart Edge Computing in Reconfigurable FPGAs.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3107196",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "Spiking Generative Adversarial Networks With a Neural Network Discriminator: Local Training, Bayesian Models, and Continual Meta-Learning.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2022.3191738",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "A First Look at RISC-V Virtualization From an Embedded Systems Perspective.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3124320",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "Real-Time Full-Chip Thermal Tracking: A Post-Silicon, Machine Learning Perspective.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3086112",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Temperature sensors[]Heating systems[]Microprocessors[]Estimation[]Real-time systems[]Measurement[]Temperature measurement"
+    },
+    {
+        "title": "LFOC+: A Fair OS-Level Cache-Clustering Policy for Commodity Multicore Systems.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3112970",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "Impact of NCFET Technology on Eliminating the Cooling Cost and Boosting the Efficiency of Google TPU.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3065454",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Cooling[]Transistors[]System-on-chip[]Power system measurements[]Density measurement[]Liquid cooling[]Internet"
+    },
+    {
+        "title": "Deep Learning for HDD Health Assessment: An Application Based on LSTM.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2020.3042053",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "Reduced Precision DWC: An Efficient Hardening Strategy for Mixed-Precision Architectures.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3058872",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Hardware[]Computer architecture[]Reliability[]Transient analysis[]Graphics processing units[]Circuit faults[]Approximation algorithms"
+    },
+    {
+        "title": "High-Accuracy Multiply-Accumulate (MAC) Technique for Unary Stochastic Computing.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3087027",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Delays[]Logic gates[]Pulse width modulation[]Correlation[]Hardware[]Computer architecture[]Quantization (signal)"
+    },
+    {
+        "title": "Energy-Efficient Stream Compaction Through Filtering and Coalescing Accesses in GPGPU Memory Partitions.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3104749",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Compaction[]Graphics processing units[]Computer architecture[]Optimization[]Instruction sets[]Hardware[]Filtering"
+    },
+    {
+        "title": "Analysis &amp; Design of Convolution Operator for High Speed and High Accuracy Convolutional Neural Network-Based Inference Engines.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3051627",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Hardware[]Convolution[]Computational modeling[]Analytical models[]Matlab[]Error analysis[]Data models"
+    },
+    {
+        "title": "PRESTO: A Penalty-Aware Real-Time Scheduler for Task Graphs on Heterogeneous Platforms.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3052389",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Task analysis[]Real-time systems[]Processor scheduling[]Program processors[]Schedules[]Optimal scheduling[]Job shop scheduling"
+    },
+    {
+        "title": "Accelerating Address Translation for Virtualization by Leveraging Hardware Mode.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2022.3145671",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Hardware[]Virtualization[]Virtual machine monitors[]Switches[]Synchronization[]Servers[]Memory management"
+    },
+    {
+        "title": "Concurrent Application Bias Scheduling for Energy Efficiency of Heterogeneous Multi-Core Platforms.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3061558",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "nergy consumption[]Resource management[]Hardware[]Dynamic scheduling[]Predictive models[]Interference[]Computational modeling"
+    },
+    {
+        "title": "Online Service Function Chain Placement for Cost-Effectiveness and Network Congestion Control.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2020.3035991",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "Adaptive Memory-Enhanced Time Delay Reservoir and its Memristive Implementation.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2022.3173151",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Reservoirs[]Neurons[]Hardware[]Mathematical models[]Delays[]Memristors[]Delay effects"
+    },
+    {
+        "title": "Effective Runtime Management of Tasks and Priorities in GNU OpenMP Applications.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3139463",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "A Comprehensive Methodology to Optimize FPGA Designs via the Roofline Model.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3111761",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Field programmable gate arrays[]Optimization[]Computational modeling[]Analytical models[]Estimation[]Engines[]Data models"
+    },
+    {
+        "title": "Classical Artificial Neural Network Training Using Quantum Walks as a Search Procedure.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3051559",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "Sim-D: A SIMD Accelerator for Hard Real-Time Systems.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3064290",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Random access memory[]Computer architecture[]Computational modeling[]Schedules[]Processor scheduling[]Delays[]Real-time systems"
+    },
+    {
+        "title": "SpikeBASE: Spiking Neural Learning Algorithm With Backward Adaptation of Synaptic Efflux.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2022.3197089",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Heuristic algorithms[]Neurons[]Deep learning[]Backpropagation[]Brain modeling[]Spatiotemporal phenomena[]Training"
+    },
+    {
+        "title": "Detecting Outlier Machine Instances Through Gaussian Mixture Variational Autoencoder With One Dimensional CNN.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3065073",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "Input-Aware Sparse Tensor Storage Format Selection for Optimizing MTTKRP.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3113028",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Tensors[]Sparse matrices[]Hardware[]Convolutional neural networks[]Matrix decomposition[]Unsupervised learning[]Task analysis"
+    },
+    {
+        "title": "Multi-Node Acceleration for Large-Scale GCNs.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2022.3207127",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Bandwidth[]System-on-chip[]Memory management[]Hardware acceleration[]Sun[]Special issues and sections[]Random access memory"
+    },
+    {
+        "title": "Trojan Detection in Embedded Systems With FinFET Technology.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2022.3146217",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Trojan horses[]Aging[]Integrated circuit modeling[]FinFETs[]Transistors[]Standards[]Libraries"
+    },
+    {
+        "title": "AEML: An Acceleration Engine for Multi-GPU Load-Balancing in Distributed Heterogeneous Environment.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3084407",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "WBMatrix: An Optimized Matrix Library for White-Box Block Cipher Implementations.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2022.3152449",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "ncoding[]Table lookup[]Ciphers[]Libraries[]Matrix decomposition[]Encryption[]Proposals"
+    },
+    {
+        "title": "vTrust: Remotely Executing Mobile Apps Transparently With Local Untrusted OS.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2022.3152074",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Mobile handsets[]Servers[]Security[]Virtual machine monitors[]Mobile applications[]Virtualization[]Performance evaluation"
+    },
+    {
+        "title": "Fast En/Decoding of Reed-Solomon Codes for Failure Recovery.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3060701",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "Observing the Invisible: Live Cache Inspection for High-Performance Embedded Systems.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3060650",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Hardware[]Software[]Program processors[]Central Processing Unit[]Random access memory[]Phasor measurement units[]Analytical models"
+    },
+    {
+        "title": "Efficient Software Implementation of the SIKE Protocol Using a New Data Representation.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3057331",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Protocols[]Cryptography[]Elliptic curves[]Elliptic curve cryptography[]Software algorithms[]Public key[]NIST"
+    },
+    {
+        "title": "Homing Sequence Derivation With Quantified Boolean Satisfiability.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3058302",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Testing[]Vegetation[]Encoding[]Monitoring[]Complexity theory[]Benchmark testing[]Labeling"
+    },
+    {
+        "title": "PITEM: Permutations-Based Instruction Tracking Via Electromagnetic Side-Channel Signal Analysis.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3076354",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Monitoring[]Malware[]Clocks[]Signal to noise ratio[]Interference[]Pins[]Performance evaluation"
+    },
+    {
+        "title": "FadingBF: A Bloom Filter With Consistent Guarantees for Online Applications.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2020.3036424",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Random access memory[]Capacitors[]Standards[]Memory management[]Surveillance[]Fading channels[]Analytical models"
+    },
+    {
+        "title": "Circ-Tree: A B+-Tree Variant With Circular Design for Persistent Memory.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2020.3047972",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "Constructing Completely Independent Spanning Trees in a Family of Line-Graph-Based Data Center Networks.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3077587",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Data centers[]Bipartite graph[]Data models[]Color[]Ink[]Computer science[]Terminology"
+    },
+    {
+        "title": "Efficient Processing of Sparse Tensor Decomposition via Unified Abstraction and PE-Interactive Architecture.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2020.3046617",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Tensors[]Kernel[]Bandwidth[]Approximation algorithms[]Sparse matrices[]Graphics processing units[]Memory management"
+    },
+    {
+        "title": "Heterogeneity-Aware Gradient Coding for Tolerating and Leveraging Stragglers.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3063180",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "ncoding[]Task analysis[]Clustering algorithms[]Partitioning algorithms[]Machine learning[]Training[]Convergence"
+    },
+    {
+        "title": "Dependent Task Offloading for Edge Computing based on Deep Reinforcement Learning.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3131040",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Task analysis[]Neural networks[]Wireless communication[]Energy consumption[]Training[]Reinforcement learning[]Solid modeling"
+    },
+    {
+        "title": "Deadlock Avoidance Algorithms for Recursion-Tree Modeled Requests in Parallel Executions.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3122843",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "System recovery[]Task analysis[]Computational modeling[]Safety[]Resource management[]Synchronization[]Software algorithms"
+    },
+    {
+        "title": "An Automatic-Addressing Architecture With Fully Serialized Access in Racetrack Memory for Energy-Efficient CNNs.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2020.3045433",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "On a Consistency Testing Model and Strategy for Revealing RISC Processor&apos;s Dark Instructions and Vulnerabilities.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3097174",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "MemUnison: A Racetrack-ReRAM-Combined Pipeline Architecture for Energy-Efficient in-Memory CNNs.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2022.3148858",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "A Proximal Iteratively Reweighted Approach for Efficient Network Sparsification.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2020.3044142",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Computational modeling[]Convergence[]Hardware[]Biological neural networks[]Quantization (signal)[]Prediction algorithms[]Numerical models"
+    },
+    {
+        "title": "Triangle Counting Accelerations: From Algorithm to In-Memory Computing Architecture.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3131049",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "CFHider: Protecting Control Flow Confidentiality With Intel SGX.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3122903",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Cloud computing[]Security[]Codes[]Software[]Java[]Transforms[]Prototypes"
+    },
+    {
+        "title": "VisualNet: An End-to-End Human Visual System Inspired Framework to Reduce Inference Latency of Deep Neural Networks.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2022.3188211",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Convolution[]Visualization[]Visual systems[]Retina[]Tensors[]Task analysis[]Feature extraction"
+    },
+    {
+        "title": "Enabling One-Size-Fits-All Compilation Optimization for Inference Across Machine Learning Computers.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3128266",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "Performance Optimization of Many-Core Systems by Exploiting Task Migration and Dark Core Allocation.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2020.3042663",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Task analysis[]Heuristic algorithms[]Resource management[]Runtime[]System performance[]Heating systems[]Thermal management"
+    },
+    {
+        "title": "DedupHR: Exploiting Content Locality to Alleviate Read/Write Interference in Deduplication-Based Flash Storage.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3084116",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "nterference[]System performance[]Postal services[]Transistors[]Threshold voltage[]Performance evaluation[]Optimization"
+    },
+    {
+        "title": "Elastic Bloom Filter: Deletable and Expandable Filter Using Elastic Fingerprints.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3067713",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "Practical Temporal Prefetching With Compressed On-Chip Metadata.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3065909",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "Characterization, Modeling, and Test of Intermediate State Defects in STT-MRAMs.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3125228",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "Improving Interference Analysis for Real-Time DAG Tasks Under Partitioned Scheduling.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3092181",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "Colony: A Privileged Trusted Execution Environment With Extensibility.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3055293",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "BM-RCGL: Benchmarking Approach for Localization of Reliability-Critical Gates in Combinational Logic Blocks.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3071253",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Logic gates[]Reliability[]Integrated circuit reliability[]Clustering algorithms[]Approximation algorithms[]Location awareness[]Integrated circuit modeling"
+    },
+    {
+        "title": "High Throughput Hardware/Software Heterogeneous System for RRPN-Based Scene Text Detection.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3092195",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Proposals[]Hardware[]Field programmable gate arrays[]Central Processing Unit[]Computer architecture[]Graphics processing units[]Throughput"
+    },
+    {
+        "title": "A Data Layout and Fast Failure Recovery Scheme for Distributed Storage Systems With Mixed Erasure Codes.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3105882",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Layout[]Bandwidth[]Encoding[]Decoding[]Switches[]Fault tolerant systems[]Fault tolerance"
+    },
+    {
+        "title": "CloudChain: A Cloud Blockchain Using Shared Memory Consensus and RDMA.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2022.3147960",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Blockchains[]Cloud computing[]Computational modeling[]Consensus algorithm[]Fabrics[]Protocols[]Kernel"
+    },
+    {
+        "title": "Magnifying Side-Channel Leakage of Lattice-Based Cryptosystems With Chosen Ciphertexts: The Case Study of Kyber.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3122997",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Cryptography[]Quantum computing[]Computers[]Elliptic curve cryptography[]Side-channel attacks[]Search problems[]Resistance"
+    },
+    {
+        "title": "\u03bbDNN: Achieving Predictable Distributed DNN Training With Serverless Architectures.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3054656",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Training[]Cloud computing[]Computational modeling[]Central Processing Unit[]Servers[]Throughput[]Bandwidth"
+    },
+    {
+        "title": "S2 Engine: A Novel Systolic Architecture for Sparse Convolutional Neural Networks.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3087946",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Convolution[]Arrays[]Engines[]Kernel[]Neural networks[]Memory management[]Computational modeling"
+    },
+    {
+        "title": "FeFET-Based Binarized Neural Networks Under Temperature-Dependent Bit Errors.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3104736",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "FeFETs[]Nonvolatile memory[]Bit error rate[]Random access memory[]Artificial neural networks[]Voltage measurement[]Solid modeling"
+    },
+    {
+        "title": "PyQUBO: Python Library for Mapping Combinatorial Optimization Problems to QUBO Form.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3063618",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Optimization[]Annealing[]Mathematical model[]Linear programming[]Python[]Cost function[]Computational modeling"
+    },
+    {
+        "title": "Thermal-Aware Design for Approximate DNN Accelerators.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2022.3141054",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Systolic arrays[]Artificial neural networks[]System-on-chip[]Power system measurements[]Internet[]Density measurement[]Throughput"
+    },
+    {
+        "title": "L4L: Experience-Driven Computational Resource Control in Federated Learning.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3068219",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Collaborative work[]Training[]Computational modeling[]Training data[]Servers[]Data models[]Bandwidth"
+    },
+    {
+        "title": "A Reputation-Based Mechanism for Transaction Processing in Blockchain Systems.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3129934",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Blockchains[]Costs[]Peer-to-peer computing[]Generators[]Bitcoin[]Denial-of-service attack[]Delays"
+    },
+    {
+        "title": "High-Radix Design of a Scalable Montgomery Modular Multiplier With Low Latency.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3052999",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Hardware[]Elliptic curve cryptography[]Complexity theory[]Upper bound[]Encryption[]Clocks[]Art"
+    },
+    {
+        "title": "GCONV Chain: Optimizing the Whole-Life Cost in End-to-end CNN Acceleration.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3128159",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Convolutional neural networks[]Convolution[]Costs[]Lips[]Kernel[]Transforms[]Tensors"
+    },
+    {
+        "title": "Toward QoS-Awareness and Improved Utilization of Spatial Multitasking GPUs.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3064352",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "Tapping into NFV Environment for Opportunistic Serverless Edge Function Deployment.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3132776",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "ge computing[]Network function virtualization[]Hardware[]Central Processing Unit[]Noise measurement[]Network servers[]Image edge detection"
+    },
+    {
+        "title": "Adaptive Federated Learning on Non-IID Data With Resource Constraint.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3099723",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "A Novel CONV Acceleration Strategy Based on Logical PE Set Segmentation for Row Stationary Dataflow.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3089366",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "Time-Memory Trade-Offs for Saber+ on Memory-Constrained RISC-V Platform.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2022.3143441",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Optimization[]Cryptography[]Memory management[]NIST[]Wireless sensor networks[]Transforms[]Merging"
+    },
+    {
+        "title": "ELOFS: An Extensible Low-Overhead Flash File System for Resource-Scarce Embedded Devices.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2022.3152079",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Ash[]Performance evaluation[]Random access memory[]Metadata[]Hardware[]Memory management[]Sensors"
+    },
+    {
+        "title": "Voltage Over-Scaling-Based Lightweight Authentication for IoT Security.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3049543",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "ParaX : Bandwidth-Efficient Instance Assignment for DL on Multi-NUMA Many-Core CPUs.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2022.3145164",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Bandwidth[]Central Processing Unit[]Training[]Graphics processing units[]Throughput[]Libraries[]Deep learning"
+    },
+    {
+        "title": "LNS-Madam: Low-Precision Training in Logarithmic Number System Using Multiplicative Weight Update.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2022.3202747",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Training[]Quantization (signal)[]Hardware[]Arithmetic[]Table lookup[]Costs[]Neural networks"
+    },
+    {
+        "title": "ReAAP: A Reconfigurable and Algorithm-Oriented Array Processor With Compiler-Architecture Co-Design.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2022.3213177",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Deep learning[]Computer architecture[]Arrays[]Systolic arrays[]Software[]Optimization[]System-on-chip"
+    },
+    {
+        "title": "A Decentralized Mechanism Based on Differential Privacy for Privacy-Preserving Computation in Smart Grid.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3130402",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Differential privacy[]Privacy[]Smart grids[]Smart meters[]Encryption[]Batteries[]Power measurement"
+    },
+    {
+        "title": "Multi-Resource VNF Deployment in a Heterogeneous Cloud.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2020.3042247",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "FAS-DQN: Freshness-Aware Scheduling via Reinforcement Learning for Latency-Sensitive Applications.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3129342",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Real-time systems[]Optimal scheduling[]Job shop scheduling[]Data integrity[]Measurement[]Switches[]Reinforcement learning"
+    },
+    {
+        "title": "k-Level Truthful Incentivizing Mechanism and Generalized k-MAB Problem.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3105831",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Task analysis[]Reinforcement learning[]Sharing economy[]Advertising[]Heuristic algorithms[]Crowdsourcing[]Resource management"
+    },
+    {
+        "title": "Lattice-Based Cryptosystems on FPGA: Parallelization and Comparison Using HLS.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3112052",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "CAP: Communication-Aware Automated Parallelization for Deep Learning Inference on CMP Architectures.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TC.2021.3099688",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "nel[]Computer architecture[]Multicore processing[]Deep learning[]System-on-chip[]Parallel processing[]Real-time systems"
+    },
+    {
+        "title": "SECRET: Semantically Enhanced Classification of Real-World Tasks.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TC.2020.2989642",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Semantics[]Optimization[]Bayes methods[]Tuning[]Natural language processing[]Prediction algorithms[]Training"
+    },
+    {
+        "title": "XMeter: Finding Approximable Functions and Predicting Their Accuracy.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TC.2020.3005083",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "analysis[]Static analysis[]Hardware[]Neural networks[]Approximation algorithms[]Prediction algorithms[]Machine learning"
+    },
+    {
+        "title": "An Improved Logarithmic Multiplier for Energy-Efficient Neural Computing.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TC.2020.2992113",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Artificial neural networks[]Hardware[]Adders[]Neurons[]Biological neural networks[]Training[]Energy consumption"
+    },
+    {
+        "title": "Efficiently Solving Partial Differential Equations in a Partially Reconfigurable Specialized Hardware.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TC.2021.3060700",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "SSD-Assisted Ransomware Detection and Data Recovery Techniques.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TC.2020.3011214",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Ransomware[]Monitoring[]Detection algorithms[]Cryptography[]Payloads"
+    },
+    {
+        "title": "Detecting the Capacitance-Based Gamepad for Protecting Mobile Game Fairness.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TC.2020.3009374",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "Schnorr-Based Implicit Certification: Improving the Security and Efficiency of Vehicular Communications.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TC.2020.2988637",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Public key[]Protocols[]Forgery[]Elliptic curves[]Metadata[]Computational modeling"
+    },
+    {
+        "title": "Fast and Predictable Non-Volatile Data Memory for Real-Time Embedded Systems.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TC.2020.2988261",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Nonvolatile memory[]Real-time systems[]Embedded systems[]Memory management[]Energy consumption[]Random access memory"
+    },
+    {
+        "title": "Guest Editorial: IEEE TC Special Issue On Smart Edge Computing and IoT.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TC.2021.3082675",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Special issues and sections[]Edge computing[]Smart devices[]Internet of Things[]Convolutional neural networks[]System-on-chip"
+    },
+    {
+        "title": "Probabilistic Value-Deviation-Bounded Source-Dependent Bit-Level Channel Adaptation for Approximate Communication.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TC.2020.3031494",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "Evaluation of Optimized CNNs on Heterogeneous Accelerators Using a Novel Benchmarking Approach.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TC.2020.3022318",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Hardware[]Computer architecture[]Quantization (signal)[]Optimization[]Topology[]Field programmable gate arrays[]Neural networks"
+    },
+    {
+        "title": "Emulating Round-to-Nearest Ties-to-Zero &quot;Augmented&quot; Floating-Point Operations Using Round-to-Nearest Ties-to-Even Arithmetic.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TC.2020.3002702",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Standards[]Hardware[]Floating-point arithmetic[]Computer science[]Error analysis[]Transforms"
+    },
+    {
+        "title": "Multi-Target Adaptive Reconfigurable Acceleration for Low-Power IoT Processing.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TC.2020.2984736",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "nergy consumption[]Program processors[]Hardware[]Acceleration[]Fabrics[]VLIW[]Computer architecture"
+    },
+    {
+        "title": "DORY: Automatic End-to-End Deployment of Real-World DNNs on Low-Cost IoT MCUs.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TC.2021.3066883",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Memory management[]Computer architecture[]Task analysis[]Micromechanical devices[]Tools[]System-on-chip[]Acceleration"
+    },
+    {
+        "title": "Guest Editorial: IEEE TC Special Section on Compiler Optimizations for FPGA-Based Systems.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TC.2021.3117316",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "Task Splitting and Load Balancing of Dynamic Real-Time Workloads for Semi-Partitioned EDF.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TC.2020.3038286",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Processor scheduling[]Task analysis[]Dynamic scheduling[]Program processors[]Servers[]Real-time systems[]Heuristic algorithms"
+    },
+    {
+        "title": "Hardware Private Circuits: From Trivial Composition to Full Verification.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TC.2020.3022979",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Security[]Hardware[]Probes[]Integrated circuit modeling[]Tools[]Wires[]Logic gates"
+    },
+    {
+        "title": "COUNTDOWN: A Run-Time Library for Performance-Neutral Energy Saving in MPI Applications.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TC.2020.2995269",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Libraries[]Power demand[]Synchronization[]Supercomputers[]Production[]Power system management[]Kernel"
+    },
+    {
+        "title": "MulTa-HDC: A Multi-Task Learning Framework For Hyperdimensional Computing.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TC.2021.3073409",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "Contour: A Process Variation Aware Wear-Leveling Mechanism for Inodes of Persistent Memory File Systems.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TC.2020.3002537",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "PStream: A Popularity-Aware Differentiated Distributed Stream Processing System.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TC.2020.3019689",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Parallel processing[]Throughput[]Real-time systems[]Memory management[]Distributed databases[]Scalability"
+    },
+    {
+        "title": "Optimizing the Response Time of Memcached Systems via Model and Quantitative Analysis.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TC.2020.3011619",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Servers[]Time factors[]Micromechanical devices[]Load modeling[]Facebook[]Analytical models[]Databases"
+    },
+    {
+        "title": "Guardauto: A Decentralized Runtime Protection System for Autonomous Driving.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TC.2020.3018329",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "null"
+    },
+    {
+        "title": "OurRocks: Offloading Disk Scan Directly to GPU in Write-Optimized Database System.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TC.2020.3027671",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Graphics processing units[]Nonvolatile memory[]Bandwidth[]Central Processing Unit[]Engines[]Database systems"
+    },
+    {
+        "title": "GenoDedup: Similarity-Based Deduplication and Delta-Encoding for Genome Sequencing Data.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TC.2020.2994774",
+        "journal_name": "IEEE Transactions on Computers ",
+        "journal_shorter_form": "TC",
+        "keywords": "Genomics[]Bioinformatics[]Sequential analysis[]DNA[]Springs[]Indexes[]Tools"
+    }
+]

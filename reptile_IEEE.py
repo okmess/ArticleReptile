@@ -3,11 +3,12 @@ import os
 import time
 
 from chrome_driver import get_driver
+import multiprocessing
 
-browser = get_driver()
 
 
-def spider(start_url):
+
+def spider(start_url,browser):
     # 导出搜索的全部记录选项
     browser.get(start_url)
     browser.execute_script("window.location.href+='/keywords#keywords'")
@@ -34,25 +35,34 @@ def spider(start_url):
     return text
 
 
-def ieee_spider():
+def ieee_spider(index):
+    browser = get_driver()
     content = []
-    for index in range(100):
-        try:
-            with open(f'documents/batch_{index + 1}.json', 'r') as file:
-                content = file.read()
-                content = json.loads(content)
-                for data in content:
-                    keywords = spider(data['url'])
-                    data['keywords'] = keywords
-                    print(data)
-                    time.sleep(1)
-            with open(f'IEEEData/IEEE_journal{index + 1}.json', 'w') as file:
-                json.dump(content, file, indent=4)
-        except:
-            with open('error.txt', 'w') as file:
-                file.write(str(index+1))
+    print(index)
+    try:
+        with open(f'documents/batch_{index}.json', 'r') as file:
+            content = file.read()
+            content = json.loads(content)
+            for data in content:
+                keywords = spider(data['url'], browser)
+                data['keywords'] = keywords
+                print(data)
+                time.sleep(1)
+        with open(f'IEEEData/IEEE_journal{index}.json', 'w') as file:
+            json.dump(content, file, indent=4)
+    except:
+        with open('error.txt', 'w') as file:
+            file.write(str(index + 1))
+    finally:
+        browser.quit()
 
 
 if __name__ == "__main__":
-    ieee_spider()
-    browser.quit()
+    processes = []
+    for index in range(16, 19):
+        p = multiprocessing.Process(target=ieee_spider,args=(index,))
+        processes.append(p)
+        p.start()
+    for process in processes:
+        process.join()
+
