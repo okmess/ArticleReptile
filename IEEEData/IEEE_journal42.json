@@ -1,0 +1,1842 @@
+[
+    {
+        "title": "Towards More Discriminative and Robust Iris Recognition by Learning Uncertain Factors.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2022.3154240",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "is recognition[]Uncertainty[]Training[]Task analysis[]Computational modeling[]Feature extraction[]Probabilistic logic"
+    },
+    {
+        "title": "Gradient Leakage Attack Resilient Deep Learning.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2021.3139777",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Deep learning[]Differential privacy[]Privacy[]Training[]Data models[]Training data[]Adaptation models"
+    },
+    {
+        "title": "Universal Deep Network for Steganalysis of Color Image Based on Channel Representation.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2022.3196265",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "mage color analysis[]Transform coding[]Steganography[]Color[]Correlation[]Feature extraction[]Colored noise"
+    },
+    {
+        "title": "Generative Adversarial User Privacy in Lossy Single-Server Information Retrieval.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2022.3203320",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Servers[]Privacy[]Data privacy[]Distortion[]Information retrieval[]Costs[]Rate-distortion"
+    },
+    {
+        "title": "Neural Network Modeling Attacks on Arbiter-PUF-Based Designs.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2022.3189533",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Security[]Data models[]Analytical models[]Cryptography[]Neural networks[]Machine learning[]Predictive models"
+    },
+    {
+        "title": "Fairness and Cost Constrained Privacy-Aware Record Linkage.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2022.3191492",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Couplings[]Costs[]Privacy[]Encoding[]Databases[]Computational efficiency[]Differential privacy"
+    },
+    {
+        "title": "Person Re-Identification by Context-Aware Part Attention and Multi-Head Collaborative Learning.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2021.3075894",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Feature extraction[]Videos[]Training[]Head[]Collaborative work[]Three-dimensional displays[]Context modeling"
+    },
+    {
+        "title": "Robust Image Forgery Detection Against Transmission Over Online Social Networks.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2022.3144878",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "null"
+    },
+    {
+        "title": "Secure-Reliable Transmission Designs for Full-Duplex Receiver With Finite-Alphabet Inputs.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2022.3206420",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Security[]Optimization[]Signal to noise ratio[]Full-duplex system[]Probability[]Power system reliability[]Interference cancellation"
+    },
+    {
+        "title": "Attribute-Based Hierarchical Access Control With Extendable Policy.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2022.3173412",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "ncryption[]Access control[]Cloud computing[]Task analysis[]Software[]Periodic structures[]Logic gates"
+    },
+    {
+        "title": "Dynamically Generate Password Policy via Zipf Distribution.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2022.3152357",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Passwords[]Magnetic heads[]Security[]Usability[]Machine learning[]Generators[]Blocklists"
+    },
+    {
+        "title": "Implicit and Explicit Feature Purification for Age-Invariant Facial Representation Learning.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2022.3142998",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Face recognition[]Feature extraction[]Facial features[]Purification[]Task analysis[]Data mining[]Training"
+    },
+    {
+        "title": "Compact Provenance Scheme Through Packet Path Index Differences in WSNs.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2022.3207897",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Wireless sensor networks[]Indexes[]Dictionaries[]Topology[]Soft sensors[]Network topology[]Wireless communication"
+    },
+    {
+        "title": "Seeing Traffic Paths: Encrypted Traffic Classification With Path Signature Features.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2022.3179955",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Cryptography[]Feature extraction[]Virtual private networks[]Ports (computers)[]Payloads[]Privacy[]Monitoring"
+    },
+    {
+        "title": "LaF: Lattice-Based and Communication-Efficient Federated Learning.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2022.3186739",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Cryptography[]Collaborative work[]Servers[]Privacy[]Aggregates[]Training[]Protocols"
+    },
+    {
+        "title": "Motion-Adaptive Detection of HEVC Double Compression With the Same Coding Parameters.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2022.3176188",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "ncoding[]Prediction algorithms[]Feature extraction[]Standards[]Partitioning algorithms[]Detection algorithms[]Video sequences"
+    },
+    {
+        "title": "High Resolution Fingerprint Retrieval Based on Pore Indexing and Graph Comparison.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2021.3139219",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "ndexing[]Clustering algorithms[]Binary codes[]Fingerprint recognition[]Databases[]Search problems[]Minimization"
+    },
+    {
+        "title": "ROSE: Robust Searchable Encryption With Forward and Backward Security.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2022.3155977",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Security[]Servers[]Robustness[]Costs[]Quality of service[]Encryption[]Indexes"
+    },
+    {
+        "title": "An Efficient Identity-Based Provable Data Possession Protocol With Compressed Cloud Storage.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2022.3159152",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Cloud computing[]Protocols[]Cryptography[]Public key[]Elliptic curve cryptography[]Probabilistic logic[]Costs"
+    },
+    {
+        "title": "Good Learning, Bad Performance: A Novel Attack Against RL-Based Congestion Control Systems.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2022.3154244",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Perturbation methods[]Control systems[]Receivers[]Packet loss[]Throughput[]Sun[]Protocols"
+    },
+    {
+        "title": "Efficient Verifiably Encrypted ECDSA-Like Signatures and Their Applications.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2022.3165978",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Cryptography[]Protocols[]Bitcoin[]Elliptic curve cryptography[]Encryption[]Public key[]Elliptic curves"
+    },
+    {
+        "title": "Heterogeneous Face Recognition via Face Synthesis With Identity-Attribute Disentanglement.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2022.3160595",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Face recognition[]Faces[]Facial features[]Feature extraction[]Image synthesis[]Learning systems[]Image reconstruction"
+    },
+    {
+        "title": "Lightweight Privacy-Preserving GAN Framework for Model Training and Image Synthesis.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2022.3156818",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Protocols[]Generative adversarial networks[]Training[]Cryptography[]Computational modeling[]Image synthesis[]Privacy"
+    },
+    {
+        "title": "Revealing Task-Relevant Model Memorization for Source-Protected Unsupervised Domain Adaptation.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2022.3149397",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Data models[]Adaptation models[]Predictive models[]Task analysis[]Measurement[]Data privacy[]Solid modeling"
+    },
+    {
+        "title": "Three Birds With One Stone: User Intention Understanding and Influential Neighbor Disclosure for Injection Attack Detection.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2022.3146769",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Recommender systems[]Birds[]Estimation[]Technological innovation[]Sun[]Predictive models[]Position measurement"
+    },
+    {
+        "title": "K-Means Clustering With Local d\u1d6a-Privacy for Privacy-Preserving Data Analysis.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2022.3189532",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Data privacy[]Clustering algorithms[]Servers[]Privacy[]Data analysis[]Perturbation methods[]Euclidean distance"
+    },
+    {
+        "title": "Differential Privacy for Tensor-Valued Queries.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2021.3089884",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Tensors[]Differential privacy[]Privacy[]Transforms[]Shape[]Covariance matrices[]Optimization"
+    },
+    {
+        "title": "Co-Design of Observer-Based Fault Detection Filter and Dynamic Event-Triggered Controller for Wind Power System Under Dual Alterable DoS Attacks.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2022.3160355",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Wind power generation[]Power system stability[]Power system dynamics[]Fault detection[]Actuators[]Control systems[]Frequency control"
+    },
+    {
+        "title": "Privacy-Preserving Aggregation-Authentication Scheme for Safety Warning System in Fog-Cloud Based VANET.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2022.3140657",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Safety[]Alarm systems[]Privacy[]Vehicular ad hoc networks[]Cloud computing[]Servers[]ETSI"
+    },
+    {
+        "title": "Dynamic Tri-Level Relation Mining With Attentive Graph for Visible Infrared Re-Identification.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2021.3139224",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Feature extraction[]Image color analysis[]Representation learning[]Training[]Robustness[]Periodic structures[]Noise measurement"
+    },
+    {
+        "title": "One Parameter Defense - Defending Against Data Inference Attacks via Differential Privacy.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2022.3163591",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Data models[]Privacy[]Differential privacy[]Training[]Predictive models[]Deep learning[]Neural networks"
+    },
+    {
+        "title": "Bool Network: An Open, Distributed, Secure Cross-Chain Notary Platform.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2022.3209546",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Blockchains[]Cryptography[]Public key[]Encryption[]Exchange rates[]Bitcoin[]Waste materials"
+    },
+    {
+        "title": "Improving Generalization by Commonality Learning in Face Forgery Detection.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2022.3146781",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Forgery[]Faces[]Feature extraction[]Videos[]Information integrity[]Task analysis[]Frequency-domain analysis"
+    },
+    {
+        "title": "EC-SVC: Secure CAN Bus In-Vehicle Communications With Fine-Grained Access Control Based on Edge Computing.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2022.3152405",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Security[]Protocols[]Access control[]Cryptography[]Authentication[]Encryption[]Edge computing"
+    },
+    {
+        "title": "TAPInspector: Safety and Liveness Verification of Concurrent Trigger-Action IoT Systems.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2022.3214084",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "nternet of Things[]Security[]Safety[]Semantics[]Delays[]Analytical models[]Model checking"
+    },
+    {
+        "title": "Salience-Aware Face Presentation Attack Detection via Deep Reinforcement Learning.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2021.3135748",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Face recognition[]Feature extraction[]Reinforcement learning[]Faces[]Videos[]Deep learning[]Thermal sensors"
+    },
+    {
+        "title": "Data Disclosure With Non-Zero Leakage and Non-Invertible Leakage Matrix.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2021.3137755",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Privacy[]Mutual information[]Optimization[]Standards[]Perturbation methods[]Distortion measurement[]Watermarking"
+    },
+    {
+        "title": "An Explainable AI-Based Intrusion Detection System for DNS Over HTTPS (DoH) Attacks.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2022.3183390",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "null"
+    },
+    {
+        "title": "Hidden Path: Understanding the Intermediary in Malicious Redirections.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2022.3169923",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Uniform resource locators[]Navigation[]Internet[]Security[]Relays[]IP networks[]Codes"
+    },
+    {
+        "title": "Selective Staining on Non-Volatile Memory Cells for Data Retrieval.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2022.3172222",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Scanning electron microscopy[]Silicon[]Data mining[]Microscopy[]Optical imaging[]Nonvolatile memory[]EPROM"
+    },
+    {
+        "title": "Fine-Grained Question-Level Deception Detection via Graph-Based Learning and Cross-Modal Fusion.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2022.3186799",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Behavioral sciences[]Feature extraction[]Visualization[]Acoustics[]Linguistics[]Task analysis[]Physiology"
+    },
+    {
+        "title": "Privacy-Preserving Aggregate Mobility Data Release: An Information-Theoretic Deep Reinforcement Learning Approach.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2022.3152361",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "null"
+    },
+    {
+        "title": "Subversion-Resistant and Consistent Attribute-Based Keyword Search for Secure Cloud Storage.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2022.3172627",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Cloud computing[]Security[]Encryption[]Authorization[]Keyword search[]Indexes[]Eavesdropping"
+    },
+    {
+        "title": "Edge Aware Domain Transformation for Face Sketch Synthesis.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2022.3195383",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "null"
+    },
+    {
+        "title": "Multi-User Beam Training and Transmission Design for Covert Millimeter-Wave Communication.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2022.3163583",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Training[]Jamming[]Millimeter wave communication[]Data communication[]Throughput[]Array signal processing[]Uncertainty"
+    },
+    {
+        "title": "1-Round Distributed Key Generation With Efficient Reconstruction Using Decentralized CP-ABE.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2022.3152356",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Cryptography[]Synchronization[]Smart contracts[]Adaptation models[]Encryption[]Virtual machining[]Technological innovation"
+    },
+    {
+        "title": "Toward Privacy-Preserving Aggregate Reverse Skyline Query With Strong Security.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2022.3188147",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Servers[]Cryptography[]Security[]Databases[]Aggregates[]Privacy[]Data models"
+    },
+    {
+        "title": "Secure Millimeter-Wave Ad Hoc Communications Using Physical Layer Security.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2021.3054507",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Jamming[]Ad hoc networks[]Transmitting antennas[]Millimeter wave communication[]Wireless communication[]Stochastic processes[]Interference"
+    },
+    {
+        "title": "Attack-Resilient Optimal PMU Placement via Reinforcement Learning Guided Tree Search in Smart Grids.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2022.3173728",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Phasor measurement units[]Smart grids[]Current measurement[]Voltage measurement[]State estimation[]Reinforcement learning[]Observability"
+    },
+    {
+        "title": "Person Re-Identification With Hierarchical Discriminative Spatial Aggregation.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2022.3146773",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Convolutional codes[]Feature extraction[]Encoding[]Visualization[]Cameras[]Semantics[]Task analysis"
+    },
+    {
+        "title": "CBACS: A Privacy-Preserving and Efficient Cache-Based Access Control Scheme for Software Defined Vehicular Networks.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2022.3174389",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Authentication[]Security[]Protocols[]Servers[]Privacy[]Cryptography[]Access control"
+    },
+    {
+        "title": "Study on Reflection-Based Imaging Finger Vein Recognition.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2021.3093791",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Veins[]Databases[]Imaging[]Feature extraction[]Lighting[]Image recognition[]Face recognition"
+    },
+    {
+        "title": "Enabling Efficient and Strong Privacy-Preserving Truth Discovery in Mobile Crowdsensing.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2022.3207905",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Task analysis[]Crowdsensing[]Data privacy[]Privacy[]Reliability[]Encryption[]Vehicles"
+    },
+    {
+        "title": "Guided Erasable Adversarial Attack (GEAA) Toward Shared Data Protection.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2022.3186791",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Watermarking[]Image reconstruction[]Noise reduction[]Perturbation methods[]Data protection[]Training[]Databases"
+    },
+    {
+        "title": "SOCI: A Toolkit for Secure Outsourced Computation on Integers.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2022.3211707",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Servers[]Protocols[]Security[]Computational efficiency[]Homomorphic encryption[]Costs[]Computer architecture"
+    },
+    {
+        "title": "Detecting Overlapped Objects in X-Ray Security Imagery by a Label-Aware Mechanism.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2022.3154287",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "X-ray imaging[]Security[]Object detection[]Visualization[]Liquids[]Containers[]Inspection"
+    },
+    {
+        "title": "PVD-FL: A Privacy-Preserving and Verifiable Decentralized Federated Learning Framework.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2022.3176191",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Computational modeling[]Training[]Data models[]Security[]Data privacy[]Privacy[]Deep learning"
+    },
+    {
+        "title": "Efficient and Privacy-Preserving Similarity Query With Access Control in eHealthcare.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2022.3152395",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Medical services[]Access control[]Data privacy[]Servers[]Privacy[]Cryptography[]Indexes"
+    },
+    {
+        "title": "Semantic-Aware Privacy-Preserving Online Location Trajectory Data Sharing.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2022.3181855",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Data privacy[]Trajectory[]Privacy[]Semantics[]Measurement[]Correlation[]Optimization"
+    },
+    {
+        "title": "A DNN Fingerprint for Non-Repudiable Model Ownership Identification and Piracy Detection.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2022.3198267",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Feature extraction[]Watermarking[]Training[]Data models[]Convolution[]Computational modeling[]Predictive models"
+    },
+    {
+        "title": "Circumferential Local Ternary Pattern: New and Efficient Feature Descriptors for Anti-Counterfeiting Pattern Identification.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2022.3154289",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Feature extraction[]Counterfeiting[]Shape[]Discrete cosine transforms[]Discrete Fourier transforms[]Digital images[]Training"
+    },
+    {
+        "title": "A Secure Encoding Mechanism Against Deception Attacks on Multisensor Remote State Estimation.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2022.3175617",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "ncoding[]Detectors[]Security[]Technological innovation[]State estimation[]Wireless networks[]Manufacturing"
+    },
+    {
+        "title": "Behavior-Aware Account De-Anonymization on Ethereum Interaction Graph.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2022.3208471",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Blockchains[]Behavioral sciences[]Bitcoin[]Phishing[]Task analysis[]Manuals[]Feature extraction"
+    },
+    {
+        "title": "Fundamental Limits-Achieving Polar Code Designs for Biometric Identification and Authentication.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2021.3137749",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Biometrics (access control)[]Authentication[]Polar codes[]Databases[]Privacy[]Codes[]Noise measurement"
+    },
+    {
+        "title": "DeepSyslog: Deep Anomaly Detection on Syslog Using Sentence Embedding and Metadata.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2022.3201379",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Metadata[]Anomaly detection[]Feature extraction[]Semantics[]Indexes[]History[]Event detection"
+    },
+    {
+        "title": "PFLF: Privacy-Preserving Federated Learning Framework for Edge Computing.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2022.3174394",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Privacy[]Servers[]Convergence[]Training[]Collaborative work[]Edge computing[]Computational modeling"
+    },
+    {
+        "title": "Cross-Domain Attention and Center Loss for Sketch Re-Identification.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2022.3208811",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Transformers[]Task analysis[]Face recognition[]Feature extraction[]Representation learning[]Image color analysis[]Cameras"
+    },
+    {
+        "title": "Self-Adversarial Training Incorporating Forgery Attention for Image Forgery Localization.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TIFS.2022.3152362",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Forgery[]Training[]Location awareness[]Feature extraction[]Training data[]Splicing[]Semantics"
+    },
+    {
+        "title": "Enhanced Secrecy Performance of Multihop IoT Networks With Cooperative Hybrid-Duplex Jamming.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3005336",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Jamming[]Relays[]Spread spectrum communication[]Security[]Internet of Things[]Performance evaluation[]Transmitting antennas"
+    },
+    {
+        "title": "Quantifying Interference-Assisted Signal Strength Surveillance of Sound Vibrations.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3045316",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Sensors[]Quantization (signal)[]Interference[]Eavesdropping[]Wireless communication[]Vibrations[]Radio frequency"
+    },
+    {
+        "title": "Adversarial Kendall&apos;s Model Towards Containment of Distributed Cyber-Threats.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3082327",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Games[]Stochastic processes[]Mathematical model[]Curing[]Statistics[]Sociology[]Viruses (medical)"
+    },
+    {
+        "title": "Fair Subcarrier Allocation for Securing OFDMA in IoT Against Full-Duplex Hybrid Attacker.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3067157",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "null"
+    },
+    {
+        "title": "Nowhere to Hide: Efficiently Identifying Probabilistic Cloning Attacks in Large-Scale RFID Systems.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3023785",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Cloning[]Radiofrequency identification[]Protocols[]Security[]Reliability theory[]Probabilistic logic"
+    },
+    {
+        "title": "Sequential Attack Detection in Recommender Systems.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3076295",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Detection algorithms[]Recommender systems[]Data models[]Computational modeling[]History[]Hidden Markov models[]Data integration"
+    },
+    {
+        "title": "On Joint Optimization of Automatic Speaker Verification and Anti-Spoofing in the Embedding Space.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3039045",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Measurement[]Biometrics (access control)[]Neural networks[]Speech recognition[]Proposals[]NIST[]Authentication"
+    },
+    {
+        "title": "SARO: Scalable Attack-Resistant Logic Locking.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3092135",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Logic gates[]Measurement[]Hardware[]Security[]Resistance[]Tools[]Switching circuits"
+    },
+    {
+        "title": "Secure Automatic Speaker Verification (SASV) System Through sm-ALTP Features and Asymmetric Bagging.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3082303",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Cloning[]Feature extraction[]Mel frequency cepstral coefficient[]Time-frequency analysis[]Security[]Neural networks[]Virtual assistants"
+    },
+    {
+        "title": "UNSAIL: Thwarting Oracle-Less Machine Learning Attacks on Logic Locking.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3057576",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "ntegrated circuit modeling[]Logic gates[]Redundancy[]Supply chains[]Security[]System-on-chip[]Predictive models"
+    },
+    {
+        "title": "Source Camera Verification for Strongly Stabilized Videos.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3016830",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Videos[]Cameras[]Media[]Estimation[]Reliability[]Transforms"
+    },
+    {
+        "title": "Automatic Generation of H.264 Parameter Sets to Recover Video File Fragments.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3118876",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "ncoding[]Decoding[]Streaming media[]Cameras[]Video coding[]Image coding[]Containers[]Forensics[]Multimedia communication"
+    },
+    {
+        "title": "High Intrinsic Dimensionality Facilitates Adversarial Attack: Theoretical Evidence.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3023274",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Perturbation methods[]Feature extraction[]Machine learning[]Neural networks[]Databases[]Content-based retrieval[]Learning systems"
+    },
+    {
+        "title": "Block-Wise Image Transformation With Secret Key for Adversarially Robust Defense.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3062977",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Training[]Encryption[]Robustness[]Adaptation models[]Measurement[]Training data[]Data models"
+    },
+    {
+        "title": "Matrix-Regularized One-Class Multiple Kernel Learning for Unseen Face Presentation Attack Detection.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3111766",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "nel[]Faces[]Face recognition[]Training[]Task analysis[]Optimization[]Support vector machines"
+    },
+    {
+        "title": "LLTI: Low-Latency Threshold Implementations.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3123527",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Low latency communication[]Security[]Logic gates[]Registers[]Hardware[]Optimization[]Resistance"
+    },
+    {
+        "title": "CPS Device-Class Identification via Behavioral Fingerprinting: From Theory to Practice.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3054968",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Performance evaluation[]Hardware[]Task analysis[]Object recognition[]Computer architecture[]Critical infrastructure[]Performance analysis"
+    },
+    {
+        "title": "On the Efficiency of Pairing-Based Authentication for Connected Vehicles: Time is Not on Our Side!",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3087359",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Authentication[]Cryptography[]Safety[]Elliptic curves[]Vehicular ad hoc networks[]Digital signatures[]Australia"
+    },
+    {
+        "title": "Copy Move Source-Target Disambiguation Through Multi-Branch CNNs.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3045903",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Forgery[]Interpolation[]Feature extraction[]Task analysis[]Kernel[]Detection algorithms[]Training"
+    },
+    {
+        "title": "Fast and Accurate Likelihood Ratio-Based Biometric Verification Secure Against Malicious Adversaries.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3122823",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Biometrics (access control)[]Encryption[]Servers[]Homomorphic encryption[]Computer security[]Authentication[]Feature extraction"
+    },
+    {
+        "title": "On the Physical Layer Security of the Cooperative Rate-Splitting-Aided Downlink in UAV Networks.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3122989",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "NOMA[]Jamming[]Multiaccess communication[]Downlink[]Unmanned aerial vehicles[]Simulation[]Silicon carbide"
+    },
+    {
+        "title": "Explicit Optimization of min max Steganographic Game.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3021913",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Games[]Detectors[]Security[]Gallium nitride[]Heuristic algorithms[]Generators[]Game theory"
+    },
+    {
+        "title": "Unsupervised and Self-Adaptative Techniques for Cross-Domain Person Re-Identification.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3107157",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Cameras[]Adaptation models[]Training[]Reliability[]Data models[]Computational modeling[]Noise measurement"
+    },
+    {
+        "title": "Transformation-Aware Embeddings for Image Provenance.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3050061",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Media[]Forensics[]Task analysis[]Visualization[]Image matching[]Image retrieval[]Image coding"
+    },
+    {
+        "title": "APAS: Application-Specific Accelerators for RLWE-Based Homomorphic Linear Transformations.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3114032",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Cryptography[]Protocols[]Computer architecture[]Transforms[]Standards[]Libraries[]Lattices"
+    },
+    {
+        "title": "Sampling Rate Distribution for Flow Monitoring and DDoS Detection in Datacenter.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3054522",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Monitoring[]Computer crime[]Denial-of-service attack[]Servers[]Sparks[]Probabilistic logic[]Machine learning"
+    },
+    {
+        "title": "Threat Intelligence Generation Using Network Telescope Data for Industrial Control Systems.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3078261",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "ntegrated circuits[]Payloads[]IP networks[]Reconnaissance[]Telescopes[]Protocols[]Machine learning"
+    },
+    {
+        "title": "Semi-Supervised Natural Face De-Occlusion.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3023793",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Faces[]Face recognition[]Generators[]Training[]Task analysis[]Shape[]Annotations"
+    },
+    {
+        "title": "DRL-FAS: A Novel Framework Based on Deep Reinforcement Learning for Face Anti-Spoofing.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3026553",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Feature extraction[]Faces[]Cameras[]Machine learning[]Learning (artificial intelligence)[]Support vector machines[]Recurrent neural networks"
+    },
+    {
+        "title": "Compcrypt-Lightweight ANS-Based Compression and Encryption.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3096026",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "ncoding[]Encryption[]Cryptography[]Internet of Things[]Channel coding[]Probability distribution[]Decoding"
+    },
+    {
+        "title": "Improving Physical Layer Security of Uplink NOMA via Energy Harvesting Jammers.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3023277",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "NOMA[]Jamming[]Uplink[]Security[]Wireless communication[]Physical layer[]Energy harvesting"
+    },
+    {
+        "title": "Steganalysis of H.264/AVC Videos Exploiting Subtractive Prediction Error Blocks.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3078822",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Videos[]Transform coding[]Distortion[]Signal to noise ratio[]Quantization (signal)[]Image coding[]Feature extraction"
+    },
+    {
+        "title": "Intrinsic Resiliency of S-Boxes Against Side-Channel Attacks-Best and Worst Scenarios.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3006399",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Side-channel attacks[]Boolean functions[]Hamming weight[]Resilience[]Correlation[]Transforms"
+    },
+    {
+        "title": "Generalized Likelihood Ratio Test for GNSS Spoofing Detection in Devices With IMU.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3083414",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Global navigation satellite system[]Receivers[]Trajectory[]Position measurement[]Accelerometers[]Gyroscopes[]Magnetometers"
+    },
+    {
+        "title": "Information Sources Estimation in Time-Varying Networks.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3050604",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Partitioning algorithms[]Heuristic algorithms[]Maximum likelihood estimation[]Knowledge engineering[]Diffusion processes[]Computational modeling[]Time series analysis"
+    },
+    {
+        "title": "SAIL: Analyzing Structural Artifacts of Logic Locking Using Machine Learning.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3096028",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Logic gates[]Resilience[]Machine learning[]Hardware[]Interference[]Benchmark testing[]Training"
+    },
+    {
+        "title": "3PAA: A Private PUF Protocol for Anonymous Authentication.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3021917",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Authentication[]Protocols[]Privacy[]Cryptography[]Databases[]Complexity theory"
+    },
+    {
+        "title": "Machine Learning in Wavelet Domain for Electromagnetic Emission Based Malware Analysis.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3080510",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Malware[]Feature extraction[]Spectrogram[]Monitoring[]Discrete wavelet transforms[]Support vector machines[]Detectors"
+    },
+    {
+        "title": "Dynamic Multi-Key FHE in Asymmetric Key Setting From LWE.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3127023",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Cryptography[]Computer securityu[]Public key[]Costs[]Big Data[]Homomorphic encryption"
+    },
+    {
+        "title": "Strong Secrecy of Arbitrarily Varying Multiple Access Channels.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3087338",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Random variables[]Decoding[]Encoding[]Tools[]Receivers[]Random sequences[]Channel capacity"
+    },
+    {
+        "title": "NeuroAED: Towards Efficient Abnormal Event Detection in Visual Surveillance With Neuromorphic Vision Sensor.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3023791",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Neuromorphics[]Vision sensors[]Event detection[]Cameras[]Feature extraction[]Legged locomotion[]Signal processing algorithms"
+    },
+    {
+        "title": "A Novel Normalized Variance-Based Differential Power Analysis Against Masking Countermeasures.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3093783",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Analytical models[]Signal to noise ratio[]Performance evaluation[]Hamming weight[]Hamming distance[]Encryption[]Timing"
+    },
+    {
+        "title": "Camera Invariant Feature Learning for Generalized Face Anti-Spoofing.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3055018",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Cameras[]Feature extraction[]Faces[]Face recognition[]Data mining[]Databases[]Training"
+    },
+    {
+        "title": "De-Pois: An Attack-Agnostic Defense against Data Poisoning Attacks.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3080522",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Data models[]Training[]Testing[]Predictive models[]Computational modeling[]Training data[]Task analysis"
+    },
+    {
+        "title": "Optimizing Inner Product Masking Scheme by a Coding Theory Approach.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3009609",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Measurement[]Signal to noise ratio[]Encoding[]Cryptography[]Complexity theory[]Resistance"
+    },
+    {
+        "title": "Deep Feature Collaboration for Challenging 3D Finger Knuckle Identification.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3029906",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Three-dimensional displays[]Neural networks[]Fingerprint recognition[]Databases[]Two dimensional displays[]Fingers"
+    },
+    {
+        "title": "Zero-Forcing Beamforming for Active and Passive Eavesdropper Mitigation in Visible Light Communication Systems.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3036806",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Array signal processing[]Visible light communication[]Signal to noise ratio[]Optical transmitters[]Light emitting diodes[]Receivers[]Null space"
+    },
+    {
+        "title": "Relational Deep Feature Learning for Heterogeneous Face Recognition.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3013186",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Probes[]Face[]Visualization[]Face recognition[]Visual databases[]Image color analysis[]Training"
+    },
+    {
+        "title": "Treating Interference as Noise Is Optimal for Covert Communication Over Interference Channels.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3013213",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Reliability[]Entropy[]Interference channels[]Encoding[]Integrated circuits[]Random variables"
+    },
+    {
+        "title": "Secrecy Rate Optimization for Intelligent Reflecting Surface Assisted MIMO System.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3038994",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Closed-form solutions[]Precoding[]Wireless networks[]Simulation[]Interference[]MIMO[]Jamming"
+    },
+    {
+        "title": "Fingerprint Spoof Detector Generalization.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.2990789",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Detectors[]Training[]Fingerprint recognition[]Generators[]Three-dimensional displays[]Two dimensional displays"
+    },
+    {
+        "title": "Botnet Identification in DDoS Attacks With Multiple Emulation Dictionaries.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3082290",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Botnet[]Computer crime[]Emulation[]Denial-of-service attack[]Dictionaries[]Servers[]Protocols"
+    },
+    {
+        "title": "Secure Group Testing.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3029877",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Testing[]Maximum likelihood decoding[]Security[]Encoding[]Privacy[]Computational modeling"
+    },
+    {
+        "title": "Dense Registration and Mosaicking of Fingerprints by Training an End-to-End Network.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3017926",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Fingerprint recognition[]Feature extraction[]Nonlinear distortion[]Databases[]Correlation[]Training data"
+    },
+    {
+        "title": "Identification of FSM State Registers by Analytics of Scan-Dump Data.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3123534",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Registers[]Reverse engineering[]Integrated circuits[]Data mining[]Side-channel attacks[]Hardware[]Encryption"
+    },
+    {
+        "title": "VulDetector: Detecting Vulnerabilities Using Weighted Feature Graph Comparison.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3047756",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Syntactics[]Software[]Testing[]Semantics[]Security[]Optimization methods[]Lenses"
+    },
+    {
+        "title": "CRSA: A Cryptocurrency Recovery Scheme Based on Hidden Assistance Relationships.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3104142",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Blockchains[]Security[]Cryptography[]Hardware[]Protocols[]Bitcoin[]Authentication"
+    },
+    {
+        "title": "Look Locally Infer Globally: A Generalizable Face Anti-Spoofing Approach.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3029879",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Faces[]Face recognition[]Instruments[]Training[]Three-dimensional displays[]Feature extraction[]Standards"
+    },
+    {
+        "title": "REGINA - Reasoning Graph Convolutional Networks in Human Action Recognition.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3130437",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Skeleton[]Convolution[]Spatiotemporal phenomena[]Feature extraction[]Convolutional codes[]Joints[]Convolutional neural networks"
+    },
+    {
+        "title": "TDOA Source-Localization Technique Robust to Time-Synchronization Attacks.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3001741",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Sensors[]Delays[]Synchronization[]Calibration[]Frequency estimation[]Oscillators"
+    },
+    {
+        "title": "Functionality-Preserving Black-Box Optimization of Adversarial Windows Malware.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3082330",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Malware[]Detectors[]Optimization[]Operating systems[]Feature extraction[]Payloads[]Minimization"
+    },
+    {
+        "title": "Controllable Multi-Attribute Editing of High-Resolution Face Images.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3033184",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Faces[]Image resolution[]Face recognition[]Wavelet transforms[]Generative adversarial networks[]Gallium nitride[]Computational modeling"
+    },
+    {
+        "title": "Multihop Trust Evaluation Using Memory Integrity in Wireless Sensor Networks.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3101051",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Peer-to-peer computing[]Wireless sensor networks[]Measurement[]Spread spectrum communication[]Computational modeling[]Quality of service[]Network topology"
+    },
+    {
+        "title": "Framing in Secret Sharing.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3067468",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Cryptography[]Mathematics[]Game theory[]Weapons[]Tools[]Terminology[]Reliability"
+    },
+    {
+        "title": "Surface and Internal Fingerprint Reconstruction From Optical Coherence Tomography Through Convolutional Neural Network.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3016829",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Fingerprint recognition[]Sweat glands[]Epidermis[]Junctions[]Three-dimensional displays[]Spectral analysis[]Feature extraction"
+    },
+    {
+        "title": "Beyond Universal Person Re-Identification Attack.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3081247",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Perturbation methods[]Task analysis[]Computational modeling[]Electronic mail[]Neural networks[]Linear programming[]Training"
+    },
+    {
+        "title": "Efficient and Privacy-Preserving Multi-Party Skyline Queries Over Encrypted Data.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3109459",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Cryptography[]Data privacy[]Protocols[]Privacy[]Encryption[]Servers[]Additives"
+    },
+    {
+        "title": "RLS-PSM: A Robust and Accurate Password Strength Meter Based on Reuse, Leet and Separation.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3107147",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Password[]Data quality[]Meters[]Feedback[]Weight measurement[]Security"
+    },
+    {
+        "title": "MBTree: Detecting Encryption RATs Communication Using Malicious Behavior Tree.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3071595",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Rats[]Machine learning[]Encryption[]Feature extraction[]Payloads[]Manuals[]Deep learning"
+    },
+    {
+        "title": "Deep Collaborative Multi-Modal Learning for Unsupervised Kinship Estimation.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3098165",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Feature extraction[]Task analysis[]Visualization[]Supervised learning[]Correlation[]Collaboration[]Semantics"
+    },
+    {
+        "title": "On the Security of Reversible Data Hiding in Encrypted Images by MSB Prediction.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3006382",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Receivers[]Complexity theory[]Encryption[]Histograms[]Data mining"
+    },
+    {
+        "title": "Multi-Scale Gradients Self-Attention Residual Learning for Face Photo-Sketch Transformation.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3031386",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Face recognition[]Task analysis[]Faces[]Training[]Generative adversarial networks[]Generators[]Image reconstruction"
+    },
+    {
+        "title": "A Formal Model and Technique to Redistribute the Packet Filtering Load in Multiple Firewall Networks.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3057552",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Topology[]Routing[]Network topology[]Load modeling[]Computational modeling[]Software[]Predictive models"
+    },
+    {
+        "title": "MProve+: Privacy Enhancing Proof of Reserves Protocol for Monero.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3088035",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Protocols[]Bitcoin[]Privacy[]Public key[]Generators[]Blockchain[]Tools"
+    },
+    {
+        "title": "Odyssey: Creation, Analysis and Detection of Trojan Models.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3108407",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Trojan horses[]Training[]Data models[]Detectors[]Computational modeling[]Training data[]Perturbation methods"
+    },
+    {
+        "title": "Privacy-Aware Time-Series Data Sharing With Deep Reinforcement Learning.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3013200",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Privacy[]Data privacy[]Correlation[]Distortion[]Markov processes[]Trajectory[]Current measurement"
+    },
+    {
+        "title": "Optimal Adversarial Policies in the Multiplicative Learning System With a Malicious Expert.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3052360",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Learning systems[]Prediction algorithms[]Machine learning algorithms[]Motion pictures[]Approximation algorithms[]Analytical models[]Training"
+    },
+    {
+        "title": "Nelder-Mead Simplex Channel Estimation for the RF-DNA Fingerprinting of OFDM Transmitters Under Rayleigh Fading Conditions.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3054524",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Fading channels[]Multipath channels[]Channel estimation[]Signal to noise ratio[]Wireless fidelity[]Security[]Estimation"
+    },
+    {
+        "title": "Brain-Inspired Golden Chip Free Hardware Trojan Detection.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3062989",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "ntegrated circuits[]Integrated circuit modeling[]Supply chains[]Fabrication[]Trojan horses[]Transistors[]Training"
+    },
+    {
+        "title": "Secure Interference Exploitation Precoding in MISO Wiretap Channel: Destructive Region Redefinition With Efficient Solutions.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3013210",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Jamming[]Interference[]Precoding[]Security[]MISO communication[]Phase shift keying[]Physical layer"
+    },
+    {
+        "title": "Text Backdoor Detection Using an Interpretable RNN Abstract Model.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3103064",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Training[]Recurrent neural networks[]Task analysis[]Motion pictures[]Data models[]Analytical models[]Sentiment analysis"
+    },
+    {
+        "title": "Can We Trust Your Explanations? Sanity Checks for Interpreters in Android Malware Analysis.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3021924",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Malware[]Measurement[]Androids[]Humanoid robots[]Perturbation methods[]Analytical models[]Robustness"
+    },
+    {
+        "title": "Robust Iris Presentation Attack Detection Fusing 2D and 3D Information.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3015547",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Lenses[]Iris[]Iris recognition[]Three-dimensional displays[]Two dimensional displays[]Feature extraction[]Lighting"
+    },
+    {
+        "title": "A Framework for Predicting Data Breach Risk: Leveraging Dependence to Cope With Sparsity.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3051804",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Data breach[]Data models[]Time series analysis[]Predictive models[]Computational modeling[]Data analysis[]Analytical models"
+    },
+    {
+        "title": "Attribute Prototype Learning for Interactive Face Retrieval.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3059274",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Prototypes[]Faces[]Face recognition[]Databases[]Adaptation models[]Coherence[]Semantics"
+    },
+    {
+        "title": "The Cost of Privacy in Asynchronous Differentially-Private Machine Learning.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3050603",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Training[]Data models[]Distributed databases[]Biological system modeling[]Degradation[]Privacy[]Machine learning"
+    },
+    {
+        "title": "DeepSBD: A Deep Neural Network Model With Attention Mechanism for SocialBot Detection.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3102498",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Feature extraction[]Deep learning[]Social networking (online)[]Task analysis[]Manuals[]Unsolicited e-mail[]Image edge detection"
+    },
+    {
+        "title": "A Performance-Sensitive Malware Detection System Using Deep Learning on Mobile Devices.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3025436",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Malware[]Androids[]Humanoid robots[]Feature extraction[]Mobile handsets[]Performance evaluation[]Security"
+    },
+    {
+        "title": "P2BA: A Privacy-Preserving Protocol With Batch Authentication Against Semi-Trusted RSUs in Vehicular Ad Hoc Networks.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3098971",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Authentication[]Privacy[]Security[]Protocols[]Message authentication[]Proposals[]Delays"
+    },
+    {
+        "title": "Detection of Fake and Fraudulent Faces via Neural Memory Networks.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3047768",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Faces[]Semantics[]Cognition[]Visualization[]Task analysis[]Training[]Media"
+    },
+    {
+        "title": "High-Fidelity Face Manipulation With Extreme Poses and Expressions.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3050065",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Face recognition[]Databases[]Image resolution[]Faces[]Task analysis[]Generators[]Feature extraction"
+    },
+    {
+        "title": "Neyman&apos;s Smoothness Test: A Trade-Off Between Moment-Based and Distribution-Based Leakage Detections.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3108570",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Security[]Tools[]Software[]Noise level[]Hardware[]Noise measurement[]Data models"
+    },
+    {
+        "title": "ThermoTag: A Hidden ID of 3D Printers for Fingerprinting and Watermarking.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3065225",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Three-dimensional displays[]Printers[]Three-dimensional printing[]Watermarking[]Solid modeling[]Frequency division multiplexing[]Computational modeling"
+    },
+    {
+        "title": "Side-Channel Attacks With Multi-Thread Mixed Leakage.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3023278",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Graphics processing units[]Instruction sets[]Side-channel attacks[]Optimization[]Timing[]Registers"
+    },
+    {
+        "title": "DPF-ECC: A Framework for Efficient ECC With Double Precision Floating-Point Computing Power.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3098987",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "lliptic curve cryptography[]Cryptography[]Security[]Elliptic curves[]Standards[]Protocols[]Digital signatures"
+    },
+    {
+        "title": "Learning One Class Representations for Face Presentation Attack Detection Using Multi-Channel Convolutional Neural Networks.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3013214",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Face[]Two dimensional displays[]Three-dimensional displays[]Feature extraction[]Task analysis[]Face recognition[]Protocols"
+    },
+    {
+        "title": "Copula-Based Analysis of Physical Layer Security Performances Over Correlated Rayleigh Fading Channels.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3014553",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Correlation[]Wireless communication[]Rayleigh channels[]Network security[]Physical layer[]Power system reliability"
+    },
+    {
+        "title": "Defending False Data Injection on State Estimation Over Fading Wireless Channels.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3031378",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Wireless communication[]Wireless sensor networks[]State estimation[]Communication system security[]Games[]Monitoring[]Fading channels"
+    },
+    {
+        "title": "Detectability-Based JPEG Steganography Modeling the Processing Pipeline: The Noise-Content Trade-off.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3050063",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Pipelines[]Transform coding[]Estimation[]Discrete cosine transforms[]Detectors[]Complexity theory[]Distortion"
+    },
+    {
+        "title": "Modern Privacy-Preserving Record Linkage Techniques: An Overview.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3114026",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Couplings[]Privacy[]Scalability[]Encoding[]Taxonomy[]Databases[]Protocols"
+    },
+    {
+        "title": "Differential Privacy on the Unit Simplex via the Dirichlet Mechanism.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3052356",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Privacy[]Differential privacy[]Probabilistic logic[]Decision making[]Markov processes[]Additive noise[]Privatization"
+    },
+    {
+        "title": "Games, Dollars, Splits: A Game-Theoretic Analysis of Split Manufacturing.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3122827",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Manufacturing processes[]Security[]Routing[]Logic gates[]Hardware[]Integrated circuits[]Perturbation methods"
+    },
+    {
+        "title": "CANTO - Covert AutheNtication With Timing Channels Over Optimized Traffic Flows for CAN.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3017892",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Authentication[]Delays[]Cryptography[]Payloads[]Resource management"
+    },
+    {
+        "title": "DOMREP-An Orthogonal Countermeasure for Arbitrary Order Side-Channel and Fault Attack Protection.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3089875",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Cryptography[]Resistance[]Power demand[]Electrical resistance measurement[]Hardware[]Error correction[]Side-channel attacks"
+    },
+    {
+        "title": "Latent Fingerprint Registration via Matching Densely Sampled Points.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3032041",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Feature extraction[]Databases[]Estimation[]Fingerprint recognition[]Image quality[]Clustering algorithms[]Distortion"
+    },
+    {
+        "title": "Multi-Entity and Multi-Enrollment Key Agreement With Correlated Noise.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3029885",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Decoding[]Noise measurement[]Privacy[]Hardware[]Biometrics (access control)[]Random access memory[]Biological system modeling"
+    },
+    {
+        "title": "VeriFL: Communication-Efficient and Fast Verifiable Aggregation for Federated Learning.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3043139",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Training[]Privacy[]Protocols[]Bandwidth[]Collaborative work[]Synchronization[]Servers"
+    },
+    {
+        "title": "Decomposed Meta Batch Normalization for Fast Domain Adaptation in Face Recognition.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3073823",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Face recognition[]Adaptation models[]Training[]Benchmark testing[]Task analysis[]Knowledge engineering[]Security"
+    },
+    {
+        "title": "The Best Defense Is a Good Offense: Adversarial Attacks to Avoid Modulation Detection.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3025441",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Modulation[]Receivers[]Transmitters[]Perturbation methods[]Machine learning[]Jamming[]Bit error rate"
+    },
+    {
+        "title": "Event-Triggered Interval-Based Anomaly Detection and Attack Identification Methods for an In-Vehicle Network.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3069171",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Anomaly detection[]Entropy[]Vehicles[]Safety[]Receivers[]Wireless communication[]Protocols"
+    },
+    {
+        "title": "Log-Based Anomaly Detection With Robust Feature Extraction and Online Learning.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3053371",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Anomaly detection[]Feature extraction[]Training[]Support vector machines[]Semantics[]Machine learning algorithms[]Noise measurement"
+    },
+    {
+        "title": "TransPCFG: Transferring the Grammars From Short Passwords to Guess Long Passwords Effectively.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3003696",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Password[]Grammar[]Guidelines[]Training data[]Dictionaries[]Probabilistic logic"
+    },
+    {
+        "title": "Secure Dynamic Searchable Symmetric Encryption With Constant Client Storage Cost.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3033412",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Servers[]Encryption[]Protocols[]Indexes"
+    },
+    {
+        "title": "Secure Transmission in Multiple Access Wiretap Channel: Cooperative Jamming Without Sharing CSI.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3080499",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Measurement[]Simulation[]Receivers[]Interference[]Security[]Jamming[]Channel state information"
+    },
+    {
+        "title": "Reversible Data Hiding Based on Adaptive Multiple Histograms Modification.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3069173",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Correlation[]Histograms[]Mathematical model[]Distortion[]Redundancy[]Two dimensional displays[]Data mining"
+    },
+    {
+        "title": "Self-Configurable Cyber-Physical Intrusion Detection for Smart Homes Using Reinforcement Learning.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3042049",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Smart homes[]IP networks[]Intrusion detection[]Hidden Markov models[]Reinforcement learning[]Wireless fidelity[]Monitoring"
+    },
+    {
+        "title": "Stealthy MTD Against Unsupervised Learning-Based Blind FDI Attacks in Power Systems.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3027148",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Topology[]State estimation[]Power measurement[]Watermarking[]Meters[]Power system stability"
+    },
+    {
+        "title": "ARMORY: Fully Automated and Exhaustive Fault Simulation on ARM-M Binaries.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3027143",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Cryptography[]Hardware[]Program processors[]Analytical models[]Transistors[]Computational modeling"
+    },
+    {
+        "title": "Secure Codes With Accessibility for Distributed Storage.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3128822",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Codes[]Maintenance engineering[]Servers[]Bandwidth[]Cryptography[]Secure storage[]Encoding"
+    },
+    {
+        "title": "Rebuttal to &quot;Comments on &apos;Fixed Region Beamforming Using Frequency Diverse Subarray for Secure MmWave Wireless Communications&quot;&apos;.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3067204",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Array signal processing[]Noise measurement[]Wireless communication[]Millimeter wave communication[]Frequency diversity[]Security[]Precoding"
+    },
+    {
+        "title": "Efficient Sorting of Homomorphic Encrypted Data With k-Way Sorting Network.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3106167",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Sorting[]Approximation algorithms[]Encryption[]Tools[]Servers[]Libraries[]Estimation"
+    },
+    {
+        "title": "A Co-Design Adaptive Defense Scheme With Bounded Security Damages Against Heartbleed-Like Attacks.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3113512",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Security[]Servers[]Upper bound[]Probability distribution[]Resource management[]Delays[]Runtime"
+    },
+    {
+        "title": "Dual Adversarial Disentanglement and Deep Representation Decorrelation for NIR-VIS Face Recognition.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3005314",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Face recognition[]Feature extraction[]Task analysis[]Decorrelation[]Lighting[]Sensors[]Encoding"
+    },
+    {
+        "title": "Joint Optimization of Trajectory, Propulsion, and Thrust Powers for Covert UAV-on-UAV Video Tracking and Surveillance.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3047758",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Trajectory[]Three-dimensional displays[]Target tracking[]Propulsion[]Unmanned aerial vehicles[]Video surveillance[]Rotors"
+    },
+    {
+        "title": "Efficient JPEG Batch Steganography Using Intrinsic Energy of Image Contents.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3109464",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Transform coding[]Payloads[]Resource management[]Security[]Discrete cosine transforms[]Distortion[]Energy measurement"
+    },
+    {
+        "title": "FT-MDnet: A Deep-Frozen Transfer Learning Framework for Person Search.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3113517",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Feature extraction[]Task analysis[]Detectors[]Transfer learning[]Training[]IP networks[]Object detection"
+    },
+    {
+        "title": "Detection of Electric Network Frequency in Audio Recordings-From Theory to Practical Detectors.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3009579",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Detectors[]Forensics[]Audio recording[]Gaussian noise[]Interference[]Passband[]Time-domain analysis"
+    },
+    {
+        "title": "Robust ENF Estimation Based on Harmonic Enhancement and Maximum Weight Clique.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3099697",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Harmonic analysis[]Maximum likelihood estimation[]Frequency estimation[]Forensics[]Audio recording[]Power system harmonics[]Signal to noise ratio"
+    },
+    {
+        "title": "Flow Misleading: Worm-Hole Attack in Software-Defined Networking via Building In-Band Covert Channel.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3013093",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Wireless sensor networks[]Relays[]Network topology[]Protocols[]Software[]Topology"
+    },
+    {
+        "title": "Multi-Agent Reinforcement Learning-Based Buffer-Aided Relay Selection in IRS-Assisted Secure Cooperative Networks.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3103062",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Relays[]Optimization[]Delays[]Cooperative systems[]Throughput[]Rician channels[]Reinforcement learning"
+    },
+    {
+        "title": "PFA-GAN: Progressive Face Aging With Generative Adversarial Network.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3047753",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Faces[]Aging[]Generative adversarial networks[]Manifolds[]Image quality[]Facial features[]Training"
+    },
+    {
+        "title": "Hunting Vulnerable Smart Contracts via Graph Embedding Based Bytecode Matching.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3050051",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Smart contracts[]Task analysis[]Interference[]Blockchain[]Prototypes[]Business[]Virtual machining"
+    },
+    {
+        "title": "Learning Joint and Specific Patterns: A Unified Sparse Representation for Off-the-Person ECG Biometric Recognition.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3006384",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "lectrocardiography[]Biometrics (access control)[]Feature extraction[]Training[]Pattern recognition[]Electrodes[]Learning systems"
+    },
+    {
+        "title": "Duplicity Games for Deception Design With an Application to Insider Threat Mitigation.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3118886",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Security[]Computer security[]Generators[]Modulation[]Servers[]Costs[]Bayes methods[]Trust management"
+    },
+    {
+        "title": "Unexpected Information Leakage of Differential Privacy Due to the Linear Property of Queries.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3075843",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Privacy[]Differential privacy[]Sensitivity[]Correlation[]Testing[]National Institutes of Health[]Switches"
+    },
+    {
+        "title": "PBGAN: Learning PPG Representations From GAN for Time-Stable and Unique Verification System.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3122817",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "lectrocardiography[]Biometrics (access control)[]Feature extraction[]Databases[]Generative adversarial networks[]Support vector machines[]Brain modeling"
+    },
+    {
+        "title": "Evaluation of the Time Stability and Uniqueness in PPG-Based Biometric System.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3006313",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Databases[]Electrocardiography[]Biometrics (access control)[]Authentication[]Deep learning[]Physiology[]Feature extraction"
+    },
+    {
+        "title": "Mobility-Assisted Covert Communication Over Wireless Ad Hoc Networks.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3045132",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Throughput[]Aggregates[]Wireless communication[]Mobile nodes[]Communication system security[]Upper bound[]Unmanned vehicles"
+    },
+    {
+        "title": "TRACE: Enterprise-Wide Provenance Tracking for Real-Time APT Detection.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3098977",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Linux[]Kernel[]Real-time systems[]Runtime[]Instruments[]Data structures[]Sockets"
+    },
+    {
+        "title": "Imbalanced Data Problems in Deep Learning-Based Side-Channel Attacks: Analysis and Solution.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3092050",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Training[]Measurement[]Deep learning[]Side-channel attacks[]Shape[]Licenses[]Indium tin oxide"
+    },
+    {
+        "title": "Detection of Message Injection Attacks Onto the CAN Bus Using Similarities of Successive Messages-Sequence Graphs.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3098162",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Security[]Automobiles[]Connected vehicles[]Protocols[]Safety[]Universal Serial Bus[]Time-frequency analysis"
+    },
+    {
+        "title": "Context-Aware Local Information Privacy.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3087350",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Data privacy[]Lips[]Privacy[]Additive noise[]Mutual information[]Data models[]Random variables"
+    },
+    {
+        "title": "Jamming Resilient Tracking Using POMDP-Based Detection of Hidden Targets.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3027145",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Jamming[]Radar tracking[]Target tracking[]Radar cross-sections[]Games[]Bayes methods"
+    },
+    {
+        "title": "Boundary Defense Against Cyber Threat for Power System State Estimation.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3043065",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Power grids[]Robustness[]Sensors[]Power system reliability[]State estimation[]Computer crime[]Optimization"
+    },
+    {
+        "title": "GapFinder: Finding Inconsistency of Security Information From Unstructured Text.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3003570",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Malware[]Computer security[]Semantics[]Text mining[]Blogs"
+    },
+    {
+        "title": "Insider Threat Modeling: An Adversarial Risk Analysis Approach.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3029898",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Games[]Game theory[]Organizations[]Risk analysis[]Uncertainty[]Security[]Analytical models"
+    },
+    {
+        "title": "Study of Pre-Processing Defenses Against Adversarial Attacks on State-of-the-Art Speaker Recognition Systems.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3116438",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Training[]Psychoacoustic models[]Speaker recognition[]Robustness[]Neural networks[]Smoothing methods[]Perturbation methods"
+    },
+    {
+        "title": "Comments on &quot;Fixed Region Beamforming Using Frequency Diverse Subarray for Secure mmWave Wireless Communications&quot;.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3066296",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Noise measurement[]Array signal processing[]Antenna arrays[]Precoding[]Signal to noise ratio[]Antennas[]Wireless communication"
+    },
+    {
+        "title": "LMZMPM: Local Modified Zernike Moment Per-Unit Mass for Robust Human Face Recognition.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3015552",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Face recognition[]Face[]Lighting[]Feature extraction[]Robustness[]Shape[]Databases"
+    },
+    {
+        "title": "Rebuttal to &quot;Comments on Random Distance Method Generating Unimodal and Multimodal Cancelable Biometric Features&quot;.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3081264",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "ntropy[]Databases[]Performance evaluation[]Iris recognition[]Face recognition[]Biometrics (access control)[]Security"
+    },
+    {
+        "title": "Inverting Binarizations of Facial Templates Produced by Deep Learning (and Its Implications).",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3103056",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Biometrics (access control)[]Image reconstruction[]Feature extraction[]Entropy[]Authentication[]Privacy[]Password"
+    },
+    {
+        "title": "Utilizing and Extending Trusted Execution Environment in Heterogeneous SoCs for a Pay-Per-Device IP Licensing Scheme.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3058777",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "P networks[]Field programmable gate arrays[]Cryptography[]Licenses[]Security[]Tools[]Encryption"
+    },
+    {
+        "title": "End-to-End Domain Adaptive Attention Network for Cross-Domain Person Re-Identification.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3088012",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Adaptive systems[]Adaptation models[]Cameras[]Generative adversarial networks[]Transforms[]Task analysis[]Lighting"
+    },
+    {
+        "title": "On the Efficient Estimation of Min-Entropy.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3070424",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "ntropy[]NIST[]Estimation[]Computational complexity[]Closed-form solutions[]Cryptography[]Random variables"
+    },
+    {
+        "title": "Crypto-Aided MAP Test for Low-Latency Detection of False Data in Short Packets.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3118887",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Cryptography[]Wireless communication[]Relay networks (telecommunication)[]Codes[]Message authentication[]Low latency communication[]Internet of Things"
+    },
+    {
+        "title": "BottleNet: Hiding Network Bottlenecks Using SDN-Based Topology Deception.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3075845",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Topology[]Network topology[]Measurement[]Servers[]Tools[]Robustness[]Heuristic algorithms"
+    },
+    {
+        "title": "Hybrid Analog-Digital Precoder Design for Securing Cognitive Millimeter Wave Networks.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3039697",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Optimization[]Couplings[]Heuristic algorithms[]Security[]Interference[]Approximation algorithms[]Linear programming"
+    },
+    {
+        "title": "Improved LPD Characteristics for QS-DS-CDMA Employing Randomization Techniques.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3114065",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Multiaccess communication[]Codes[]Correlation[]Synchronization[]Receivers[]Security[]Zero correlation zone"
+    },
+    {
+        "title": "Finger Vein Pulsation-Based Biometric Recognition.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3122073",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Veins[]Videos[]Feature extraction[]Biometrics (access control)[]Image recognition[]Neural networks[]Fingerprint recognition"
+    },
+    {
+        "title": "Finding the Needle in the Haystack: Metrics for Best Trace Selection in Unsupervised Side-Channel Attacks on Blinded RSA.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3074884",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Complexity theory[]Entropy[]Power measurement[]Cryptography[]Principal component analysis[]Measurement[]Side-channel attacks"
+    },
+    {
+        "title": "Evidence of Task-Independent Person-Specific Signatures in EEG Using Subspace Techniques.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2021.3067998",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "lectroencephalography[]Task analysis[]Biometrics (access control)[]Protocols[]Testing[]Brain modeling[]Continuous wavelet transforms"
+    },
+    {
+        "title": "The P-DESTRE: A Fully Annotated Dataset for Pedestrian Detection, Tracking, and Short/Long-Term Re-Identification From Aerial Devices.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIFS.2020.3040881",
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "journal_shorter_form": "TIFS",
+        "keywords": "Surveillance[]Cameras[]Drones[]TV[]Object detection[]Head[]Search problems"
+    }
+]

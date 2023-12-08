@@ -1,0 +1,1842 @@
+[
+    {
+        "title": "Taskflow: A Lightweight Parallel and Heterogeneous Task Graph Computing System.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3104255",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Task analysis[]Parallel processing[]Graphics processing units[]Computational modeling[]Programming[]Solid modeling[]Runtime"
+    },
+    {
+        "title": "$TC-Stream$TC-Stream: Large-Scale Graph Triangle Counting on a Single Machine Using GPUs.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3135329",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Graphics processing units[]Instruction sets[]Computer architecture[]Parallel processing[]Task analysis[]Partitioning algorithms[]Data mining"
+    },
+    {
+        "title": "Elastic Resource Allocation Against Imbalanced Transaction Assignments in Sharding-Based Permissioned Blockchains.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3141737",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Blockchains[]Protocols[]Stability analysis[]Throughput[]Numerical stability[]Bitcoin[]Scalability"
+    },
+    {
+        "title": "libEnsemble: A Library to Coordinate the Concurrent Evaluation of Dynamic Ensembles of Calculations.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3082815",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Generators[]Resource management[]Libraries[]Optimization[]Arrays[]History[]Concurrent computing"
+    },
+    {
+        "title": "Enabling Large Scale Simulations for Particle Accelerators.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3192707",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Radio frequency[]Particle beams[]Synchrotrons[]Physics[]Computational modeling[]Voltage[]Large Hadron Collider"
+    },
+    {
+        "title": "Repurposing GPU Microarchitectures with Light-Weight Out-Of-Order Execution.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3093231",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Graphics processing units[]Kernel[]Out of order[]Computer architecture[]Parallel processing[]Context[]Resource management"
+    },
+    {
+        "title": "Performance and Cost-Efficient Spark Job Scheduling Based on Deep Reinforcement Learning in Cloud Computing Environments.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3124670",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Sparks[]Cloud computing[]Costs[]Task analysis[]Service level agreements[]Big Data[]Reinforcement learning"
+    },
+    {
+        "title": "Coarse Grained FPGA Overlay for Rapid Just-In-Time Accelerator Compilation.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3116859",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Field programmable gate arrays[]Kernel[]Computer architecture[]Hardware[]Runtime[]Performance evaluation[]Throughput"
+    },
+    {
+        "title": "Astrea: Auto-Serverless Analytics Towards Cost-Efficiency and QoS-Awareness.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3172069",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Costs[]Serverless computing[]Data analysis[]Quality of service[]Optimization[]Machine learning[]Parallel processing"
+    },
+    {
+        "title": "Batch Crowdsourcing for Complex Tasks Based on Distributed Team Formation in E-Markets.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3161019",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Task analysis[]Crowdsourcing[]Social networking (online)[]Costs[]Training[]NP-hard problem[]Reliability"
+    },
+    {
+        "title": "Real-Time Scheduling of Parallel Task Graphs With Critical Sections Across Different Vertices.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3179328",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Task analysis[]Real-time systems[]Protocols[]System recovery[]Analytical models[]Heuristic algorithms[]Computational modeling"
+    },
+    {
+        "title": "Fast and Accurate Statistical Simulation of Shared-Memory Applications on Multicore Systems.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3143535",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "nstruction sets[]Computational modeling[]Multicore processing[]Synchronization[]Computer architecture[]Message systems[]Benchmark testing"
+    },
+    {
+        "title": "Efficient and Automated Deployment Architecture for OpenStack in TianHe SuperComputing Environment.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3127128",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Cloud computing[]Containers[]Computer architecture[]Tools[]Servers[]Clustering algorithms[]Resource management"
+    },
+    {
+        "title": "Parallel and Distributed Structured SVM Training.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3101155",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Training[]Optimization[]Support vector machines[]Task analysis[]Convergence[]Synchronization[]Natural languages"
+    },
+    {
+        "title": "DH-SVRF: A Reconfigurable Unicast/Multicast Forwarding for High-Performance Packet Forwarding Engines.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3108899",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "ngines[]Routing[]Unicast[]Scalability[]Multicast algorithms[]Switches[]Filtering algorithms"
+    },
+    {
+        "title": "ReHy: A ReRAM-Based Digital/Analog Hybrid PIM Architecture for Accelerating CNN Training.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3138087",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Training[]Convolutional neural networks[]Computer architecture[]Parallel processing[]Resistance[]Memristors[]Arrays"
+    },
+    {
+        "title": "$run$ runData: Re-Distributing Data via Piggybacking for Geo-Distributed Data Analytics Over Edges.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3086274",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Task analysis[]Data analysis[]Wide area networks[]Data models[]Servers[]Optimization[]Videos"
+    },
+    {
+        "title": "PS+: A Simple yet Effective Framework for Fast Training on Parameter Server.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3200518",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Training[]Servers[]Synchronization[]Computational modeling[]Hardware[]Data models[]Computational efficiency"
+    },
+    {
+        "title": "SciSpot: Scientific Computing On Temporally Constrained Cloud Preemptible VMs.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3157272",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Cloud computing[]Computational modeling[]Transient analysis[]Internet[]Servers[]Costs[]Analytical models"
+    },
+    {
+        "title": "Execution Time Estimation of Multithreaded Programs With Critical Sections.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3143455",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Codes[]Message systems[]Instruction sets[]Estimation[]Delays[]Computational modeling[]Synchronization"
+    },
+    {
+        "title": "Communicational and Computational Efficient Federated Domain Adaptation.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3167457",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Feature extraction[]Training[]Adaptation models[]Computational modeling[]Data models[]Optimization methods[]Transfer learning"
+    },
+    {
+        "title": "VCSR: An Efficient GPU Memory-Aware Sparse Format.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3177291",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Graphics processing units[]Sparse matrices[]Kernel[]Instruction sets[]Libraries[]Parallel processing[]Indexes"
+    },
+    {
+        "title": "Design and Implementation of 2D Convolution on x86/x64 Processors.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3171471",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Convolution[]Kernel[]Libraries[]Optimization[]Codes[]Registers[]Quantization (signal)"
+    },
+    {
+        "title": "A Parallel Algorithm Template for Updating Single-Source Shortest Paths in Large-Scale Dynamic Networks.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3084096",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Heuristic algorithms[]Graphics processing units[]Parallel algorithms[]Synchronization[]Multicore processing[]Complexity theory[]Wireless sensor networks"
+    },
+    {
+        "title": "Silent-PIM: Realizing the Processing-in-Memory Computing With Standard Memory Requests.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3065365",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Random access memory[]Standards[]Performance evaluation[]Memory management[]Timing[]Engines[]Field programmable gate arrays"
+    },
+    {
+        "title": "Cooperative Scheduling Schemes for Explainable DNN Acceleration in Satellite Image Analysis and Retraining.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3122454",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "null"
+    },
+    {
+        "title": "Critique of &quot;MemXCT: Memory-Centric X-Ray CT Reconstruction With Massive Parallelization&quot; by SCC Team From ETH Z\u00fcrich.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3127711",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "null"
+    },
+    {
+        "title": "A Highly-Available Move Operation for Replicated Trees.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3118603",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "nternet[]Synchronization[]Computer bugs[]XML[]Software[]Drives[]Data models"
+    },
+    {
+        "title": "Mapping-Aware Kernel Partitioning Method for CGRAs Assisted by Deep Learning.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3107746",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Registers[]Partitioning algorithms[]Arrays[]Routing[]Optimization[]Estimation[]Pipelines"
+    },
+    {
+        "title": "On Mixing Eventual and Strong Consistency: Acute Cloud Types.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3090318",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Semantics[]Protocols[]Synchronization[]Data structures[]Reactive power[]Servers[]Scalability"
+    },
+    {
+        "title": "LB4OMP: A Dynamic Load Balancing Library for Multithreaded Applications.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3107775",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Dynamic scheduling[]Processor scheduling[]Parallel processing[]Optimal scheduling[]Libraries[]Standards[]Load management"
+    },
+    {
+        "title": "Ethernet for High-Throughput Computing at CERN.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3163472",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "thernet[]Filtering[]Throughput[]Real-time systems[]Servers[]Protocols[]Large Hadron Collider"
+    },
+    {
+        "title": "HEROv2: Full-Stack Open-Source Research Platform for Heterogeneous Computing.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3189390",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Hardware[]Program processors[]Codes[]Computers[]System-on-chip[]Programming[]Engines"
+    },
+    {
+        "title": "State Space Model and Queuing Network Based Cloud Resource Provisioning for Meshed Web Systems.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3170834",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Queueing analysis[]Feedback control[]Control theory[]Time factors[]Cloud computing[]Service level agreements[]Predictive models"
+    },
+    {
+        "title": "Exploring the Galaxyfly Family to Build Flexible-Scale Interconnection Networks.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3100783",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Topology[]Network topology[]Multiprocessor interconnection[]Scalability[]Generators[]Routing[]Power demand"
+    },
+    {
+        "title": "Critique of &quot;MemXCT: Memory-Centric X-Ray CT Reconstruction With Massive Parallelization&quot; by SCC Team From University of California San Diego.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3128840",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Graphics processing units[]Bandwidth[]Optimization[]Performance evaluation[]Random access memory[]Hardware[]Codes"
+    },
+    {
+        "title": "$f$funcX: Federated Function as a Service for Science.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3208767",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Containers[]Computational modeling[]Task analysis[]Registers[]Python[]Cloud computing[]Supercomputers"
+    },
+    {
+        "title": "Fast Proactive Repair in Erasure-Coded Storage: Analysis, Design, and Implementation.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3152817",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Maintenance engineering[]Codes[]Encoding[]Redundancy[]Production[]Bandwidth[]Schedules"
+    },
+    {
+        "title": "Bridging the Gap between Deep Learning and Frustrated Quantum Spin System for Extreme-Scale Simulations on New Generation of Sunway Supercomputer.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3145163",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Quantum system[]Lattices[]Supercomputers[]Stationary state[]Wave functions[]Monte Carlo methods[]Convolutional neural networks"
+    },
+    {
+        "title": "Artemis: A Latency-Oriented Naming and Routing System.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3207189",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Servers[]Routing[]IP networks[]Internet[]Delays[]Data centers[]Overlay networks"
+    },
+    {
+        "title": "SmartVM: A Smart Contract Virtual Machine for Fast On-Chain DNN Computations.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3177405",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Smart contracts[]Blockchains[]Virtual machining[]Convolutional neural networks[]Convolution[]Task analysis[]Random access memory"
+    },
+    {
+        "title": "Benchmarking 50-Photon Gaussian Boson Sampling on the Sunway TaihuLight.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3111185",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Quantum computing[]Photonics[]Benchmark testing[]Supercomputers[]Detectors[]Computational modeling[]Standards"
+    },
+    {
+        "title": "Efficient Data Redistribution Algorithms From Irregular to Block Cyclic Data Distribution.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3166484",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Arrays[]Program processors[]Processor scheduling[]Iterative methods[]Heuristic algorithms[]Eigenvalues and eigenfunctions[]Task analysis"
+    },
+    {
+        "title": "PhaST: Hierarchical Concurrent Log-Free Skip List for Persistent Memory.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3173707",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "ndexing[]Random access memory[]Concurrent computing[]Vegetation[]Performance evaluation[]Concurrency control[]Bandwidth"
+    },
+    {
+        "title": "Critique of &quot;MemXCT: Memory-Centric X-Ray CT Reconstruction With Massive Parallelization&quot; by SCC Team From Nanyang Technological University.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3128040",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Graphics processing units[]Bandwidth[]Sockets[]Image reconstruction[]Computed tomography[]Scalability[]Performance evaluation"
+    },
+    {
+        "title": "SPRINT: A High-Performance, Energy-Efficient, and Scalable Chiplet-Based Accelerator With Photonic Interconnects for CNN Inference.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3139015",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Photonics[]Convolutional neural networks[]Optical waveguides[]Optical switches[]Optical filters[]Convolution[]Optical network units"
+    },
+    {
+        "title": "Completely Independent Spanning Trees on BCCC Data Center Networks With an Application to Fault-Tolerant Routing.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3133595",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Servers[]Routing[]Fault tolerant systems[]Fault tolerance[]Data centers[]Compounds[]Ad hoc networks"
+    },
+    {
+        "title": "Maximizing User Service Satisfaction for Delay-Sensitive IoT Applications in Edge Computing.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3107137",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "nternet of Things[]Task analysis[]Cloud computing[]Delays[]Heuristic algorithms[]Approximation algorithms[]Bandwidth"
+    },
+    {
+        "title": "Predicting Throughput of Distributed Stochastic Gradient Descent.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3151739",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Computational modeling[]Predictive models[]Training[]Throughput[]Servers[]Computer architecture[]Uplink"
+    },
+    {
+        "title": "Blockchain Assisted Decentralized Federated Learning (BLADE-FL): Performance Analysis and Resource Allocation.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3138848",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "null"
+    },
+    {
+        "title": "Topology-Aware Neural Model for Highly Accurate QoS Prediction.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3116865",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "null"
+    },
+    {
+        "title": "Pistis: Issuing Trusted and Authorized Certificates With Distributed Ledger and TEE.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3121562",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Smart contracts[]Blockchains[]Distributed ledger[]Public key[]Servers[]Internet[]Software"
+    },
+    {
+        "title": "Multi-Swarm Co-Evolution Based Hybrid Intelligent Optimization for Bi-Objective Multi-Workflow Scheduling in the Cloud.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3122428",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Task analysis[]Cloud computing[]Costs[]Optimization[]Heuristic algorithms[]Quality of service[]Dynamic scheduling"
+    },
+    {
+        "title": "An Accurate and Efficient Large-Scale Regression Method Through Best Friend Clustering.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3134336",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Clustering algorithms[]Training[]Mathematical models[]Computational modeling[]Libraries[]Kernel[]Support vector machines"
+    },
+    {
+        "title": "Efficient and Secure Deep Learning Inference in Trusted Processor Enabled Edge Clouds.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3187772",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Task analysis[]Security[]Servers[]Memory management[]Dispatching[]Deep learning[]Computational modeling"
+    },
+    {
+        "title": "Privacy-Preserving Efficient Federated-Learning Model Debugging.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3137321",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Training[]Data models[]Adaptation models[]Debugging[]Computational modeling[]Training data[]Predictive models"
+    },
+    {
+        "title": "SGCNAX: A Scalable Graph Convolutional Neural Network Accelerator With Workload Balancing.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3133691",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Random access memory[]Optimization[]Engines[]Registers[]Neural networks[]Computational modeling[]Accelerator architectures"
+    },
+    {
+        "title": "Joint Application Placement and Request Routing Optimization for Dynamic Edge Computing Service Management.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3195205",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Servers[]Cloud computing[]Optimization[]Routing[]Costs[]Heuristic algorithms[]Delays"
+    },
+    {
+        "title": "Decentralized Edge Intelligence: A Dynamic Resource Allocation Framework for Hierarchical Federated Learning.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3096076",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Training[]Computational modeling[]Resource management[]Magnetic heads[]Data models[]Games[]Servers"
+    },
+    {
+        "title": "Accelerating Large Sparse Neural Network Inference Using GPU Task Graph Parallelism.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3138856",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Graphics processing units[]Kernel[]Task analysis[]Parallel processing[]Programming[]Neurons[]Data models"
+    },
+    {
+        "title": "FFNLFD: Fault Diagnosis of Multiprocessor Systems at Local Node With Fault-Free Neighbors Under PMC Model and MM* Model.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3126257",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Multiprocessing systems[]Hypercubes[]Data models[]Fault diagnosis[]Data centers[]Computer science[]Computer crime"
+    },
+    {
+        "title": "A Pessimistic Fault Diagnosability of Large-Scale Connected Networks via Extra Connectivity.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3093243",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Hypercubes[]Fault tolerant systems[]Fault tolerance[]Mathematical model[]Fault diagnosis[]Multiprocessing systems[]Informatics"
+    },
+    {
+        "title": "Accelerating Restarted GMRES With Mixed Precision Arithmetic.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3090757",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "null"
+    },
+    {
+        "title": "High Performance Evaluation of Helmholtz Potentials Using the Multi-Level Fast Multipole Algorithm.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3165649",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Costs[]Parallel algorithms[]Electric potential[]Mathematical models[]Octrees[]Machine-to-machine communications[]Kernel"
+    },
+    {
+        "title": "Optimizing Error-Bounded Lossy Compression for Scientific Data With Diverse Constraints.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3194695",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Data models[]Compressors[]Quantization (signal)[]Predictive models[]Analytical models[]Encoding[]Dark matter"
+    },
+    {
+        "title": "Addictive Incentive Mechanism in Crowdsensing From the Perspective of Behavioral Economics.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3104247",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Task analysis[]Sensors[]Economics[]Crowdsensing[]Computer science[]Monitoring[]Maintenance engineering"
+    },
+    {
+        "title": "Parallel and Asynchronous Smart Contract Execution.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3095234",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Blockchain[]Smart contracts[]Servers[]Cryptography[]Protocols[]Throughput[]Bitcoin"
+    },
+    {
+        "title": "Reproducibility: Performance Evaluation of MemXCT on Azure CycleCloud Platform.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3127450",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "null"
+    },
+    {
+        "title": "Busy-Time Scheduling on Heterogeneous Machines: Algorithms and Analysis.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3176665",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Costs[]Approximation algorithms[]Scheduling[]Cloud computing[]Servers[]Schedules[]Optimal scheduling"
+    },
+    {
+        "title": "Improving Fairness for SSD Devices through DRAM Over-Provisioning Cache Management.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3143295",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Ash[]Random access memory[]Nonvolatile memory[]Hardware[]Writing[]Time factors[]Organizations"
+    },
+    {
+        "title": "PayDebt: Reduce Buffer Occupancy Under Bursty Traffic on Large Clusters.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3202504",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "null"
+    },
+    {
+        "title": "Deep Reinforcement Learning for Load-Balancing Aware Network Control in IoT Edge Systems.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3116863",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Servers[]Internet of Things[]Image edge detection[]Computational modeling[]Sensors[]Data models[]Long short term memory"
+    },
+    {
+        "title": "ScaleFlux: Efficient Stateful Scaling in NFV.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3204209",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Logic gates[]Bandwidth[]Service level agreements[]Packet loss[]Computer science[]Cloud computing[]Wide area networks"
+    },
+    {
+        "title": "Robustness of Subsystem Reliability of $k$k-Ary $n$n-Cube Networks Under Probabilistic Fault Model.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3199251",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Reliability[]Topology[]Probabilistic logic[]Computer network reliability[]Robustness[]Program processors[]Multiprocessing systems"
+    },
+    {
+        "title": "Exploring Query Processing on CPU-GPU Integrated Edge Device.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3177811",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Graphics processing units[]Query processing[]Performance evaluation[]Computer architecture[]Databases[]Structured Query Language[]Engines"
+    },
+    {
+        "title": "Coordinating Fast Concurrency Adapting With Autoscaling for SLO-Oriented Web Applications.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3151512",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Concurrent computing[]Servers[]Hardware[]Throughput[]Time factors[]Resource management[]Topology"
+    },
+    {
+        "title": "A Global Cost-Aware Container Scheduling Strategy in Cloud Data Centers.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3133868",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Containers[]Costs[]Cloud computing[]Servers[]Power demand[]Data centers[]Scheduling"
+    },
+    {
+        "title": "Communication-Efficient $k$k-Means for Edge-Based Machine Learning.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3144595",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Costs[]Soft sensors[]Approximation algorithms[]Servers[]Quantization (signal)[]Dimensionality reduction[]Heuristic algorithms"
+    },
+    {
+        "title": "Optimizing Depthwise Separable Convolution Operations on GPUs.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3084813",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Convolution[]Graphics processing units[]Instruction sets[]Kernel[]Standards[]Training[]Registers"
+    },
+    {
+        "title": "TridentKV: A Read-Optimized LSM-Tree Based KV Store via Adaptive Indexing and Space-Efficient Partitioning.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3118599",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "ndexing[]Performance evaluation[]Optimization[]Metadata[]Training[]Nonvolatile memory[]Concurrent computing"
+    },
+    {
+        "title": "Online Thread Auto-Tuning for Performance Improvement and Resource Saving.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3169410",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Optimization[]Instruction sets[]Scalability[]Market research[]Benchmark testing[]Tuning[]Runtime"
+    },
+    {
+        "title": "zMesh: Theories and Methods to Exploring Application Characteristics to Improve Lossy Compression Ratio for Adaptive Mesh Refinement.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3168386",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Data models[]1/f noise[]Layout[]Solid modeling[]Data compression[]Computational modeling[]Compressors"
+    },
+    {
+        "title": "An In-Depth Study of Microservice Call Graph and Runtime Performance.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3174631",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Microservice architectures[]Runtime[]Containers[]Interference[]Topology[]Production[]Memory management"
+    },
+    {
+        "title": "Microservice Deployment in Edge Computing Based on Deep Q Learning.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3150311",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Microservice architectures[]Containers[]Load modeling[]Edge computing[]Time factors[]Load management[]Scalability"
+    },
+    {
+        "title": "A Survey of Storage Systems in the RDMA Era.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3188656",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Semantics[]Random access memory[]Protocols[]Hardware[]Programming[]Performance evaluation[]File systems"
+    },
+    {
+        "title": "Differentially Private Byzantine-Robust Federated Learning.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3167434",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Collaborative work[]Privacy[]Servers[]Differential privacy[]Computational modeling[]Training[]Data models"
+    },
+    {
+        "title": "Towards Revenue-Driven Multi-User Online Task Offloading in Edge Computing.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3105325",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "null"
+    },
+    {
+        "title": "DePo: Dynamically Offload Expensive Event Processing to the Edge of Cyber-Physical Systems.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3135441",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Task analysis[]Image edge detection[]Cyber-physical systems[]Servers[]Heuristic algorithms[]Data models[]Transforms"
+    },
+    {
+        "title": "Performant, Multi-Objective Scheduling of Highly Interleaved Task Graphs on Heterogeneous System on Chip Devices.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3135876",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Task analysis[]Heuristic algorithms[]Runtime[]Dynamic scheduling[]Scheduling algorithms[]Schedules[]Optimal scheduling"
+    },
+    {
+        "title": "Scalable, Confidential and Survivable Software Updates.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3090330",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Software[]Proposals[]Encryption[]Servers[]Authentication[]Access control[]Protocols"
+    },
+    {
+        "title": "Decentralized Application Placement in Fog Computing.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3148985",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Peer-to-peer computing[]Cloud computing[]Optimization[]Scalability[]Edge computing[]Task analysis[]Bandwidth"
+    },
+    {
+        "title": "Secure Deep Neural Network Models Publishing Against Membership Inference Attacks Via Training Task Parallelism.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3129612",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Computational modeling[]Data models[]Publishing[]Training[]Privacy[]Deep learning[]Analytical models"
+    },
+    {
+        "title": "A Native Tensor-Vector Multiplication Algorithm for High Performance Computing.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3153113",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Tensors[]Kernel[]Libraries[]Bandwidth[]Virtual machine monitors[]Layout[]Benchmark testing"
+    },
+    {
+        "title": "PPOAccel: A High-Throughput Acceleration Framework for Proximal Policy Optimization.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3134709",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Conferences[]Portable document format[]Indexes[]Typesetting[]Loading[]Web sites[]Warranties"
+    },
+    {
+        "title": "Automatic Generation of High-Performance Convolution Kernels on ARM CPUs for Deep Learning.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3146257",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Convolution[]Program processors[]Libraries[]Tensors[]Shape[]Codes[]Artificial intelligence"
+    },
+    {
+        "title": "Design and Performance Characterization of RADICAL-Pilot on Leadership-Class Platforms.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3105994",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Task analysis[]Runtime[]Resource management[]Parallel processing[]Tools[]Throughput[]Programming"
+    },
+    {
+        "title": "Multi-Task Federated Learning for Personalised Deep Neural Networks in Edge Computing.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3098467",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Training[]Servers[]Data models[]Optimization[]Convergence[]Computational modeling[]Adaptation models"
+    },
+    {
+        "title": "Efficient, Dynamic Multi-Task Execution on FPGA-Based Computing Systems.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3101153",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Task analysis[]Field programmable gate arrays[]Runtime[]Throughput[]Resource management[]Dynamic scheduling[]Space exploration"
+    },
+    {
+        "title": "The Supermarket Model With Known and Predicted Service Times.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3146195",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Queueing analysis[]Predictive models[]Analytical models[]Load modeling[]Standards[]Prediction algorithms[]Machine learning"
+    },
+    {
+        "title": "Automated Scheduling Algorithm Selection and Chunk Parameter Calculation in OpenMP.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3189270",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "null"
+    },
+    {
+        "title": "A Low-Power Transprecision Floating-Point Cluster for Efficient Near-Sensor Data Analytics.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3101764",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Hardware[]Dynamic range[]Pipelines[]Open area test sites[]Optimization[]Open source software[]Energy consumption"
+    },
+    {
+        "title": "Evaluating Spatial Accelerator Architectures with Tiled Matrix-Matrix Multiplication.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3104240",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "nel[]Analytical models[]Runtime[]Hardware[]Shape[]Parallel processing[]Sparse matrices"
+    },
+    {
+        "title": "Timed Loops for Distributed Storage in Wireless Networks.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3100780",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "nternet of Things[]Delays[]Task analysis[]Servers[]Performance evaluation[]Hardware[]Computer architecture"
+    },
+    {
+        "title": "Coordinated Batching and DVFS for DNN Inference on GPU Accelerators.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3144614",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Throughput[]Graphics processing units[]Power demand[]Runtime[]Bayes methods[]Resource management[]Optimization"
+    },
+    {
+        "title": "Reputation-Aware Hedonic Coalition Formation for Efficient Serverless Hierarchical Federated Learning.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3139039",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Magnetic heads[]Servers[]Training[]Base stations[]Costs[]Computational modeling[]Collaborative work"
+    },
+    {
+        "title": "Efficient Renaming in Sequence CRDTs.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3172570",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Peer-to-peer computing[]Data structures[]Metadata[]Collaboration[]Semantics[]Real-time systems[]Distributed databases"
+    },
+    {
+        "title": "PostMan: Rapidly Mitigating Bursty Traffic via On-Demand Offloading of Packet Processing.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3092266",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Servers[]Bandwidth[]Throughput[]Redundancy[]Load management[]Linux[]Computer science"
+    },
+    {
+        "title": "A Bayesian Approach To Distributed Anomaly Detection In Edge AI Networks.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3151853",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Bayes methods[]Anomaly detection[]Training[]Image edge detection[]Distributed databases[]Data models[]Computational modeling"
+    },
+    {
+        "title": "Network Cost-Aware Geo-Distributed Data Analytics System.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3108893",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Task analysis[]Data transfer[]Bandwidth[]Wide area networks[]Sparks[]Iridium[]Distributed databases"
+    },
+    {
+        "title": "Guest Editorial: Special Section on Parallel and Distributed Computing Techniques for Non-Von Neumann Technologies.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3093148",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Special issues and sections[]Computer architecture[]Neuromorphic engineering[]Computational modeling[]Distributed computing[]Memory[]Deep learning[]Hardware"
+    },
+    {
+        "title": "G-SLIDE: A GPU-Based Sub-Linear Deep Learning Engine via LSH Sparsification.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3132493",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Graphics processing units[]Training[]Deep learning[]Neurons[]Biological neural networks[]Engines[]Message systems"
+    },
+    {
+        "title": "Exploring Data Analytics Without Decompression on Embedded GPU Systems.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3119402",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Graphics processing units[]Embedded systems[]Data analysis[]Parallel processing[]Instruction sets[]Optimization[]Random access memory"
+    },
+    {
+        "title": "EXA2PRO: A Framework for High Development Productivity on Heterogeneous Computing Systems.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3104257",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Programming[]Skeleton[]Computational modeling[]Runtime[]Exascale computing[]Task analysis[]Productivity"
+    },
+    {
+        "title": "Addressing the Read-Performance Impact of Reconfigurations in Replicated Key-Value Stores.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3135137",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Switches[]Reliability[]Task analysis[]Production systems[]Performance evaluation[]Memory management[]Market research"
+    },
+    {
+        "title": "EiC Editorial - Advancing Reproducibility in Parallel and Distributed Systems Research.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3137871",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "null"
+    },
+    {
+        "title": "DLS: A Fast and Flexible Neural Network Training System With Fine-grained Heterogeneous Device Orchestration.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3144453",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Artificial neural networks[]Training[]Performance evaluation[]Field programmable gate arrays[]Device-to-device communication[]Task analysis[]Predictive models"
+    },
+    {
+        "title": "Deep Neural Network Training With Distributed K-FAC.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3161187",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Training[]Parallel processing[]Program processors[]Convergence[]Computational modeling[]Data models[]Deep learning"
+    },
+    {
+        "title": "Inferring the Dynamics of the State Evolution During Quantum Annealing.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2020.3044846",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Annealing[]Qubit[]Schedules[]Standards[]Visualization[]Optimization[]NP-hard problem"
+    },
+    {
+        "title": "Jdebug: A Fast, Non-Intrusive and Scalable Fault Locating Tool for Ten-Million-Scale Parallel Applications.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3157690",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Debugging[]Servers[]Supercomputers[]Hardware[]Maintenance engineering[]Instruction sets[]Task analysis"
+    },
+    {
+        "title": "Enabling Scalable and Extensible Memory-Mapped Datastores in Userspace.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3086302",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Concurrent computing[]Kernel[]Databases[]Optimization[]Task analysis[]Scalability[]Prefetching"
+    },
+    {
+        "title": "Dynamic Controller/Switch Mapping: A Service Oriented Assignment Approach.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3144116",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Control systems[]Routing[]Costs[]Resilience[]Reliability[]Optimization[]Process control"
+    },
+    {
+        "title": "Critique of &quot;MemXCT: Memory-Centric X-Ray CT Reconstruction With Massive Parallelization&quot; by SCC Team From Georgia Tech.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3108956",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "null"
+    },
+    {
+        "title": "Optimized Page Fault Handling During RDMA.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3175666",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Program processors[]Costs[]Network interfaces[]Memory management[]Pins[]Programming[]Optimization"
+    },
+    {
+        "title": "Adaptive Federated Deep Reinforcement Learning for Proactive Content Caching in Edge Computing.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3201983",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Servers[]Data models[]Adaptation models[]Internet of Things[]Reinforcement learning[]Feature extraction[]Delays"
+    },
+    {
+        "title": "NetEC: Accelerating Erasure Coding Reconstruction With In-Network Aggregation.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3145836",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "ncoding[]Decoding[]Codes[]Throughput[]Task analysis[]Switches[]Bandwidth"
+    },
+    {
+        "title": "Construction of Dual-CISTs on an Infinite Class of Networks.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3132412",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Fault tolerant systems[]Fault tolerance[]Hypercubes[]Tools[]Routing[]Network topology[]Broadcasting"
+    },
+    {
+        "title": "BARM: A Batch-Aware Resource Manager for Boosting Multiple Neural Networks Inference on GPUs With Memory Oversubscription.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3199806",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Graphics processing units[]Neural networks[]Memory management[]Resource management[]Kernel[]Registers[]Random access memory"
+    },
+    {
+        "title": "Context-Aware Online Client Selection for Hierarchical Federated Learning.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3186960",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Training[]Servers[]Computational modeling[]Data models[]Computer architecture[]Convergence[]Faces"
+    },
+    {
+        "title": "Run-Time Remapping Algorithm of Dataflow Actors on NoC-Based Heterogeneous MPSoCs.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3177957",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Computer architecture[]Task analysis[]Program processors[]Computational modeling[]Behavioral sciences[]Streaming media[]Monitoring"
+    },
+    {
+        "title": "Building High-Throughput Neural Architecture Search Workflows via a Decoupled Fitness Prediction Engine.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3140681",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Training[]Artificial neural networks[]Predictive models[]Parametric statistics[]Engines[]Search problems[]Data models"
+    },
+    {
+        "title": "Content Collaborative Caching Strategy in the Edge Maintenance of Communication Network: A Joint Download Delay and Energy Consumption Method.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3179271",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Delays[]Maintenance engineering[]Energy consumption[]Servers[]Device-to-device communication[]Communication networks[]Heuristic algorithms"
+    },
+    {
+        "title": "TherMa-MiCs: Thermal-Aware Scheduling for Fault-Tolerant Mixed-Criticality Systems.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3123544",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Multicore processing[]Fault tolerant systems[]Timing[]System-on-chip[]Power demand[]Redundancy[]Quality of service[]Temperature control[]Thermal management"
+    },
+    {
+        "title": "Reliable Wide-Area Data Transfers for Streaming Workflows.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3158673",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Throughput[]Reliability[]Real-time systems[]Data transfer[]Pipeline processing[]Concurrent computing[]Optimization"
+    },
+    {
+        "title": "GraphOpt: Constrained-Optimization-Based Parallelization of Irregular Graphs.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3151194",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Parallel processing[]Task analysis[]Instruction sets[]Synchronization[]Hardware[]Optimization[]Scalability"
+    },
+    {
+        "title": "Energy-Efficient Cache-Aware Scheduling on Heterogeneous Multicore Systems.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3090587",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Multicore processing[]Task analysis[]Optimal scheduling[]Energy consumption[]Radio spectrum management[]Resource management[]Scheduling algorithms"
+    },
+    {
+        "title": "A Resource-Efficient Predictive Resource Provisioning System in Cloud Systems.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3172493",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Resource management[]Prediction algorithms[]Time series analysis[]Cloud computing[]Heuristic algorithms[]System analysis and design[]Monitoring"
+    },
+    {
+        "title": "DrTM+B: Replication-Driven Live Reconfiguration for Fast and General Distributed Transaction Processing.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3148251",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Throughput[]Fault tolerant systems[]Fault tolerance[]Protocols[]Low latency communication[]Optimization[]Distributed databases"
+    },
+    {
+        "title": "Cost-Effective Web Application Replication and Deployment in Multi-Cloud Environment.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3133884",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Cloud computing[]Costs[]Time factors[]Optimization[]Upper bound[]Pricing[]User experience"
+    },
+    {
+        "title": "Improving Cache Utilization of Nested Parallel Programs by Almost Deterministic Work Stealing.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3196192",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Task analysis[]Parallel processing[]Dynamic scheduling[]Decision trees[]Program processors[]Processor scheduling[]Runtime"
+    },
+    {
+        "title": "Monodirectional Evolutional Symport Tissue P Systems With Promoters and Cell Division.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3065397",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Biomembranes[]Computational modeling[]Skin[]NP-complete problem[]Micromechanical devices[]Biological systems[]Biological system modeling"
+    },
+    {
+        "title": "Accelerating HDF5 I/O for Exascale Using DAOS.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3097884",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Libraries[]Semantics[]Metadata[]Connectors[]Nonvolatile memory[]Middleware[]Writing"
+    },
+    {
+        "title": "Solving Consensus in True Partial Synchrony.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3156925",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Upper bound[]Fault tolerant systems[]Fault tolerance[]Transient analysis[]Synchronization[]Real-time systems[]Limiting"
+    },
+    {
+        "title": "Eiffel: Efficient and Fair Scheduling in Adaptive Federated Learning.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3187365",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Adaptation models[]Collaborative work[]Data models[]Computational modeling[]Performance evaluation[]Training[]Convergence"
+    },
+    {
+        "title": "Lossy Compression of Communication Traces Using Recurrent Neural Networks.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3132417",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Recurrent neural networks[]Sun[]Codes[]Time series analysis[]Runtime[]Pattern matching[]Libraries"
+    },
+    {
+        "title": "Look-up-Table Based Processing-in-Memory Architecture With Programmable Precision-Scaling for Deep Learning Applications.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3066909",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Computer architecture[]Random access memory[]Table lookup[]Performance evaluation[]Registers[]Parallel processing[]Optimization"
+    },
+    {
+        "title": "Cost-Efficient Workflow Scheduling Algorithm for Applications With Deadline Constraint on Heterogeneous Clouds.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3134247",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Cloud computing[]Task analysis[]Costs[]Computational modeling[]Scheduling[]Job shop scheduling[]Heuristic algorithms"
+    },
+    {
+        "title": "Transparent Asynchronous Parallel I/O Using Background Threads.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3090322",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Task analysis[]Connectors[]Libraries[]Instruction sets[]Computational modeling[]Monitoring[]Middleware"
+    },
+    {
+        "title": "FenceKV: Enabling Efficient Range Query for Key-Value Separation.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3149003",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Compaction[]Performance evaluation[]Throughput[]Metadata[]Space exploration[]Optimization[]Machine learning algorithms"
+    },
+    {
+        "title": "Modeling Speedup in Multi-OS Environments.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3114984",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "nel[]Computational modeling[]Hardware[]Analytical models[]Tools[]Linux[]Benchmark testing"
+    },
+    {
+        "title": "PushBox: Making Use of Every Bit of Time to Accelerate Completion of Data-Parallel Jobs.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3182037",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Task analysis[]Processor scheduling[]Optimal scheduling[]Semantics[]Computational modeling[]Schedules[]Resource management"
+    },
+    {
+        "title": "Endurance-Aware Mapping of Spiking Neural Networks to Neuromorphic Hardware.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3065591",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Memristors[]Neurons[]Hardware[]Synapses[]Phase change materials[]Neuromorphics[]Random access memory"
+    },
+    {
+        "title": "Kokkos 3: Programming Model Extensions for the Exascale Era.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3097283",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Programming[]Hardware[]Kernel[]Graphics processing units[]Layout[]Laboratories[]Benchmark testing"
+    },
+    {
+        "title": "Protein Structured Reservoir Computing for Spike-Based Pattern Recognition.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3068826",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Reservoirs[]Proteins[]Training[]Topology[]Three-dimensional displays[]Neurons[]Nanoscale devices"
+    },
+    {
+        "title": "Tenant-Grained Request Scheduling in Software-Defined Cloud Computing.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3199031",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Servers[]Job shop scheduling[]Cloud computing[]Scalability[]Approximation algorithms[]Scheduling algorithms[]Schedules"
+    },
+    {
+        "title": "MCDS: AI Augmented Workflow Scheduling in Mobile Edge Cloud Computing Systems.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3135907",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Quality of service[]Task analysis[]Processor scheduling[]Optimization[]Time factors[]Optimal scheduling[]Costs"
+    },
+    {
+        "title": "GOSH: Task Scheduling Using Deep Surrogate Models in Fog Computing Environments.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3136672",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Quality of service[]Adaptation models[]Optimization[]Task analysis[]Uncertainty[]Computational modeling[]Time factors"
+    },
+    {
+        "title": "COSCO: Container Orchestration Using Co-Simulation and Gradient Based Optimization for Fog Computing Environments.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3087349",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "null"
+    },
+    {
+        "title": "OptZConfig: Efficient Parallel Optimization of Lossy Compression Configuration.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3154096",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Measurement[]Compressors[]Optimization[]Distortion[]Meteorology[]Quantization (signal)[]PSNR"
+    },
+    {
+        "title": "Improving I/O Performance for Exascale Applications Through Online Data Layout Reorganization.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3100784",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Layout[]Arrays[]Heuristic algorithms[]Computational modeling[]Performance evaluation[]Optimization[]Distributed databases"
+    },
+    {
+        "title": "Error-Compensated Sparsification for Communication-Efficient Decentralized Training in Edge Environment.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3084104",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Training[]Deep learning[]Design methodology[]Error compensation[]Convergence"
+    },
+    {
+        "title": "Resilient Real-Valued Consensus in Spite of Mobile Malicious Agents on Directed Graphs.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3096074",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Protocols[]Directed graphs[]Computer science[]Computational modeling[]Voltage measurement[]Timing[]Security"
+    },
+    {
+        "title": "DHash: Dynamic Hash Tables With Non-Blocking Regular Operations.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3151499",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Hash functions[]Heuristic algorithms[]Robustness[]Kernel[]Synchronization[]Linux[]Time factors"
+    },
+    {
+        "title": "DIESEL+: Accelerating Distributed Deep Learning Tasks on Image Datasets.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3104252",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Decoding[]Training[]Task analysis[]Transform coding[]Deep learning[]Metadata[]Image coding"
+    },
+    {
+        "title": "Energy-Aware Non-Preemptive Task Scheduling With Deadline Constraint in DVFS-Enabled Heterogeneous Clusters.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3181096",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Graphics processing units[]Task analysis[]Energy consumption[]Voltage[]Scheduling algorithms[]Voltage control[]Kernel"
+    },
+    {
+        "title": "Online Learning for Distributed Computation Offloading in Wireless Powered Mobile Edge Computing Networks.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3129618",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Task analysis[]Servers[]Processor scheduling[]Delays[]Optimization[]Resource management[]Multi-access edge computing"
+    },
+    {
+        "title": "OCTOPUS: Overcoming Performance and Privatization Bottlenecks in Distributed Learning.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3157258",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Distributed databases[]Task analysis[]Servers[]Privatization[]Data models[]Dictionaries[]Training"
+    },
+    {
+        "title": "Elastic Parameter Server: Accelerating ML Training With Scalable Resource Scheduling.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3104242",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Servers[]Training[]Runtime[]Clocks[]Yarn[]Resource management[]Training data"
+    },
+    {
+        "title": "NITI: Training Integer Neural Networks Using Integer-Only Arithmetic.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3149787",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Training[]Arithmetic[]Neural networks[]Dynamic range[]Degradation[]Tensors[]Standards"
+    },
+    {
+        "title": "PLVER: Joint Stable Allocation and Content Replication for Edge-Assisted Live Video Delivery.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3090784",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Streaming media[]Servers[]Resource management[]Quality of experience[]Social networking (online)[]Real-time systems[]Clustering algorithms"
+    },
+    {
+        "title": "ComboTree: A Persistent Indexing Structure With Universal Operational Efficiency and Scalability.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3137247",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "ndexing[]Scalability[]Throughput[]Random access memory[]Memory management[]Distribution functions[]Currencies"
+    },
+    {
+        "title": "Online Power Management for Multi-Cores: A Reinforcement Learning Based Approach.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3092270",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "null"
+    },
+    {
+        "title": "Dynamic GPU Energy Optimization for Machine Learning Training Workloads.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3137867",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Clocks[]Graphics processing units[]Optimization[]Training[]Micromechanical devices[]Machine learning[]Predictive models"
+    },
+    {
+        "title": "Deadline and Reliability Aware Multiserver Configuration Optimization for Maximizing Profit.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3170305",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "null"
+    },
+    {
+        "title": "HSA-Net: Hidden-State-Aware Networks for High-Precision QoS Prediction.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3111810",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Quality of service[]Time factors[]Deep learning[]Predictive models[]Kernel[]Collaboration[]Web services"
+    },
+    {
+        "title": "Efficient Distributed Approaches to Core Maintenance on Large Dynamic Graphs.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3090759",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Task analysis[]Maintenance engineering[]Heuristic algorithms[]Crosstalk[]Synchronization[]Protocols[]Distributed algorithms"
+    },
+    {
+        "title": "Elastic Deep Learning in Multi-Tenant GPU Clusters.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3064966",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Graphics processing units[]Training[]Parallel processing[]Elasticity[]Throughput[]Deep learning[]Transient analysis"
+    },
+    {
+        "title": "VQL: Efficient and Verifiable Cloud Query Services for Blockchain Systems.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3113873",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Blockchains[]Peer-to-peer computing[]Middleware[]Bitcoin[]Data mining[]Distributed ledger[]Costs"
+    },
+    {
+        "title": "Optimal Repair-Scaling Trade-off in Locally Repairable Codes: Analysis and Evaluation.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3087352",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Maintenance engineering[]Encoding[]Fault tolerant systems[]Bandwidth[]Redundancy[]Switches[]Computer science"
+    },
+    {
+        "title": "HiTDL: High-Throughput Deep Learning Inference at the Hybrid Mobile Edge.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3195664",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Throughput[]Graphics processing units[]Servers[]Resource management[]Task analysis[]Mobile handsets[]Mobile applications"
+    },
+    {
+        "title": "Scaling Poisson Solvers on Many Cores via MMEwald.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3127138",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Optimization[]Bandwidth[]Supercomputers[]Electric potential[]Boundary conditions[]Electrostatics[]Silicon"
+    },
+    {
+        "title": "Data, User and Power Allocations for Caching in Multi-Access Edge Computing.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3104241",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Servers[]Resource management[]Games[]Interference[]NOMA[]Intercell interference[]Distributed databases"
+    },
+    {
+        "title": "Formulating Cost-Effective Data Distribution Strategies Online for Edge Cache Systems.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3185250",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "null"
+    },
+    {
+        "title": "NetSync: A Network Adaptive and Deduplication-Inspired Delta Synchronization Approach for Cloud Storage Services.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3145025",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Synchronization[]Servers[]Cloud computing[]Bandwidth[]Adaptive systems[]Redundancy[]Power capacitors"
+    },
+    {
+        "title": "Mixing Activations and Labels in Distributed Training for Split Learning.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3139191",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Training[]Privacy[]Servers[]Data models[]Parallel processing[]Distributed databases[]Data privacy"
+    },
+    {
+        "title": "QoS-Aware Scheduling of Remote Rendering for Interactive Multimedia Applications in Edge Computing.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3172121",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Rendering (computer graphics)[]Task analysis[]Servers[]Quality of service[]Streaming media[]Graphics processing units[]Three-dimensional displays"
+    },
+    {
+        "title": "A Pattern-Based SpGEMM Library for Multi-Core and Many-Core Architectures.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3090328",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Libraries[]Sparse matrices[]Prediction algorithms[]Neural networks[]Predictive models[]Memory management[]Tuners"
+    },
+    {
+        "title": "TDFL: Truth Discovery Based Byzantine Robust Federated Learning.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3205714",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Data models[]Collaborative work[]Servers[]Training[]Robustness[]Data privacy[]Soft sensors"
+    },
+    {
+        "title": "SelectiveEC: Towards Balanced Recovery Load on Erasure-Coded Storage Systems.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3129973",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Task analysis[]Codes[]Bandwidth[]Decoding[]Throughput[]Encoding[]Load modeling"
+    },
+    {
+        "title": "Heterogeneous Systolic Array Architecture for Compact CNNs Hardware Accelerators.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3129647",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Arrays[]Systolic arrays[]Convolution[]Computer architecture[]Standards[]Scalability[]Kernel"
+    },
+    {
+        "title": "Accelerating Backward Aggregation in GCN Training With Execution Path Preparing on GPUs.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3205642",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Training[]Backpropagation[]Graphics processing units[]Blogs[]Electric breakdown[]Computational modeling[]Social networking (online)"
+    },
+    {
+        "title": "Redesigning and Optimizing UCSF DOCK3.7 on Sunway TaihuLight.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3194916",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Memory management[]Optimization[]Supercomputers[]Mathematical models[]Graphics processing units[]Field programmable gate arrays[]Drugs"
+    },
+    {
+        "title": "Federated Learning With Nesterov Accelerated Gradient.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3206480",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "null"
+    },
+    {
+        "title": "Online Orchestration of Collaborative Caching for Multi-Bitrate Videos in Edge Computing.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3182022",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Videos[]Costs[]Quality of experience[]Delays[]Cloud computing[]Bit rate[]Servers"
+    },
+    {
+        "title": "Deep Reinforcement Learning Enhanced Greedy Optimization for Online Scheduling of Batched Tasks in Cloud HPC Systems.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3138459",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "null"
+    },
+    {
+        "title": "EdgeTB: A Hybrid Testbed for Distributed Machine Learning at the Edge With High Fidelity.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3144994",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "ge computing[]Costs[]Machine learning[]Computational modeling[]Peer-to-peer computing[]Libraries[]Cloud computing"
+    },
+    {
+        "title": "Hamiltonian Paths of $k$k-ary $n$n-cubes Avoiding Faulty Links and Passing Through Prescribed Linear Forests.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3126254",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Forestry[]Fault tolerant systems[]Fault tolerance[]Program processors[]Routing[]Upper bound[]Information science"
+    },
+    {
+        "title": "CNNPC: End-Edge-Cloud Collaborative CNN Inference With Joint Model Partition and Compression.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3177782",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Collaboration[]Convolutional neural networks[]Computational modeling[]Solid modeling[]Data models[]Artificial intelligence[]Cloud computing"
+    },
+    {
+        "title": "Wukong+G: Fast and Concurrent RDF Query Processing Using RDMA-Assisted GPU Graph Exploration.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3121568",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Resource description framework[]Graphics processing units[]History[]Hardware[]Throughput[]Query processing[]Indexes"
+    },
+    {
+        "title": "WAMP$2$2S: Workload-Aware GPU Performance Model Based Pseudo-Preemptive Real-Time Scheduling for the Airborne Embedded System.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3134269",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Graphics processing units[]Real-time systems[]Kernel[]Embedded systems[]Atmospheric modeling[]Predictive models[]Computational modeling"
+    },
+    {
+        "title": "A Block-Based Triangle Counting Algorithm on Heterogeneous Environments.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3093240",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Task analysis[]Partitioning algorithms[]Heuristic algorithms[]Kernel[]Hardware[]Graphics processing units[]Ear"
+    },
+    {
+        "title": "GIRAF: General Purpose In-Storage Resistive Associative Framework.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3065448",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Computer architecture[]Random access memory[]Three-dimensional displays[]Bandwidth[]Arrays[]Memory architecture[]Central Processing Unit"
+    },
+    {
+        "title": "Astraea: A Fair Deep Learning Scheduler for Multi-Tenant GPU Clusters.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3136245",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Graphics processing units[]Resource management[]Training[]Measurement[]Deep learning[]Venus[]Dynamic scheduling"
+    },
+    {
+        "title": "Horus: Interference-Aware and Prediction-Based Scheduling in Deep Learning Systems.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3079202",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Graphics processing units[]Interference[]Kernel[]Predictive models[]Computational modeling[]Production[]Load modeling"
+    },
+    {
+        "title": "Fairness-Aware VNF Sharing and Rate Coordination for High Efficient Service Scheduling.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3199392",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Resource management[]Noise measurement[]Heuristic algorithms[]Network function virtualization[]Software[]Computer science[]Mathematical models"
+    },
+    {
+        "title": "Optimizing DNN Compilation for Distributed Training With Joint OP and Tensor Fusion.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3201531",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Training[]Optimization[]Tensors[]Computational modeling[]Codes[]Performance evaluation[]Hardware"
+    },
+    {
+        "title": "CSEdge: Enabling Collaborative Edge Storage for Multi-Access Edge Computing Based on Blockchain.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3131680",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Servers[]Task analysis[]Collaboration[]Blockchains[]Time factors[]Cloud computing[]Reliability"
+    },
+    {
+        "title": "TODG: Distributed Task Offloading With Delay Guarantees for Edge Computing.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3123535",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Task analysis[]Delays[]Servers[]Edge computing[]Resource management[]Mobile handsets[]Optimization"
+    },
+    {
+        "title": "Adaptive DRL-Based Virtual Machine Consolidation in Energy-Efficient Cloud Data Center.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3147851",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Cloud computing[]Energy consumption[]Data centers[]Heuristic algorithms[]Resource management[]Predictive models[]Costs"
+    },
+    {
+        "title": "AccTFM: An Effective Intra-Layer Model Parallelization Strategy for Training Large-Scale Transformer-Based Models.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3187815",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Training[]Transformers[]Pipelines[]Computational modeling[]Tensors[]Load modeling[]Synchronization"
+    },
+    {
+        "title": "Differentially Private Federated Temporal Difference Learning.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3133898",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Privacy[]Costs[]Approximation algorithms[]Markov processes[]Differential privacy[]Gaussian noise[]Games"
+    },
+    {
+        "title": "An Efficient Index-Based Approach to Distributed Set Reachability on Small-World Graphs.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3139111",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "ndexes[]Partitioning algorithms[]Parallel processing[]Directed graphs[]Costs[]Computational modeling[]Bidirectional control"
+    },
+    {
+        "title": "Guest Editorial.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3166681",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "null"
+    },
+    {
+        "title": "Leveraging Code Snippets to Detect Variations in the Performance of HPC Systems.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3158742",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Codes[]Runtime[]Sensors[]Benchmark testing[]Instruments[]Performance analysis[]Supercomputers"
+    },
+    {
+        "title": "Detecting Performance Variance for Parallel Applications Without Source Code.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3181799",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Codes[]Runtime[]Hardware[]Performance evaluation[]Libraries[]Benchmark testing[]Electric breakdown"
+    },
+    {
+        "title": "Efficient Function Queryable and Privacy Preserving Data Aggregation Scheme in Smart Grid.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3153930",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Data aggregation[]Smart grids[]Smart meters[]Data privacy[]Costs[]Real-time systems[]Privacy"
+    },
+    {
+        "title": "The PetscSF Scalable Communication Layer.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3084070",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Libraries[]Programming[]Graphics processing units[]Forestry[]Electronics packaging[]Arrays[]Scalability"
+    },
+    {
+        "title": "Adaptive Vertical Federated Learning on Unbalanced Features.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3178443",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Training[]Convergence[]Collaborative work[]Computational modeling[]Data models[]Training data[]Servers"
+    },
+    {
+        "title": "Lightweight and Accurate DNN-Based Anomaly Detection at Edge.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3137631",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Training[]Anomaly detection[]Videos[]Computational modeling[]Predictive models[]Image edge detection[]Graphics processing units"
+    },
+    {
+        "title": "SMURF: Efficient and Scalable Metadata Access for Distributed Applications.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3175596",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Metadata[]Prefetching[]Servers[]Internet of Things[]Protocols[]Wide area networks[]Semantics"
+    },
+    {
+        "title": "iBalancer: Load-Aware in-Server Flow Scheduling for Sub-Millisecond Tail Latency.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3120021",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "nstruction sets[]Servers[]Dispatching[]Measurement[]Load management[]Task analysis[]Network systems"
+    },
+    {
+        "title": "Privacy-Preserving Deduplication of Sensor Compressed Data in Distributed Fog Computing.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3179992",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Cloud computing[]Cryptography[]Sensors[]Internet of Things[]Data models[]Costs[]Computer science"
+    },
+    {
+        "title": "NetSHa: In-Network Acceleration of LSH-Based Distributed Search.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3135842",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Servers[]Indexes[]Costs[]Task analysis[]Hash functions[]Concurrent computing[]Aggregates"
+    },
+    {
+        "title": "Efficient Flow-Based Scheduling for Geo-Distributed Simulation Tasks in Collaborative Edge and Cloud Environments.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3155713",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Task analysis[]Computational modeling[]Data models[]Costs[]Cloud computing[]Optimization[]Clustering algorithms"
+    },
+    {
+        "title": "Cooperative Edge Caching Based on Temporal Convolutional Networks.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3135257",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Conferences[]Portable document format[]Indexes[]Typesetting[]Printing[]Loading[]Web sites"
+    },
+    {
+        "title": "Co-Concurrency Mechanism for Multi-GPUs in Distributed Heterogeneous Environments.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3208082",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "nel[]Graphics processing units[]Task analysis[]Processor scheduling[]Concurrent computing[]Computer architecture[]Hardware"
+    },
+    {
+        "title": "SaPus: Self-Adaptive Parameter Update Strategy for DNN Training on Multi-GPU Clusters.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3118609",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Training[]Servers[]Delays[]Graphics processing units[]Computer architecture[]Bandwidth[]System performance"
+    },
+    {
+        "title": "MIPD: An Adaptive Gradient Sparsification Framework for Distributed DNNs Training.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3154387",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Training[]Servers[]Quantization (signal)[]Convergence[]Probability distribution[]Degradation[]Adaptation models"
+    },
+    {
+        "title": "Elastic and Reliable Bandwidth Reservation Based on Distributed Traffic Monitoring and Control.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2022.3196840",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Bandwidth[]Monitoring[]Reliability[]Resource management[]Delays[]Heuristic algorithms[]Dynamic scheduling"
+    },
+    {
+        "title": "DS-ADMM++: A Novel Distributed Quantized ADMM to Speed up Differentially Private Matrix Factorization.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3110104",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Differential privacy[]Quantization (signal)[]Matrix decomposition[]Recommender systems[]Charge coupled devices[]Machine learning[]Costs"
+    },
+    {
+        "title": "POCLib: A High-Performance Framework for Enabling Near Orthogonal Processing on Compression.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TPDS.2021.3093234",
+        "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
+        "journal_shorter_form": "TPDS",
+        "keywords": "Task analysis[]Indexing[]Data analysis[]Technological innovation[]Dictionaries[]Data structures[]Standards"
+    }
+]

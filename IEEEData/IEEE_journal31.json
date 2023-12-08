@@ -1,0 +1,1842 @@
+[
+    {
+        "title": "Leveraging UAVs for Coverage in Cell-Free Vehicular Networks: A Deep Reinforcement Learning Approach.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2020.2991326",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Trajectory[]Road transportation[]Reinforcement learning[]Vehicle dynamics[]Aerospace electronics[]Wireless networks[]Task analysis"
+    },
+    {
+        "title": "Radio Resource Sharing and Edge Caching with Latency Constraint for Local 5G Operator: Geometric Programming Meets Stackelberg Game.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2019.2948630",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "5G mobile communication[]Games[]Resource management[]Programming[]Wireless communication[]Computational modeling"
+    },
+    {
+        "title": "A Novel Mobile Edge Network Architecture with Joint Caching-Delivering and Horizontal Cooperation.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2019.2938510",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Delays[]Optimization[]Cooperative caching[]Network architecture[]Servers[]Bandwidth"
+    },
+    {
+        "title": "Statistical Performance Modeling of Solar and Wind-Powered UAV Communications.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2020.2983955",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Wind power generation[]Signal to noise ratio[]Unmanned aerial vehicles[]Renewable energy sources[]Batteries[]Closed-form solutions[]Energy harvesting"
+    },
+    {
+        "title": "Heterogeneous V2V Communications in Multi-Link and Multi-RAT Vehicular Networks.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2019.2939803",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Rats[]Vehicular ad hoc networks[]Bandwidth[]Heuristic algorithms[]Reliability[]Mobile computing[]Safety"
+    },
+    {
+        "title": "Privacy Preservation in Location-Based Services: A Novel Metric and Attack Model.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2020.2993599",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Privacy[]Measurement[]Viterbi algorithm[]Trajectory[]Entropy[]Servers[]Mobile computing"
+    },
+    {
+        "title": "Energy-Efficient Resource Allocation for Ultra-Dense Licensed and Unlicensed Dual-Access Small Cell Networks.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2019.2953845",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Wireless fidelity[]Resource management[]Interference[]Long Term Evolution[]Games[]Cellular networks[]Quality of service"
+    },
+    {
+        "title": "BuSAR: Bluetooth Slot Availability Randomization for Better Coexistence With Dense Wi-Fi Networks.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2019.2955080",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Wireless fidelity[]Interference[]Bluetooth[]Mobile computing[]Kernel[]Protocols"
+    },
+    {
+        "title": "BaG: Behavior-Aware Group Detection in Crowded Urban Spaces Using WiFi Probes.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2020.2999491",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Urban areas[]Wireless fidelity[]Mobile computing[]Received signal strength indicator[]Matrix decomposition[]Feature extraction"
+    },
+    {
+        "title": "DynamicSLAM: Leveraging Human Anchors for Ubiquitous Low-Overhead Indoor Localization.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2020.2984320",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Simultaneous localization and mapping[]Buildings[]Mathematical model[]Mobile computing"
+    },
+    {
+        "title": "Throughput-Optimal Broadcast in Wireless Networks with Point-to-Multipoint Transmissions.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2019.2940025",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Broadcasting[]Wireless networks[]Schedules[]Throughput[]Interference[]Mobile computing"
+    },
+    {
+        "title": "Kollector: Detecting Fraudulent Activities on Mobile Devices Using Deep Learning.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2020.2964226",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "boards[]Deep learning[]Bagging[]Sensors[]Monitoring[]Error analysis"
+    },
+    {
+        "title": "Spatial and Temporal Contextual Multi-Armed Bandit Handovers in Ultra-Dense mmWave Cellular Networks.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2020.3000189",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Handover[]Cellular networks[]Trajectory[]Base stations[]Prediction algorithms[]Mobile computing[]Millimeter wave communication[]Ultra-dense networks"
+    },
+    {
+        "title": "Energy Efficient Collaborative Beamforming for Reducing Sidelobe in Wireless Sensor Networks.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2019.2955948",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Antenna arrays[]Wireless sensor networks[]Optimization[]Array signal processing[]Sensor arrays[]Energy consumption[]Spread spectrum communication"
+    },
+    {
+        "title": "Service Provisioning Framework for RAN Slicing: User Admissibility, Slice Association and Bandwidth Allocation.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2020.3000657",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Quality of service[]Resource management[]Optimization[]Wireless communication[]Radio access networks[]Noise measurement[]Channel allocation"
+    },
+    {
+        "title": "Cost-Fair Task Allocation in Mobile Crowd Sensing With Probabilistic Users.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2019.2950921",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Task analysis[]Sensors[]Resource management[]Probabilistic logic[]Reliability[]Computational modeling[]Approximation algorithms"
+    },
+    {
+        "title": "Profit-Oriented Task Allocation for Mobile Crowdsensing With Worker Dynamics: Cooperative Offline Solution and Predictive Online Solution.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2020.2983688",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Task analysis[]Resource management[]Sensors[]Approximation algorithms[]Prediction algorithms[]Path planning[]Microsoft Windows"
+    },
+    {
+        "title": "A Fuzzy Logic-Based On-Demand Charging Algorithm for Wireless Rechargeable Sensor Networks With Multiple Chargers.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2020.2990419",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Schedules[]Wireless sensor networks[]Energy consumption[]Fuzzy logic[]Wireless communication[]Mobile computing[]Energy exchange"
+    },
+    {
+        "title": "WiFi based Multi-User Gesture Recognition.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2019.2954891",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Wireless fidelity[]Gesture recognition[]Training[]Performance evaluation[]Wireless communication[]Wireless sensor networks"
+    },
+    {
+        "title": "Characterizing Delay and Control Traffic of the Cellular MME With IoT Support.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2020.2964677",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Delays[]Analytical models[]Internet of Things[]Optimization[]Mobile computing[]Sensor phenomena and characterization"
+    },
+    {
+        "title": "Economic Analysis of Unmanned Aerial Vehicle (UAV) Provided Mobile Services.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2020.2973088",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Uninterruptible power systems[]Unmanned aerial vehicles[]Pricing[]Resource management[]Cost accounting[]Economics[]Wireless communication"
+    },
+    {
+        "title": "A Cloud-Guided Feature Extraction Approach for Image Retrieval in Mobile Edge Computing.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2019.2944371",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Feature extraction[]Servers[]Image retrieval[]Cloud computing[]Image edge detection[]Data mining[]Edge computing"
+    },
+    {
+        "title": "ARPAP: A Novel Antenna-Radiation-Pattern-Aware Power-Based Positioning in RF System.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2019.2959983",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Antenna radiation patterns[]Power measurement[]Estimation[]Fading channels[]Antenna measurements[]Antenna arrays"
+    },
+    {
+        "title": "RF-Pen: Practical Real-Time RFID Tracking in the Air.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2020.2997080",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Antennas[]Trajectory[]Hardware[]Real-time systems[]Radiofrequency identification[]Estimation[]Delay effects"
+    },
+    {
+        "title": "Delay-Aware Microservice Coordination in Mobile Edge Computing: A Reinforcement Learning Approach.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2019.2957804",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Cloud computing[]Delays[]Image edge detection[]Base stations[]Edge computing[]Heuristic algorithms"
+    },
+    {
+        "title": "SocialRecruiter: Dynamic Incentive Mechanism for Mobile Crowdsourcing Worker Recruitment With Social Networks.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2020.2973958",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Task analysis[]Social network services[]Recruitment[]Sensors[]Crowdsourcing[]Mobile computing[]Real-time systems"
+    },
+    {
+        "title": "Multi-Adversarial In-Car Activity Recognition Using RFIDs.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2020.2977902",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Automobiles[]Activity recognition[]Radiofrequency identification[]RF signals[]Indoor environments[]Adaptation models"
+    },
+    {
+        "title": "Anonymization and De-Anonymization of Mobility Trajectories: Dissecting the Gaps Between Theory and Practice.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2019.2952774",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Trajectory[]Privacy[]Social networking (online)[]Data privacy[]Statistics[]Mobile computing[]Sociology"
+    },
+    {
+        "title": "A Near-Optimal Protocol for the Grouping Problem in RFID Systems.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2019.2962125",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Protocols[]Radiofrequency identification[]Servers[]Computational efficiency[]Mobile computing[]Real-time systems[]Computer science"
+    },
+    {
+        "title": "Efficient Tag Grouping via Collision Reconciliation and Data Compression.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2020.2972386",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Protocols[]Radiofrequency identification[]Mobile computing[]Redundancy[]Huffman coding"
+    },
+    {
+        "title": "Corrections to &quot;HMO: Ordering RFID Tags With Static Devices in Mobile Environments&quot;.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2021.3050539",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "RFID tags[]Mobile computing"
+    },
+    {
+        "title": "Improving the Performance of Online Bitrate Adaptation with Multi-Step Prediction Over Cellular Networks.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2019.2939124",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Bit rate[]Quality of experience[]Streaming media[]Prediction algorithms[]Cellular networks[]Video recording[]Quality assessment"
+    },
+    {
+        "title": "WiTrace: Centimeter-Level Passive Gesture Tracking Using OFDM Signals.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2019.2961885",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Tracking[]Wireless fidelity[]Radar tracking[]Phase measurement[]Two dimensional displays[]OFDM[]Estimation"
+    },
+    {
+        "title": "Simultaneous Material Identification and Target Imaging with Commodity RFID Devices.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2019.2946072",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "maging[]Liquids[]Phase measurement[]Mobile computing[]RFID tags[]Shape"
+    },
+    {
+        "title": "Computer Vision-Assisted 3D Object Localization via COTS RFID Devices and a Monocular Camera.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2019.2954830",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Cameras[]Trajectory[]Antenna arrays[]RFID tags[]Three-dimensional displays"
+    },
+    {
+        "title": "Networking Support for Bidirectional Cross-Technology Communication.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2019.2938524",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Zigbee[]Wireless fidelity[]Wireless communication[]Emulation[]Reliability[]Bluetooth[]Receivers"
+    },
+    {
+        "title": "How Much Benefit Can Dynamic Frequency Scaling Bring to WiFi?",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2019.2958323",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Wireless fidelity[]Throughput[]Power demand[]Energy efficiency[]Signal to noise ratio[]IEEE 802.11 Standard[]OFDM"
+    },
+    {
+        "title": "Towards Personalized Task-Oriented Worker Recruitment in Mobile Crowdsensing.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2020.2973990",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Task analysis[]Recruitment[]Sensors[]Mobile computing[]Real-time systems[]Context modeling[]Crowdsourcing"
+    },
+    {
+        "title": "Predictability and Prediction of Human Mobility Based on Application-Collected Location Data.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2020.2981441",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Trajectory[]Markov processes[]Predictive models[]Kernel[]Benchmark testing[]Urban areas"
+    },
+    {
+        "title": "Power Saving and Secure Text Input for Commodity Smart Watches.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2020.2976007",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Vibrations[]Time-frequency analysis[]Authentication[]Indexes[]Force[]Calibration"
+    },
+    {
+        "title": "LEDGE: Leveraging Edge Computing for Resilient Access Management of Mobile IoT.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2019.2954872",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "nternet of Things[]Edge computing[]Authentication[]Access control[]Mobile handsets[]Control systems[]Computer architecture"
+    },
+    {
+        "title": "Power-Constrained Quality Optimization for Mobile Video Chatting With Coding-Transmission Adaptation.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2020.2990374",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Mobile video[]Power demand[]Video recording[]Quality assessment[]Batteries[]Delays"
+    },
+    {
+        "title": "EchoWrite: An Acoustic-Based Finger Input System Without Training.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2020.2973094",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Mobile handsets[]Mobile computing[]Training[]Performance evaluation[]Hardware[]Tracking[]Text recognition"
+    },
+    {
+        "title": "GaitWay: Monitoring and Recognizing Gait Speed Through the Walls.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2020.2975158",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Legged locomotion[]Monitoring[]Wireless fidelity[]Feature extraction[]Gait recognition[]Estimation[]Sensors"
+    },
+    {
+        "title": "A Link-Layer Synchronization and Medium Access Control Protocol for Terahertz-Band Communication Networks.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2019.2940441",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Wireless communication[]Media Access Protocol[]Synchronization[]Wireless sensor networks[]Nanoscale devices[]Ad hoc networks"
+    },
+    {
+        "title": "Motion-Fi$+$+: Recognizing and Counting Repetitive Motions With Wireless Backscattering.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2020.2971996",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Backscatter[]Wireless communication[]Wireless sensor networks[]Frequency modulation[]Interference[]Sensors[]Wireless fidelity"
+    },
+    {
+        "title": "Real-Time Detection for Drowsy Driving via Acoustic Sensing on Smartphones.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2020.2984278",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Smart phones[]Vehicles[]Sensors[]Acoustics[]Real-time systems[]Doppler shift[]Wheels"
+    },
+    {
+        "title": "How Can IoT Services Pose New Security Threats In Operational Cellular Networks?",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2020.2984192",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "nternet of Things[]Security[]Smart phones[]Cellular networks[]Mobile computing"
+    },
+    {
+        "title": "The Untold Secrets of WiFi-Calling Services: Vulnerabilities, Attacks, and Countermeasures.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2020.2995509",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Wireless fidelity[]Cellular networks[]3GPP[]Privacy[]Authentication[]Servers"
+    },
+    {
+        "title": "Contract Design in Hierarchical Game for Sponsored Content Service Market.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2020.2991060",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Contracts[]Games[]Pricing[]Mobile computing[]Google[]Game theory"
+    },
+    {
+        "title": "Strategic Learning Approach for Deploying UAV-Provided Wireless Services.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2019.2953726",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Games[]Wireless communication[]Unmanned aerial vehicles[]Game theory[]Ad hoc networks[]Mobile computing[]Three-dimensional displays"
+    },
+    {
+        "title": "NFV-Enabled IoT Service Provisioning in Mobile Edge Clouds.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2020.2972530",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "nternet of Things[]Cloud computing[]Logic gates[]Approximation algorithms[]Data centers[]Mobile computing[]Delays"
+    },
+    {
+        "title": "Minimizing the Maximum Charging Delay of Multiple Mobile Chargers Under the Multi-Node Energy Charging Scheme.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2020.2973979",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Approximation algorithms[]Wireless sensor networks[]Delays[]Wireless communication[]Mobile computing[]Energy exchange[]Minimization"
+    },
+    {
+        "title": "No More than What I Post: Preventing Linkage Attacks on Check-in Services.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2019.2947416",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Privacy[]Couplings[]Data privacy[]Social networking (online)[]Probabilistic logic[]Trajectory[]Mobile computing"
+    },
+    {
+        "title": "Portfolio Optimization in Traffic Offloading: Concept, Model, and Algorithms.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2019.2946811",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Portfolios[]Cellular networks[]Mobile computing[]Optimization[]Approximation algorithms[]Investment[]Greedy algorithms"
+    },
+    {
+        "title": "Towards a Compressive-Sensing-Based Lightweight Encryption Scheme for the Internet of Things.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2020.2992737",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "nternet of Things[]Cloud computing[]Ciphers[]Encryption[]Query processing[]Servers"
+    },
+    {
+        "title": "MobileCopy: Improving Data Availability and File Search Efficiency in Delay Tolerant Networks against Correlated Node Failure.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2019.2939792",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "ndexing[]Mobile computing[]Mobile handsets[]Delays[]Resistance[]Wireless sensor networks[]Wireless communication"
+    },
+    {
+        "title": "Optimizing Information Freshness in Wireless Networks: A Stochastic Geometry Approach.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2020.2977010",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Transmitters[]Receivers[]Interference[]Wireless networks[]Protocols[]Stochastic processes[]Geometry"
+    },
+    {
+        "title": "Computation Offloading in Multi-Access Edge Computing: A Multi-Task Learning Approach.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2020.2990630",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Optimization[]Resource management[]Computational modeling[]Delays[]Training[]Mobile computing[]Mobile handsets"
+    },
+    {
+        "title": "Pushing the Data Rate of Practical VLC via Combinatorial Light Emission.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2020.2971204",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Light emitting diodes[]Modulation[]Transmitters[]Receivers[]Throughput[]Frequency response[]Lighting"
+    },
+    {
+        "title": "Delay-Aware Virtual Network Function Placement and Routing in Edge Clouds.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2019.2942306",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Cloud computing[]Routing[]Delays[]Servers[]Approximation algorithms[]Edge computing[]Hardware"
+    },
+    {
+        "title": "Cooperative Caching in Vehicular Content Centric Network Based on Social Attributes and Mobility.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2019.2944829",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Vehicular ad hoc networks[]Cooperative caching[]Delays[]Vehicles[]Mobile ad hoc networks[]Mobile computing[]Logic gates"
+    },
+    {
+        "title": "Joint Resource Allocation for Device-to-Device Communication Assisted Fog Computing.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2019.2952354",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "ge computing[]Resource management[]Device-to-device communication[]Servers[]Processor scheduling[]Task analysis[]Computational modeling"
+    },
+    {
+        "title": "Energy-Efficient Resource Allocation in C-RANs with Capacity-Limited Fronthaul.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2019.2942597",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Optimization[]Quality of service[]Resource management[]Array signal processing[]Power demand[]Downlink[]Mobile computing"
+    },
+    {
+        "title": "Connectivity-Constrained Placement of Wireless Chargers.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2019.2954306",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Wireless communication[]Wireless sensor networks[]Approximation algorithms[]Mobile computing[]Sensors[]Computational modeling[]Wireless power transfer"
+    },
+    {
+        "title": "An Indirect Eavesdropping Attack of Keystrokes on Touch Screen through Acoustic Sensing.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2019.2947468",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Acoustics[]Touch sensitive screens[]Eavesdropping[]Keyboards[]Attenuation[]Tracking[]Microphones"
+    },
+    {
+        "title": "STEP: A Spatio-Temporal Fine-Granular User Traffic Prediction System for Cellular Networks.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2020.3001225",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Cellular networks[]Mobile computing[]Predictive models[]Convolution[]Urban areas[]Data collection[]Telecommunication traffic"
+    },
+    {
+        "title": "Non-Uniform Time-Step Deep Q-Network for Carrier-Sense Multiple Access in Heterogeneous Wireless Networks.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2020.2990399",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Wireless fidelity[]Time division multiple access[]Media Access Protocol[]Sensors[]Long Term Evolution"
+    },
+    {
+        "title": "Implementing The Abstract MAC Layer in Dynamic Networks.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2020.2971599",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Heuristic algorithms[]Interference[]Signal to noise ratio[]Wireless networks[]Computational modeling[]Distributed algorithms[]Network topology"
+    },
+    {
+        "title": "QoS-Based Budget Constrained Stable Task Assignment in Mobile Crowdsensing.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2020.2997280",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Task analysis[]Stability criteria[]Quality of service[]Sensors[]Mobile computing[]Benchmark testing"
+    },
+    {
+        "title": "Coding for Distributed Fog Computing in Internet of Mobile Things.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2019.2963668",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Mobile handsets[]Servers[]Edge computing[]Task analysis[]Encoding[]Complexity theory"
+    },
+    {
+        "title": "Fast Admission Control and Power Optimization With Adaptive Rates for Communication Fairness in Wireless Networks.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2019.2954126",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Admission control[]Wireless networks[]Heuristic algorithms[]Optimization[]Interference[]Energy consumption[]Resource management"
+    },
+    {
+        "title": "A Message From the Editor-in-Chief.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2020.3035951",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "null"
+    },
+    {
+        "title": "SmartSO: Chinese Character and Stroke Order Recognition With Smartwatch.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2020.2980842",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Character recognition[]Writing[]Handwriting recognition[]Image recognition"
+    },
+    {
+        "title": "Transfer Learning-Based Outdoor Position Recovery With Cellular Data.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2020.2968899",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Base stations[]Smart phones[]GSM[]Random forests[]Adaptation models[]Knowledge transfer"
+    },
+    {
+        "title": "EPASS360: QoE-Aware 360-Degree Video Streaming Over Mobile Devices.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2020.2978187",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Streaming media[]Quality of experience[]Resource management[]Bandwidth[]Trajectory[]Predictive models[]Hardware"
+    },
+    {
+        "title": "Fully Distributed Packet Scheduling Framework for Handling Disturbances in Lossy Real-Time Wireless Networks.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2019.2950913",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Task analysis[]Reliability[]Scheduling algorithms[]Real-time systems[]Sensors[]Schedules[]Dynamic scheduling"
+    },
+    {
+        "title": "Wireless Power Transfer with Information Asymmetry: A Public Goods Perspective.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2019.2941205",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Wireless communication[]Economics[]Resource management[]Distributed algorithms[]Mobile computing[]Convergence[]Optimization"
+    },
+    {
+        "title": "Optimal Multicasting Strategies in Underwater Acoustic Networks.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2019.2944158",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Propagation delay[]Throughput[]Schedules[]Protocols[]Underwater acoustics[]Delays[]Time division multiple access"
+    },
+    {
+        "title": "NOMA-Based Scalable Video Multicast in Mobile Networks With Statistical Channels.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2020.2977639",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "NOMA[]Resource management[]Quality of experience[]Static VAr compensators[]Silicon carbide[]Decoding[]Video sequences"
+    },
+    {
+        "title": "Expertise-Aware Truth Analysis and Task Allocation in Mobile Crowdsourcing.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2019.2955688",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Task analysis[]Resource management[]Servers[]Reliability[]Crowdsourcing[]Gaussian distribution[]Sensors"
+    },
+    {
+        "title": "Enhancing Dynamic-Viewport Mobile Applications with Screen Scrolling.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2019.2959524",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Mobile applications[]Media[]Touch sensitive screens[]Internet[]Middleware[]Web pages[]Quality of experience"
+    },
+    {
+        "title": "SMARS: Sleep Monitoring via Ambient Radio Signals.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2019.2939791",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Sleep[]Monitoring[]Estimation[]Biomedical monitoring[]Wireless fidelity[]Sensors[]Smart homes"
+    },
+    {
+        "title": "PROTECT: Efficient Password-Based Threshold Single-Sign-On Authentication for Mobile Users against Perpetual Leakage.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2020.2975792",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Servers[]Authentication[]Password[]Cryptography[]Resists[]Testing[]Mobile computing"
+    },
+    {
+        "title": "ChromaCode: A Fully Imperceptible Screen-Camera Communication System.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2019.2956493",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Videos[]Image color analysis[]Reliability[]Throughput[]Advertising[]Mobile computing[]Communication systems"
+    },
+    {
+        "title": "Dynamic Service Entity Placement for Latency Sensitive Applications in Transportation Systems.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2019.2947465",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Cloud computing[]Roads[]Mobile computing[]Neural networks[]Computational modeling[]Forecasting"
+    },
+    {
+        "title": "Towards Low-Cost Sign Language Gesture Recognition Leveraging Wearables.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2019.2962760",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "null"
+    },
+    {
+        "title": "Generalized Lottery Trees: Budget-Balanced Incentive Tree Mechanisms for Crowdsourcing.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2020.2979459",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Crowdsourcing[]Task analysis[]Sensors[]Mobile computing[]Analytical models[]Performance evaluation[]Solids"
+    },
+    {
+        "title": "PACE: Privacy-Preserving and Quality-Aware Incentive Mechanism for Mobile Crowdsensing.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2020.2973980",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Task analysis[]Sensors[]Data integrity[]Data privacy[]Reliability[]Privacy[]Incentive schemes"
+    },
+    {
+        "title": "iTAM: Bilateral Privacy-Preserving Task Assignment for Mobile Crowdsensing.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2020.2999923",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Privacy[]Sensors[]Cryptography[]Crowdsensing[]Mobile computing[]Data privacy"
+    },
+    {
+        "title": "Compressed Beam Alignment with Out-of-Band Assistance in Millimeter Wave Cellular Networks.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2019.2941474",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Channel estimation[]Array signal processing[]Base stations[]Millimeter wave technology[]Training[]Compressed sensing[]Cellular networks"
+    },
+    {
+        "title": "Differentially Private Unknown Worker Recruitment for Mobile Crowdsensing Using Multi-Armed Bandits.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2020.2990221",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Task analysis[]Recruitment[]Mobile computing[]Mobile handsets[]Crowdsensing[]Performance evaluation[]Sensors"
+    },
+    {
+        "title": "On the Data Quality in Privacy-Preserving Mobile Crowdsensing Systems with Untruthful Reporting.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2019.2943468",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Sensors[]Data integrity[]Data privacy[]Task analysis[]Mobile handsets[]Roads[]Monitoring"
+    },
+    {
+        "title": "Collaboratively Replicating Encoded Content on RSUs to Enhance Video Services for Vehicles.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2019.2960022",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Streaming media[]Network coding[]Bit rate[]Encoding[]Mobile computing[]Stochastic processes[]Real-time systems"
+    },
+    {
+        "title": "Towards Fine-Grained Access Control in Enterprise-Scale Internet-of-Things.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2020.2984700",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Access control[]Permission[]Mobile computing[]Computer architecture[]Public key[]Robustness"
+    },
+    {
+        "title": "Stealing Your Android Patterns via Acoustic Signals.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2019.2960778",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Acoustics[]Microphones[]Pins[]Smart phones[]Cameras[]Malware"
+    },
+    {
+        "title": "A Utility Model for Photo Selection in Mobile Crowdsensing.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TMC.2019.2941927",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Redundancy[]Visualization[]Servers[]Uncertainty[]Estimation[]Mobile handsets[]Task analysis"
+    },
+    {
+        "title": "Towards Fast and Reliable Multihop Routing in VANETs.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2923230",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Protocols[]Safety[]Broadcasting[]Delays[]Reliability[]Mobile computing[]Spread spectrum communication"
+    },
+    {
+        "title": "Optimization Model for Cross-Domain Network Slices in 5G Networks.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2905599",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "null"
+    },
+    {
+        "title": "Dynamic Resource Provisioning of a Scalable E2E Network Slicing Orchestration System.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2930059",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Network slicing[]Heuristic algorithms[]5G mobile communication[]Computer architecture[]Queueing analysis[]Dynamic scheduling[]Time factors"
+    },
+    {
+        "title": "Severity-Based Prioritized Processing of Packets with Application in VANETs.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2892980",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Quality of service[]Cryptography[]Delays[]Safety[]Receivers"
+    },
+    {
+        "title": "Distributed Learning in Noisy-Potential Games for Resource Allocation in D2D Networks.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2936345",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Device-to-device communication[]Learning systems[]Resource management[]Noise measurement[]Convergence[]Linear programming[]Interference"
+    },
+    {
+        "title": "Spatial and Temporal Management of Cellular HetNets with Multiple Solar Powered Drones.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2901677",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Drones[]Batteries[]Macrocell networks[]Satellite broadcasting[]Quality of service[]Long Term Evolution[]Mobile computing"
+    },
+    {
+        "title": "Optimizing mmWave Wireless Backhaul Scheduling.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2924884",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Relays[]Interference[]Wireless communication[]Mobile computing[]Cellular networks[]Processor scheduling[]Optimization"
+    },
+    {
+        "title": "Coverage Optimization with a Dynamic Network of Drone Relays.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2927335",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Drones[]Relays[]Optimization[]Interference[]Base stations[]Topology[]Network topology"
+    },
+    {
+        "title": "An Analysis of Service Bundles of Mobile Network Operators with Free Services Included.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2914683",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Games[]Biological system modeling[]Pricing[]Analytical models[]Economics[]Quality of service[]Mobile computing"
+    },
+    {
+        "title": "Profit Maximization in 5G+ Networks with Heterogeneous Aerial and Ground Base Stations.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2926713",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Resource management[]Throughput[]Trajectory[]Base stations[]Time division multiple access[]Quality of service[]Wireless networks"
+    },
+    {
+        "title": "Nanosatellite-5G Integration in the Millimeter Wave Domain: A Full Top-Down Approach.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2897091",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "5G mobile communication[]Computer architecture[]Protocols[]Satellite broadcasting[]Satellites[]Network architecture[]Uplink"
+    },
+    {
+        "title": "Dynamic Channel Bonding in Spatially Distributed High-Density WLANs.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2899835",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Wireless LAN[]Throughput[]Bandwidth[]Bonding[]Interference[]Markov random fields[]Analytical models"
+    },
+    {
+        "title": "A Machine Learning Approach to 5G Infrastructure Market Optimization.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2896950",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "5G mobile communication[]Network slicing[]Machine learning[]Admission control[]Biological system modeling[]Machine learning algorithms[]Optimization"
+    },
+    {
+        "title": "FullStop: A Camera-Assisted System for Characterizing Unsafe Bus Stopping.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2921373",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Roads[]Optical sensors[]Global Positioning System[]Cameras[]Optical imaging[]Vehicles"
+    },
+    {
+        "title": "QnQ: Quality and Quantity Based Unified Approach for Secure and Trustworthy Mobile Crowdsensing.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2018.2889458",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Decision making[]Sensors[]Uncertainty[]Reliability[]Computational modeling[]Mobile computing[]Computer science"
+    },
+    {
+        "title": "FamilyLog: Monitoring Family Mealtime Activities by Mobile Devices.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2916357",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Feature extraction[]Smart phones[]Acoustics[]Monitoring[]Pediatrics[]TV"
+    },
+    {
+        "title": "Per-Flow Radio Resource Management to Mitigate Interference in Dense IEEE 802.11 Wireless LANs.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2903465",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "nterference[]IEEE 802.11 Standard[]Wireless communication[]Wireless fidelity[]Resource management[]Mobile computing"
+    },
+    {
+        "title": "Supervisory Performance Control of Concurrent Mobile Apps for Energy Efficiency.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2897930",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Performance evaluation[]Energy consumption[]Resource management[]Supervisory control[]Message systems[]Mobile computing"
+    },
+    {
+        "title": "Security Properties of Gait for Mobile Device Pairing.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2897933",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Acceleration[]Authentication[]Gait recognition[]Feature extraction[]Protocols[]Quantization (signal)"
+    },
+    {
+        "title": "A Distributed Game Methodology for Crowdsensing in Uncertain Wireless Scenario.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2892953",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Sensors[]Task analysis[]Mobile handsets[]Resource management[]Games[]Wireless communication[]Programming"
+    },
+    {
+        "title": "Habit2vec: Trajectory Semantic Embedding for Living Pattern Recognition in Population.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2902403",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Trajectory[]Semantics[]Feature extraction[]Sociology[]Statistics[]Data mining"
+    },
+    {
+        "title": "ViFi: Virtual Fingerprinting WiFi-Based Indoor Positioning via Multi-Wall Multi-Floor Propagation Model.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2908865",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Predictive models[]Wireless fidelity[]Crowdsourcing[]Analytical models[]Computational modeling[]Mobile computing[]Interpolation"
+    },
+    {
+        "title": "Adaptive and Blind Regression for Mobile Crowd Sensing.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2931341",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Adaptation models[]Mobile handsets[]Sensors[]Servers[]Computational modeling[]Data models[]Resistance"
+    },
+    {
+        "title": "Incentive Mechanism for Resource Allocation in Wireless Virtualized Networks with Multiple Infrastructure Providers.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2018.2889046",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "ndium phosphide[]III-V semiconductor materials[]Contracts[]Resource management[]Wireless networks[]Virtualization"
+    },
+    {
+        "title": "Offloading Computations to Mobile Devices and Cloudlets via an Upgraded NFC Communication Protocol.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2899093",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Cloud computing[]Wireless fidelity[]Energy consumption[]Bluetooth[]Protocols[]Batteries[]Security"
+    },
+    {
+        "title": "Label Coloring Based Beaconing Schedule in Duty-Cycled Multihop Wireless Networks.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2907956",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "nterference[]Approximation algorithms[]Schedules[]Protocols[]Scheduling algorithms[]Wireless sensor networks[]Scheduling"
+    },
+    {
+        "title": "A Low Latency On-Body Typing System through Single Vibration Sensor.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2928549",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Vibrations[]Feature extraction[]Touch sensitive screens[]Runtime[]Training[]Calibration[]Sensors"
+    },
+    {
+        "title": "PPtaxi: Non-Stop Package Delivery via Multi-Hop Ridesharing.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2928808",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Public transportation[]Planning[]Logistics[]Mobile computing[]Electronic commerce[]Relays[]Benchmark testing"
+    },
+    {
+        "title": "Minimizing Wireless Delay with a High-Throughput Side Channel.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2914048",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Throughput[]Wireless networks[]Real-time systems[]OFDM[]Wireless fidelity[]Signal to noise ratio"
+    },
+    {
+        "title": "Razor: Scaling Backend Capacity for Mobile Applications.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2911935",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Capacity planning[]Delays[]Mobile applications[]Dynamic scheduling[]Mobile computing[]Market research[]User experience"
+    },
+    {
+        "title": "Residual Carrier Frequency Offset Estimation and Compensation for Commodity WiFi.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2934106",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Wireless fidelity[]OFDM[]Estimation[]Receivers[]Multiple signal classification[]Frequency measurement[]Transmitters[]Estimation"
+    },
+    {
+        "title": "On Detecting Hidden Wireless Cameras: A Traffic Pattern-based Approach.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2900919",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Cameras[]Wireless communication[]Wireless sensor networks[]Streaming media[]Communication system security[]Smart phones[]Protocols"
+    },
+    {
+        "title": "Preserving Honest/Dishonest Users&apos; Operational Privacy with Blind Interference Calculation in Spectrum Sharing System.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2936377",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Synthetic aperture sonar[]Interference[]Privacy[]Computer architecture[]Antennas[]FCC[]Spread spectrum communication"
+    },
+    {
+        "title": "LoSeRO: A Locality Sensitive Routing Protocol in Opportunistic Networks with Contact Profiles.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2923224",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Routing protocols[]Routing[]Privacy[]Mobile computing[]Knowledge engineering[]Measurement"
+    },
+    {
+        "title": "CHASE: Charging and Scheduling Scheme for Stochastic Event Capture in Wireless Rechargeable Sensor Networks.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2018.2887381",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Wireless sensor networks[]Schedules[]Wireless communication[]Monitoring[]Approximation algorithms[]Routing[]Mobile computing"
+    },
+    {
+        "title": "Passive Crowd Speed Estimation in Adjacent Regions With Minimal WiFi Sensing.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2924629",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Wireless fidelity[]Estimation[]Sensors[]Legged locomotion[]Cameras[]Privacy[]Training"
+    },
+    {
+        "title": "LaSR: A Supple Multi-Connectivity Scheduler for Multi-RAT OFDMA Systems.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2018.2876847",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Resource management[]Delays[]Complexity theory[]Scheduling[]Mobile computing"
+    },
+    {
+        "title": "Auction-Based Data Transaction in Mobile Networks: Data Allocation Design and Performance Analysis.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2903178",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Resource management[]Data models[]Wireless fidelity[]Smart phones[]Base stations[]Mobile computing[]Analytical models"
+    },
+    {
+        "title": "Optimized Preference-Aware Multi-Path Video Streaming with Scalable Video Coding.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2018.2889039",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Static VAr compensators[]Streaming media[]Prediction algorithms[]Bandwidth[]Video coding[]Quality of experience[]Optimization"
+    },
+    {
+        "title": "Identifying Mobile Inter-App Communication Risks.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2018.2889495",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Security[]Malware[]Feature extraction[]Mobile computing[]Sensitivity[]Complexity theory[]Standards"
+    },
+    {
+        "title": "A Seamless Mobility Management Protocol in 5G Locator Identificator Split Dense Small Cells.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2915071",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Handover[]Routing protocols[]Cellular radio[]5G mobile communication[]Packet loss"
+    },
+    {
+        "title": "Cost Effective Directional Barrier Construction Based on Zooming and United Probabilistic Detection.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2912749",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Sensors[]Probabilistic logic[]Mobile computing[]Fans[]Batteries[]Mobile nodes"
+    },
+    {
+        "title": "Turning Waste into Wealth: Free Control Message Transmissions in Indoor WiFi Networks.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2924000",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Signal to noise ratio[]OFDM[]Wireless fidelity[]IEEE 802.11 Standard[]Physical layer[]Wireless communication[]Receivers"
+    },
+    {
+        "title": "Computational Offloading for Energy Constrained Devices in Multi-Hop Cooperative Networks.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2892100",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Task analysis[]Mobile handsets[]Spread spectrum communication[]Ad hoc networks[]Servers[]Wireless fidelity[]Performance evaluation"
+    },
+    {
+        "title": "Unraveling Impact of Critical Sensing Range on Mobile Camera Sensor Networks.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2901478",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Cameras[]Robot sensing systems[]Wireless sensor networks[]Measurement[]Energy consumption[]Mobile computing"
+    },
+    {
+        "title": "Energy Efficient Scheduling Algorithms for Sweep Coverage in Mobile Sensor Networks.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2910074",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Robot sensing systems[]Approximation algorithms[]Scheduling[]Distributed algorithms[]Surveillance[]Mobile computing"
+    },
+    {
+        "title": "On the Interaction of Charging-Aware Mobility and Wireless Capacity.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2901671",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Wireless communication[]Mobile nodes[]Wireless sensor networks[]Mobile computing[]Mobile agents[]Charging stations"
+    },
+    {
+        "title": "Spatially-Consistent Human Body Blockage Modeling: A State Generation Procedure.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2918318",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Computational modeling[]Receivers[]Mobile computing[]Correlation[]Transmitters[]3GPP[]Analytical models"
+    },
+    {
+        "title": "A Cost-Driven Approach to Caching-as-a-Service in Cloud-Based 5G Mobile Networks.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2904061",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Cloud computing[]Streaming media[]Investment[]Mobile computing[]5G mobile communication[]Optimization"
+    },
+    {
+        "title": "ARREST: A RSSI Based Approach for Mobile Sensing and Tracking of a Moving Object.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2909020",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Robot kinematics[]Radio frequency[]Robot sensing systems[]Target tracking[]Estimation"
+    },
+    {
+        "title": "ROD-Revenue: Seeking Strategies Analysis and Revenue Prediction in Ride-on-Demand Service Using Multi-Source Urban Data.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2921959",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Public transportation[]Pricing[]Vehicles[]Feature extraction[]Data models[]Mobile computing"
+    },
+    {
+        "title": "A High-Availability Data Collection Scheme based on Multi-AUVs for Underwater Sensor Networks.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2907854",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Routing protocols[]Data collection[]Energy consumption[]Routing[]Trajectory[]Wireless sensor networks"
+    },
+    {
+        "title": "Optimal Mobile Computation Offloading with Hard Deadline Constraints.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2920819",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Cloud computing[]Task analysis[]Wireless communication[]Mobile handsets[]Channel models[]Performance evaluation[]Heuristic algorithms"
+    },
+    {
+        "title": "Never Use Labels: Signal Strength-Based Bayesian Device-Free Localization in Changing Environments.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2901782",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Hidden Markov models[]Calibration[]Multiprotocol label switching[]Bayes methods[]Buildings[]Current measurement[]Training"
+    },
+    {
+        "title": "Scheduling Algorithms for Minimizing Age of Information in Wireless Broadcast Networks with Random Arrivals.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2936199",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Scheduling algorithms[]Information age[]Wireless communication[]Buffer storage[]Optimal scheduling[]Markov processes"
+    },
+    {
+        "title": "High Speed LED-to-Camera Communication using Color Shift Keying with Flicker Mitigation.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2913832",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "mage color analysis[]Cameras[]Light emitting diodes[]Modulation[]Smart phones[]Transmitters"
+    },
+    {
+        "title": "Fast-Convergent Learning-Aided Control in Energy Harvesting Networks.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2936344",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "nergy harvesting[]Heuristic algorithms[]Convergence[]Energy management[]Spread spectrum communication[]Resource management[]Queueing theory"
+    },
+    {
+        "title": "Deep Reinforcement Learning for Online Computation Offloading in Wireless Powered Mobile-Edge Computing Networks.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2928811",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Wireless communication[]Task analysis[]Wireless sensor networks[]Resource management[]Fading channels[]Computational complexity[]Reinforcement learning"
+    },
+    {
+        "title": "Coflow-Like Online Data Acquisition from Low-Earth-Orbit Datacenters.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2936202",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Satellite communication[]Low earth orbit satellites[]Memory[]Stability analysis[]Optimization[]Servers[]Cloud computing"
+    },
+    {
+        "title": "Reliability-Aware Virtualized Network Function Services Provisioning in Mobile Edge Computing.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2927214",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "null"
+    },
+    {
+        "title": "Fair and Efficient Caching Algorithms and Strategies for Peer Data Sharing in Pervasive Edge Computing Environments.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2902090",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Approximation algorithms[]Edge computing[]Peer-to-peer computing[]Wireless networks[]Sensors[]Measurement[]Integer linear programming"
+    },
+    {
+        "title": "Optimizing Social Welfare of Live Video Streaming Services in Mobile Edge Computing.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2901786",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Streaming media[]Resource management[]Servers[]Quality of experience[]Clocks[]Heuristic algorithms[]Video recording"
+    },
+    {
+        "title": "Versatile Access Control for Massive IoT: Throughput, Latency, and Energy Efficiency.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2914381",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Uplink[]Resource management[]Access control[]Internet of Things[]Collision avoidance[]Performance evaluation[]Machine-to-machine communications"
+    },
+    {
+        "title": "Catch Me If You Can: Rogue Access Point Detection Using Intentional Channel Interference.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2903052",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Wireless communication[]Wireless sensor networks[]Detectors[]Wireless LAN[]Interference[]Delays[]Communication system security"
+    },
+    {
+        "title": "Profit Maximization for Sponsored Data in Wireless Video Transmission Systems.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2916872",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Streaming media[]Pricing[]Wireless communication[]Quality of experience[]Bandwidth[]Data models[]Broadcasting"
+    },
+    {
+        "title": "Decentralized Asynchronous Coded Caching Design and Performance Analysis in Fog Radio Access Networks.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2896970",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Delays[]Servers[]Encoding[]Libraries[]Radio access networks[]Indexes[]Mobile computing"
+    },
+    {
+        "title": "A Pragmatic Approach to Clear Channel Assessment Threshold Adaptation and Transmission Power Control for Performance Gain in CSMA/CA WLANs.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2892713",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Throughput[]Sensitivity[]Receivers[]Interference[]Solids[]Transmitters[]Symmetric matrices"
+    },
+    {
+        "title": "Analysis of Different Approaches to Distributed Multiuser MIMO in the 802.11ac.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2931301",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Protocols[]Throughput[]Interference[]Complexity theory[]MIMO communication[]Standards[]Signal to noise ratio"
+    },
+    {
+        "title": "Cellular Fronthaul Offloading Using Device Fogs, Caching, and Network Coding.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2894417",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Mobile computing[]Computer architecture[]Schedules[]Network coding[]Heuristic algorithms[]Signal processing algorithms[]Libraries"
+    },
+    {
+        "title": "Coverage Performance in MIMO-ZFBF Dense HetNets with Multiplexing and LOS/NLOS Path-Loss Attenuation.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2922614",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "MIMO communication[]Multiplexing[]Attenuation[]Cellular networks[]Geometry[]Stochastic processes[]Correlation"
+    },
+    {
+        "title": "Bird-MAC: Energy-Efficient MAC for Quasi-Periodic IoT Applications by Avoiding Early Wake-up.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2899572",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Synchronization[]Media Access Protocol[]Sensors[]Monitoring[]Clocks[]Internet of Things"
+    },
+    {
+        "title": "Traffic-Aware Backscatter Communications in Wireless-Powered Heterogeneous Networks.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2913386",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Backscatter[]Machine-to-machine communications[]Mobile computing[]Radio frequency[]Classification algorithms[]Internet of Things[]Stochastic processes"
+    },
+    {
+        "title": "Economics of Fog Computing: Interplay Among Infrastructure and Service Providers, Users, and Edge Resource Owners.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2925797",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "ge computing[]Games[]Computational modeling[]Economics[]Indium phosphide[]III-V semiconductor materials[]Business"
+    },
+    {
+        "title": "Real-Time Crowd Monitoring Using Seamless Indoor-Outdoor Localization.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2897561",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Sensors[]Probes[]Surveillance[]Wireless sensor networks[]Wireless communication[]Real-time systems"
+    },
+    {
+        "title": "Target Detection and Localization Methods Using Compartmental Model for Internet of Things.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2921537",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Object detection[]Computational modeling[]Uncertainty[]Mobile computing[]Internet of Things[]Wireless sensor networks[]Iterative methods"
+    },
+    {
+        "title": "PrOS: Light-Weight Privatized Se cure OSes in ARM TrustZone.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2910861",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Security[]Virtualization[]Monitoring[]Virtual machine monitors[]Hardware[]Software[]Memory management"
+    },
+    {
+        "title": "Furion: Engineering High-Quality Immersive Virtual Reality on Today&apos;s Mobile Devices.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2913364",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Rendering (computer graphics)[]Quality of experience[]Servers[]Mobile handsets[]Wireless networks[]Hardware[]Headphones"
+    },
+    {
+        "title": "Blockage Aware Fair Scheduling with Differentiated Service Support in mmWave WPANs/WLANs.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2931541",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Throughput[]Relays[]Resource management[]Wireless personal area networks[]Spread spectrum communication[]Ad hoc networks[]Interference"
+    },
+    {
+        "title": "Recycling Random Access Opportunities with Secondary Access Class Barring.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2919839",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Resource management[]Delays[]Performance evaluation[]Long Term Evolution[]Energy consumption[]Access control[]Uplink"
+    },
+    {
+        "title": "PASS: Reducing Redundant Notifications between a Smartphone and a Smartwatch for Energy Saving.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2930506",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Batteries[]Smart phones[]Mobile computing[]Energy consumption[]Synchronization[]Machine learning[]Wireless fidelity"
+    },
+    {
+        "title": "Towards A Personal Mobile Cloud via Generic Device Interconnections.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2922289",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Cloud computing[]Mobile handsets[]Resource management[]Mobile computing[]Sensors[]Global Positioning System"
+    },
+    {
+        "title": "Recommending Mobile Services with Trustworthy QoS and Dynamic User Preferences via FAHP and Ordinal Utility Function.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2896239",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Quality of service[]Mobile handsets[]Web services[]Social networking (online)[]Mobile computing[]Analytic hierarchy process[]Reliability"
+    },
+    {
+        "title": "Max-Min Fair Resource Allocation in Millimetre-Wave Backhauls.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2917205",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Resource management[]Throughput[]Base stations[]Deafness[]Spread spectrum communication[]Wireless communication[]Aggregates"
+    },
+    {
+        "title": "Learning-Aided Computation Offloading for Trusted Collaborative Mobile Edge Computing.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2934103",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Task analysis[]Cloud computing[]Collaboration[]Edge computing[]Minimization[]Optimization[]Edge computing[]Spread spectrum communication"
+    },
+    {
+        "title": "Exploring a Brain-Based Cancelable Biometrics for Smart Headwear: Concept, Implementation, and Evaluation.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2936559",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Biometrics (access control)[]Authentication[]Head-mounted displays[]Visualization[]Smart devices[]Mobile computing"
+    },
+    {
+        "title": "Traffic Flow Control in Vehicular Multi-Hop Networks with Data Caching.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2018.2888968",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Communication networks[]Pricing[]Cost function[]Data communication[]Channel allocation[]Roads"
+    },
+    {
+        "title": "Joint Recommendations in Multilayer Mobile Social Networks.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2923665",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Nonhomogeneous media[]Sensors[]Approximation algorithms[]Measurement[]Twitter[]Data mining"
+    },
+    {
+        "title": "Hidden-Node Problem in Full-Duplex Enabled CSMA Networks.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2895034",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Multiaccess communication[]Interference[]Media Access Protocol[]Throughput[]Receivers[]Wireless networks"
+    },
+    {
+        "title": "Inter-Femtocell Interference Identification and Resource Management.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2892138",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "nterference[]OFDM[]Macrocell networks[]Sensors[]Throughput[]Resource management"
+    },
+    {
+        "title": "aLeak: Context-Free Side-Channel from Your Smart Watch Leaks Your Typing Privacy.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2917659",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "boards[]Password[]Privacy[]Side-channel attacks[]Motion detection[]Wrist[]Mobile handsets"
+    },
+    {
+        "title": "Joint Optimization of Path Planning and Resource Allocation in Mobile Edge Computing.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2922316",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Task analysis[]Resource management[]Edge computing[]Path planning[]Optimization[]Processor scheduling[]Mobile computing"
+    },
+    {
+        "title": "Privacy Risk Analysis and Mitigation of Analytics Libraries in the Android Ecosystem.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2903186",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Libraries[]Companies[]Privacy[]Data privacy[]Google[]Servers[]Mobile computing"
+    },
+    {
+        "title": "Distributed Energy-Efficient Multi-UAV Navigation for Long-Term Communication Coverage by Deep Reinforcement Learning.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2908171",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Navigation[]Energy consumption[]Reinforcement learning[]Path planning[]Drones[]Three-dimensional displays"
+    },
+    {
+        "title": "FRCA: A Novel Flexible Routing Computing Approach for Wireless Sensor Networks.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2928805",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Routing[]Wireless sensor networks[]Routing protocols[]Measurement[]Mobile computing[]Computational modeling"
+    },
+    {
+        "title": "Frequency-Angle Spectrum Hole Detection with Taylor Expansion Based Focusing Transformation.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2924427",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Frequency-domain analysis[]Focusing[]Estimation[]Direction-of-arrival estimation[]OFDM[]Frequency division multiplexing[]Taylor series"
+    },
+    {
+        "title": "DPavatar: A Real-Time Location Protection Framework for Incumbent Users in Cognitive Radio Networks.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2897099",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Privacy[]Synthetic aperture sonar[]Databases[]Interference[]Differential privacy[]Real-time systems[]Wireless communication"
+    },
+    {
+        "title": "Uncoordinated Pseudonym Changes for Privacy Preserving in Distributed Networks.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2911279",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Privacy[]Peer-to-peer computing[]Delays[]Analytical models[]Mobile computing[]Throughput[]Vehicular ad hoc networks"
+    },
+    {
+        "title": "Optimizing TCP Loss Recovery Performance Over Mobile Data Networks.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2909888",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Throughput[]Bandwidth[]Microsoft Windows[]Linux[]Kernel[]Degradation[]Packet loss"
+    },
+    {
+        "title": "Optimized Neighbor Discovery for Opportunistic Networks of Energy Constrained IoT Devices.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2908402",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Peer-to-peer computing[]Receivers[]Protocols[]Energy consumption[]Wireless sensor networks[]Hardware[]Batteries"
+    },
+    {
+        "title": "Tainting-Assisted and Context-Migrated Symbolic Execution of Android Framework for Vulnerability Discovery and Exploit Generation.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2936561",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Middleware[]Computer crime[]Computer science[]Global Positioning System[]Androids"
+    },
+    {
+        "title": "Performance Analysis of Scheduled Access Mode of the IEEE 802.15.6 MAC Protocol under Non-Ideal Channel Conditions.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2901852",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Time division multiple access[]IEEE 802.15 Standard[]Wireless communication[]Body area networks[]Delays[]Media Access Protocol[]Queueing analysis"
+    },
+    {
+        "title": "Secure TDD MIMO Networks Against Training Sequence Based Eavesdropping Attack.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2937081",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "timation[]Training data[]Uplink[]Eavesdropping[]MIMO communication[]Downlink[]Security"
+    },
+    {
+        "title": "Revealing Your Mobile Password via WiFi Signals: Attacks and Countermeasures.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2893338",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Wireless fidelity[]Mobile handsets[]Password[]Pins[]Mobile computing[]Receivers[]OFDM"
+    },
+    {
+        "title": "On Efficiently Monitoring Continuous Aggregate k Nearest Neighbors in Road Networks.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2911950",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Roads[]Monitoring[]Aggregates[]Mobile computing[]Indexes[]Public transportation[]Urban areas"
+    },
+    {
+        "title": "Scalable Power Impact Prediction of Mobile Sensing Applications at Pre-Installation Time.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2909897",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Sensors[]Emulation[]Estimation[]Batteries[]Mobile applications[]Power demand[]Hardware"
+    },
+    {
+        "title": "Learning-Based Tracking Area List Management in 4G and 5G Networks.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2915079",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Optimization[]Resource management[]Long Term Evolution[]5G mobile communication[]Big Data[]Uplink[]Markov processes"
+    },
+    {
+        "title": "Take the Field from Your Smartphone: Leveraging UAVs for Event Filming.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2917176",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Drones[]Sports[]Streaming media[]Games[]Mathematical model[]Vehicle dynamics"
+    },
+    {
+        "title": "Joint Communication, Computation, Caching, and Control in Big Data Multi-Access Edge Computing.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2908403",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Servers[]Big Data[]Collaboration[]Cloud computing[]Delays[]Optimization[]Resource management"
+    },
+    {
+        "title": "Enabling Strong Privacy Preservation and Accurate Task Allocation for Mobile Crowdsensing.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2908638",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Task analysis[]Sensors[]Data privacy[]Privacy[]Resource management[]Mobile handsets[]Security"
+    },
+    {
+        "title": "Deep CNN-Based Real-Time Traffic Light Detector for Self-Driving Vehicles.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2892451",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Computational modeling[]Feature extraction[]Heuristic algorithms[]Hidden Markov models[]Real-time systems[]Machine learning[]Detectors"
+    },
+    {
+        "title": "MPWiFi: Synergizing MPTCP Based Simultaneous Multipath Access and WiFi Network Performance.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2018.2889059",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Wireless fidelity[]Throughput[]Wireless networks[]Bandwidth[]Mobile computing[]Analytical models"
+    },
+    {
+        "title": "A Caching Strategy Towards Maximal D2D Assisted Offloading Gain.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2933843",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Device-to-device communication[]Mobile computing[]Approximation algorithms[]Simulation[]Mobile handsets[]Optimization[]Collaboration"
+    },
+    {
+        "title": "Jointly-Optimized Searching and Tracking with Random Finite Sets.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2922133",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Target tracking[]Search problems[]Mobile computing[]Mobile agents[]Time measurement[]Estimation[]Surveillance"
+    },
+    {
+        "title": "FlexVi: PHY Aided Flexible Multicast for Video Streaming over IEEE 802.11 WLANs.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2923995",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Streaming media[]Wireless communication[]Video recording[]Quality assessment[]Reliability[]IEEE 802.11 Standard[]Bandwidth"
+    },
+    {
+        "title": "Beamforming Oriented Topology Control for mmWave Networks.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2911577",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "nterference[]Array signal processing[]Network topology[]Topology[]Structural beams[]Wireless communication[]Signal to noise ratio"
+    },
+    {
+        "title": "Adaptive Admission Control for IoT Applications in Home WiFi Networks.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2935719",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Wireless fidelity[]Internet of Things[]Transient analysis[]Sensors[]IEEE 802.11 Standard[]Wireless communication"
+    },
+    {
+        "title": "A Complete LTE Mathematical Framework for the Network Slice Planning of the EPC.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2018.2890235",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Long Term Evolution[]Planning[]Quality of service[]Analytical models[]Logic gates[]Optimization[]5G mobile communication"
+    },
+    {
+        "title": "A Control Theoretic Approach to ABR Video Streaming: A Fresh Look at PID-Based Rate Adaptation.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2929125",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Streaming media[]Bit rate[]PI control[]PD control[]Bandwidth[]Mobile computing[]Cellular networks"
+    },
+    {
+        "title": "Popularity-Aware Caching Increases the Capacity of Wireless Networks.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2892419",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Wireless networks[]Mobile ad hoc networks[]Interference[]Upper bound[]Base stations[]Mobile computing[]Signal to noise ratio"
+    },
+    {
+        "title": "Posted Pricing for Chance Constrained Robust Crowdsensing.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2018.2884713",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Sensors[]Task analysis[]Robustness[]Pricing[]Optimization[]Computer science[]Urban areas"
+    },
+    {
+        "title": "Cooperative Caching for Multiple Bitrate Videos in Small Cell Edges.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2893917",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Videos[]Bit rate[]Quality of experience[]Approximation algorithms[]Servers[]Mobile computing[]Base stations"
+    },
+    {
+        "title": "Probabilistic Spatially-Divided Multiple Access in Underwater Acoustic Sparse Networks.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2018.2877683",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Multiaccess communication[]Acoustic beams[]Uncertainty[]Interference[]Estimation[]Underwater acoustics[]Media Access Protocol"
+    },
+    {
+        "title": "Image and WLAN Bimodal Integration for Indoor User Localization.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2903044",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Wireless LAN[]Cameras[]Magnetic resonance imaging[]Vocabulary[]Batteries[]Smart phones"
+    },
+    {
+        "title": "Signature Verification Using Critical Segments for Securing Mobile Transactions.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2897657",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Authentication[]Feature extraction[]Touch sensitive screens[]Smart phones[]Performance evaluation[]Layout"
+    },
+    {
+        "title": "Fairness and Transmission-Aware Caching and Delivery Policies in OFDMA-Based HetNets.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2892978",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Resource management[]Wireless networks[]Software[]Delays[]Cellular networks[]Programming"
+    },
+    {
+        "title": "Low Complexity Online Radio Access Technology Selection Algorithm in LTE-WiFi HetNet.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2892983",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Radio access technologies[]Long Term Evolution[]Wireless fidelity[]Heuristic algorithms[]Throughput[]Convergence[]Approximation algorithms"
+    },
+    {
+        "title": "A Signal-Level Transfer Learning Framework for Autonomous Reconfiguration of Wearable Systems.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2018.2878673",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Signal processing algorithms[]Clustering algorithms[]Training data[]Time series analysis[]Activity recognition[]Task analysis[]Machine learning algorithms"
+    },
+    {
+        "title": "Mitigating NDN-Based Fake Content Dissemination in Opportunistic Mobile Networks.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2908161",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Mobile computing[]Bandwidth[]Blacklisting[]Computer crime[]Degradation[]Delays[]Internet"
+    },
+    {
+        "title": "Theoretical Framework for Estimating Target-Object Shape by Using Location-Unknown Mobile Distance Sensors.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2904494",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Sensors[]Shape[]Estimation[]Privacy[]Automobiles[]Millimeter wave radar[]Mobile computing"
+    },
+    {
+        "title": "Learning to Coordinate in a Decentralized Cognitive Radio Network in Presence of Jammers.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2927475",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Jamming[]Channel estimation[]Signal processing algorithms[]Distributed algorithms[]Channel allocation[]Knowledge engineering[]Throughput"
+    },
+    {
+        "title": "Machine Learning Based Network Analysis Using Millimeter-Wave Narrow-Band Energy Traces.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2907585",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Machine learning[]Physical layer[]Protocols[]Complexity theory[]Hidden Markov models[]Tools[]Wireless networks"
+    },
+    {
+        "title": "Autocorrelation and Coherence Time of Interference in Poisson Networks.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2912373",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "Correlation[]Interference[]Coherence[]Rayleigh channels[]Mathematical model[]Nakagami distribution"
+    },
+    {
+        "title": "On Interference Dynamics in Mat\u00e9rn Networks.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TMC.2019.2911498",
+        "journal_name": "IEEE Transactions on Mobile Computing",
+        "journal_shorter_form": "TMC",
+        "keywords": "nterference[]Sensors[]Multiaccess communication[]Correlation[]Fading channels[]Wireless networks"
+    }
+]

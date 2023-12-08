@@ -59,7 +59,7 @@ def ieee_spider(index):
 
 if __name__ == "__main__":
     processes = []
-    for index in range(16, 19):
+    for index in range(40, 43):
         p = multiprocessing.Process(target=ieee_spider,args=(index,))
         processes.append(p)
         p.start()

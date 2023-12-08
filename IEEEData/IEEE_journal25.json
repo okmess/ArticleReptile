@@ -1,0 +1,1842 @@
+[
+    {
+        "title": "Building and Testing Modular Programs for Programmable Data Planes.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/JSAC.2020.2986693",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Testing[]Virtualization[]Merging[]Hardware[]Ecosystems[]Switches[]Software"
+    },
+    {
+        "title": "Privacy-Preserved Data Sharing Towards Multiple Parties in Industrial IoTs.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/JSAC.2020.2980802",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Privacy[]Industries[]Production[]Differential privacy[]Relays"
+    },
+    {
+        "title": "Optimizing NFV Chain Deployment in Software-Defined Cellular Core.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/JSAC.2019.2959180",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Optimization[]Approximation algorithms[]Servers[]Software[]Hardware[]Computer architecture[]Routing"
+    },
+    {
+        "title": "HyperSight: Towards Scalable, High-Coverage, and Dynamic Network Monitoring Queries.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/JSAC.2020.2986690",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Monitoring[]Task analysis[]Delays[]Scalability[]Throughput[]Telemetry[]Denial-of-service attack"
+    },
+    {
+        "title": "DRAIM: A Novel Delay-Constraint and Reverse Auction-Based Incentive Mechanism for WiFi Offloading.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/JSAC.2020.2971871",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Wireless fidelity[]Delays[]Cellular networks[]Optimization[]Bandwidth[]Business[]Base stations"
+    },
+    {
+        "title": "Stochastic Geometry Analysis of Large Intelligent Surface-Assisted Millimeter Wave Networks.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/JSAC.2020.3000806",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Antennas[]Geometry[]Cellular networks[]Wireless communication[]Surface waves[]Transmitters[]Interference"
+    },
+    {
+        "title": "Millimeter-Wave Full-Duplex UAV Relay: Joint Positioning, Beamforming, and Power Control.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/JSAC.2020.3000879",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Array signal processing[]Relays[]Millimeter wave communication[]Power control[]Unmanned aerial vehicles[]Antenna arrays[]Interference"
+    },
+    {
+        "title": "Deep CM-CNN for Spectrum Sensing in Cognitive Radio.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2933892",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Sensors[]Covariance matrices[]Feature extraction[]Uncertainty[]Eigenvalues and eigenfunctions[]Analytical models[]Cognitive radio"
+    },
+    {
+        "title": "C2TCP: A Flexible Cellular TCP to Meet Stringent Delay Requirements.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2898758",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Delays[]Cellular networks[]Throughput[]Detectors[]Protocols[]Servers[]Vehicular ad hoc networks"
+    },
+    {
+        "title": "Optical Spatial Modulation for FSO IM/DD Communications With Photon-Counting Receivers: Performance Analysis, Transmit Diversity Order and Aperture Selection.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2929402",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Optical pulses[]Adaptive optics[]Apertures[]Optical receivers[]Optical transmitters[]Optical modulation"
+    },
+    {
+        "title": "Optimum Low-Complexity Decoder for Spatial Modulation.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2929454",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Complexity theory[]Transmitting antennas[]Maximum likelihood decoding[]Maximum likelihood estimation[]Receiving antennas[]Modulation"
+    },
+    {
+        "title": "SWIPT Massive MIMO Systems With Active Eavesdropping.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2018.2872370",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Training[]MIMO communication[]Eavesdropping[]Downlink[]Channel estimation[]Transmitting antennas"
+    },
+    {
+        "title": "Dynamic Task Offloading and Scheduling for Low-Latency IoT Services in Multi-Access Edge Computing.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2894306",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Task analysis[]Resource management[]Internet of Things[]Servers[]Edge computing[]Dynamic scheduling[]Job shop scheduling"
+    },
+    {
+        "title": "NOn-parametric Bayesian channEls cLustering (NOBEL) Scheme for Wireless Multimedia Cognitive Radio Networks.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2933943",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Quality of service[]Wireless communication[]Multimedia communication[]Videos[]Channel allocation[]Streaming media[]Channel estimation"
+    },
+    {
+        "title": "On SDN-Enabled Online and Dynamic Bandwidth Allocation for Stream Analytics.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2927062",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Bandwidth[]Channel allocation[]Topology[]Heuristic algorithms[]Storms[]Resource management[]Optimization"
+    },
+    {
+        "title": "Model-Free Training of End-to-End Communication Systems.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2933891",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Training[]Receivers[]Channel models[]Radio transmitters[]Communication systems[]Approximation algorithms"
+    },
+    {
+        "title": "Online Learning for Energy Saving and Interference Coordination in HetNets.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2904362",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "ntegrated circuits[]Quality of service[]Interference[]Switches[]Energy consumption[]Proposals[]Estimation"
+    },
+    {
+        "title": "Multi-beam Transmissions for Blockage Resilience and Reliability in Millimeter-Wave Systems.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2947938",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Array signal processing[]Antenna arrays[]5G mobile communication[]Decision trees[]Millimeter wave communication"
+    },
+    {
+        "title": "Interference Mitigation for Ultrareliable Low-Latency Wireless Communication.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2898786",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Actuators[]Protocols[]Interference[]Wireless communication[]Cows[]Relays[]Fading channels"
+    },
+    {
+        "title": "A Simulation Framework for Virtualized Resources in Cloud Data Center Networks.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2927066",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Cloud computing[]Data centers[]Network topology[]Computational modeling[]Topology[]Green products[]Data models"
+    },
+    {
+        "title": "FlowStat: Adaptive Flow-Rule Placement for Per-Flow Statistics in SDN.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2894239",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Switches[]Hardware[]Delays[]Quality of service[]Software[]Adaptive systems"
+    },
+    {
+        "title": "Mobility Management for Intro/Inter Domain Handover in Software-Defined Networks.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2927097",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Handover[]Manganese[]IP networks[]Routing[]Packet loss"
+    },
+    {
+        "title": "Machine Learning for In-Region Location Verification in Wireless Networks.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2933970",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Shadow mapping[]Fading channels[]Attenuation[]Artificial neural networks[]Support vector machines[]Channel models[]Wireless networks"
+    },
+    {
+        "title": "A Multi-Clustering Approach to Scale Distributed Tenant Networks for Mobile Edge Computing.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2894236",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "5G mobile communication[]Logic gates[]Edge computing[]Network function virtualization[]Resource management[]Cloud computing[]Quality of service"
+    },
+    {
+        "title": "Deep Learning-Based Decoding of Constrained Sequence Codes.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2933954",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Training[]Optimization[]Wireless networks[]Resource management[]Power control[]Deep learning"
+    },
+    {
+        "title": "Write-Aware Replica Placement for Cloud Computing.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2894555",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Cloud computing[]Computer network reliability[]Software reliability[]Time factors[]Software[]Distributed databases"
+    },
+    {
+        "title": "Distributed Resource Allocation for Energy Efficiency in OFDMA Multicell Networks With Wireless Power Transfer.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2018.2872398",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Resource management[]MIMO communication[]Wireless communication[]Downlink[]Wireless power transfer[]Transmitting antennas"
+    },
+    {
+        "title": "5G-Slicing-Enabled Scalable SDN Core Network: Toward an Ultra-Low Latency of Autonomous Driving Service.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2927065",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Autonomous vehicles[]Computer architecture[]Network slicing[]5G mobile communication[]Reliability[]Resource management[]Cloud computing"
+    },
+    {
+        "title": "Special Issue on Artificial Intelligence and Machine Learning for Networking and Communications.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2909076",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Special issues and sections[]Artificial intelligence[]Machine learning[]Communication networks[]Wireless networks[]Decision making"
+    },
+    {
+        "title": "Budget-Constrained Edge Service Provisioning With Demand Estimation via Bandit Learning.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2933781",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Servers[]Edge computing[]Cloud computing[]Estimation[]Task analysis[]Quality of service[]Decision making"
+    },
+    {
+        "title": "Toward Knowledge as a Service Over Networks: A Deep Learning Model Communication Paradigm.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2904360",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Deep learning[]Knowledge engineering[]Redundancy[]Computational modeling[]Data models[]Task analysis[]Neural networks"
+    },
+    {
+        "title": "Multi-Tenant Cross-Slice Resource Orchestration: A Deep Reinforcement Learning Approach.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2933893",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Resource management[]Vehicle-to-everything[]Reliability[]Safety[]Fading channels[]Reinforcement learning[]3GPP"
+    },
+    {
+        "title": "Space/Aerial-Assisted Computing Offloading for IoT Applications: A Learning-Based Approach.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2906789",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Task analysis[]Servers[]Internet of Things[]Edge computing[]Delays[]Resource management[]Computer architecture"
+    },
+    {
+        "title": "Active Learning and CSI Acquisition for mmWave Initial Alignment.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2933967",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Array signal processing[]Antenna arrays[]Signal to noise ratio[]Millimeter wave communication[]Noise measurement[]Error probability[]Search problems"
+    },
+    {
+        "title": "Guest Editorial Wireless Transmission of Information and Power - Part I.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2018.2872371",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Special issues and sections[]Wireless communication[]Wireless power transfer[]Wireless networks[]Data transfer"
+    },
+    {
+        "title": "Fundamentals of Wireless Information and Power Transfer: From RF Energy Harvester Models to Signal and System Designs.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2018.2872615",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Radio spectrum management[]Energy harvesting[]Power system management[]Wireless networks[]Backscatter[]Radiowave propagation[]Wireless power transfer"
+    },
+    {
+        "title": "Guest Editorial Wireless Transmission of Information and Power - Part II.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2018.2872384",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Special issues and sections[]Wireless communication[]Wireless power transfer[]Wireless sensor networks"
+    },
+    {
+        "title": "Spatial Deep Learning for Wireless Scheduling.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2904352",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Optimal scheduling[]Wireless communication[]Neural networks[]Channel estimation[]Transmitters[]Receivers"
+    },
+    {
+        "title": "Hybrid Precoding-Based Millimeter-Wave Massive MIMO-NOMA With Simultaneous Wireless Information and Power Transfer.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2018.2872364",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "MIMO communication[]Radio frequency[]Precoding[]NOMA[]Wireless communication[]Resource management[]Optimization"
+    },
+    {
+        "title": "Joint Radio Communication, Caching, and Computing Design for Mobile Virtual Reality Delivery in Fog Radio Access Networks.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2916486",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Videos[]Resource management[]Delays[]Edge computing[]Wireless communication[]Headphones[]Economics"
+    },
+    {
+        "title": "Multi-Player Multi-Armed Bandits for Stable Allocation in Heterogeneous Ad-Hoc Networks.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2934003",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Heuristic algorithms[]Ad hoc networks[]Sensors[]Wideband[]Base stations[]Distributed algorithms[]Resource management"
+    },
+    {
+        "title": "DYVINE: Fitness-Based Dynamic Virtual Network Embedding in Cloud Computing.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2906744",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Heuristic algorithms[]Servers[]Dynamic scheduling[]Cloud computing[]Resource management[]Virtual machining[]Network topology"
+    },
+    {
+        "title": "The Energy and Rate Meta Distributions in Wirelessly Powered D2D Networks.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2018.2872373",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Device-to-device communication[]Transmitters[]Energy exchange[]Radio frequency[]Wireless communication[]Reliability[]Communication networks"
+    },
+    {
+        "title": "Reliable Transmission of Short Packets Through Queues and Noisy Channels Under Latency and Peak-Age Violation Guarantees.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2898760",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Delays[]Decoding[]Reliability[]Error probability[]Steady-state[]Wireless communication[]Encoding"
+    },
+    {
+        "title": "Robust Energy Efficient Beamforming in MISOME-SWIPT Systems With Proportional Secrecy Rate.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2018.2872368",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Optimization[]Wireless communication[]Array signal processing[]Communication system security[]Receivers[]Covariance matrices[]Wireless sensor networks"
+    },
+    {
+        "title": "Optimal Node Deployment and Energy Provision for Wirelessly Powered Sensor Networks.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2018.2872380",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Wireless sensor networks[]Wireless communication[]Monitoring[]Energy consumption[]Batteries[]Sensors[]Routing"
+    },
+    {
+        "title": "NetStar: A Future/Promise Framework for Asynchronous Network Functions.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2894303",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Programming[]Noise measurement[]Databases[]Malware[]Buildings[]Context[]Libraries"
+    },
+    {
+        "title": "NFVactor: A Resilient NFV System Using the Distributed Actor Model.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2894287",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Noise measurement[]Resilience[]Runtime[]Network function virtualization[]Delays[]Software[]Process control"
+    },
+    {
+        "title": "Radio Resource Allocation and Retransmission Schemes for URLLC Over 5G Networks.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2898783",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Resource management[]Reliability[]Job shop scheduling[]5G mobile communication[]Error analysis[]Delays[]Motion control"
+    },
+    {
+        "title": "HoneyDOC: An Efficient Honeypot Architecture Enabling All-Round Design.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2894307",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Computer architecture[]IP networks[]Switches[]Fans[]Organizations[]Computer hacking"
+    },
+    {
+        "title": "Idle Time Window Prediction in Cellular Networks with Deep Spatiotemporal Modeling.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2904367",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Predictive models[]Time series analysis[]Estimation[]Feature extraction[]Spatiotemporal phenomena[]Indexes[]Microprocessors"
+    },
+    {
+        "title": "Guest Editorial Millimeter-Wave Networking.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2947996",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Special issues and sections[]Millimeter wave communication[]Wireless networks"
+    },
+    {
+        "title": "Physical Layer Authentication in Mission-Critical MTC Networks: A Security and Delay Performance Analysis.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2899421",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Programmable logic arrays[]Delays[]Mission critical systems[]Physical layer[]Authentication[]Stochastic processes"
+    },
+    {
+        "title": "Iris: Deep Reinforcement Learning Driven Shared Spectrum Access Architecture for Indoor Neutral-Host Small Cells.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2927067",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Pricing[]Iris recognition[]Reinforcement learning[]Prototypes[]Informatics[]Quality of experience[]Broadband communication"
+    },
+    {
+        "title": "Spatial Multiplexing With Limited RF Chains: Generalized Beamspace Modulation (GBM) for mmWave Massive MIMO.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2929400",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Radio frequency[]Modulation[]Indexes[]Multiplexing[]Antennas[]MIMO communication[]Transceivers"
+    },
+    {
+        "title": "Cache-Aided Simultaneous Wireless Information and Power Transfer (SWIPT) With Relay Selection.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2018.2872367",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Relays[]Wireless communication[]Energy harvesting[]Decoding[]Throughput[]Wireless sensor networks[]Communication system security"
+    },
+    {
+        "title": "Guest Editorial Special Issue on Machine Learning in Wireless Communication - Part I.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2934006",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Special issues and sections[]Machine learning[]5G mobile communication[]Wireless communication[]Wireless networks"
+    },
+    {
+        "title": "Guest Editorial Special Issue on Machine Learning in Wireless Communication - Part 2.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2934252",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Special issues and sections[]Machine learning[]Wireless communication[]Wireless networks"
+    },
+    {
+        "title": "Multi-User Multi-Stream mmWave WLANs With Efficient Path Discovery and Beam Steering.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2947820",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Millimeter wave communication[]Radio frequency[]MIMO communication[]Phased arrays[]Beam steering[]Delays[]Array signal processing"
+    },
+    {
+        "title": "Fairness-Aware Dynamic Rate Control and Flow Scheduling for Network Utility Maximization in Network Service Chain.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2906746",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Servers[]Throughput[]Resource management[]Quality of service[]Dynamic scheduling[]Heuristic algorithms[]Semantics"
+    },
+    {
+        "title": "Machine Learning in the Air.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2933969",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "null"
+    },
+    {
+        "title": "Joint Switch Upgrade and Controller Deployment in Hybrid Software-Defined Networks.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2906743",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Switches[]Process control[]Propagation delay[]Optimization[]Heuristic algorithms[]Network topology"
+    },
+    {
+        "title": "Resource Allocation for Low-Latency Vehicular Communications: An Effective Capacity Perspective.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2898743",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Resource management[]Device-to-device communication[]Interference[]Fading channels[]Signal to noise ratio[]Quality of service[]Vehicular ad hoc networks"
+    },
+    {
+        "title": "Generalized Beamspace Modulation Using Multiplexing: A Breakthrough in mmWave MIMO.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2929399",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "MIMO communication[]Radio frequency[]Antennas[]Modulation[]Multiplexing[]Signal to noise ratio[]Switches"
+    },
+    {
+        "title": "Distributed Resource Allocation Optimization in 5G Virtualized Networks.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2894305",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "5G mobile communication[]Resource management[]Data centers[]Computer architecture[]Cloud computing[]Network function virtualization[]Network slicing"
+    },
+    {
+        "title": "Profit Maximization for Video Caching and Processing in Edge Cloud.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2916489",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Bit rate[]Streaming media[]Cloud computing[]Mobile handsets[]Quality of experience[]Optimization[]Servers"
+    },
+    {
+        "title": "Procuring Spontaneous Session-Level Resource Guarantees for Real-Time Applications: An Auction Approach.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2916487",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Real-time systems[]Streaming media[]Quality of experience[]Bit rate[]Wireless communication[]Long Term Evolution[]Resource management"
+    },
+    {
+        "title": "Network Function Virtualization-Aware Orchestrator for Service Function Chaining Placement in the Cloud.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2895226",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Delays[]Quality of service[]Cloud computing[]Virtualization[]Optimization[]Computer architecture[]Software"
+    },
+    {
+        "title": "Joint Power Allocation and Channel Assignment for NOMA With Deep Reinforcement Learning.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2933762",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "NOMA[]Resource management[]Channel allocation[]Reinforcement learning[]Wireless communication[]Multiplexing[]System performance"
+    },
+    {
+        "title": "Cloud-Edge Coordinated Processing: Low-Latency Multicasting Transmission.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2906791",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Covariance matrices[]Multicast communication[]Optimization[]Cloud computing[]Array signal processing[]Symmetric matrices[]Wireless communication"
+    },
+    {
+        "title": "SWIPT-Enabled Relaying in IoT Networks Operating With Finite Blocklength Codes.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2018.2872361",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Protocols[]Reliability[]Error probability[]Relays[]Encoding[]Wireless communication[]Resource management"
+    },
+    {
+        "title": "Energy Efficiency of Distributed Antenna Systems With Wireless Power Transfer.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2018.2872362",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "nergy consumption[]Wireless communication[]Antenna arrays[]Resource management[]Time division multiple access[]Downlink"
+    },
+    {
+        "title": "Optimal and Fast Real-Time Resource Slicing With Deep Dueling Neural Networks.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2904371",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Network slicing[]Resource management[]Dynamic scheduling[]Real-time systems[]Uncertainty[]Heuristic algorithms[]Neural networks"
+    },
+    {
+        "title": "&quot;Jam Me If You Can: &quot; Defeating Jammer With Deep Dueling Neural Network Architecture and Ambient Backscattering Augmented Communications.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2933889",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Jamming[]Backscatter[]Radio transmitters[]Radio frequency[]Wireless communication[]Neural networks"
+    },
+    {
+        "title": "The Impact of Mobile Blockers on Millimeter Wave Cellular Systems.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2898756",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Quality of service[]Analytical models[]5G mobile communication[]Computer network reliability[]Telecommunication network reliability[]Cellular networks"
+    },
+    {
+        "title": "Data Transmission Reduction Schemes in WSNs for Efficient IoT Systems.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2904357",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Wireless sensor networks[]Correlation[]Clustering algorithms[]Prediction algorithms[]Autoregressive processes[]Data communication[]Artificial neural networks"
+    },
+    {
+        "title": "Guest Editorial Multimedia Economics for Future Networks: Theory, Methods, and Applications.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2918962",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Special issues and sections[]Streaming media[]Economics[]Multimedia communication[]Quality of experience[]Pricing"
+    },
+    {
+        "title": "Reinforcement Learning for Real-Time Optimization in NB-IoT Networks.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2904366",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "nterference[]Signal to noise ratio[]Long Term Evolution[]Data communication[]Numerical models[]Analytical models[]Uplink"
+    },
+    {
+        "title": "Packet Detection by a Single OFDM Symbol in URLLC for Critical Industrial Control: A Realistic Study.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2898761",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Reliability[]Job shop scheduling[]Synchronization[]OFDM[]Wireless communication[]Standards[]Time division multiple access"
+    },
+    {
+        "title": "Simultaneous Information and Energy Transmission in the Two-User Gaussian Interference Channel.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2018.2872365",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Transmitters[]Receivers[]Indexes[]Interference channels[]Signal to noise ratio[]Task analysis[]Encoding"
+    },
+    {
+        "title": "5G Industrial Networks With CoMP for URLLC and Time Sensitive Network Architecture.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2898744",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "5G mobile communication[]Reliability[]Ethernet[]Precoding[]Interference[]Manufacturing automation[]Wireless communication"
+    },
+    {
+        "title": "Supervised-Learning for Multi-Hop MU-MIMO Communications With One-Bit Transceivers.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2933965",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Relays[]Detectors[]Computational modeling[]MIMO communication[]Channel models[]Training[]Adaptation models"
+    },
+    {
+        "title": "Waveform Design for Fair Wireless Power Transfer With Multiple Energy Harvesting Devices.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2018.2872311",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Receivers[]Rectennas[]Optimization[]Convex functions[]Energy harvesting[]Analytical models[]Radio frequency"
+    },
+    {
+        "title": "Guest Editorial Spatial Modulation in Emerging Wireless Systems.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2929452",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Special issues and sections[]Modulation[]Wireless communication[]Spatial modulation"
+    },
+    {
+        "title": "Guest Editorial Ultra-Reliable Low-Latency Communications in Wireless Networks.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2902262",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Special issues and sections[]Reliability[]Wireless communication[]Low latency communication[]Protocols[]Resource management"
+    },
+    {
+        "title": "Fast Inter-Base Station Ring (FIBR): A New Millimeter Wave Cellular Network Architecture.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2947940",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "3GPP[]5G mobile communication[]Reliability[]Computer architecture[]Switches[]Cellular networks"
+    },
+    {
+        "title": "Joint User Association and Beamforming Design for Millimeter Wave UDN With Wireless Backhaul.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2947926",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Wireless communication[]Resource management[]Radio frequency[]Channel estimation[]Multiplexing[]Array signal processing[]Antennas"
+    },
+    {
+        "title": "Deep Learning for Distributed Optimization: Applications to Wireless Resource Management.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2933890",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Training[]Optimization[]Wireless networks[]Resource management[]Power control[]Deep learning"
+    },
+    {
+        "title": "Sparsely Self-Supervised Generative Adversarial Nets for Radio Frequency Estimation.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2933779",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Radio frequency[]Estimation[]Gallium nitride[]Generators[]Mathematical model[]Computational modeling[]Radio propagation"
+    },
+    {
+        "title": "On Buffer-Constrained Throughput of a Wireless-Powered Communication System.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2018.2872374",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Throughput[]Resource management[]Energy harvesting[]Wireless communication[]Batteries[]Energy exchange"
+    },
+    {
+        "title": "LS-SDV: Virtual Network Management in Large-Scale Software-Defined IoT.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2927099",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Decentralized control[]Software[]Internet of Things[]Wireless networks[]Scalability[]Scheduling[]Smart devices"
+    },
+    {
+        "title": "A Prediction-Based Charging Policy and Interference Mitigation Approach in the Wireless Powered Internet of Things.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2018.2872429",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "nterference[]Power control[]Wireless sensor networks[]Mathematical model[]Games[]Robot sensing systems[]Wireless communication"
+    },
+    {
+        "title": "Wirelessly Powered Crowd Sensing: Joint Power Transfer, Sensing, Compression, and Transmission.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2018.2872379",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "nergy consumption[]Resource management[]Sensor systems[]Wireless sensor networks[]Optimization[]Array signal processing"
+    },
+    {
+        "title": "Intelligent Scheduling and Power Control for Multimedia Transmission in 5G CoMP Systems: A Dynamic Bargaining Game.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2916491",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Delays[]Interference[]5G mobile communication[]Throughput[]Power control[]NIST[]Heuristic algorithms"
+    },
+    {
+        "title": "SmartCC: A Reinforcement Learning Approach for Multipath TCP Congestion Control in Heterogeneous Networks.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2933761",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Reinforcement learning[]Heterogeneous networks[]Adaptation models[]Aerospace electronics[]Training[]Packet loss"
+    },
+    {
+        "title": "Spectrum Sharing in Vehicular Networks Based on Multi-Agent Reinforcement Learning.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2933962",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Resource management[]Vehicle-to-everything[]Reliability[]Safety[]Fading channels[]Reinforcement learning[]3GPP"
+    },
+    {
+        "title": "Soft Demodulators Based on Deterministic SMC for Single-Carrier GSM in Broadband Channels.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2929396",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Demodulation[]GSM[]Receivers[]Radio frequency[]Computational complexity[]Broadband communication"
+    },
+    {
+        "title": "Hybrid-Beamforming-Based Millimeter-Wave Cellular Network Optimization.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2947923",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Array signal processing[]Antenna arrays[]Radio frequency[]Scheduling[]Cellular networks[]Optimization[]Millimeter wave communication"
+    },
+    {
+        "title": "Energy-Efficient Distributed Mobile Crowd Sensing: A Deep Learning Approach.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2904353",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Sensors[]Task analysis[]Data collection[]Autonomous automobiles[]Navigation[]Reinforcement learning[]Smart phones"
+    },
+    {
+        "title": "Fundamentals of Simultaneous Wireless Information and Power Transmission in Heterogeneous Networks: A Cell-Load Perspective.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2018.2872314",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Computer architecture[]Downlink[]Wireless communication[]Microprocessors[]Receivers[]Uplink[]Analytical models"
+    },
+    {
+        "title": "MmWave UAV Networks With Multi-Cell Association: Performance Limit and Optimization.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2947922",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Computer architecture[]Cellular networks[]Antenna arrays[]Three-dimensional displays[]Unmanned aerial vehicles[]Microprocessors[]Downlink"
+    },
+    {
+        "title": "Power Rationing for Tradeoff Between Energy Consumption and Profit in Multimedia Heterogeneous Networks.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2916450",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Power control[]Games[]Energy consumption[]Quality of service[]Heterogeneous networks[]Resource management[]Multimedia communication"
+    },
+    {
+        "title": "Fast Iterative Semi-Blind Receiver for URLLC in Short-Frame Full-Duplex Systems With CFO.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2898746",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Channel estimation[]Receivers[]Estimation[]OFDM[]Training[]Reliability engineering"
+    },
+    {
+        "title": "Economically Optimal MS Association for Multimedia Content Delivery in Cache-Enabled Heterogeneous Cloud Radio Access Networks.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2916280",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Quality of service[]Economics[]Interference[]Optimization[]Signal to noise ratio[]5G mobile communication[]Radio access networks"
+    },
+    {
+        "title": "Front-End Smart Visual Sensing and Back-End Intelligent Analysis: A Unified Infrastructure for Economizing the Visual System of City Brain.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2916488",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Visualization[]Feature extraction[]Smart cities[]Sensors[]Deep learning[]Cameras"
+    },
+    {
+        "title": "Global Energy Efficiency in Secure MISO SWIPT Systems With Non-Linear Power-Splitting EH Model.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2018.2872369",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Receivers[]Wireless sensor networks[]MISO communication[]Minimization[]Integrated circuit modeling[]Communication system security[]Wireless communication"
+    },
+    {
+        "title": "QoE-Driven Multi-User Video Transmission Over SM-NOMA Integrated Systems.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2929382",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "NOMA[]Resource management[]Quality of experience[]Static VAr compensators[]Throughput[]Silicon carbide[]Streaming media"
+    },
+    {
+        "title": "Scaling Geo-Distributed Network Function Chains: A Prediction and Learning Framework.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2927068",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Reinforcement learning[]Heuristic algorithms[]Artificial neural networks[]Data centers[]Wide area networks[]Adaptation models[]Predictive models"
+    },
+    {
+        "title": "Joint Transmitter-Receiver Spatial Modulation Design via Minimum Euclidean Distance Maximization.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2929380",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Receiving antennas[]Transmitting antennas[]Resource management[]Modulation[]Euclidean distance[]Reliability"
+    },
+    {
+        "title": "Communication-Aware Container Placement and Reassignment in Large-Scale Internet Data Centers.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2895473",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Containers[]Servers[]Resource management[]Data centers[]Internet[]Throughput[]Time factors"
+    },
+    {
+        "title": "Optimal Online Data Partitioning for Geo-Distributed Machine Learning in Edge of Wireless Networks.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2934002",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Machine learning[]Synchronization[]Servers[]Data models[]Wireless networks[]Computational modeling[]Distributed databases"
+    },
+    {
+        "title": "Tiny Codes for Guaranteeable Delay.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2898747",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Delays[]Reliability[]Throughput[]Encoding[]Receivers[]5G mobile communication[]Protocols"
+    },
+    {
+        "title": "Optimal Transmission Using a Self-Sustained Relay in a Full-Duplex MIMO System.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2018.2872617",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Relays[]MIMO communication[]Interference cancellation[]Energy harvesting[]Wireless communication[]Throughput[]Optimization"
+    },
+    {
+        "title": "AuDI: Toward Autonomous IoT Device-Type Identification Using Periodic Communication.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2904364",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Logic gates[]Internet of Things[]Object recognition[]Security[]Cloud computing[]Quality of service[]Monitoring"
+    },
+    {
+        "title": "Interference Management and Capacity Analysis for mm-Wave Picocells in Urban Canyons.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2947819",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "nterference[]Base stations[]Antenna arrays[]Bandwidth[]Cellular networks[]Computer architecture[]Millimeter wave communication"
+    },
+    {
+        "title": "Decision Directed Channel Estimation Based on Deep Neural Network k-Step Predictor for MIMO Communications in 5G.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2934004",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Doppler effect[]Channel estimation[]MIMO communication[]Fading channels[]Mathematical model[]Estimation[]Prediction algorithms"
+    },
+    {
+        "title": "MicroNF: An Efficient Framework for Enabling Modularized Service Chains in NFV.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2927069",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Noise measurement[]Hardware[]Runtime[]Elasticity[]Sun[]Virtualization[]Middleboxes"
+    },
+    {
+        "title": "Stochastic Performance Analysis of Network Function Virtualization in Future Internet.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2894304",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "null"
+    },
+    {
+        "title": "Detour: Dynamic Task Offloading in Software-Defined Fog for IoT Applications.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2906793",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Task analysis[]Internet of Things[]Edge computing[]Computer architecture[]Delays[]Energy consumption[]Servers"
+    },
+    {
+        "title": "Application Component Placement in NFV-Based Hybrid Cloud/Fog Systems With Mobile Fog Nodes.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2906790",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Cloud computing[]Data centers[]Network function virtualization[]Drones[]Earthquakes[]Sensors[]Edge computing"
+    },
+    {
+        "title": "On the Capacity of MISO Channels With One-Bit ADCs and DACs.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2929427",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "MISO communication[]Receivers[]Transceivers[]Modulation[]Channel capacity[]Signal to noise ratio[]Transmitters"
+    },
+    {
+        "title": "Multi-Agent Deep Reinforcement Learning for Dynamic Power Allocation in Wireless Networks.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2933973",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Resource management[]Transmitters[]Receivers[]Fading channels[]Dynamic scheduling[]Power control[]Heuristic algorithms"
+    },
+    {
+        "title": "Energy Efficiency Fairness for Multi-Pair Wireless-Powered Relaying Systems.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2018.2872377",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Array signal processing[]Relay networks (telecommunications)[]Power demand[]Wireless communication[]Resource management"
+    },
+    {
+        "title": "Dynamic TCP Initial Windows and Congestion Control Schemes Through Reinforcement Learning.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2904350",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Servers[]Web services[]Reinforcement learning[]Microsoft Windows[]Bandwidth[]Data communication"
+    },
+    {
+        "title": "Proactive Received Power Prediction Using Machine Learning and Depth Images for mmWave Networks.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2933763",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Attenuation[]Predictive models[]Cameras[]Handover[]Reliability[]Millimeter wave communication"
+    },
+    {
+        "title": "Robust Coordinated Reinforcement Learning for MAC Design in Sensor Networks.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2933887",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Wireless sensor networks[]Complexity theory[]Convergence[]Throughput[]Reinforcement learning[]Media Access Protocol[]Resource management"
+    },
+    {
+        "title": "CBMoS: Combinatorial Bandit Learning for Mode Selection and Resource Allocation in D2D Systems.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2933764",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Device-to-device communication[]Resource management[]Interference[]Wireless fidelity[]Throughput[]Computational complexity"
+    },
+    {
+        "title": "SCAROS: A Scalable and Robust Self-Backhauling Solution for Highly Dynamic Millimeter-Wave Networks.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2947925",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Base stations[]Optical fiber networks[]Interference[]Throughput[]Heuristic algorithms[]Robustness"
+    },
+    {
+        "title": "Energy Beamforming in Wireless Powered mmWave Sensor Networks.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2018.2872381",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Wireless communication[]Wireless sensor networks[]Array signal processing[]Estimation[]Monitoring[]Ad hoc networks[]Power system reliability"
+    },
+    {
+        "title": "FastRule: Efficient Flow Entry Updates for TCAM-Based OpenFlow Switches.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2894235",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Control systems[]Hardware[]Directed acyclic graph[]Data structures[]Layout[]Greedy algorithms[]Indexes"
+    },
+    {
+        "title": "Efficient Recovery Path Computation for Fast Reroute in Large-Scale Software-Defined Networks.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2927098",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Switches[]IP networks[]Multiprotocol label switching[]Topology[]Heuristic algorithms[]Complexity theory[]Indexing"
+    },
+    {
+        "title": "A Finite Input Alphabet Perspective on the Rate-Energy Tradeoff in SWIPT Over Parallel Gaussian Channels.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2018.2872312",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Receivers[]Array signal processing[]Resource management[]Signal to noise ratio[]MIMO communication[]Optimization[]Energy harvesting"
+    },
+    {
+        "title": "Embedding Service Function Tree With Minimum Cost for NFV-Enabled Multicast.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2906764",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Task analysis[]Unicast[]Steiner trees[]Routing[]Hardware[]Network function virtualization[]Servers"
+    },
+    {
+        "title": "Reinforcement Learning for Adaptive Caching With Dynamic Storage Pricing.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2933780",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Optimization[]Reinforcement learning[]Pricing[]Aggregates[]Stochastic processes[]5G mobile communication[]Cellular networks"
+    },
+    {
+        "title": "Millimeter Wave Integrated Access and Backhaul in 5G: Performance Analysis and Design Insights.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2947997",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Load modeling[]Wireless communication[]Analytical models[]Stochastic processes[]Relays[]Cellular networks[]Resource management"
+    },
+    {
+        "title": "Delay-Sensitive Communications Over IR-HARQ: Modulation, Coding Latency, and Reliability.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2898784",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Wireless communication[]Throughput[]Encoding[]Fading channels[]Reliability[]Modulation[]Markov processes"
+    },
+    {
+        "title": "Terahertz-Band Ultra-Massive Spatial Modulation MIMO.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2929455",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Plasmons[]Antenna arrays[]Array signal processing[]MIMO communication[]Frequency modulation"
+    },
+    {
+        "title": "Delay Performance of the Multiuser MISO Downlink Under Imperfect CSI and Finite-Length Coding.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2898759",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Transmitters[]Delays[]Array signal processing[]MISO communication[]Encoding[]Interference[]Reliability"
+    },
+    {
+        "title": "Time-Dependent Pricing for Multimedia Data Traffic: Analysis, Systems, and Trials.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2916490",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Pricing[]Computational modeling[]Internet[]Economics[]Analytical models[]Resource management[]Real-time systems"
+    },
+    {
+        "title": "Delay Minimization for Data Transmission in Wireless Power Transfer Systems.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2018.2872395",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Wireless communication[]Delays[]Batteries[]Minimization[]Throughput[]Optimal scheduling[]Data communication"
+    },
+    {
+        "title": "Multimedia Crowdsourcing With Bounded Rationality: A Cognitive Hierarchy Perspective.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2916448",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Task analysis[]Crowdsourcing[]Benchmark testing[]Streaming media[]Cognition[]Multimedia communication"
+    },
+    {
+        "title": "Lightweight Machine Learning for Efficient Frequency-Offset-Aware Demodulation.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2933956",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Demodulation[]Estimation[]Support vector machines[]Payloads[]OFDM[]Wireless communication"
+    },
+    {
+        "title": "Bidirectional Optical Spatial Modulation for Mobile Users: Toward a Practical Design for LiFi Systems.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2929381",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Light fidelity[]Uplink[]Modulation[]Optical transmitters[]Downlink[]MIMO communication[]Channel models"
+    },
+    {
+        "title": "Resource Allocation Mechanism for Media Handling Services in Cloud Multimedia Conferencing.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2906806",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Media[]Streaming media[]Cloud computing[]Resource management[]Servers[]Quality of service[]Delays"
+    },
+    {
+        "title": "Enhanced Machine Learning Techniques for Early HARQ Feedback Prediction in 5G.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2934001",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Machine learning[]Decoding[]Probabilistic logic[]Machine learning algorithms[]Error analysis[]Delays[]Receivers"
+    },
+    {
+        "title": "Robust Beamforming Design in a NOMA Cognitive Radio Network Relying on SWIPT.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2018.2872375",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "NOMA[]Resource management[]Array signal processing[]Robustness[]Wireless communication[]MISO communication[]Energy harvesting"
+    },
+    {
+        "title": "Wireless Channel Dynamics and Robustness for Ultra-Reliable Low-Latency Communications.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2900784",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Wireless communication[]Uncertainty[]Reliability[]Relays[]Coherence[]Rayleigh channels"
+    },
+    {
+        "title": "Editorial Third Edition of the IEEE JSAC Series on Network Softwarization &amp; Enablers.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2894556",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Special issues and sections[]5G mobile communication[]Network function virtualization[]Software defined networking[]Quality of service[]Edge computing[]Internet of Things"
+    },
+    {
+        "title": "Editorial Fourth Edition of the IEEE JSAC Series on Network Softwarization &amp; Enablers.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2906794",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Special issues and sections[]Software defined networking[]Network function virtualization[]Cloud computing[]Edge computing"
+    },
+    {
+        "title": "Fifth Edition of the IEEE JSAC Series on Network Softwarization &amp; Enablers.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2927061",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Special issues and sections[]5G mobile communication[]Commercialization"
+    },
+    {
+        "title": "Regulating Monopolistic ISPs Without Neutrality.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2916492",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Network neutrality[]Internet[]Pricing[]FCC[]Quality of service[]Monopoly[]Investment"
+    },
+    {
+        "title": "Service Multiplexing and Revenue Maximization in Sliced C-RAN Incorporated With URLLC and Multicast eMBB.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2898745",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Network slicing[]5G mobile communication[]Wireless communication[]Reliability[]Radio access networks[]Broadband communication[]Throughput"
+    },
+    {
+        "title": "Rebuffering Optimization for DASH via Pricing and EEG-Based QoE Modeling.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2916453",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Quality of experience[]Streaming media[]Servers[]Channel allocation[]Bandwidth[]Brain modeling[]Bit rate"
+    },
+    {
+        "title": "Learning QoE of Mobile Video Transmission With Deep Neural Network: A Data-Driven Approach.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2904359",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Quality of experience[]Streaming media[]Quality of service[]Quality assessment[]Deep learning[]Databases[]Monitoring"
+    },
+    {
+        "title": "Scalable and Efficient Multipath Routing via Redundant Trees.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2906742",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Routing[]Heuristic algorithms[]Computational complexity[]Control systems[]Buildings[]Tagging"
+    },
+    {
+        "title": "RO-RO: Routing Optimality - Reconfiguration Overhead Balance in Software-Defined ISP Networks.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2906762",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Optimization[]Quality of service[]Routing[]Multiprotocol label switching[]Delays[]Stability analysis[]Heuristic algorithms"
+    },
+    {
+        "title": "Wireless Network Slicing: Generalized Kelly Mechanism-Based Resource Allocation.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2927100",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Resource management[]Wireless networks[]Indium phosphide[]III-V semiconductor materials[]Cost accounting[]Network slicing[]Virtualization"
+    },
+    {
+        "title": "P2DCA: A Privacy-Preserving-Based Data Collection and Analysis Framework for IoMT Applications.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2904349",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Cloud computing[]Servers[]Privacy[]Data privacy[]Data collection[]Security[]Machine learning algorithms"
+    },
+    {
+        "title": "CARMA: Channel-Aware Reinforcement Learning-Based Multi-Path Adaptive Routing for Underwater Wireless Sensor Networks.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2933968",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Routing[]Relays[]Wireless sensor networks[]Energy consumption[]Routing protocols[]Reinforcement learning"
+    },
+    {
+        "title": "A Particle Filter-Based Reinforcement Learning Approach for Reliable Wireless Indoor Positioning.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2933886",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Distance measurement[]Reinforcement learning[]Wireless communication[]Hidden Markov models[]Reliability[]Prediction algorithms[]Machine learning algorithms"
+    },
+    {
+        "title": "Switching Frequency Techniques for Universal Ambient Backscatter Networking.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2018.2872383",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Backscatter[]Frequency modulation[]Lighting[]Receivers[]Detectors[]Low-power electronics"
+    },
+    {
+        "title": "Retrodirective Frequency Diverse Array Focusing for Wireless Information and Power Transfer.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2018.2872360",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Focusing[]Phased arrays[]Wireless communication[]Array signal processing[]Communication system security[]Acoustic beams"
+    },
+    {
+        "title": "A Reinforcement Learning Approach to Energy Efficiency and QoS in 5G Wireless Networks.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2904365",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Base stations[]Quality of service[]Bandwidth[]Interference[]5G mobile communication[]Games[]Reinforcement learning"
+    },
+    {
+        "title": "Coverage Analysis for Energy-Harvesting UAV-Assisted mmWave Cellular Networks.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2947929",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Uplink[]Downlink[]Interference[]Cellular networks[]Signal to noise ratio[]Wireless communication[]Analytical models"
+    },
+    {
+        "title": "Network Association in Machine-Learning Aided Cognitive Radar and Communication Co-Design.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2933778",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Radar[]Interference[]Markov processes[]Throughput[]Sensors[]Wireless communication"
+    },
+    {
+        "title": "On the Secrecy Rate of Spatial Modulation-Based Indoor Visible Light Communications.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2929403",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Optical transmitters[]Optical receivers[]Light emitting diodes[]Upper bound[]Signal to noise ratio[]Wireless communication"
+    },
+    {
+        "title": "Adaptive Federated Learning in Resource Constrained Edge Computing Systems.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2904348",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Machine learning[]Data models[]Convergence[]Distributed databases[]Machine learning algorithms[]Training[]Peer-to-peer computing"
+    },
+    {
+        "title": "A Survey on Spatial Modulation in Emerging Wireless Systems: Research Progresses and Applications.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2929453",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Transmitting antennas[]Wireless communication[]Modulation[]Receiving antennas[]MIMO communication[]Indexes"
+    },
+    {
+        "title": "Efficient Angle-of-Arrival Estimation of Lens Antenna Arrays for Wireless Information and Power Transfer.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2018.2872363",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Discrete Fourier transforms[]Estimation[]Antenna arrays[]Channel estimation[]Array signal processing[]Radio frequency[]Lenses"
+    },
+    {
+        "title": "Arbitrarily Parallel Turbo Decoding for Ultra-Reliable Low Latency Communication in 3GPP LTE.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2898654",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Decoding[]Throughput[]Long Term Evolution[]Parallel processing[]Microsoft Windows[]Hardware[]Program processors"
+    },
+    {
+        "title": "Reducing Latency in Virtual Machines: Enabling Tactile Internet for Human-Machine Co-Working.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2906788",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Delays[]Cloud computing[]Bridges[]Network function virtualization[]Servers[]Communication networks"
+    },
+    {
+        "title": "Toward Fine-Grained, Privacy-Preserving, Efficient Multi-Domain Network Resource Discovery.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2927073",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Bandwidth[]Privacy[]Resource management[]Protocols[]Delays[]Network topology[]Collaboration"
+    },
+    {
+        "title": "Anomaly-Tolerant Network Traffic Estimation via Noise-Immune Temporal Matrix Completion Model.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2904347",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "timation[]Matrix decomposition[]Sparse matrices[]Pollution measurement[]Task analysis[]Computational modeling[]Anomaly detection"
+    },
+    {
+        "title": "Downlink MIMO-NOMA for Ultra-Reliable Low-Latency Communications.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2898785",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Receivers[]Delays[]NOMA[]Quality of service[]Reliability[]Upper bound[]Probability"
+    },
+    {
+        "title": "Dynamic Switch Migration in Distributed Software-Defined Networks to Achieve Controller Load Balance.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2894237",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Switches[]Computational modeling[]Load modeling[]Load management[]Process control[]Silicon"
+    },
+    {
+        "title": "RAPID: Avoiding TCP Incast Throughput Collapse in Public Clouds With Intelligent Packet Discarding.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2927072",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Throughput[]Packet loss[]Servers[]Bandwidth[]Topology[]Standards"
+    },
+    {
+        "title": "Experience-Driven Congestion Control: When Multi-Path TCP Meets Deep Reinforcement Learning.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2904358",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Runtime[]Mathematical model[]Reinforcement learning[]Protocols[]Heuristic algorithms[]Recurrent neural networks[]Resource management"
+    },
+    {
+        "title": "Wireless Traffic Prediction With Scalable Gaussian Process: Framework, Algorithms, and Verification.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2904330",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Wireless communication[]Training[]Computer architecture[]Predictive models[]Computational modeling[]Optimization[]Computational complexity"
+    },
+    {
+        "title": "&quot;Near-Perfect&quot; Finite-Cardinality Generalized Space-Time Shift Keying.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2929450",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Peak to average power ratio[]MIMO communication[]Modulation[]Radio frequency[]Throughput[]Indexes[]Power demand"
+    },
+    {
+        "title": "Adaptive Spatial Modulation MIMO Based on Machine Learning.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2929404",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Machine learning[]MIMO communication[]Adaptive systems[]Indexes[]Modulation[]Complexity theory[]Support vector machines"
+    },
+    {
+        "title": "Power Control Identification: A Novel Sybil Attack Detection Scheme in VANETs Using RSSI.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2933888",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Power control[]Peer-to-peer computing[]Time series analysis[]Security[]Estimation[]Data models[]Phase change materials"
+    },
+    {
+        "title": "Modeling and Analysis of MmWave V2X Networks With Vehicular Platoon Systems.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2947928",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Vehicle-to-everything[]Probability density function[]Millimeter wave communication[]Numerical models[]Stochastic processes"
+    },
+    {
+        "title": "Deep-Reinforcement Learning Multiple Access for Heterogeneous Wireless Networks.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2904329",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Media Access Protocol[]Throughput[]Wireless networks[]Neural networks[]Time division multiple access"
+    },
+    {
+        "title": "Distributed Learning for Channel Allocation Over a Shared Spectrum.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2933966",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Channel allocation[]Resource management[]Ad hoc networks[]Wireless communication[]Task analysis[]Signal processing algorithms[]Multiaccess communication"
+    },
+    {
+        "title": "Links as a Service (LaaS): Guaranteed Tenant Isolation in the Shared Cloud.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2906747",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Cloud computing[]Bandwidth[]Resource management[]Servers[]Delays[]Data centers[]Fats"
+    },
+    {
+        "title": "Filling Two Needs With One Deed: Combo Pricing Plans for Computing-Intensive Multimedia Applications.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2916451",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Pricing[]Task analysis[]Multimedia computing[]Multimedia communication[]Cloud computing[]Computational modeling[]Servers"
+    },
+    {
+        "title": "Optimal Resource Allocation for Energy-Harvesting Communication Networks Under Statistical QoS Constraints.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2018.2872396",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Quality of service[]Resource management[]Wireless communication[]Throughput[]Uplink[]Protocols[]Energy harvesting"
+    },
+    {
+        "title": "Simultaneous Wireless Information and Power Transfer at 5G New Frequencies: Channel Measurement and Network Design.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2018.2872366",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "5G mobile communication[]Frequency measurement[]Resource management[]NOMA[]Dual band[]Simulation[]Wireless communication"
+    },
+    {
+        "title": "Tripod: Towards a Scalable, Efficient and Resilient Cloud Gateway.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2894189",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Logic gates[]Cloud computing[]Resilience[]Servers[]Couplings[]Scalability[]Fault tolerance"
+    },
+    {
+        "title": "HyperVDP: High-Performance Virtualization of the Programmable Data Plane.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2894308",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Virtualization[]Hardware[]Virtual machine monitors[]Performance evaluation[]Noise measurement[]Field programmable gate arrays[]Prototypes"
+    },
+    {
+        "title": "Constellation Learning-Based Signal Detection for Ambient Backscatter Communication Systems.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2018.2872382",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Radio frequency[]Clustering algorithms[]Modulation[]Backscatter[]Detectors[]Transceivers[]Feature extraction"
+    },
+    {
+        "title": "Efficient Network Sharing With Asymmetric Constraint Information.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2927136",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Resource management[]Optimization[]Monitoring[]Computer architecture[]Economics[]Virtualization[]5G mobile communication"
+    },
+    {
+        "title": "Dynamic Service Placement for Virtual Reality Group Gaming on Mobile Edge Cloudlets.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2927071",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Customer relationship management[]Rendering (computer graphics)[]Cloud computing[]Games[]Windows[]Switches[]Delays"
+    },
+    {
+        "title": "Economical Caching for Scalable Videos in Cache-Enabled Heterogeneous Networks.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2916449",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Videos[]Static VAr compensators[]Wireless communication[]Heterogeneous networks[]Video coding[]Optimization[]Approximation algorithms"
+    },
+    {
+        "title": "Resource Allocation for Wireless Power Transmission Over Full-Duplex OFDMA/NOMA Mobile Wireless Networks.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2018.2872397",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Relays[]Resource management[]Wireless sensor networks[]Information processing[]Wireless networks[]Data communication"
+    },
+    {
+        "title": "Heterogeneous Statistical-QoS Driven Resource Allocation Over mmWave Massive-MIMO Based 5G Mobile Wireless Networks in the Non-Asymptotic Regime.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2947941",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Quality of service[]5G mobile communication[]Wireless networks[]Antenna arrays[]MIMO communication[]Data communication[]Millimeter wave communication"
+    },
+    {
+        "title": "A Regression Approach to Certain Information Transmission Problems.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2933964",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "nformation processing[]Mutual information[]Machine learning[]Channel models[]Maximum likelihood decoding[]Measurement"
+    },
+    {
+        "title": "RINGLM: A Link-Level Packet Loss Monitoring Solution for Software-Defined Networks.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2927063",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Packet loss[]Probes[]Monitoring[]Switches[]Structural rings[]Optimization"
+    },
+    {
+        "title": "Information-Centric Virtualization for Software-Defined Statistical QoS Provisioning Over 5G Multimedia Big Data Wireless Networks.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2927088",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Big Data[]Quality of service[]Wireless networks[]5G mobile communication[]Resource management[]Wireless sensor networks"
+    },
+    {
+        "title": "Fundamental Applicability of Spatial Modulation: High-SNR Limitation and Low-SNR Advantage.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2929451",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "MIMO communication[]Transmitting antennas[]Modulation[]Signal to noise ratio[]Indexes[]Receivers"
+    },
+    {
+        "title": "Deep Transfer Learning for Intelligent Cellular Traffic Prediction Based on Cross-Domain Big Data.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2904363",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Predictive models[]Correlation[]Deep learning[]Urban areas[]Big Data[]Wireless communication[]Spatiotemporal phenomena"
+    },
+    {
+        "title": "Towards Efficient Medium Access for Millimeter-Wave Networks.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2947924",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Millimeter wave communication[]Channel estimation[]Data communication[]Throughput[]Velocity measurement[]Resource management[]Dynamic scheduling"
+    },
+    {
+        "title": "Congestion-Free Rerouting of Multiple Flows in Timed SDNs.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2906741",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Synchronization[]Control systems[]Protocols[]Adaptive systems[]Delays[]Security[]Schedules"
+    },
+    {
+        "title": "Beam Acquisition and Training in Millimeter Wave Networks With Narrowband Pilots.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2947856",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Millimeter wave communication[]Protocols[]Maximum likelihood estimation[]Array signal processing[]Channel estimation[]Mobile antennas"
+    },
+    {
+        "title": "Secure SWIPT for Directional Modulation-Aided AF Relaying Networks.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2018.2872372",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Array signal processing[]Relays[]Robustness[]Optimization[]Erbium[]Estimation error[]Modulation"
+    },
+    {
+        "title": "An Efficient Online Placement Scheme for Cloud Container Clusters.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2906745",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Containers[]Cloud computing[]Clustering algorithms[]Approximation algorithms[]Optimization[]Heuristic algorithms[]Computational modeling"
+    },
+    {
+        "title": "Online Orchestration of Cross-Edge Service Function Chaining for Cost-Efficient Edge Computing.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2927070",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Cloud computing[]Edge computing[]Routing[]Minimization[]Computational modeling[]Heuristic algorithms[]Internet of Things"
+    },
+    {
+        "title": "On Lossy Multi-Connectivity: Finite Blocklength Performance and Second-Order Asymptotics.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2898755",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Fading channels[]Distortion[]Distortion measurement[]AWGN channels[]Decoding[]Channel coding"
+    },
+    {
+        "title": "Seeing Isn&apos;t Believing: QoE Evaluation for Privacy-Aware Users.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2916452",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Quality of experience[]Privacy[]Data models[]Correlation[]Media[]Data privacy[]Reliability"
+    },
+    {
+        "title": "Joint Transceiver Optimization for Wireless Communication PHY Using Neural Network.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2904361",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Receivers[]Convolutional codes[]Communication systems[]Deep learning[]Neurons[]Modulation[]Transmitters"
+    },
+    {
+        "title": "Joint Pricing and Cache Placement for Video Caching: A Game Theoretic Approach.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/JSAC.2019.2916279",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Streaming media[]Pricing[]Games[]Economics[]Optimization[]Heuristic algorithms[]Simulation"
+    },
+    {
+        "title": "Multi-Path Alpha-Fair Resource Allocation at Scale in Distributed Software-Defined Networks.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/JSAC.2018.2871293",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Resource management[]Distributed algorithms[]Computer architecture[]Bandwidth[]Real-time systems[]Switches[]Software defined networking"
+    },
+    {
+        "title": "Caching and Coded Delivery Over Gaussian Broadcast Channels for Energy Efficiency.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/JSAC.2018.2844623",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Libraries[]Encoding[]Servers[]Transmitters[]Noise measurement[]Receivers[]Upper bound"
+    },
+    {
+        "title": "Resource Allocation and HARQ Optimization for URLLC Traffic in 5G Wireless Networks.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/JSAC.2018.2874122",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Bandwidth[]Resource management[]Quality of service[]Delays[]Reliability[]Wireless communication[]Downlink"
+    },
+    {
+        "title": "Joint Coding and Multicast Subgrouping Over Satellite-eMBMS Networks.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/JSAC.2018.2832818",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Streaming media[]Encoding[]Satellite broadcasting[]Resource management[]Long Term Evolution[]Quality of experience"
+    },
+    {
+        "title": "Optimal Transmit Antenna Selection for Massive MIMO Wiretap Channels.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/JSAC.2018.2825159",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Transmitting antennas[]MIMO communication[]Receivers[]Protocols[]Channel estimation"
+    },
+    {
+        "title": "A Converged Evolved Ethernet Fronthaul for the 5G Era.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/JSAC.2018.2874148",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "thernet[]5G mobile communication[]Protocols[]Software[]Forward error correction[]Throughput"
+    },
+    {
+        "title": "A Distributed Trust Management Scheme for Data Forwarding in Satellite DTN Emergency Communications.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/JSAC.2018.2804098",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Peer-to-peer computing[]Routing[]Wireless sensor networks[]Ad hoc networks[]Computational modeling[]Protocols[]Monitoring"
+    },
+    {
+        "title": "Energy-Latency Tradeoff in Ultra-Reliable Low-Latency Communication With Retransmissions.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/JSAC.2018.2874143",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Delays[]Reliability[]Error probability[]Internet of Things[]Throughput[]Receivers"
+    },
+    {
+        "title": "Online Edge Caching and Wireless Delivery in Fog-Aided Networks With Dynamic Content Popularity.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/JSAC.2018.2844961",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Wireless communication[]Cloud computing[]Electronic mail[]Radio access networks[]Indexes[]5G mobile communication[]Receivers"
+    },
+    {
+        "title": "Modeling Reliable M2M/IoT Traffic Over Random Access Satellite Links in Non-Saturated Conditions.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/JSAC.2018.2832799",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Protocols[]Satellite broadcasting[]Satellites[]Analytical models[]Reliability[]Internet[]5G mobile communication"
+    },
+    {
+        "title": "Coalitional Game for the Creation of Efficient Virtual Core Network Slices in 5G Mobile Systems.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/JSAC.2018.2815398",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Cloud computing[]5G mobile communication[]Games[]Network function virtualization[]Logic gates[]Servers"
+    },
+    {
+        "title": "Optimal VNFs Placement in CDN Slicing Over Multi-Cloud Environment.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/JSAC.2018.2815441",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Cloud computing[]Quality of experience[]Servers[]Videos[]Computer architecture[]Resource management[]Network slicing"
+    },
+    {
+        "title": "Optical Wireless MIMO Experiments in an Industrial Environment.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/JSAC.2017.2774618",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Optical transmitters[]Wireless communication[]Optical saturation[]MIMO[]Optical receivers[]Broadband communication[]Throughput"
+    },
+    {
+        "title": "Cache-Aided Communications With Multiple Antennas at Finite SNR.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/JSAC.2018.2844618",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "MIMO communication[]Throughput[]Fading channels[]OFDM[]Signal to noise ratio[]Resource management[]Wireless networks"
+    },
+    {
+        "title": "Rethinking IXPs&apos; Architecture in the Age of SDN.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/JSAC.2018.2871294",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Servers[]IP networks[]Computer architecture[]Internet[]Software defined networking[]Routing"
+    },
+    {
+        "title": "Dual-UAV-Enabled Secure Communications: Joint Trajectory Design and User Scheduling.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/JSAC.2018.2864424",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Unmanned aerial vehicles[]Optimization[]Trajectory[]Jamming[]Heuristic algorithms[]Time division multiple access"
+    },
+    {
+        "title": "Joint Beamforming and Jamming Design for mmWave Information Surveillance Systems.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/JSAC.2018.2825718",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Array signal processing[]Jamming[]Surveillance[]Receivers[]Radio frequency[]Optimization"
+    },
+    {
+        "title": "Guest Editorial Airborne Communication Networks.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/JSAC.2018.2871519",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Special issues and sections[]Aerospace communications[]Communication networks[]Space communications[]Unmanned aerial vehicles[]Quality of service[]Wireless sensor networks"
+    },
+    {
+        "title": "Airborne Communication Networks: A Survey.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/JSAC.2018.2864423",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Communication networks[]Network topology[]Topology[]Mobile ad hoc networks[]Vehicular ad hoc networks[]Quality of service[]Protocols"
+    }
+]

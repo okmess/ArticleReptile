@@ -1,0 +1,1842 @@
+[
+    {
+        "title": "Connecting the Dots: Privacy Leakage via Write-Access Patterns to the Main Memory.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2017.2779780",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Algorithm design and analysis[]Prediction algorithms[]Monitoring[]Computational modeling[]Memory management[]Public key cryptography"
+    },
+    {
+        "title": "The Overhead from Combating Side-Channels in Cloud Systems Using VM-Scheduling.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2018.2790932",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Servers[]Cloud computing[]Side-channel attacks[]Processor scheduling[]Optimization[]Greedy algorithms"
+    },
+    {
+        "title": "Impact of Failure Prediction on Availability: Modeling and Comparative Analysis of Predictive and Reactive Methods.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2018.2806448",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Fault tolerance[]Fault tolerant systems[]Mathematical model[]Predictive models[]Analytical models[]Servers[]Computational modeling"
+    },
+    {
+        "title": "Learning with Physical Noise or Errors.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2018.2830763",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Standards[]Protocols[]Circuit faults[]Hardware[]Encryption"
+    },
+    {
+        "title": "Known Sample Attacks on Relation Preserving Data Transformations.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2017.2759732",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Symmetric matrices[]Data privacy[]Spatial databases[]Kernel[]Data models"
+    },
+    {
+        "title": "EnsembleHMD: Accurate Hardware Malware Detectors with Specialized Ensemble Classifiers.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2018.2801858",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Detectors[]Malware[]Hardware[]Artificial neural networks[]Training[]Feature extraction"
+    },
+    {
+        "title": "High-Performance Memory Snapshotting for Real-Time, Consistent, Hypervisor-Based Monitors.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2018.2805904",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Memory management[]Monitoring[]Security[]Kernel[]Real-time systems[]Virtual machine monitors[]Tools"
+    },
+    {
+        "title": "Privacy Leakage via De-Anonymization and Aggregation in Heterogeneous Social Networks.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2017.2754249",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Privacy[]Feature extraction[]Data privacy[]Data aggregation[]Social networking (online)[]Graph theory[]Demography"
+    },
+    {
+        "title": "Reliability Equations for Cloud Storage Systems with Proactive Fault Tolerance.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2018.2882512",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Cloud computing[]Mathematical model[]Fault tolerance[]Fault tolerant systems[]Drives[]Predictive models"
+    },
+    {
+        "title": "Key Based Artificial Fingerprint Generation for Privacy Protection.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2018.2812192",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Computational modeling[]Feature extraction[]Privacy[]Fingerprint recognition[]Databases[]Iris recognition"
+    },
+    {
+        "title": "Securely Connecting Wearables to Ambient Displays with User Intent.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2018.2840979",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Biomedical monitoring[]Brightness[]Security[]Monitoring[]Usability[]Correlation[]Light sources"
+    },
+    {
+        "title": "Privacy-Preserving Outsourced Calculation Toolkit in the Cloud.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2018.2816656",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Cloud computing[]Servers[]Data models[]Encryption[]Data privacy"
+    },
+    {
+        "title": "Four$\\mathbb {Q}$Q on Embedded Devices with Strong Countermeasures Against Side-Channel Attacks.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2018.2799844",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Software[]Side-channel attacks[]Elliptic curves[]Microcontrollers[]Digital signatures[]Timing"
+    },
+    {
+        "title": "MARP: A Distributed MAC Layer Attack Resistant Pseudonym Scheme for VANET.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2018.2838136",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Privacy[]Media Access Protocol[]Safety[]Analytical models[]Time division multiple access"
+    },
+    {
+        "title": "Multi-User Verifiable Searchable Symmetric Encryption for Cloud Storage.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2018.2876831",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "ncryption[]Servers[]Cloud computing[]Cache storage[]Keyword search"
+    },
+    {
+        "title": "I Sense You by Breath: Speaker Recognition via Breath Biometrics.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2017.2767587",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Speech[]Feature extraction[]Mel frequency cepstral coefficient[]Speaker recognition[]Biometrics (access control)[]Speech processing[]Respiratory system"
+    },
+    {
+        "title": "Randomized Security Patrolling for Link Flooding Attack Detection.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2019.2892370",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "null"
+    },
+    {
+        "title": "Efficient Fine-Grained Data Sharing Mechanism for Electronic Medical Record Systems with Mobile Devices.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2018.2844814",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Access control[]Cloud computing[]Mobile handsets[]Medical services[]Encryption[]Computational modeling"
+    },
+    {
+        "title": "Precision-Enhanced Differentially-Private Mining of High-Confidence Association Rules.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2018.2868190",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "temsets[]Differential privacy[]Sensitivity[]Privacy breach[]Precision modeling[]Data mining[]Pattern recognition"
+    },
+    {
+        "title": "CPU Elasticity to Mitigate Cross-VM Runtime Monitoring.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2018.2846742",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Runtime[]Monitoring[]Clocks[]Side-channel attacks[]Elasticity[]Electronic mail[]Cloud computing"
+    },
+    {
+        "title": "Look-Aside at Your Own Risk: Privacy Implications of DNSSEC Look-Aside Validation.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2018.2816026",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Servers[]Privacy[]Public key[]Superluminescent diodes[]Internet[]Operating systems"
+    },
+    {
+        "title": "Anonymity Services Tor, I2P, JonDonym: Classifying in the Dark (Web).",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2018.2804394",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Cryptography[]Privacy[]Internet[]Bayes methods[]Telecommunication traffic"
+    },
+    {
+        "title": "Design and Analysis of Secure and Dependable Automotive CPS: A Steer-by-Wire Case Study.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2018.2846741",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Automotive engineering[]Security[]Quality of service[]Computer architecture[]Automobiles[]Safety[]Real-time systems"
+    },
+    {
+        "title": "Automatic Extraction of Access Control Policies from Natural Language Documents.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2018.2818708",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Access control[]Natural languages[]Privacy[]Semantics[]Organizations[]Tools[]Permission"
+    },
+    {
+        "title": "Providing Task Allocation and Secure Deduplication for Mobile Crowdsensing via Fog Computing.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2018.2791432",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Mobile communication[]Sensors[]Resource management[]Data privacy[]Encryption[]Edge computing"
+    },
+    {
+        "title": "Releasing Correlated Trajectories: Towards High Utility and Optimal Differential Privacy.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2018.2853105",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Trajectory[]Correlation[]Privacy[]Optimization[]Markov processes"
+    },
+    {
+        "title": "Message Integrity Protection Over Wireless Channel: Countering Signal Cancellation via Channel Randomization.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2017.2751600",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Communication system security[]Wireless communication[]Channel estimation[]Message authentication[]Game theory[]Cryptographic protocols[]Physical layer"
+    },
+    {
+        "title": "CAFE: A Virtualization-Based Approach to Protecting Sensitive Cloud Application Logic Confidentiality.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2018.2817545",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Cloud computing[]Binary codes[]Reverse engineering[]Runtime[]Kernel[]Cryptography"
+    },
+    {
+        "title": "Impact of Stealthy Attacks on Optimal Power Flow: A Simulink-Driven Formal Analysis.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2018.2806969",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Transmission line measurements[]State estimation[]Mathematical model[]Power measurement[]Biological system modeling[]Energy management[]Load modeling"
+    },
+    {
+        "title": "Safety Decidability for Pre-Authorization Usage Control with Identifier Attribute Domains.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2018.2839745",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Safety[]Authorization[]Computational modeling[]Analytical models[]Task analysis"
+    },
+    {
+        "title": "A Logical Key Hierarchy Based Approach to Preserve Content Privacy in Decentralized Online Social Networks.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2017.2729553",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Privacy[]Encryption[]Facebook[]Peer-to-peer computing[]Vegetation"
+    },
+    {
+        "title": "Rollback Mechanisms for Cloud Management APIs Using AI Planning.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2017.2729543",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Planning[]Cloud computing[]Artificial intelligence[]Australia[]Virtual machining[]Aggregates"
+    },
+    {
+        "title": "BVPSMS: A Batch Verification Protocol for End-to-End Secure SMS for Mobile Users.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2018.2799223",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Protocols[]Authentication[]Mobile communication[]Servers[]Cryptography[]Terrorism"
+    },
+    {
+        "title": "Large Scale Characterization of Software Vulnerability Life Cycles.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2019.2893950",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Computer hacking[]Data aggregation[]Linux[]Market research[]Microsoft Windows"
+    },
+    {
+        "title": "Pattern-Growth Based Mining Mouse-Interaction Behavior for an Active User Authentication System.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2017.2771295",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Mice[]Authentication[]Feature extraction[]Monitoring"
+    },
+    {
+        "title": "Cross-Rack-Aware Single Failure Recovery for Clustered File Systems.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2017.2774299",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Maintenance engineering[]Automobiles[]Fault tolerant systems[]Encoding[]Redundancy[]File systems"
+    },
+    {
+        "title": "Forward Private Searchable Symmetric Encryption with Optimized I/O Efficiency.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2018.2822294",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Servers[]Encryption[]Privacy[]Indexes[]Public key"
+    },
+    {
+        "title": "Understanding JavaScript Vulnerabilities in Large Real-World Android Applications.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2018.2845851",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Androids[]Humanoid robots[]Java[]Security[]Tools[]Navigation[]Uniform resource locators"
+    },
+    {
+        "title": "Cloud Centric Authentication for Wearable Healthcare Monitoring System.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2018.2828306",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Biomedical monitoring[]Cloud computing[]Medical services[]Authentication[]Monitoring[]Wearable sensors"
+    },
+    {
+        "title": "Anonymous Lightweight Chaotic Map-Based Authenticated Key Agreement Protocol for Industrial Internet of Things.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2018.2857811",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Sensors[]Authentication[]Real-time systems[]Manufacturing industries[]Internet of Things"
+    },
+    {
+        "title": "Detection of Repackaged Android Malware with Code-Heterogeneity Features.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2017.2745575",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Malware[]Feature extraction[]Android (operating system)[]Security[]Semantics"
+    },
+    {
+        "title": "Editorial.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2019.2958396",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "null"
+    },
+    {
+        "title": "Exploiting an HMAC-SHA-1 Optimization to Speed up PBKDF2.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2018.2878697",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Password[]Optimization[]Force[]Cryptography[]Message authentication"
+    },
+    {
+        "title": "Exploiting Dissent: Towards Fuzzing-Based Differential Black-Box Testing of TLS Implementations.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2017.2763947",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "null"
+    },
+    {
+        "title": "A Data-Driven Study of DDoS Attacks and Their Dynamics.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2018.2808344",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Computer crime[]Botnet[]Dynamic scheduling[]Malware[]Dynamics[]Analytical models"
+    },
+    {
+        "title": "Secure Remote User Authenticated Key Establishment Protocol for Smart Home Environment.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2017.2764083",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Smart homes[]Smart devices[]Authentication[]Temperature sensors[]Intelligent sensors"
+    },
+    {
+        "title": "Pagoda: A Hybrid Approach to Enable Efficient Real-Time Provenance Based Intrusion Detection in Big Data Environments.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2018.2867595",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "ntrusion detection[]Databases[]Noise measurement[]Big Data[]Real-time systems[]Aggregates"
+    },
+    {
+        "title": "Challenge-Response Authentication Using In-Air Handwriting Style Verification.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2017.2752164",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Authentication[]Writing[]Three-dimensional displays[]Biometrics (access control)[]Reliability[]Trajectory[]Support vector machines"
+    },
+    {
+        "title": "Benchmarking the Capability of Symbolic Execution Tools with Logic Bombs.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2018.2866469",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Software tools[]Benchmark testing[]Software testing[]Software measurement[]Semantics"
+    },
+    {
+        "title": "Multi-User Multi-Keyword Rank Search Over Encrypted Data in Arbitrary Language.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2017.2787588",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "ncryption[]Cloud computing[]Indexes[]Servers[]Algorithm design and analysis"
+    },
+    {
+        "title": "A Risk Management Approach to Defending Against the Advanced Persistent Threat.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2018.2858786",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Organizations[]Loss measurement[]Games[]Nash equilibrium[]Mathematical model[]Time measurement[]Risk management"
+    },
+    {
+        "title": "Detection and Defense of Cache Pollution Attacks Using Clustering in Named Data Networks.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2018.2876257",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Data models[]Clustering algorithms[]Computer architecture[]Partitioning algorithms[]Classification algorithms[]Data quality"
+    },
+    {
+        "title": "TaintMan: An ART-Compatible Dynamic Taint Analysis Framework on Unmodified and Non-Rooted Android Devices.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2017.2740169",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "nstruments[]Androids[]Humanoid robots[]Libraries[]Malware[]Smart phones[]Target tracking"
+    },
+    {
+        "title": "Misbehavior in Multi-Channel MAC Protocols.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2018.2819170",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Monitoring[]Media Access Protocol[]Throughput[]Channel estimation[]Wireless communication[]Estimation"
+    },
+    {
+        "title": "Privacy-Preserving Cloud Establishment and Data Dissemination Scheme for Vehicular Cloud.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2018.2797190",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Cloud computing[]Vehicular ad hoc networks[]Security[]Privacy[]Vehicle dynamics[]Data dissemination[]Safety"
+    },
+    {
+        "title": "Enabling Efficient User Revocation in Identity-Based Cloud Storage Auditing for Shared Big Data.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2018.2829880",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Cloud computing[]Data integrity[]Computer science[]Data privacy[]Computational modeling[]Public key"
+    },
+    {
+        "title": "Bilateral Privacy-Preserving Utility Maximization Protocol in Database-Driven Cognitive Radio Networks.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2017.2781248",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Privacy[]Databases[]Data privacy[]Cognitive radio[]Access protocols[]Sensors"
+    },
+    {
+        "title": "You Can Access but You Cannot Leak: Defending Against Illegal Content Redistribution in Encrypted Cloud Media Center.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2018.2864748",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Media[]Watermarking[]Cloud computing[]Cryptography[]Access control"
+    },
+    {
+        "title": "Sparse Matrix Masking-Based Non-Interactive Verifiable (Outsourced) Computation, Revisited.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2018.2861699",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Protocols[]Sparse matrices[]Privacy[]Outsourcing[]Cryptography[]Hardware"
+    },
+    {
+        "title": "Applying Chaos Theory for Runtime Hardware Trojan Monitoring and Detection.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2018.2864733",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Trojan horses[]Integrated circuits[]Hardware[]Runtime[]Monitoring[]Security"
+    },
+    {
+        "title": "Privacy-Aware and Efficient Mobile Crowdsensing with Truth Discovery.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2017.2753245",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Servers[]Protocols[]Mobile communication[]Reliability[]Security[]Data aggregation[]Estimation"
+    },
+    {
+        "title": "AdCapsule: Practical Confinement of Advertisements in Android Applications.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2018.2814999",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Libraries[]Androids[]Humanoid robots[]Security[]Smart phones[]Runtime[]Privacy"
+    },
+    {
+        "title": "ASAP: An Anonymous Smart-Parking and Payment Scheme in Vehicular Networks.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TDSC.2018.2850780",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Vehicles[]Privacy[]Servers[]Navigation[]Authentication[]Real-time systems"
+    },
+    {
+        "title": "Emerging-Image Motion CAPTCHAs: Vulnerabilities of Existing Designs, and Countermeasures.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2017.2719031",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "CAPTCHAs[]Security[]Two dimensional displays[]Three-dimensional displays[]Usability[]Image reconstruction[]Image recognition"
+    },
+    {
+        "title": "Efficient Delegated Private Set Intersection on Outsourced Private Datasets.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2017.2708710",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Cloud computing[]Protocols[]Servers[]Business[]Encryption[]Computational modeling"
+    },
+    {
+        "title": "Dependability Integration in Cloud-hosted Telecommunication Services.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2018.2875088",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Cloud computing[]Telecommunication services[]Computer architecture[]Monitoring[]3GPP[]Hardware"
+    },
+    {
+        "title": "Privacy-Aware Caching in Information-Centric Networking.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2017.2679711",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Privacy[]Internet[]Timing[]Computer architecture[]Cryptography[]Routing"
+    },
+    {
+        "title": "Guest Editors&apos; Introduction: Special Section on Security in Emerging Networking Technologies.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2019.2906921",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Special issues and sections[]Computer security[]Network function virtualization[]Security[]Telecommunication traffic[]Telecommunication network management[]Software defined networking"
+    },
+    {
+        "title": "S\u03bcV - The Security MicroVisor: A Formally-Verified Software-Based Security Architecture for the Internet of Things.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2019.2928541",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Memory[]Formal verification[]Computer security[]Internet of Things"
+    },
+    {
+        "title": "Noisy Vibrational Pairing of IoT Devices.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2018.2873372",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Vibrations[]Protocols[]Noise measurement[]Eavesdropping[]Acoustics[]Security[]Visualization"
+    },
+    {
+        "title": "A Privacy Mechanism for Access Controlled Graph Data.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2017.2714660",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Access control[]Privacy[]Data privacy[]Social network services[]Publishing[]Semantics"
+    },
+    {
+        "title": "Cryptographic Solutions for Credibility and Liability Issues of Genomic Data.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2017.2690422",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Genomics[]Bioinformatics[]Aggregates[]Data privacy[]Cryptography"
+    },
+    {
+        "title": "Reducing Timing Side-Channel Information Leakage Using 3D Integration.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2017.2712156",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Timing[]Three-dimensional displays[]Encryption[]Side-channel attacks[]Two dimensional displays[]Indexes"
+    },
+    {
+        "title": "G-SIR: An Insider Attack Resilient Geo-Social Access Control Framework.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2017.2654438",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Context[]Access control[]Organizations[]Risk management[]Inhibitors[]Social network services[]Monitoring"
+    },
+    {
+        "title": "Robust Fuzzy Extractors and Helper Data Manipulation Attacks Revisited: Theory versus Practice.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2017.2762675",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Robustness[]Data mining[]Cryptography[]Noise measurement[]Decoding[]Biometrics (access control)"
+    },
+    {
+        "title": "Stochastic Model Checking for Predicting Component Failures and Service Availability.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2017.2650901",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Maintenance engineering[]Analytical models[]Stochastic processes[]Green products[]Predictive models[]Steady-state[]Transient analysis"
+    },
+    {
+        "title": "AP-PRE: Autonomous Path Proxy Re-Encryption and Its Applications.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2017.2714166",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Transforms[]Public key[]Medical services[]Access control[]Servers"
+    },
+    {
+        "title": "Emerging Attacks and Solutions for Secure Hardware in the Internet of Things.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2019.2901048",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Special issues and sections[]Internet of Things[]Market research[]Ubiquitous computing[]Usability[]Computer security[]Privacy"
+    },
+    {
+        "title": "Generation of Secure and Reliable Honeywords, Preventing False Detection.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2018.2824323",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Password[]Authentication[]Dictionaries[]Servers[]Indexes"
+    },
+    {
+        "title": "A Scalable Approach to Joint Cyber Insurance and Security-as-a-Service Provisioning in Cloud Computing.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2017.2703626",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "nsurance[]Security[]Cloud computing[]Companies[]Optimization[]Sensitivity analysis"
+    },
+    {
+        "title": "Building PUF Based Authentication and Key Exchange Protocol for IoT Without Explicit CRPs in Verifier Database.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2018.2832201",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Protocols[]Authentication[]Databases[]Encryption[]Hardware[]Cameras"
+    },
+    {
+        "title": "SDN-Based Privacy Preserving Cross Domain Routing.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2018.2811807",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Routing[]Optimization[]Privacy[]Bandwidth[]Routing protocols[]Computational modeling"
+    },
+    {
+        "title": "Efficient and Private Scoring of Decision Trees, Support Vector Machines and Logistic Regression Models Based on Pre-Computation.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2017.2679189",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Protocols[]Cryptography[]Computational modeling[]Decision trees[]Data models[]Logistics"
+    },
+    {
+        "title": "RACOON++: A Semi-Automatic Framework for the Selfishness-Aware Design of Cooperative Systems.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2017.2706286",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Peer-to-peer computing[]Cooperative systems[]Game theory[]Adaptation models[]Protocols[]Games[]Cognition"
+    },
+    {
+        "title": "Empirical Analysis and Validation of Security Alerts Filtering Techniques.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2017.2714164",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Security[]Filtering[]Monitoring[]Forensics[]Production[]Measurement[]Neural networks"
+    },
+    {
+        "title": "Yes, Machine Learning Can Be More Secure! A Case Study on Android Malware Detection.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2017.2700270",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Androids[]Humanoid robots[]Malware[]Security[]Feature extraction[]Tools[]Algorithm design and analysis"
+    },
+    {
+        "title": "Privacy-Preserving Multi-Keyword Top-$k$ k Similarity Search Over Encrypted Data.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2017.2693969",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Servers[]Encryption[]Indexes[]Data privacy[]Cloud computing[]Data models"
+    },
+    {
+        "title": "RAW-Tag: Replicating in Altered Cache Ways for Correcting Multiple-Bit Errors in Tag Array.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2017.2706263",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Arrays[]Reliability[]Program processors[]Cache memory[]Energy consumption[]Error correction[]Simulation"
+    },
+    {
+        "title": "Wormhole: The Hidden Virus Propagation Power of the Search Engine in Social Networks.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2017.2703887",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Search engines[]Social network services[]Computer viruses[]Computational modeling[]Analytical models[]Malware[]Stability analysis"
+    },
+    {
+        "title": "HAL - The Missing Piece of the Puzzle for Hardware Reverse Engineering, Trojan Detection and Insertion.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2018.2812183",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Trojan horses[]Hardware[]Reverse engineering[]Logic gates[]Field programmable gate arrays[]Cryptography"
+    },
+    {
+        "title": "Building a Trustworthy Execution Environment to Defeat Exploits from both Cyber Space and Physical Space for ARM.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2018.2861756",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Runtime[]Encryption[]Hardware[]Virtual machine monitors[]Linux"
+    },
+    {
+        "title": "Advancing the State-of-the-Art in Hardware Trojans Detection.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2017.2654352",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "P networks[]Trojan horses[]High definition video[]Hardware[]Wires[]Payloads[]Security"
+    },
+    {
+        "title": "F-PAD: Private Attribute Disclosure Risk Estimation in Online Social Networks.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2019.2934096",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Social networking (online)[]Privacy[]Risk management[]Information exchange"
+    },
+    {
+        "title": "Supersingular Isogeny Diffie-Hellman Key Exchange on 64-Bit ARM.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2017.2723891",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Protocols[]Elliptic curves[]Elliptic curve cryptography[]Program processors[]Kernel"
+    },
+    {
+        "title": "De-SAG: On the De-Anonymization of Structure-Attribute Graph Data.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2017.2712150",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "null"
+    },
+    {
+        "title": "Secure and Efficient Initialization and Authentication Protocols for SHIELD.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2017.2647950",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Protocols[]Authentication[]Integrated circuits[]Supply chains[]Servers[]Hardware"
+    },
+    {
+        "title": "A Novel Security Protocol Attack Detection Logic with Unique Fault Discovery Capability for Freshness Attacks and Interleaving Session Attacks.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2017.2725831",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Protocols[]Cryptography[]Authentication[]Design methodology[]Guidelines"
+    },
+    {
+        "title": "Multitenant Access Control for Cloud-Aware Distributed Filesystems.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2017.2715839",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Cloud computing[]Authorization[]Levee[]Virtualization[]Protocols"
+    },
+    {
+        "title": "A Markov Random Field Framework for Modeling Malware Propagation in Complex Communications Networks.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2017.2703622",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Malware[]Topology[]Silicon[]Network topology[]Radio frequency[]Robustness[]Markov random fields"
+    },
+    {
+        "title": "Private Compound Wildcard Queries Using Fully Homomorphic Encryption.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2017.2763593",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Databases[]Protocols[]Encryption[]Pattern matching[]Compounds[]Servers"
+    },
+    {
+        "title": "Another Look at Anonymous Communication.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2018.2828002",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Protocols[]Receivers[]Public key[]Encryption[]Syntactics"
+    },
+    {
+        "title": "Investigating the Multi-Ciphersuite and Backwards-Compatibility Security of the Upcoming TLS 1.3.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2017.2685382",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Protocols[]Servers[]Encryption[]Internet[]Next generation networking"
+    },
+    {
+        "title": "KI-Mon ARM: A Hardware-Assisted Event-triggered Monitoring Platform for Mutable Kernel Object.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2017.2679710",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Monitoring[]Kernel[]Hardware[]Data structures[]Semantics[]Virtual machine monitors"
+    },
+    {
+        "title": "Optimal Spot-Checking for Collusion Tolerance in Computer Grids.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2017.2690293",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Optimization[]Computers[]Resists[]System performance[]Measurement[]Resource management[]Computational modeling"
+    },
+    {
+        "title": "Ciphertext-Only Fault Analysis on the LED Lightweight Cryptosystem in the Internet of Things.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2018.2857770",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Light emitting diodes[]Ciphers[]Internet of Things[]Computer science[]Analytical models"
+    },
+    {
+        "title": "Detecting Fault Injection Attacks Based on Compressed Sensing and Integer Linear Programming.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2018.2821140",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Circuit faults[]Compressed sensing[]Integer linear programming[]Cryptography[]Integrated circuits[]Sensors[]Standards"
+    },
+    {
+        "title": "Fuzzy Identity-Based Data Integrity Auditing for Reliable Cloud Storage Systems.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2017.2662216",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Cloud computing[]Protocols[]Servers[]Cryptography[]Computational modeling[]Biological system modeling"
+    },
+    {
+        "title": "Dynamic Packet Forwarding Verification in SDN.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2018.2810880",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Control systems[]Cryptography[]Protocols[]IP networks[]Software[]Prototypes[]Delays"
+    },
+    {
+        "title": "Di-PriDA: Differentially Private Distributed Load Balancing Control for the Smart Grid.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2017.2717826",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Privacy[]Smart grids[]Load management[]Power demand[]Data privacy[]Monitoring[]Smart meters"
+    },
+    {
+        "title": "Relating Extra Connectivity and Extra Conditional Diagnosability in Regular Networks.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2017.2726541",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Graph theory[]Fault tolerant systems[]Fault diagnosis[]Hypercubes[]Set theory"
+    },
+    {
+        "title": "Memory-Efficient Implementation of Elliptic Curve Cryptography for the Internet-of-Things.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2018.2825449",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Registers[]Program processors[]Elliptic curve cryptography[]NIST[]Hardware[]Clocks"
+    },
+    {
+        "title": "Strong Stationary Times and its use in Cryptography.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2017.2751475",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Timing[]Algorithm design and analysis[]Markov processes[]Wires[]Ciphers"
+    },
+    {
+        "title": "Atlas: Application Confidentiality in Compromised Embedded Systems.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2018.2858257",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "ncryption[]Computer architecture[]Software[]Hardware[]Registers"
+    },
+    {
+        "title": "Privacy-Preserving Fine-Grained Data Retrieval Schemes for Mobile Social Networks.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2017.2714162",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Servers[]Privacy[]Cryptography[]Web pages[]Computational modeling[]Mobile communication[]Internet"
+    },
+    {
+        "title": "AccConF: An Access Control Framework for Leveraging In-Network Cached Data in the ICN-Enabled Wireless Edge.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2017.2672991",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "nternet[]Cryptography[]Computer architecture[]Access control[]Servers[]Communication system security[]Wireless communication"
+    },
+    {
+        "title": "Defending Against Web Application Attacks: Approaches, Challenges and Implications.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2017.2665620",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Structured Query Language[]Security[]DSL[]HTML[]Binary codes[]Databases[]Organizations"
+    },
+    {
+        "title": "Exact Inference Techniques for the Analysis of Bayesian Attack Graphs.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2016.2627033",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Bayes methods[]Inference algorithms[]Heuristic algorithms[]Security[]Risk management[]Algorithm design and analysis"
+    },
+    {
+        "title": "It is All in the System&apos;s Parameters: Privacy and Security Issues in Transforming Biometric Raw Data into Binary Strings.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2018.2804949",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Feature extraction[]Privacy[]Biometrics (access control)[]Training[]Security[]Bioinformatics[]Data privacy"
+    },
+    {
+        "title": "Security Pricing as Enabler of Cyber-Insurance A First Look at Differentiated Pricing Markets.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2017.2684801",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Security[]Pricing[]Investment[]Insurance[]Risk management[]Software[]Games"
+    },
+    {
+        "title": "A Highly Efficient Side Channel Attack with Profiling through Relevance-Learning on Physical Leakage Information.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2018.2864727",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Computational complexity[]Side-channel attacks[]Feature extraction[]Correlation[]Clustering algorithms[]Principal component analysis"
+    },
+    {
+        "title": "An Immunization Framework for Social Networks Through Big Data Based Influence Modeling.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2017.2731844",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Malware[]Social network services[]Big Data[]Mobile communication[]Smart phones[]Algorithm design and analysis[]Computational modeling"
+    },
+    {
+        "title": "Paradigm Shifts in Cryptographic Engineering.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2019.2934527",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Special issues and sections[]Cryptography[]Public Key[]Encryption"
+    },
+    {
+        "title": "Brew: A Security Policy Analysis Framework for Distributed SDN-Based Cloud Environments.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2017.2726066",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Security[]Cloud computing[]Control systems[]Visualization[]Virtual private networks[]Topology[]Open systems"
+    },
+    {
+        "title": "Evolving Bipartite Authentication Graph Partitions.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2017.2652469",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Computers[]Authentication[]Computer networks[]Evolutionary computation[]Access control[]Computational modeling[]Partitioning algorithms"
+    },
+    {
+        "title": "Social Network De-Anonymization and Privacy Inference with Knowledge Graph Model.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2017.2697854",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "nowledge engineering[]Social network services[]Privacy[]Data privacy[]Data models[]Publishing[]Computational modeling"
+    },
+    {
+        "title": "High Rate Robust Codes with Low Implementation Complexity.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2018.2816638",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Robustness[]Hardware[]Complexity theory[]Security[]Systematics[]Linear codes"
+    },
+    {
+        "title": "On the Security of a Variant of ElGamal Encryption Scheme.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2017.2707085",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "ncryption[]Generators[]Public key cryptography[]Protocols"
+    },
+    {
+        "title": "Design and Implementation of the Ascend Secure Processor.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2017.2687463",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Servers[]Cryptography[]Hardware[]Random access memory[]Pins[]Field programmable gate arrays[]Prototypes"
+    },
+    {
+        "title": "Decay-Based DRAM PUFs in Commodity Devices.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2018.2822298",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Random access memory[]Hardware[]Authentication[]High definition video[]Cryptography[]Field programmable gate arrays"
+    },
+    {
+        "title": "Anonymization of Sensitive Quasi-Identifiers for l-Diversity and t-Closeness.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2017.2698472",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Databases[]Obesity[]Human immunodeficiency virus[]Probability distribution[]Measurement[]Privacy"
+    },
+    {
+        "title": "GaitLock: Protect Virtual and Augmented Reality Headsets Using Gait.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2018.2800048",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Authentication[]Headphones[]Sensors[]Glass[]Google[]Gait recognition"
+    },
+    {
+        "title": "Block Design-Based Key Agreement for Group Data Sharing in Cloud Computing.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2017.2725953",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Protocols[]Cloud computing[]Fault tolerance[]Fault tolerant systems[]Data models[]Cryptography"
+    },
+    {
+        "title": "Building and Studying a Password Store that Perfectly Hides Passwords from Itself.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2019.2902551",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Password[]Dictionaries[]Servers[]Authentication[]Web services[]Cryptography"
+    },
+    {
+        "title": "Editorial.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2018.2884156",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "null"
+    },
+    {
+        "title": "FastGeo: Efficient Geometric Range Queries on Encrypted Spatial Data.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2017.2684802",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "null"
+    },
+    {
+        "title": "A Silicon PUF Based Entropy Pump.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2018.2881695",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "ntropy[]Inverters[]Delays[]Password[]Silicon[]Cryptography"
+    },
+    {
+        "title": "Design and Implementation of SecPod, A Framework for Virtualization-Based Security Systems.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2017.2675991",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "nel[]Security[]Virtual machine monitors[]Hardware[]Virtualization[]Logic gates[]Data structures"
+    },
+    {
+        "title": "Detecting and Mitigating Target Link-Flooding Attacks Using SDN.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2018.2822275",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Monitoring[]Computer crime[]Servers[]Feature extraction[]Network topology[]Internet[]Control systems"
+    },
+    {
+        "title": "SADI: A Novel Model to Study the Propagation of Social Worms in Hierarchical Networks.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2017.2651826",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "null"
+    },
+    {
+        "title": "Leveraging Compression-Based Graph Mining for Behavior-Based Malware Detection.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2017.2675881",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Malware[]Data mining[]Data models[]Labeling[]Sockets[]Mathematical model[]Frequency-domain analysis"
+    },
+    {
+        "title": "Fault-Tolerant Adaptive Routing in Dragonfly Networks.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2017.2693372",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Routing[]Fault tolerance[]Fault tolerant systems[]System recovery[]Safety[]Circuit faults[]Heuristic algorithms"
+    },
+    {
+        "title": "PersonaIA: A Lightweight Implicit Authentication System Based on Customized User Behavior Selection.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2016.2645208",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Authentication[]Feature extraction[]Smart phones[]Biometrics (access control)[]Servers[]Reliability[]Computational modeling"
+    },
+    {
+        "title": "Privacy-Preserving Aggregate Queries for Optimal Location Selection.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2017.2693986",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Business[]Protocols[]Servers[]Aggregates[]Privacy[]Data privacy[]Encryption"
+    },
+    {
+        "title": "A Secure Exception Mode for Fault-Attack-Resistant Processing.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2018.2823767",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Sensors[]Hardware[]Redundancy[]Cryptography[]Clocks[]Embedded software"
+    },
+    {
+        "title": "Efficient Nonprofiling 2nd-Order Power Analysis on Masked Devices Utilizing Multiple Leakage Points.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2017.2715019",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Computational complexity[]Uncertainty[]Side-channel attacks[]Correlation"
+    },
+    {
+        "title": "Efficient Multi-Factor Authenticated Key Exchange Scheme for Mobile Communications.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2017.2700305",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Authentication[]Biometrics (access control)[]Protocols[]Servers[]Cryptography[]Entropy"
+    },
+    {
+        "title": "Refinement-Based Specification and Security Analysis of Separation Kernels.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TDSC.2017.2672983",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Security[]Kernel[]Standards[]Scheduling[]Safety[]Market research[]Computer science"
+    },
+    {
+        "title": "A System Architecture for the Detection of Insider Attacks in Big Data Systems.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2017.2768533",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Big Data[]Computer hacking[]Encryption[]Systems architecture[]Computer security[]Data security"
+    },
+    {
+        "title": "Security and Privacy in Decentralized Energy Trading Through Multi-Signatures, Blockchain and Anonymous Messaging Streams.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2616861",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Privacy[]Peer-to-peer computing[]Public key[]Contracts[]Online banking"
+    },
+    {
+        "title": "A Credibility Analysis System for Assessing Information on Twitter.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2602338",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Twitter[]Computational modeling[]Classification algorithms[]Machine learning algorithms[]Algorithm design and analysis[]Earthquakes"
+    },
+    {
+        "title": "Knowledge Connectivity Requirements for Solving Byzantine Consensus with Unknown Participants.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2548460",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Detectors[]Standards[]Protocols[]Computer crashes[]Knowledge engineering[]Fault tolerance"
+    },
+    {
+        "title": "Design, Analysis, and Implementation of ARPKI: An Attack-Resilient Public-Key Infrastructure.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2601610",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Servers[]Proposals[]Public key[]Computer architecture[]Browsers[]Analytical models"
+    },
+    {
+        "title": "Architecture Design of an Area Efficient High Speed Crypto Processor for 4G LTE.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2620437",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Ciphers[]Computer architecture[]Algorithm design and analysis[]Hardware[]Long Term Evolution"
+    },
+    {
+        "title": "Rmind: A Tool for Cryptographically Secure Statistical Analysis.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2587623",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Algorithm design and analysis[]Cryptography[]Statistical analysis[]Protocols[]Databases[]Data privacy"
+    },
+    {
+        "title": "CSC-Detector: A System to Infer Large-Scale Probing Campaigns.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2593441",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "ngines[]Internet[]IP networks[]Malware[]Machinery[]Correlation[]Ports (Computers)"
+    },
+    {
+        "title": "Collective Data-Sanitization for Preventing Sensitive Information Inference Attacks in Social Networks.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2613521",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Data privacy[]Privacy[]Facebook[]Motion pictures[]Knowledge engineering"
+    },
+    {
+        "title": "Conditional Diagnosability of (n, k)-Star Graphs Under the PMC Model.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2562620",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Multiprocessing systems[]Hypercubes[]Computational modeling[]Silicon[]Fault diagnosis[]Fault tolerance"
+    },
+    {
+        "title": "Secure Biometric-Based Authentication Scheme Using Chebyshev Chaotic Map for Multi-Server Environment.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2616876",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Authentication[]Servers[]Chebyshev approximation[]Chaotic communication[]Cryptography[]Electronic mail"
+    },
+    {
+        "title": "ARF-Predictor: Effective Prediction of Aging-Related Failure Using Entropy.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2604381",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Aging[]Software systems[]Measurement[]Entropy[]Degradation[]Market research"
+    },
+    {
+        "title": "PROVEST: Provenance-Based Trust Model for Delay Tolerant Networks.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2530705",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Routing protocols[]Routing[]Peer-to-peer computing[]Computational modeling[]Delays[]Quality of service[]Security"
+    },
+    {
+        "title": "Faultprog: Testing the Accuracy of Binary-Level Software Fault Injection.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2522968",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Software[]Binary codes[]Programming[]Testing[]Context[]Fault diagnosis[]Optimization"
+    },
+    {
+        "title": "Guest Editors&apos; Introduction: Special Issue on Data-Driven Dependability and Security.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2018.2813891",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Special issues and sections[]Data analysis[]Data security[]Intrusion detection[]Network security[]Denial-of-service attack[]Communication system security"
+    },
+    {
+        "title": "Social Fingerprinting: Detection of Spambot Groups Through DNA-Inspired Behavioral Modeling.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2017.2681672",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "DNA[]Twitter[]Fingerprint recognition[]Biological system modeling[]Computational modeling[]Informatics"
+    },
+    {
+        "title": "Efficient and Expressive Keyword Search Over Encrypted Data in Cloud.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2599883",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "arch[]Encryption[]Servers[]Public key[]Databases[]Diabetes"
+    },
+    {
+        "title": "Understanding Practical Tradeoffs in HPC Checkpoint-Scheduling Policies.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2548463",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Checkpointing[]Fault tolerance[]Fault tolerant systems[]Writing[]Shape[]Optimized production technology[]Runtime"
+    },
+    {
+        "title": "Flexible Hardware-Managed Isolated Execution: Architecture, Software Support and Applications.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2596287",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Hardware[]Security[]Data structures[]Operating systems"
+    },
+    {
+        "title": "Symbolic Synthesis of Timed Models with Strict 2-Phase Fault Recovery.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2596719",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Automata[]Clocks[]Fault tolerance[]Fault tolerant systems[]Timing[]Circuit faults[]Cost accounting"
+    },
+    {
+        "title": "SieveQ: A Layered BFT Protection System for Critical Services.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2593442",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Computer architecture[]Computer crime[]Computer crashes[]Receivers[]Resilience[]Protocols"
+    },
+    {
+        "title": "Randomness Tests in Hostile Environments.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2537799",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Batteries[]NIST[]Hardware[]Trojan horses[]Probability[]Entropy[]Cryptography"
+    },
+    {
+        "title": "Copker: A Cryptographic Engine Against Cold-Boot Attacks.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2631548",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Random access memory[]Cryptography[]Registers[]Computers[]Cathode ray tubes[]Kernel"
+    },
+    {
+        "title": "Using Screen Brightness to Improve Security in Mobile Social Network Access.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2601603",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Authentication[]Social network services[]Mobile communication[]Spyware[]Pins[]Smart phones"
+    },
+    {
+        "title": "Learning from the Ones that Got Away: Detecting New Forms of Phishing Attacks.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2018.2864993",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Phishing[]Electronic mail[]Feature extraction[]Training[]Online services[]Blacklisting[]Machine learning"
+    },
+    {
+        "title": "Shadow Attacks Based on Password Reuses: A Quantitative Empirical Analysis.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2568187",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "lectronic mail[]Internet[]Nickel[]Registers[]Knowledge engineering[]Authentication"
+    },
+    {
+        "title": "A Provably-Secure Cross-Domain Handshake Scheme with Symptoms-Matching for Mobile Healthcare Social Network.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2596286",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Medical services[]Security[]Mobile communication[]Social network services[]Wireless communication[]Mobile computing[]Mobile handsets"
+    },
+    {
+        "title": "Towards Automated Log Parsing for Large-Scale Log Data Analysis.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2017.2762673",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Runtime[]Data analysis[]Anomaly detection[]Data security[]Parallel computing[]Cluster approximation"
+    },
+    {
+        "title": "PrivateZone: Providing a Private Execution Environment Using ARM TrustZone.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2622261",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Security[]Virtualization[]Monitoring[]Kernel[]Registers[]Virtual machine monitors[]Mobile handsets"
+    },
+    {
+        "title": "Resiliency of HPC Interconnects: A Case Study of Interconnect Failures and Recovery in Blue Waters.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2017.2737537",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Data security[]Network security[]Fault tolerance[]Fault diagnosis[]Multiprocessor interconnection[]Data analysis"
+    },
+    {
+        "title": "Rumor Source Identification in Social Networks with Time-Varying Topology.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2522436",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Social network services[]Network topology[]Topology[]Scalability[]Maximum likelihood estimation[]Bluetooth[]Microscopy"
+    },
+    {
+        "title": "Can the Common Vulnerability Scoring System be Trusted? A Bayesian Analysis.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2644614",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Data security[]Measurement[]Bayes methods[]Software security[]Complexity theory[]Authentication[]Cybersecurity[]Information security"
+    },
+    {
+        "title": "PDA: Semantically Secure Time-Series Data Analytics with Dynamic User Groups.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2577034",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Data analysis[]Data privacy[]Privacy[]Handheld computers[]Encryption"
+    },
+    {
+        "title": "Crashing Modulus Attack on Modular Squaring for Rabin Cryptosystem.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2602352",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "lliptic curve cryptography[]RFID tags[]Encryption"
+    },
+    {
+        "title": "Segregating Spammers and Unsolicited Bloggers from Genuine Experts on Twitter.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2616879",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Blogs[]Twitter[]Manuals[]Electronic mail[]Diseases[]Training"
+    },
+    {
+        "title": "SEDA: Secure Over-the-Air Code Dissemination Protocol for the Internet of Things.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2639503",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Data security[]Encryption[]Internet of Things[]Wireless sensor networks[]Computer security"
+    },
+    {
+        "title": "On the Efficiency of FHE-Based Private Queries.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2568182",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "ncryption[]Algorithm design and analysis[]Protocols[]Query processing[]Boolean functions"
+    },
+    {
+        "title": "Risk Assessment in Social Networks Based on User Anomalous Behaviors.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2540637",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Risk management[]Facebook[]Privacy[]Sociology[]Statistics[]Security"
+    },
+    {
+        "title": "LARGen: Automatic Signature Generation for Malwares Using Latent Dirichlet Allocation.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2609907",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Malware[]Security[]Resource management[]Context[]Internet[]Protocols[]Semantics"
+    },
+    {
+        "title": "Attribute-based Access Control for ICN Naming Scheme.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2550437",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Access control[]Ontologies[]Computer architecture[]Encryption[]Computational modeling[]Privacy"
+    },
+    {
+        "title": "Empirical Study of Face Authentication Systems Under OSNFD Attacks.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2550459",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Face[]Authentication[]Portable computers[]Three-dimensional displays[]Streaming media[]Face recognition"
+    },
+    {
+        "title": "Privacy Leakage of Location Sharing in Mobile Social Networks: Attacks and Defense.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2604383",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Privacy[]Mobile communication[]Mobile computing[]Context[]Facebook[]Geology"
+    },
+    {
+        "title": "On the Soundness and Security of Privacy-Preserving SVM for Outsourcing Data Classification.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2017.2682244",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Servers[]Support vector machines[]Protocols[]Zirconium[]Encryption"
+    },
+    {
+        "title": "The g-Good-Neighbor Conditional Diagnosability of Arrangement Graphs.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2593446",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Program processors[]Multiprocessing systems[]Hypercubes[]Terminology[]Fault diagnosis[]Security[]Communication networks"
+    },
+    {
+        "title": "Efficient and Privacy-Preserving Outsourced Calculation of Rational Numbers.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2536601",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Cryptography[]Protocols[]Cloud computing[]Servers[]Privacy[]Additives"
+    },
+    {
+        "title": "Malware Propagations in Wireless Ad Hoc Networks.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2642191",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Malware[]Wireless sensor networks[]Wireless networks[]Ad hoc networks[]Mathematical model[]Communication system security"
+    },
+    {
+        "title": "Hardware Architecture Implemented on FPGA for Protecting Cryptographic Keys against Side-Channel Attacks.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2610966",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Cryptography[]Correlation[]Hardware[]Registers[]Computer architecture[]Field programmable gate arrays[]Clocks"
+    },
+    {
+        "title": "Performability Modeling for RAID Storage Systems by Markov Regenerative Process.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2015.2502240",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Markov processes[]Reliability[]Computational modeling[]Computer architecture[]Numerical models[]Data models[]Analytical models"
+    },
+    {
+        "title": "GeTrust: A Guarantee-Based Trust Model in Chord-Based P2P Networks.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2530720",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Computational modeling[]Peer-to-peer computing[]Computational complexity[]Convergence[]Loans and mortgages[]Reliability"
+    },
+    {
+        "title": "Performability Analysis of k-to-l-Out-of-n Computing Systems Using Binary Decision Diagrams.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2015.2504092",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Boolean functions[]Data structures[]Computational modeling[]Nickel[]Analytical models[]Fault trees[]Computers"
+    },
+    {
+        "title": "End-to-End Detection of Caller ID Spoofing Attacks.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2580509",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Protocols[]Frequency shift keying[]Smart phones[]Standards[]Authentication[]Internet telephony"
+    },
+    {
+        "title": "White-Box Traceable CP-ABE for Cloud Storage Service: How to Catch People Leaking Their Access Credentials Effectively.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2608343",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Cloud computing[]Encryption[]Access control[]Context[]Law"
+    },
+    {
+        "title": "A Systems Theoretic Approach to the Security Threats in Cyber Physical Systems Applied to Stuxnet.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2015.2509994",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Security[]Hazards[]Software[]Process control[]Sensors[]Reliability"
+    },
+    {
+        "title": "Locating Faults in MANET-Hosted Software Systems.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2596284",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Ad hoc networks[]Mobile computing[]Fault diagnosis[]Monitoring[]Analytical models[]Bayes methods[]Context"
+    },
+    {
+        "title": "Separable Reversible Data Hiding in Encrypted JPEG Bitstreams.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2634161",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Transform coding[]Encryption[]Data mining[]Servers[]Cloud computing[]Image coding"
+    },
+    {
+        "title": "Guest Editor&apos;s Introduction to the Special Section on Social Network Security.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2018.2841441",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Special issues and sections[]Social network services[]Computer security[]Data privacy[]Data analysis[]Big Data"
+    },
+    {
+        "title": "Physical Attestation in the Smart Grid for Distributed State Verification.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2577021",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Smart grids[]State estimation[]Phasor measurement units[]Security[]Topology"
+    },
+    {
+        "title": "MADAM: Effective and Efficient Behavior-based Android Malware Detection and Prevention.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2536605",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Malware[]Androids[]Humanoid robots[]Performance evaluation[]Feature extraction[]Monitoring"
+    },
+    {
+        "title": "How to Fillet a Penguin: Runtime Data Driven Partitioning of Linux Code.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2017.2745574",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Linux[]Operating systems[]Runtime[]Performance evaluation[]Dynamic programming"
+    },
+    {
+        "title": "Dynamic Optimal Countermeasure Selection for Intrusion Response System.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2615622",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "null"
+    },
+    {
+        "title": "Anonymity Leakage in Private VoIP Networks.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2015.2513761",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Privacy[]Probes[]Statistical analysis[]Delays[]Mathematical model[]Communication networks"
+    },
+    {
+        "title": "Scale Inside-Out: Rapid Mitigation of Cloud DDoS Attacks.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2017.2763160",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Computer crime[]Cybersecurity[]Cloud computing[]Dynamic scheduling[]Resource management[]Denial-of-service attack[]Computer security"
+    },
+    {
+        "title": "Enhanced Secure Thresholded Data Deduplication Scheme for Cloud Storage.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2603501",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "ncryption[]Indexes[]Cloud computing[]Semantics[]Servers"
+    },
+    {
+        "title": "A Shoulder Surfing Resistant Graphical Authentication System.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2539942",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Authentication[]Usability[]Observers[]Mobile communication[]Mobile handsets[]Image color analysis[]Shape"
+    },
+    {
+        "title": "R2C: Robust Rolling-Upgrade in Clouds.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2615919",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Switches[]Cloud computing[]Virtual machining[]Robustness[]Software systems[]Software reliability"
+    },
+    {
+        "title": "Privacy-Preserving Friendship-Based Recommender Systems.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2631533",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Protocols[]Recommender systems[]Prediction algorithms[]Encryption[]Privacy"
+    },
+    {
+        "title": "On the Interplay Between Cyber and Physical Spaces for Adaptive Security.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2599880",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Security[]Topology[]Cloud computing[]Adaptation models[]Planning[]Wireless networks[]Servers"
+    },
+    {
+        "title": "Editorial.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2017.2779333",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "null"
+    },
+    {
+        "title": "VPSearch: Achieving Verifiability for Privacy-Preserving Multi-Keyword Search over Encrypted Cloud Data.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2635128",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "arch[]Cloud computing[]Servers[]Encryption[]Data privacy[]Computational modeling"
+    },
+    {
+        "title": "Search Ranges Efficiently and Compatibly as Keywords over Encrypted Data.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2634013",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "ncryption[]Servers[]Data privacy[]Cloud computing[]Data security[]Query processing[]Search engines"
+    },
+    {
+        "title": "Searchable Encryption over Feature-Rich Data.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2593444",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "ndexes[]Servers[]Encryption[]Multimedia communication"
+    },
+    {
+        "title": "Signal Entanglement Based Pinpoint Waveforming for Location-Restricted Service Access Control.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2614820",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Receivers[]Synchronization[]Interference[]Wireless communication[]Communication system security[]Signal to noise ratio[]Jamming"
+    },
+    {
+        "title": "Two Birds with One Stone: Two-Factor Authentication with Security Beyond Conventional Bound.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2605087",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Authentication[]Servers[]Smart cards[]Protocols[]Cryptography[]Birds"
+    },
+    {
+        "title": "Real-Time and Spatio-Temporal Crowd-Sourced Social Network Data Publishing with Differential Privacy.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2599873",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Data privacy[]Privacy[]Publishing[]Real-time systems[]Social network services[]Time series analysis[]Mobile handsets"
+    },
+    {
+        "title": "Conditional (t, k)-Diagnosis in Regular and Irregular Graphs Under the Comparison Diagnosis Model.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2585489",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Computational modeling[]Hypercubes[]Program processors[]Multiprocessing systems[]Fault diagnosis[]Sequential diagnosis[]Computer science"
+    },
+    {
+        "title": "Immutable Authentication and Integrity Schemes for Outsourced Databases.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2530708",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Aggregates[]Servers[]Databases[]Outsourcing[]Authentication[]Data models"
+    },
+    {
+        "title": "Towards Privacy-Preserving and Practical Image-Centric Social Discovery.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2609930",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Cryptography[]Cloud computing[]Social network services[]Indexes[]Privacy[]Visualization"
+    },
+    {
+        "title": "Exploiting Social Network to Enhance Human-to-Human Infection Analysis without Privacy Leakage.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2626288",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Servers[]Social network services[]Data privacy[]Privacy[]Cryptography[]Hospitals"
+    },
+    {
+        "title": "Towards Transparent Debugging.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2545671",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Malware[]Debugging[]Virtualization[]Emulation[]Hardware[]Virtual machine monitors[]Prototypes"
+    },
+    {
+        "title": "The Rise of Social Botnets: Attacks and Countermeasures.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2641441",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Twitter[]Facebook[]Social network services[]Suspensions[]Optimization[]Computational modeling[]Unsolicited electronic mail[]Botnet"
+    },
+    {
+        "title": "Negative Iris Recognition.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2015.2507133",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "is recognition[]Bioinformatics[]Feature extraction[]Databases[]Cryptography"
+    },
+    {
+        "title": "Efficient Anonymous Message Submission.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2016.2556659",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Protocols[]Cryptography[]Games[]Companies[]Social network services[]Resistance"
+    },
+    {
+        "title": "Magic Train: Design of Measurement Methods against Bandwidth Inflation Attacks.",
+        "year": "2018",
+        "url": "https://doi.org/10.1109/TDSC.2015.2509984",
+        "journal_name": "TDSC IEEE Transactions on Dependable and Secure Computing",
+        "journal_shorter_form": "TDSC",
+        "keywords": "Bandwidth[]Delays[]Downlink[]Uplink[]Internet[]Dispersion[]Peer-to-peer computing"
+    }
+]
