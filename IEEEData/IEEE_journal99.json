@@ -1,0 +1,1842 @@
+[
+    {
+        "title": "ColorMapND: A Data-Driven Approach and Tool for Mapping Multivariate Data to Color.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2808489",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "mage color analysis[]Interpolation[]Data visualization[]Tools[]Aerospace electronics[]Principal component analysis[]Hyperspectral imaging"
+    },
+    {
+        "title": "Real-Time External Labeling of Ghosted Views.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2833479",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Labeling[]Three-dimensional displays[]Solid modeling[]Layout[]Real-time systems[]Computational modeling[]Rendering (computer graphics)"
+    },
+    {
+        "title": "Looks Good To Me: Visualizations As Sanity Checks.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2864907",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Data visualization[]Visualization[]Histograms[]Bandwidth[]Data integrity[]Kernel[]Data analysis"
+    },
+    {
+        "title": "Temporal Resolution Multiplexing: Exploiting the limitations of spatio-temporal vision for more efficient VR rendering.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2019.2898741",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Rendering (computer graphics)[]Bandwidth[]Liquid crystal displays[]Switches[]Multiplexing[]Visualization[]Encoding"
+    },
+    {
+        "title": "Mitigating the Attraction Effect with Visualizations.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2865233",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Data visualization[]Training[]Decision making[]Cognition[]Visualization[]Task analysis"
+    },
+    {
+        "title": "RegressionExplorer: Interactive Exploration of Logistic Regression Models with Subgroup Analysis.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2865043",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Analytical models[]Logistics[]Visual analytics[]Biological system modeling[]Mathematical model[]Data models"
+    },
+    {
+        "title": "Compressing Color Data for Voxelized Surface Geometry.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2017.2741480",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "mage color analysis[]Image coding[]Geometry[]Indexes[]Octrees[]Arrays[]Two dimensional displays"
+    },
+    {
+        "title": "Audio-Visual-Olfactory Resource Allocation for Tri-modal Virtual Environments.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2019.2898823",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Olfactory[]Visualization[]Computational modeling[]Resource management[]Mathematical model[]Auditory system[]Virtual environments"
+    },
+    {
+        "title": "SIRIUS: Dual, Symmetric, Interactive Dimension Reductions.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2865047",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Data visualization[]Task analysis[]Data analysis[]Animals[]Principal component analysis[]Visual analytics[]Image color analysis"
+    },
+    {
+        "title": "Visualization of Large Molecular Trajectories.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2864851",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Trajectory[]Proteins[]Three-dimensional displays[]Computational modeling[]Visualization[]Data models[]Inspection"
+    },
+    {
+        "title": "Visual Analytics for Topic Model Optimization based on User-Steerable Speculative Execution.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2864769",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Analytical models[]Visual analytics[]Optimization[]Clustering algorithms[]Computational modeling[]Task analysis"
+    },
+    {
+        "title": "Real-Time View Planning for Unstructured Lumigraph Modeling.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2019.2932237",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Planning[]Image reconstruction[]Real-time systems[]Geometry[]Rendering (computer graphics)[]Computational modeling[]Image color analysis"
+    },
+    {
+        "title": "Surface Reconstruction from Discrete Indicator Functions.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2809751",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Surface reconstruction[]Interpolation[]Surface treatment[]Smoothing methods[]Three-dimensional displays[]Image reconstruction"
+    },
+    {
+        "title": "Interactive Visualization of 3D Histopathology in Native Resolution.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2864816",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Three-dimensional displays[]Data visualization[]Pathology[]Rendering (computer graphics)[]Image color analysis[]Microscopy[]Two dimensional displays"
+    },
+    {
+        "title": "DimReader: Axis lines that explain non-linear projections.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2865194",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Perturbation methods[]Dimensionality reduction[]Data visualization[]Visualization[]Encoding[]Sensitivity analysis[]Tools"
+    },
+    {
+        "title": "Persistence Atlas for Critical Point Variability in Ensembles.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2864432",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Market research[]Data visualization[]Layout[]Probability density function[]Extraterrestrial measurements[]Uncertainty[]Robustness"
+    },
+    {
+        "title": "Sick Moves! Motion Parameters as Indicators of Simulator Sickness.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2019.2932224",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Legged locomotion[]Solid modeling[]Atmospheric measurements[]Particle measurements[]Computational modeling[]Reliability[]Pose estimation"
+    },
+    {
+        "title": "Patterns and Pace: Quantifying Diverse Exploration Behavior with Visualizations on the Web.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2865117",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Data visualization[]Extraterrestrial measurements[]Companies[]Visual analytics[]Feature extraction"
+    },
+    {
+        "title": "Message from the Editor-in-Chief.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2874732",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "null"
+    },
+    {
+        "title": "Farewell and New EIC Introduction.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2019.2891030",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "null"
+    },
+    {
+        "title": "Real-Time Collision Detection for Deformable Characters with Radial Fields.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2859924",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Collision avoidance[]Geometry[]Real-time systems[]Deformable models[]Graphics processing units[]Computational modeling[]Acceleration"
+    },
+    {
+        "title": "High Relief from Brush Painting.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2860004",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Painting[]Three-dimensional displays[]Shape[]Brushes[]Two dimensional displays[]Image color analysis"
+    },
+    {
+        "title": "Perceptually Based Adaptive Motion Retargeting to Animate Real Objects by Light Projection.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2019.2898738",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Computational modeling[]Adaptation models[]Visualization[]Predictive models[]Surface texture[]Image quality[]Optimization"
+    },
+    {
+        "title": "Message from the ISMAR 2019 Science and Technology Program Chairs and TVCG Guest Editors.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2019.2934813",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Special issues and sections[]Computer graphics[]Visualization[]Meetings"
+    },
+    {
+        "title": "Effects of AR Display Context Switching and Focal Distance Switching on Human Performance.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2832633",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Visualization[]Optical switches[]Task analysis[]Fatigue[]Head-up displays"
+    },
+    {
+        "title": "Projection Distortion-based Object Tracking in Shader Lamp Scenarios.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2019.2932223",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Cameras[]Three-dimensional displays[]Pose estimation[]Mathematical model[]Calibration[]Object tracking"
+    },
+    {
+        "title": "Dynamic Composite Data Physicalization Using Wheeled Micro-Robots.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2865159",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Data visualization[]Visualization[]Two dimensional displays[]Collaboration[]Animation[]Shape[]Human computer interaction"
+    },
+    {
+        "title": "Comparing Similarity Perception in Time Series Visualizations.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2865077",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Time series analysis[]Task analysis[]Visualization[]Data visualization[]Time measurement[]Electroencephalography[]Encoding"
+    },
+    {
+        "title": "Situ: Identifying and Explaining Suspicious Behavior in Networks.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2865029",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Data visualization[]Network security[]Machine learning[]Anomaly detection[]Visual analytics"
+    },
+    {
+        "title": "Stippling of 2D Scalar Fields.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2019.2903945",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Data visualization[]Image color analysis[]Visualization[]Two dimensional displays[]Rendering (computer graphics)[]Encoding[]Task analysis"
+    },
+    {
+        "title": "Robust Tracing and Visualization of Heterogeneous Microvascular Networks.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2818701",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Data visualization[]Diseases[]Robustness[]Microscopy[]Image segmentation[]Biomedical imaging[]Anisotropic magnetoresistance"
+    },
+    {
+        "title": "Objective Vortex Corelines of Finite-sized Objects in Fluid Flows.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2864828",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Three-dimensional displays[]Visualization[]Two dimensional displays[]Atmospheric measurements[]Particle measurements[]Tensile stress[]Feature extraction"
+    },
+    {
+        "title": "Extreme-Scale Stochastic Particle Tracing for Uncertain Unsteady Flow Visualization and Analysis.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2856772",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Computational fluid dynamics[]Computer graphics[]Stochastic processes[]Monte Carlo methods[]Graphics processing units[]Data analysis[]Data visualization"
+    },
+    {
+        "title": "Visual Progression Analysis of Event Sequence Data.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2864885",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Visualization[]Diseases[]Aggregates[]Data visualization[]Pattern matching[]Interviews"
+    },
+    {
+        "title": "Biorthogonal Wavelet Transforms and Applications Based on Generalized Progressive Catmull-Clark Subdivision with Shape Control.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2845887",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "nterpolation[]Wavelet transforms[]Biological system modeling[]Surface waves[]Shape control[]Three-dimensional displays"
+    },
+    {
+        "title": "Shared-Memory Parallel Computation of Morse-Smale Complexes with Improved Accuracy.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2864848",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Geometry[]Manifolds[]Feature extraction[]Robustness[]Isosurfaces[]Tools"
+    },
+    {
+        "title": "Time-Dependent Flow seen through Approximate Observer Killing Fields.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2864839",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Observers[]Visualization[]Optimization[]Standards[]Geometry[]Feature extraction[]Two dimensional displays"
+    },
+    {
+        "title": "Evaluating &apos;Graphical Perception&apos; with CNNs.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2865138",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Visualization[]Task analysis[]Bars[]Data visualization[]Convolutional neural networks[]Multilayer perceptrons[]Computational modeling"
+    },
+    {
+        "title": "Varifocal Occlusion for Optical See-Through Head-Mounted Displays using a Slide Occlusion Mask.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2019.2899249",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Optical imaging[]Liquid crystal displays[]Cameras[]Adaptive optics[]Lenses[]Optical distortion[]Glass"
+    },
+    {
+        "title": "CoDDA: A Flexible Copula-based Distribution Driven Analysis Framework for Large-Scale Multivariate Data.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2864801",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Data models[]Computational modeling[]Data visualization[]Analytical models[]Task analysis[]Histograms[]Probability distribution"
+    },
+    {
+        "title": "Viewpoint Assessment and Recommendation for Photographing Architectures.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2853751",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Three-dimensional displays[]Computer architecture[]Solid modeling[]Feature extraction[]Computational modeling[]Two dimensional displays[]Task analysis"
+    },
+    {
+        "title": "Comparison of Projective Augmented Reality Concepts to Support Medical Needle Insertion.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2019.2903942",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Needles[]Visualization[]Navigation[]Instruments[]Task analysis[]Monitoring[]Computed tomography"
+    },
+    {
+        "title": "A Study of the Trade-off Between Reducing Precision and Reducing Resolution for Data Analysis and Visualization.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2864853",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Task analysis[]Spatial resolution[]Transforms[]Data visualization[]Data analysis[]Rendering (computer graphics)"
+    },
+    {
+        "title": "Visual Analytics in Deep Learning: An Interrogative Survey for the Next Frontiers.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2843369",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Machine learning[]Conferences[]Visual analytics[]Data visualization[]Neural networks[]Computational modeling"
+    },
+    {
+        "title": "A Coloring Algorithm for Disambiguating Graph and Map Drawings.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2798631",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Color[]Image color analysis[]Visualization[]Layout[]Image edge detection[]Task analysis[]Optimization"
+    },
+    {
+        "title": "SGaze: A Data-Driven Eye-Head Coordination Model for Realtime Gaze Prediction.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2019.2899187",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Head[]Solid modeling[]Predictive models[]Visualization[]Computational modeling[]Rendering (computer graphics)[]Navigation"
+    },
+    {
+        "title": "In Pursuit of Error: A Survey of Uncertainty Visualization Evaluation.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2864889",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Uncertainty[]Visualization[]Taxonomy[]Data visualization[]Task analysis[]Measurement uncertainty[]Decision making"
+    },
+    {
+        "title": "FiberClay: Sculpting Three Dimensional Trajectories to Reveal Structural Insights.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2865191",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Data visualization[]Three-dimensional displays[]Trajectory[]Two dimensional displays[]Optical fiber devices[]Aircraft navigation"
+    },
+    {
+        "title": "Conveying spatial awareness cues in xR collaborations.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2019.2932173",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Collaboration[]Visualization[]Taxonomy[]Stakeholders[]Spatial augmented reality[]Virtual environments[]Animation"
+    },
+    {
+        "title": "Preserving Command Line Workflow for a Package Management System Using ASCII DAG Visualization.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2859974",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Layout[]Tools[]Visualization[]Task analysis[]Data visualization[]Python"
+    },
+    {
+        "title": "Light Attenuation Display: Subtractive See-Through Near-Eye Display via Spatial Color Filtering.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2019.2899229",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "mage color analysis[]Lighting[]Attenuation[]Liquid crystal displays[]Optical imaging[]Optical attenuators[]Optical polarization"
+    },
+    {
+        "title": "Non-Contact Thermo-Visual Augmentation by IR-RGB Projection.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2820121",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Visualization[]Haptic interfaces[]Skin[]Mirrors[]Spatial resolution[]Temperature measurement[]Heating systems"
+    },
+    {
+        "title": "FeatureLego: Volume Exploration Using Exhaustive Clustering of Super-Voxels.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2856744",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Clustering algorithms[]Feature extraction[]Semantics[]Histograms[]Two dimensional displays[]Three-dimensional displays[]Visualization"
+    },
+    {
+        "title": "Visual Exploration of Neural Document Embedding in Information Retrieval: Semantics and Feature Selection.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2019.2903946",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Semantics[]Analytical models[]Visual analytics[]Medical services[]Task analysis[]Feature extraction"
+    },
+    {
+        "title": "Joint Action in a Virtual Environment: Crossing Roads with Risky vs. Safe Human and Agent Partners.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2865945",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Multi-agent systems[]Virtual environments[]Human factors[]Virtual reality"
+    },
+    {
+        "title": "A Declarative Rendering Model for Multiclass Density Maps.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2865141",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Data visualization[]Image color analysis[]Task analysis[]Scalability[]Visualization[]Computational modeling[]Rendering (computer graphics)"
+    },
+    {
+        "title": "Orientation Perception in Real and Virtual Environments.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2019.2898798",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Virtual environments[]Task analysis[]Observers[]Anisotropic magnetoresistance[]Visualization[]Gravity[]Legged locomotion"
+    },
+    {
+        "title": "Animated Stickies: Fast Video Projection Mapping onto a Markerless Plane through a Direct Closed-Loop Alignment.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2019.2932248",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Cameras[]Target tracking[]Surface texture[]Calibration[]Sensors[]Optimization[]Visualization"
+    },
+    {
+        "title": "GAN Lab: Understanding Complex Deep Generative Models using Interactive Visual Experimentation.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2864500",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Gallium nitride[]Machine learning[]Tools[]Generative adversarial networks[]Generators[]Training[]Data visualization"
+    },
+    {
+        "title": "Hypothetical Outcome Plots Help Untrained Observers Judge Trends in Ambiguous Data.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2864909",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Uncertainty[]Data visualization[]Visualization[]Bars[]Task analysis[]Observers[]Encoding"
+    },
+    {
+        "title": "A Voxel-Based Rendering Pipeline for Large 3D Line Sets.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2834372",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Rendering (computer graphics)[]Graphics processing units[]Lighting[]Three-dimensional displays[]Memory management[]Computational modeling[]Ray tracing"
+    },
+    {
+        "title": "Exploring Variability within Ensembles of Decadal Climate Predictions.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2810919",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Data visualization[]Meteorology[]Atmospheric modeling[]Data models[]Computational modeling[]Analytical models[]Predictive models"
+    },
+    {
+        "title": "Interactive 3D Visual Analysis of Atmospheric Fronts.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2864806",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Three-dimensional displays[]Visualization[]Weather forecasting[]Cyclones[]Ocean temperature[]Two dimensional displays"
+    },
+    {
+        "title": "A Framework for Creative Visualization-Opportunities Workshops.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2865241",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Conferences[]Data visualization[]Visualization[]Collaboration[]Stakeholders[]Creativity"
+    },
+    {
+        "title": "A Quad Edge-Based Grid Encoding Model for Content-Aware Image Retargeting.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2866106",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Computational modeling[]Image segmentation[]Image quality[]Distortion[]Encoding[]Adaptation models"
+    },
+    {
+        "title": "Compressed Animated Light Fields with Real-Time View-Dependent Reconstruction.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2818156",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Rendering (computer graphics)[]Real-time systems[]Image reconstruction[]Cameras[]Streaming media[]Probes[]Image color analysis"
+    },
+    {
+        "title": "Temporal Treemaps: Static Visualization of Evolving Trees.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2865265",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Layout[]Data visualization[]Rendering (computer graphics)[]Time series analysis[]Topology[]Regression tree analysis[]Two dimensional displays"
+    },
+    {
+        "title": "Labels on Levels: Labeling of Multi-Scale Multi-Instance and Crowded 3D Biological Environments.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2864491",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Three-dimensional displays[]Labeling[]Proteins[]Visualization[]Blood[]Biological system modeling"
+    },
+    {
+        "title": "Context-Aware Asset Search for Graphic Design.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2842734",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "mage color analysis[]Search problems[]Graphics[]Task analysis[]Training[]Tools[]Design tools"
+    },
+    {
+        "title": "Lessons Learned Developing a Visual Analytics Solution for Investigative Analysis of Scamming Activities.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2865023",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "lectronic mail[]Visual analytics[]Forensics[]Data security[]Metadata[]Data visualization[]Query processing"
+    },
+    {
+        "title": "Deadeye: A Novel Preattentive Visualization Technique Based on Dichoptic Presentation.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2864498",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Visualization[]Visual systems[]Image color analysis[]Three-dimensional displays[]Feature extraction[]Shape[]Color"
+    },
+    {
+        "title": "Empirical Comparison of Curvature Estimators on Volume Images and Triangle Meshes.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2861007",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Three-dimensional displays[]Geometry[]Libraries[]Curve fitting[]Estimation[]Runtime[]Decision making"
+    },
+    {
+        "title": "The Influence of Label Design on Search Performance and Noticeability in Wide Field of View Augmented Reality Displays.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2854737",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "User interfaces[]Visualization[]Augmented reality[]Labeling"
+    },
+    {
+        "title": "Visual Analysis of the Temporal Evolution of Ensemble Forecast Sensitivities.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2864901",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Correlation[]Sensitivity[]Atmospheric modeling[]Weather forecasting[]Visualization[]Computational modeling"
+    },
+    {
+        "title": "RetainVis: Visual Analytics with Interpretable and Interactive Recurrent Neural Networks on Electronic Medical Records.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2865027",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Machine learning[]Medical diagnostic imaging[]Task analysis[]Predictive models[]Computational modeling[]Visual analytics[]Data models"
+    },
+    {
+        "title": "Multiple Coordinated Views at Large Displays for Multiple Users: Empirical Findings on User Behavior, Movements, and Distances.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2865235",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Data visualization[]Collaboration[]Visualization[]Mobile handsets[]Data analysis[]Tools[]Task analysis"
+    },
+    {
+        "title": "VIS Author Profiles: Interactive Descriptions of Publication Records Combining Text and Visualization.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2865022",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Data visualization[]Collaboration[]Libraries[]Computer science[]Natural languages[]Visual analytics"
+    },
+    {
+        "title": "Not Alone Here?! Scalability and User Experience of Embodied Ambient Crowds in Distributed Social Virtual Reality.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2019.2899250",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Avatars[]Open area test sites[]Scalability[]Animation[]Bandwidth[]Tracking"
+    },
+    {
+        "title": "A Psychophysical Evaluation of Texture Compression Masking Effects.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2805355",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "mage coding[]Measurement[]Visualization[]Rendering (computer graphics)[]Three-dimensional displays[]Surface texture[]Lighting"
+    },
+    {
+        "title": "Duet: Helping Data Analysis Novices Conduct Pairwise Comparisons by Minimal Specification.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2864526",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Data analysis[]Data visualization[]Tools[]Law enforcement[]Visualization[]Systems operation[]Knowledge discovery"
+    },
+    {
+        "title": "MAQUI: Interweaving Queries and Pattern Mining for Recursive Event Sequence Exploration.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2864886",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Data mining[]Task analysis[]Data visualization[]Public transportation[]Companies[]Complexity theory"
+    },
+    {
+        "title": "A Skinned Tetrahedral Mesh for Hair Animation and Hair-Water Interaction.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2808972",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Hair[]Animation[]Kinematics[]Deformable models[]Springs[]Skin[]Computational modeling"
+    },
+    {
+        "title": "Projective Motion Correction with Contact Optimization.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2818721",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Dynamics[]Optimization[]PD control[]Kinematics[]Convergence[]Trajectory[]Planning"
+    },
+    {
+        "title": "Motion Sickness Prediction in Stereoscopic Videos using 3D Convolutional Neural Networks.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2019.2899186",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Videos[]Stereo image processing[]Three-dimensional displays[]Optical imaging[]Machine learning[]Optical saturation[]Optical computing"
+    },
+    {
+        "title": "Learning Discriminative 3D Shape Representations by View Discerning Networks.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2865317",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Shape[]Three-dimensional displays[]Feature extraction[]Task analysis[]Computational modeling[]Clutter[]Solid modeling"
+    },
+    {
+        "title": "Continuous-Scale Kinetic Fluid Simulation.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2859931",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Mathematical model[]Adaptation models[]Computational modeling[]Stability analysis[]Kinetic theory[]Numerical models[]Electron tubes"
+    },
+    {
+        "title": "COPE: Interactive Exploration of Co-Occurrence Patterns in Spatial Time Series.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2851227",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Time series analysis[]Visual analytics[]Data mining[]Data visualization[]Spatiotemporal phenomena[]Economics[]Shape"
+    },
+    {
+        "title": "Fast Texture Mapping Adjustment via Local/Global Optimization.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2831220",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Optimization[]Three-dimensional displays[]Solid modeling[]Computational modeling[]Image color analysis[]Cameras[]Sensors"
+    },
+    {
+        "title": "Robust Non-Rigid Registration with Reweighted Position and Transformation Sparsity.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2832136",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Shape[]Strain[]Robustness[]Three-dimensional displays[]Image reconstruction[]Position measurement[]Computational modeling"
+    },
+    {
+        "title": "Functional Workspace Optimization via Learning Personal Preferences from Virtual Experiences.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2019.2898721",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Layout[]Task analysis[]Cost function[]Visualization[]Software[]Three-dimensional displays"
+    },
+    {
+        "title": "Interactive Visualization of RNA and DNA Structures.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2864507",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Visualization[]RNA[]DNA[]Hydrogen[]Two dimensional displays[]Three-dimensional displays[]Junctions"
+    },
+    {
+        "title": "An Interactive Method to Improve Crowdsourced Annotations.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2864843",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Data visualization[]Labeling[]Data models[]Task analysis[]Visual analytics[]Reliability"
+    },
+    {
+        "title": "NLIZE: A Perturbation-Driven Visual Interrogation Tool for Analyzing and Interpreting Natural Language Inference Models.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2865230",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Natural languages[]Task analysis[]Neural networks[]Visualization[]Computational modeling[]Analytical models[]Predictive models"
+    },
+    {
+        "title": "Visualizing Uncertain Tropical Cyclone Predictions using Representative Samples from Ensembles of Forecast Tracks.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2865193",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Storms[]Uncertainty[]Visualization[]Hurricanes[]Tropical cyclones[]Prediction algorithms[]Predictive models"
+    },
+    {
+        "title": "Bridging Text Visualization and Mining: A Task-Driven Survey.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2834341",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Visualization[]Data visualization[]Task analysis[]Text mining[]Taxonomy[]Market research"
+    },
+    {
+        "title": "TPFlow: Progressive Partition and Multidimensional Pattern Extraction for Large-Scale Spatio-Temporal Data Analysis.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2865018",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "null"
+    },
+    {
+        "title": "Animation Plans for Before-and-After Satellite Images.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2796557",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Animation[]Visualization[]Satellite broadcasting[]Remote sensing[]Focusing[]Lakes[]NASA"
+    },
+    {
+        "title": "InkPlanner: Supporting Prewriting via Intelligent Visual Diagramming.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2864887",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Writing[]Data visualization[]Computer aided instruction[]Educational institutions"
+    },
+    {
+        "title": "Details-First, Show Context, Overview Last: Supporting Exploration of Viscous Fingers in Large-Scale Ensemble Simulations.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2864849",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Computational modeling[]Data visualization[]Feature extraction[]Context modeling[]Tracking[]Visualization[]Spatiotemporal phenomena"
+    },
+    {
+        "title": "An Interactive Framework for Visualization of Weather Forecast Ensembles.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2864815",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Data visualization[]Uncertainty[]Visualization[]Weather forecasting[]Atmospheric modeling[]Tools"
+    },
+    {
+        "title": "Guest Editors&apos; Introduction: Special Section on IEEE PacificVis 2019.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2019.2905484",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Special issues and sections[]Meetings[]Visualization"
+    },
+    {
+        "title": "Graphicle: Exploring Units, Networks, and Context in a Blended Visualization Approach.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2865151",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Data visualization[]Layout[]Visualization[]Medical services[]Aggregates[]Bars[]Organizations"
+    },
+    {
+        "title": "Precision Risk Analysis of Cancer Therapy with Interactive Nomograms and Survival Plots.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2817557",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Cancer[]Visualization[]Collaboration[]Medical treatment[]Encoding[]Head[]Neck"
+    },
+    {
+        "title": "A Framework for Externalizing Implicit Error Using Visualization.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2864913",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Tools[]Data visualization[]Public healthcare[]Surveillance[]Diseases[]Visualization"
+    },
+    {
+        "title": "Visual Analysis of Aneurysm Data using Statistical Graphics.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2864509",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Aneurysm[]Data visualization[]Two dimensional displays[]Three-dimensional displays[]Visualization[]Surface morphology[]Shape"
+    },
+    {
+        "title": "Classification of Blood Flow Patterns in Cerebral Aneurysms.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2834923",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Aneurysm[]Blood[]Visualization[]Surface morphology[]Data visualization[]Hemodynamics[]Two dimensional displays"
+    },
+    {
+        "title": "VPModel: High-Fidelity Product Simulation in a Virtual-Physical Environment.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2019.2932276",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Solid modeling[]Three-dimensional displays[]Tools[]Prototypes[]Visualization[]Real-time systems[]Software"
+    },
+    {
+        "title": "RuleMatrix: Visualizing and Understanding Classifiers with Rules.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2864812",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Machine learning[]Data visualization[]Visualization[]Neural networks[]Decision trees[]Data models[]Support vector machines"
+    },
+    {
+        "title": "Shadow Accrual Maps: Efficient Accumulation of City-Scale Shadows Over Time.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2802945",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Urban areas[]Ray tracing[]Buildings[]Visual analytics[]Sun[]Tools"
+    },
+    {
+        "title": "Immersive Virtual Colonoscopy.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2019.2898763",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Colon[]Rendering (computer graphics)[]Tools[]Computed tomography[]Biopsy[]Task analysis[]Haptic interfaces"
+    },
+    {
+        "title": "Shape-preserving Star Coordinates.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2865118",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Shape[]Two dimensional displays[]Visualization[]Data analysis[]Principal component analysis[]Distortion[]Data visualization"
+    },
+    {
+        "title": "Formalizing Visualization Design Knowledge as Constraints: Actionable and Extensible Models in Draco.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2865240",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Data visualization[]Encoding[]Task analysis[]Tools[]Visualization[]Programming[]Computational modeling"
+    },
+    {
+        "title": "A Message from the New Editor-in-Chief.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2884157",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "null"
+    },
+    {
+        "title": "Message from the Editor-in-Chief and from the Associate Editor-in-Chief.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2019.2934698",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Visualization[]Augmented reality[]Rendering (computer graphics)[]Haptic interfaces[]Special issues and sections[]Production"
+    },
+    {
+        "title": "Introducing the IEEE Virtual Reality 2019 Special Issue.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2019.2902964",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Special issues and sections[]Meetings[]Virtual reality"
+    },
+    {
+        "title": "Identification of Temporally Varying Areas of Interest in Long-Duration Eye-Tracking Data Sets.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2865042",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Visualization[]Task analysis[]Monitoring[]Labeling[]Microsoft Windows[]Merging[]Vehicles"
+    },
+    {
+        "title": "Inferring User Intent using Bayesian Theory of Mind in Shared Avatar-Agent Virtual Environments.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2019.2898800",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Avatars[]Virtual environments[]Computational modeling[]Inference algorithms[]Two dimensional displays[]Bayes methods[]Heuristic algorithms"
+    },
+    {
+        "title": "Understanding User Behaviour through Action Sequences: From the Usual to the Unusual.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2859969",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Data visualization[]Computer security[]Computational modeling[]Semantics[]Task analysis[]Decision making"
+    },
+    {
+        "title": "Lineage: Visualizing Multivariate Clinical Data in Genealogy Graphs.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2811488",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Genetics[]Diseases[]Data visualization[]Tools[]Task analysis[]Environmental factors[]Sociology"
+    },
+    {
+        "title": "Juniper: A Tree+Table Approach to Multivariate Graph Visualization.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2865149",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Task analysis[]Data visualization[]Layout[]Topology[]Visualization[]Network topology[]Encoding"
+    },
+    {
+        "title": "Multidimensional Projection for Visual Analytics: Linking Techniques with Distortions, Tasks, and Layout Enrichment.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2846735",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Visualization[]Layout[]Distortion[]Task analysis[]Taxonomy[]Data visualization[]Visual perception"
+    },
+    {
+        "title": "Developing Virtual Reality Visualizations for Unsteady Flow Analysis of Dinosaur Track Formation using Scientific Sketching.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2019.2898796",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Data visualization[]Visualization[]Dinosaurs[]Three-dimensional displays[]Tracking[]Foot[]Substrates"
+    },
+    {
+        "title": "Node-Link or Adjacency Matrices: Old Question, New Insights.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2865940",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Task analysis[]Data visualization[]Visualization[]Taxonomy[]Encoding[]Layout[]Airports"
+    },
+    {
+        "title": "Face to Face: Evaluating Visual Comparison.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2864884",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Task analysis[]Visualization[]Data visualization[]Correlation[]Bars[]Layout[]Mirrors"
+    },
+    {
+        "title": "Drag and Track: A Direct Manipulation Interface for Contextualizing Data Instances within a Continuous Parameter Space.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2865051",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Data visualization[]Visualization[]Electric shock[]Physics[]Navigation[]Data models[]Uncertainty"
+    },
+    {
+        "title": "PaperCraft3D: Paper-Based 3D Modeling and Scene Fabrication.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2820068",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Three-dimensional displays[]Solid modeling[]Fabrication[]Computational modeling[]Tools[]Printing[]Two dimensional displays"
+    },
+    {
+        "title": "Information Olfactation: Harnessing Scent to Convey Data.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2865237",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Olfactory[]Data visualization[]Visualization[]Task analysis[]Two dimensional displays[]Neurons[]Virtual reality"
+    },
+    {
+        "title": "The Virtual Caliper: Rapid Creation of Metrically Accurate Avatars from 3D Measurements.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2019.2898748",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Avatars[]Shape[]Three-dimensional displays[]Shape measurement[]Solid modeling[]Tools[]Distance measurement"
+    },
+    {
+        "title": "Relaxing Dense Scatter Plots with Pixel-Based Mappings.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2019.2903956",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Data visualization[]Distortion[]Clutter[]Task analysis[]Visualization[]Estimation[]Correlation"
+    },
+    {
+        "title": "Tensor Field Visualization using Fiber Surfaces of Invariant Space.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2864846",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Tensile stress[]Visualization[]Mechanical engineering[]Strain[]Geometry[]Neuroscience"
+    },
+    {
+        "title": "Continuous Control Monte Carlo Tree Search Informed by Multiple Experts.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2849386",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Learning (artificial intelligence)[]Neural networks[]Planning[]Monte Carlo methods[]Real-time systems[]Three-dimensional displays[]Predictive models"
+    },
+    {
+        "title": "FVA: Modeling Perceived Friendliness of Virtual Agents Using Movement Characteristics.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2019.2932235",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Task analysis[]Psychology[]Computational modeling[]Three-dimensional displays[]Skeleton[]Computer science[]Avatars"
+    },
+    {
+        "title": "Varifocal Occlusion-Capable Optical See-through Augmented Reality Display based on Focus-tunable Optics.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2019.2933120",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Optical imaging[]Adaptive optics[]Optical design[]Optical distortion[]Lenses[]Optical diffraction"
+    },
+    {
+        "title": "Smooth, Efficient, and Interruptible Zooming and Panning.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2800013",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Cameras[]Animation[]Measurement[]Geometry[]Visualization[]Space stations[]Navigation"
+    },
+    {
+        "title": "Charticulator: Interactive Construction of Bespoke Chart Layouts.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2865158",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Layout[]Tools[]Visualization[]Programming[]Data visualization[]Transforms"
+    },
+    {
+        "title": "Visualizing a Thinker&apos;s Life.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2824822",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Visualization[]Data visualization[]Tag clouds[]Layout[]Periodic structures[]Tools[]Focusing"
+    },
+    {
+        "title": "Smart Brushing for Parallel Coordinates.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2808969",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Brushes[]Data visualization[]Visualization[]Communications technology[]Industries[]Tools[]Standards"
+    },
+    {
+        "title": "Decal-Lenses: Interactive Lenses on Surfaces for Multivariate Visualization.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2850781",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Lenses[]Data visualization[]Three-dimensional displays[]Two dimensional displays[]Geometry[]Correlation[]Cameras"
+    },
+    {
+        "title": "Average Vector Field Integration for St. Venant-Kirchhoff Deformable Models.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2851233",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Animation[]Energy conservation[]Damping[]Trajectory[]Computational modeling[]Numerical models[]Deformable models"
+    },
+    {
+        "title": "Perception of Looming Motion in Virtual Reality Egocentric Interception Tasks.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2859987",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Task analysis[]Observers[]Calibration[]Visualization[]Time factors"
+    },
+    {
+        "title": "Robust and Fast Extraction of 3D Symmetric Tensor Field Topology.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2864768",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Tensile stress[]Eigenvalues and eigenfunctions[]Three-dimensional displays[]Feature extraction[]Topology[]Solids[]Robustness"
+    },
+    {
+        "title": "At a Glance: Pixel Approximate Entropy as a Measure of Line Chart Complexity.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2865264",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Data visualization[]Entropy[]Complexity theory[]Visualization[]Task analysis[]Noise measurement[]Shape"
+    },
+    {
+        "title": "VIS4ML: An Ontology for Visual Analytics Assisted Machine Learning.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2864838",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Ontologies[]Data visualization[]Analytical models[]Data models[]Task analysis[]OWL[]Machine learning"
+    },
+    {
+        "title": "Gaia Sky: Navigating the Gaia Catalog.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2864508",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Data visualization[]Three-dimensional displays[]Octrees[]Tools[]Solar system[]Open source software"
+    },
+    {
+        "title": "Task-Based Effectiveness of Basic Visualizations.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2829750",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Data visualization[]Task analysis[]Bars[]Visualization[]Automobiles[]Motion pictures[]Correlation"
+    },
+    {
+        "title": "What Do We Talk About When We Talk About Dashboards?",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2864903",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Visualization[]Data visualization[]Encoding[]Measurement[]Decision making[]Monitoring[]Tools"
+    },
+    {
+        "title": "Embedded Merge &amp; Split: Visual Adjustment of Data Grouping.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2865075",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Data visualization[]Tools[]Visualization[]Bars[]Histograms[]Data analysis[]Synthetic aperture sonar"
+    },
+    {
+        "title": "Mapping Color to Meaning in Colormap Data Visualizations.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2865147",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "mage color analysis[]Data visualization[]Visualization"
+    },
+    {
+        "title": "Popup-Plots: Warping Temporal Data Visualization.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2841385",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Data visualization[]Three-dimensional displays[]Two dimensional displays[]Temperature measurement[]Time measurement[]Layout"
+    },
+    {
+        "title": "Efficient and Anti-Aliased Trimming for Rendering Large NURBS Models.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2814987",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Solid modeling[]Rendering (computer graphics)[]Splines (mathematics)[]Surface topography[]Surface reconstruction[]Computational modeling[]Hardware"
+    },
+    {
+        "title": "HapTable: An Interactive Tabletop Providing Online Haptic Feedback for Touch Gestures.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2855154",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Haptic interfaces[]Touch sensitive screens[]Electrostatic actuators[]Visualization[]Dynamics[]Electrostatics[]Vibrations"
+    },
+    {
+        "title": "Motion parallax for 360\u00b0 RGBD video.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2019.2898757",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Three-dimensional displays[]Cameras[]Head[]Rendering (computer graphics)[]Streaming media[]Virtual reality[]Visualization"
+    },
+    {
+        "title": "Deep Neural Representation Guided Face Sketch Synthesis.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2866090",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Rendering (computer graphics)[]Face recognition[]Feature extraction[]Image restoration[]Three-dimensional displays[]Noise reduction[]Convolutional neural networks"
+    },
+    {
+        "title": "A Declarative Grammar of Flexible Volume Visualization Pipelines.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2864841",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Data visualization[]Rendering (computer graphics)[]Pipelines[]Grammar[]Visualization[]DSL[]Image color analysis"
+    },
+    {
+        "title": "Detecting 3D Points of Interest Using Multiple Features and Stacked Auto-encoder.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2848628",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Shape[]Three-dimensional displays[]Neural networks[]Feature extraction[]Prediction algorithms[]Solid modeling[]Task analysis"
+    },
+    {
+        "title": "DXR: A Toolkit for Building Immersive Data Visualizations.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2865152",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Data visualization[]Visualization[]Tools[]Three-dimensional displays[]Programming[]Libraries[]Graphical user interfaces"
+    },
+    {
+        "title": "IEEE Visualization and Graphics Technical Committee (VGTC).",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2874734",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "null"
+    },
+    {
+        "title": "Where&apos;s My Data? Evaluating Visualizations with Missing Data.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2864914",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Data visualization[]Data integrity[]Interpolation[]Visualization[]Bars[]Encoding[]Time series analysis"
+    },
+    {
+        "title": "Augmenting Visualizations with Interactive Data Facts to Facilitate Interpretation and Communication.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2865145",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Data visualization[]Tools[]Visualization[]Natural languages[]Data mining[]Histograms[]Complexity theory"
+    },
+    {
+        "title": "Audio-Material Reconstruction for Virtualized Reality Using a Probabilistic Damping Model.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2019.2898822",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Damping[]Vibrations[]Analytical models[]Geometry[]Probabilistic logic[]Real-time systems[]Parameter estimation"
+    },
+    {
+        "title": "KnowledgePearls: Provenance-Based Visualization Retrieval.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2865024",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Data visualization[]Visualization[]Indexes[]History[]Database languages[]Knowledge based systems[]Grammar"
+    },
+    {
+        "title": "StreamStory: Exploring Multivariate Time Series on Multiple Scales.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2825424",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Data visualization[]Time series analysis[]Tools[]Data models[]Markov processes[]Clutter[]Meteorology"
+    },
+    {
+        "title": "Firefly: Virtual Illumination Drones for Interactive Visualization.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2864656",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Lighting[]Light sources[]Cameras[]Optimization[]Drones[]Geometry[]Task analysis"
+    },
+    {
+        "title": "SLAMCast: Large-Scale, Real-Time 3D Reconstruction and Streaming for Immersive Multi-Client Live Telepresence.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2019.2899231",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Three-dimensional displays[]Real-time systems[]Telepresence[]Collaboration[]Bandwidth[]Servers[]Hardware"
+    },
+    {
+        "title": "Seq2seq-Vis: A Visual Debugging Tool for Sequence-to-Sequence Models.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2865044",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Analytical models[]Visualization[]Tools[]Predictive models[]Machine learning[]Data models[]Atmosphere"
+    },
+    {
+        "title": "SmartCues: A Multitouch Query Approach for Details-on-Demand through Dynamically Computed Overlays.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2865231",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Bars[]US Department of Defense[]Task analysis[]Visualization[]Data visualization[]Libraries[]Color"
+    },
+    {
+        "title": "Doccurate: A Curation-Based Approach for Clinical Text Visualization.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2864905",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Medical services[]Visualization[]Automation[]Data visualization[]Tools[]Task analysis[]Medical diagnostic imaging"
+    },
+    {
+        "title": "The Effect of Edge Bundling and Seriation on Sensemaking of Biclusters in Bipartite Graphs.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2861397",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Bipartite graph[]Layout[]Image edge detection[]Bioinformatics[]Visual analytics"
+    },
+    {
+        "title": "Pigmento: Pigment-Based Image Analysis and Editing.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2858238",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Pigments[]Image color analysis[]Painting[]Mathematical model[]Computational modeling[]Absorption[]Scattering"
+    },
+    {
+        "title": "iStoryline: Effective Convergence to Hand-drawn Storylines.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2864899",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Visualization[]Layout[]Tools[]Motion pictures[]Optimization methods[]Guidelines"
+    },
+    {
+        "title": "Exploring Time-Varying Multivariate Volume Data Using Matrix of Isosurface Similarity Maps.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2864808",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "urfaces[]Visualization[]Rendering (computer graphics)[]Tools[]Space exploration[]Data mining"
+    },
+    {
+        "title": "Preface.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2019.2902965",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "null"
+    },
+    {
+        "title": "Realtime Hand-Object Interaction Using Learned Grasp Space for Virtual Environments.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2849381",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Grasping[]Shape[]Computational modeling[]Visualization[]Virtual environments[]Machine learning algorithms[]Machine learning"
+    },
+    {
+        "title": "Interactive obstruction-free lensing for volumetric data visualization.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2864690",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Lenses[]Strain[]Data visualization[]Transfer functions[]Three-dimensional displays[]Animation"
+    },
+    {
+        "title": "You or Me? Personality Traits Predict Sacrificial Decisions in an Accident Situation.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2019.2899227",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Accidents[]Automobiles[]Decision making[]Training[]Autonomous vehicles[]Virtual reality"
+    },
+    {
+        "title": "Modulating Fine Roughness Perception of Vibrotactile Textured Surface using Pseudo-haptic Effect.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2019.2898820",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Rough surfaces[]Surface roughness[]Visualization[]Surface texture[]Haptic interfaces[]Vibrations[]Modulation"
+    },
+    {
+        "title": "An Exploratory Framework for Cyclone Identification and Tracking.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2810068",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Cyclones[]Tracking[]Meteorology[]Object tracking[]Image sequences[]Storms"
+    },
+    {
+        "title": "Exploratory Visual Sequence Mining Based on Pattern-Growth.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2848247",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Visualization[]Data mining[]Market research[]Data visualization[]Inspection[]Pattern matching[]Computational modeling"
+    },
+    {
+        "title": "KAVAGait: Knowledge-Assisted Visual Analytics for Clinical Gait Analysis.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2017.2785271",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Data visualization[]Visual analytics[]Time series analysis[]Decision making[]Tools[]Task analysis"
+    },
+    {
+        "title": "A Heuristic Approach to Value-Driven Evaluation of Visualizations.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2865146",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Data visualization[]Task analysis[]Usability[]Visualization[]Benchmark testing[]Tools[]Guidelines"
+    },
+    {
+        "title": "GraphProtector: A Visual Interface for Employing and Assessing Multiple Privacy Preserving Graph Algorithms.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2865021",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Privacy[]Data privacy[]Data visualization[]Pipelines[]Visualization[]Task analysis[]Measurement"
+    },
+    {
+        "title": "Optimizing Color Assignment for Perception of Class Separability in Multiclass Scatterplots.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2864912",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "mage color analysis[]Visualization[]Data visualization[]Task analysis[]Genetic algorithms[]Optimization[]Tools"
+    },
+    {
+        "title": "DQNViz: A Visual Analytics Approach to Understand Deep Q-Networks.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2864504",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Training[]Games[]Visual analytics[]Data visualization[]Analytical models[]Learning (artificial intelligence)[]Machine learning"
+    },
+    {
+        "title": "DeepVID: Deep Visual Interpretation and Diagnosis for Image Classifiers via Knowledge Distillation.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2019.2903943",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Data models[]Visual analytics[]Deep learning[]Analytical models[]Neural networks[]Semantics[]Training"
+    },
+    {
+        "title": "Visualization and Visual Analysis of Ensemble Data: A Survey.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2853721",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Data visualization[]Computational modeling[]Data models[]Task analysis[]Uncertainty[]Biological system modeling[]Visualization"
+    },
+    {
+        "title": "Narvis: Authoring Narrative Slideshows for Introducing Data Visualization Designs.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2865232",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "null"
+    },
+    {
+        "title": "Fast Ray-Scene Intersection for Interactive Shadow Rendering with Thousands of Dynamic Lights.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2828422",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "null"
+    },
+    {
+        "title": "A Visual Analytics Framework for Spatiotemporal Trade Network Analysis.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2864844",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Data visualization[]Visual analytics[]Correlation[]Anomaly detection[]Time series analysis[]Spatiotemporal phenomena"
+    },
+    {
+        "title": "Image-Based Aspect Ratio Selection.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2865266",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "null"
+    },
+    {
+        "title": "CPU Isosurface Ray Tracing of Adaptive Mesh Refinement Data.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2864850",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "null"
+    },
+    {
+        "title": "VR Exploration Assistance through Automatic Occlusion Removal.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2019.2898782",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Visualization[]Resists[]Portals[]Navigation[]Task analysis[]Teleportation[]Virtual environments"
+    },
+    {
+        "title": "Structure-aware Fisheye Views for Efficient Large Graph Exploration.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2864911",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Layout[]Lenses[]Optimization[]Task analysis[]Distortion[]Visualization[]Sun"
+    },
+    {
+        "title": "Isotropic Surface Remeshing without Large and Small Angles.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2837115",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Geometry[]Optimization[]Real-time systems[]Smoothing methods[]Mesh generation[]Measurement[]Complexity theory"
+    },
+    {
+        "title": "Measuring and Modeling the Feature Detection Threshold Functions of Colormaps.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2855742",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "mage color analysis[]Task analysis[]Feature extraction[]Sensitivity[]Sea measurements[]Frequency measurement[]Spatial resolution"
+    },
+    {
+        "title": "Mesh Denoising Guided by Patch Normal Co-Filtering via Kernel Low-Rank Recovery.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2865363",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Noise reduction[]Noise measurement[]Three-dimensional displays[]Surface treatment[]Geometry[]Surface reconstruction[]Kernel"
+    },
+    {
+        "title": "Bas-Relief Modeling from Normal Layers.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2818146",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Three-dimensional displays[]Geometry[]Shape[]Computational modeling[]Solid modeling[]Surface reconstruction[]Smoothing methods"
+    },
+    {
+        "title": "Fast and Scalable Position-Based Layout Synthesis.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2866436",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Layout[]Content management[]Probabilistic logic[]Three-dimensional displays[]Computational modeling"
+    },
+    {
+        "title": "Dynamic Volume Lines: Visual Comparison of 3D Volumes through Space-filling Curves.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2864510",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Three-dimensional displays[]Visualization[]Indexes[]Data visualization[]Histograms[]Two dimensional displays[]Task analysis"
+    },
+    {
+        "title": "SRVis: Towards Better Spatial Integration in Ranking Visualization.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2865126",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Visualization[]Bars[]Decision making[]Data visualization[]Scalability[]Spatial databases[]Reliability"
+    },
+    {
+        "title": "Recirculation Surfaces for Flow Visualization.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2864813",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Three-dimensional displays[]Orbits[]Visualization[]Surface treatment[]Two dimensional displays[]Null space[]Data visualization"
+    },
+    {
+        "title": "Estimation of Rotation Gain Thresholds Considering FOV, Gender, and Distractors.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2019.2932213",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Visualization[]Legged locomotion[]Observers[]Usability[]Virtual environments[]Stimulated emission"
+    },
+    {
+        "title": "Visualization of Cultural Heritage Collection Data: State of the Art and Future Challenges.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2830759",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Cultural differences[]Data visualization[]Libraries[]Visualization[]Art[]Prototypes[]Tools"
+    },
+    {
+        "title": "Face/On: Multi-Modal Haptic Feedback for Head-Mounted Displays in Virtual Reality.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2019.2932215",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Haptic interfaces[]Actuators[]Resists[]Face[]Visualization[]Skin[]Virtual environments"
+    },
+    {
+        "title": "Design Exposition with Literate Visualization.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2864836",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Data visualization[]Visualization[]Programming[]Encoding[]Documentation[]Couplings"
+    },
+    {
+        "title": "ForVizor: Visualizing Spatio-Temporal Team Formations in Soccer.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2865041",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Games[]Data visualization[]Videos[]Visual analytics[]Tools"
+    },
+    {
+        "title": "Real-Time Cloth Rendering with Fiber-Level Detail.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2017.2731949",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Yarn[]Rendering (computer graphics)[]Computational modeling[]Fabrics[]Geometry[]Data models[]Real-time systems"
+    },
+    {
+        "title": "Improved Alpha Testing Using Hashed Sampling.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2017.2739149",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Testing[]Geometry[]Rendering (computer graphics)[]Games[]Correlation[]Wires[]Generators"
+    },
+    {
+        "title": "Guest Editor&apos;s Introduction to the Special Section on I3D.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2877237",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Special issues and sections[]Meetings[]Three-dimensional displays[]Computer graphics"
+    },
+    {
+        "title": "Towards a Switchable AR/VR Near-eye Display with Accommodation-Vergence and Eyeglass Prescription Support.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2019.2932238",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Three-dimensional displays[]Lenses[]Optical switches[]Optical imaging[]Holography[]Holographic optical components[]Optical distortion"
+    },
+    {
+        "title": "A Semantic-Based Method for Visualizing Large Image Collections.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2835485",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Semantics[]Visualization[]Data visualization[]Task analysis[]Image analysis[]Data mining[]Layout"
+    },
+    {
+        "title": "A Visual Analytics Framework for the Detection of Anomalous Call Stack Trees in High Performance Computing Applications.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2865026",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Vegetation[]Anomaly detection[]Labeling[]Runtime[]Forestry[]Visualization[]Kernel"
+    },
+    {
+        "title": "Hexahedral Mesh Structure Visualization and Evaluation.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2864827",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Complexity theory[]Three-dimensional displays[]Visualization[]Periodic structures[]Optimization[]Splines (mathematics)[]Mesh generation"
+    },
+    {
+        "title": "Mo2Cap2: Real-time Mobile 3D Motion Capture with a Cap-mounted Fisheye Camera.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2019.2898650",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Three-dimensional displays[]Cameras[]Pose estimation[]Real-time systems[]Two dimensional displays[]Hardware[]Distortion"
+    },
+    {
+        "title": "Model-Guided 3D Sketching.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2860016",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Three-dimensional displays[]Solid modeling[]Geometry[]User interfaces[]Product design"
+    },
+    {
+        "title": "3D Tooth Segmentation and Labeling Using Deep Convolutional Neural Networks.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2839685",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Teeth[]Dentistry[]Feature extraction[]Labeling[]Three-dimensional displays[]Solid modeling[]Image segmentation"
+    },
+    {
+        "title": "RingText: Dwell-free and hands-free Text Entry for Mobile Head-Mounted Displays using Head Motions.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2019.2898736",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Layout[]Keyboards[]Error analysis[]Training[]Head-mounted displays[]Resists[]Dynamics"
+    },
+    {
+        "title": "Errata to &quot;RingText: Dwell-Free and Hands-Free Text Entry for Mobile Head-Mounted Displays Using Head Motions&quot;.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2019.2913518",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Head-mounted displays[]Mobile computing[]Virtual reality[]Text analysis[]Keyboards"
+    },
+    {
+        "title": "EnsembleLens: Ensemble-based Visual Exploration of Anomaly Detection Algorithms with Multidimensional Data.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2864825",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Anomaly detection[]Correlation[]Data visualization[]Detectors[]Visual analytics[]Feature extraction"
+    },
+    {
+        "title": "Robust and High Fidelity Mesh Denoising.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2828818",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Face[]Robustness[]Noise reduction[]Noise measurement[]Geometry[]Surface treatment[]Smoothing methods"
+    },
+    {
+        "title": "Origin-Destination Flow Maps in Immersive Environments.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2865192",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Three-dimensional displays[]Data visualization[]Two dimensional displays[]Encoding[]Clutter[]Virtual reality[]Aerospace electronics"
+    },
+    {
+        "title": "Volume-Enhanced Compatible Remeshing of 3D Models.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2861396",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "mage analysis[]Computational modeling[]Mesh generation[]Three-dimensional displays[]Shape[]Nonlinear distortion"
+    },
+    {
+        "title": "Correlation Judgment and Visualization Features: A Comparative Study.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2810918",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Correlation[]Visualization[]Data visualization[]Psychology[]Feature extraction[]Data models[]Computational modeling"
+    },
+    {
+        "title": "Personalized Exposure Control Using Adaptive Metering and Reinforcement Learning.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2865555",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Cameras[]Real-time systems[]Learning (artificial intelligence)[]Semantics[]Training data[]Supervised learning[]Lighting"
+    },
+    {
+        "title": "A Semi-Explicit Surface Tracking Mechanism for Multi-Phase Immiscible Liquids.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2864283",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Liquids[]Computational modeling[]Surface treatment[]Level set[]Topology[]Surface reconstruction[]Surface waves"
+    },
+    {
+        "title": "A Sampling Approach to Generating Closely Interacting 3D Pose-Pairs from 2D Annotations.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2832097",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Three-dimensional displays[]Two dimensional displays[]Probability density function[]Integrated circuits[]Databases[]Optical sensors"
+    },
+    {
+        "title": "The 2018 Visualization Technical Achievement Award.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2874731",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Awards"
+    },
+    {
+        "title": "Immersive Telepresence and Remote Collaboration using Mobile and Wearable Devices.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2019.2898737",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Telepresence[]Collaboration[]Task analysis[]Cameras[]Hardware[]Mobile handsets[]Resists"
+    },
+    {
+        "title": "A Perception-driven Hybrid Decomposition for Multi-layer Accommodative Displays.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2019.2898821",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Rendering (computer graphics)[]Three-dimensional displays[]Optimization[]Real-time systems[]Computational efficiency[]Computer architecture[]Visualization"
+    },
+    {
+        "title": "Temporal Upsampling of Depth Maps Using a Hybrid Camera.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2812879",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Cameras[]Color[]Image reconstruction[]Estimation[]Image resolution[]Optimization[]Tracking"
+    },
+    {
+        "title": "BitExTract: Interactive Visualization for Extracting Bitcoin Exchange Intelligence.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TVCG.2018.2864814",
+        "journal_name": "IEEE Transactions on Visualization and Computer Graphics",
+        "journal_shorter_form": "TVCG",
+        "keywords": "Bitcoin[]Data visualization[]Visualization[]Task analysis[]Tools"
+    }
+]

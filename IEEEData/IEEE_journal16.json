@@ -205,7 +205,7 @@
         "url": "https://doi.org/10.1109/TPDS.2021.3122454",
         "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
         "journal_shorter_form": "TPDS",
-        "keywords": "null"
+        "keywords": "Satellites[]Image analysis[]Field programmable gate arrays[]Costs[]Graphics processing units[]Task analysis[]Labeling"
     },
     {
         "title": "Critique of &quot;MemXCT: Memory-Centric X-Ray CT Reconstruction With Massive Parallelization&quot; by SCC Team From ETH Z\u00fcrich.",
@@ -213,7 +213,7 @@
         "url": "https://doi.org/10.1109/TPDS.2021.3127711",
         "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
         "journal_shorter_form": "TPDS",
-        "keywords": "null"
+        "keywords": "Graphics processing units[]Performance evaluation[]Bandwidth[]Reproducibility of results[]Image reconstruction[]Codes[]Computed tomography"
     },
     {
         "title": "A Highly-Available Move Operation for Replicated Trees.",
@@ -397,7 +397,7 @@
         "url": "https://doi.org/10.1109/TPDS.2021.3138848",
         "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
         "journal_shorter_form": "TPDS",
-        "keywords": "null"
+        "keywords": "Blockchains[]Training[]Servers[]Computational modeling[]Upper bound[]Resource management[]Privacy"
     },
     {
         "title": "Topology-Aware Neural Model for Highly Accurate QoS Prediction.",
@@ -405,7 +405,7 @@
         "url": "https://doi.org/10.1109/TPDS.2021.3116865",
         "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
         "journal_shorter_form": "TPDS",
-        "keywords": "null"
+        "keywords": "Quality of service[]Cloud computing[]Predictive models[]Neural networks[]Computational modeling[]Network topology[]Collaboration"
     },
     {
         "title": "Pistis: Issuing Trusted and Authorized Certificates With Distributed Ledger and TEE.",
@@ -501,7 +501,7 @@
         "url": "https://doi.org/10.1109/TPDS.2021.3090757",
         "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
         "journal_shorter_form": "TPDS",
-        "keywords": "null"
+        "keywords": "terative methods[]Lifting equipment[]Convergence[]Stability analysis[]Linear systems[]Kernel[]Error correction"
     },
     {
         "title": "High Performance Evaluation of Helmholtz Potentials Using the Multi-Level Fast Multipole Algorithm.",
@@ -541,7 +541,7 @@
         "url": "https://doi.org/10.1109/TPDS.2021.3127450",
         "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
         "journal_shorter_form": "TPDS",
-        "keywords": "null"
+        "keywords": "Graphics processing units[]Scalability[]Bandwidth[]Performance evaluation[]Computer architecture[]Sparse matrices[]Reproducibility of results"
     },
     {
         "title": "Busy-Time Scheduling on Heterogeneous Machines: Algorithms and Analysis.",
@@ -565,7 +565,7 @@
         "url": "https://doi.org/10.1109/TPDS.2022.3202504",
         "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
         "journal_shorter_form": "TPDS",
-        "keywords": "null"
+        "keywords": "Protocols[]Receivers[]Delays[]Bandwidth[]Topology[]Network topology[]Channel allocation"
     },
     {
         "title": "Deep Reinforcement Learning for Load-Balancing Aware Network Control in IoT Edge Systems.",
@@ -693,7 +693,7 @@
         "url": "https://doi.org/10.1109/TPDS.2021.3105325",
         "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
         "journal_shorter_form": "TPDS",
-        "keywords": "null"
+        "keywords": "Task analysis[]Cloud computing[]Approximation algorithms[]Wireless communication[]Software[]Resource management[]Optimization"
     },
     {
         "title": "DePo: Dynamically Offload Expensive Event Processing to the Edge of Cyber-Physical Systems.",
@@ -797,7 +797,7 @@
         "url": "https://doi.org/10.1109/TPDS.2022.3189270",
         "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
         "journal_shorter_form": "TPDS",
-        "keywords": "null"
+        "keywords": "Scheduling algorithms[]Heuristic algorithms[]Runtime library[]Dynamic scheduling[]Load management[]Standards[]Parallel processing"
     },
     {
         "title": "A Low-Power Transprecision Floating-Point Cluster for Efficient Near-Sensor Data Analytics.",
@@ -973,7 +973,7 @@
         "url": "https://doi.org/10.1109/TPDS.2021.3108956",
         "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
         "journal_shorter_form": "TPDS",
-        "keywords": "null"
+        "keywords": "Materials science and technology[]Computed tomography[]X-ray tomography[]Performance gain[]Hardware[]Reproducibility of results[]Kernel"
     },
     {
         "title": "Optimized Page Fault Handling During RDMA.",
@@ -1253,7 +1253,7 @@
         "url": "https://doi.org/10.1109/TPDS.2021.3087349",
         "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
         "journal_shorter_form": "TPDS",
-        "keywords": "null"
+        "keywords": "Optimization[]Quality of service[]Containers[]Adaptation models[]Genetic algorithms[]Time factors[]Task analysis"
     },
     {
         "title": "OptZConfig: Efficient Parallel Optimization of Lossy Compression Configuration.",
@@ -1365,7 +1365,7 @@
         "url": "https://doi.org/10.1109/TPDS.2021.3092270",
         "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
         "journal_shorter_form": "TPDS",
-        "keywords": "null"
+        "keywords": "Hardware[]Optimization[]Training[]Runtime[]Power system management[]Power demand[]Energy consumption"
     },
     {
         "title": "Dynamic GPU Energy Optimization for Machine Learning Training Workloads.",
@@ -1381,7 +1381,7 @@
         "url": "https://doi.org/10.1109/TPDS.2022.3170305",
         "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
         "journal_shorter_form": "TPDS",
-        "keywords": "null"
+        "keywords": "Cloud computing[]Servers[]Reliability[]Business[]Computer architecture[]Real-time systems[]Processor scheduling"
     },
     {
         "title": "HSA-Net: Hidden-State-Aware Networks for High-Precision QoS Prediction.",
@@ -1453,7 +1453,7 @@
         "url": "https://doi.org/10.1109/TPDS.2022.3185250",
         "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
         "journal_shorter_form": "TPDS",
-        "keywords": "null"
+        "keywords": "Servers[]Costs[]Videos[]Optimization[]Data communication[]Australia[]Cloud computing"
     },
     {
         "title": "NetSync: A Network Adaptive and Deduplication-Inspired Delta Synchronization Approach for Cloud Storage Services.",
@@ -1533,7 +1533,7 @@
         "url": "https://doi.org/10.1109/TPDS.2022.3206480",
         "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
         "journal_shorter_form": "TPDS",
-        "keywords": "null"
+        "keywords": "Convergence[]Training[]Computational modeling[]Collaborative work[]Quantization (signal)[]Servers[]Internet of Things"
     },
     {
         "title": "Online Orchestration of Collaborative Caching for Multi-Bitrate Videos in Edge Computing.",
@@ -1549,7 +1549,7 @@
         "url": "https://doi.org/10.1109/TPDS.2021.3138459",
         "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
         "journal_shorter_form": "TPDS",
-        "keywords": "null"
+        "keywords": "Task analysis[]Servers[]Costs[]Resource management[]Processor scheduling[]Optimization[]Approximation algorithms"
     },
     {
         "title": "EdgeTB: A Hybrid Testbed for Distributed Machine Learning at the Edge With High Fidelity.",

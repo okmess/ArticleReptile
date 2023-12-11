@@ -221,7 +221,7 @@
         "url": "https://doi.org/10.1109/TPDS.2020.3046188",
         "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
         "journal_shorter_form": "TPDS",
-        "keywords": "null"
+        "keywords": "Servers[]Resilience[]Edge computing[]Delays[]Task analysis[]Spatiotemporal phenomena[]Reliability"
     },
     {
         "title": "Hardware Accelerator Integration Tradeoffs for High-Performance Computing: A Case Study of GEMM Acceleration in N-Body Methods.",
@@ -309,7 +309,7 @@
         "url": "https://doi.org/10.1109/TPDS.2021.3050500",
         "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
         "journal_shorter_form": "TPDS",
-        "keywords": "null"
+        "keywords": "Analytical models[]Runtime[]Data models[]Software[]Hardware[]Filtering[]Data visualization"
     },
     {
         "title": "Comment on &quot;Circuit Ciphertext-Policy Attribute-Based Hybrid Encryption With Verifiable Delegation in Cloud Computing&quot;.",
@@ -445,7 +445,7 @@
         "url": "https://doi.org/10.1109/TPDS.2021.3053241",
         "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
         "journal_shorter_form": "TPDS",
-        "keywords": "null"
+        "keywords": "Distributed databases[]Bandwidth[]Scheduling[]Data centers[]Optimization[]Processor scheduling[]Big Data"
     },
     {
         "title": "Failure-Atomic Byte-Addressable R-tree for Persistent Memory.",
@@ -461,7 +461,7 @@
         "url": "https://doi.org/10.1109/TPDS.2020.3037469",
         "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
         "journal_shorter_form": "TPDS",
-        "keywords": "null"
+        "keywords": "Algebra[]Computational modeling[]Simulation[]Parallel processing[]Probabilistic logic[]Random variables[]Synchronization"
     },
     {
         "title": "E2bird: Enhanced Elastic Batch for Improving Responsiveness and Throughput of Deep Learning Services.",
@@ -469,7 +469,7 @@
         "url": "https://doi.org/10.1109/TPDS.2020.3047638",
         "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
         "journal_shorter_form": "TPDS",
-        "keywords": "null"
+        "keywords": "Graphics processing units[]Throughput[]Deep learning[]Birds[]Quality of service[]Kernel[]Engines"
     },
     {
         "title": "Burst Load Evacuation Based on Dispatching and Scheduling In Distributed Edge Networks.",
@@ -501,7 +501,7 @@
         "url": "https://doi.org/10.1109/TPDS.2020.3041829",
         "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
         "journal_shorter_form": "TPDS",
-        "keywords": "null"
+        "keywords": "Task analysis[]Program processors[]Scheduling algorithms[]Prediction algorithms[]Heuristic algorithms[]Heterogeneous networks[]Dynamic scheduling"
     },
     {
         "title": "Spartan: A Sparsity-Adaptive Framework to Accelerate Deep Neural Network Training on GPUs.",
@@ -637,7 +637,7 @@
         "url": "https://doi.org/10.1109/TPDS.2020.3028691",
         "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
         "journal_shorter_form": "TPDS",
-        "keywords": "null"
+        "keywords": "Synchronization[]Hardware[]Complexity theory[]Parallel processing[]Kernel[]Benchmark testing[]Computer architecture"
     },
     {
         "title": "Boosting Parallel Influence-Maximization Kernels for Undirected Networks With Fusing and Vectorization.",
@@ -645,7 +645,7 @@
         "url": "https://doi.org/10.1109/TPDS.2020.3038376",
         "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
         "journal_shorter_form": "TPDS",
-        "keywords": "null"
+        "keywords": "Monte Carlo methods[]Social networking (online)[]Instruction sets[]Memory management[]Approximation algorithms[]Boosting[]Kernel"
     },
     {
         "title": "A Thread Level SLO-Aware I/O Framework for Embedded Virtualization.",
@@ -677,7 +677,7 @@
         "url": "https://doi.org/10.1109/TPDS.2020.3032709",
         "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
         "journal_shorter_form": "TPDS",
-        "keywords": "null"
+        "keywords": "Processor scheduling[]Partitioning algorithms[]Runtime[]Scheduling[]Computational modeling[]Google[]Optimal scheduling"
     },
     {
         "title": "Multi-GPU Parallelization of the NAS Multi-Zone Parallel Benchmarks.",
@@ -957,7 +957,7 @@
         "url": "https://doi.org/10.1109/TPDS.2021.3051059",
         "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
         "journal_shorter_form": "TPDS",
-        "keywords": "null"
+        "keywords": "Task analysis[]Storms[]Scheduling[]Instruction sets[]Schedules[]Computer science[]Technological innovation"
     },
     {
         "title": "SGD$\\_$_Tucker: A Novel Stochastic Optimization Strategy for Parallel Sparse Tucker Decomposition.",

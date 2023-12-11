@@ -1,0 +1,1842 @@
+[
+    {
+        "title": "How to Evaluate Solutions in Pareto-Based Search-Based Software Engineering: A Critical Review and Methodological Guidance.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.3036108",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Software engineering[]Pareto optimization[]Computer science[]Systematics[]Indexes[]Licenses"
+    },
+    {
+        "title": "Studying Duplicate Logging Statements and Their Relationships With Code Clones.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3060918",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Cloning[]Manuals[]Tools[]Static analysis[]Maintenance engineering[]Java[]Cloud computing"
+    },
+    {
+        "title": "Android Custom Permissions Demystified: A Comprehensive Security Evaluation.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3119980",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Smart phones[]Security[]Runtime[]Tools[]Fuzzing[]Philosophical considerations[]Design methodology"
+    },
+    {
+        "title": "Probabilistic Preference Planning Problem for Markov Decision Processes.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.3024215",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Planning[]Robots[]Markov processes[]Probabilistic logic[]Model checking[]Task analysis[]Software"
+    },
+    {
+        "title": "Are You Still Working on This? An Empirical Study on Pull Request Abandonment.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3053403",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Tools[]Collaboration[]Sustainable development[]Open source software[]Manuals[]Maintenance engineering[]Computer bugs"
+    },
+    {
+        "title": "Redundancy, Context, and Preference: An Empirical Study of Duplicate Pull Requests in OSS Projects.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.3018726",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Collaboration[]Computer bugs[]Tools[]Cloning[]Synchronization[]Testing[]Encoding"
+    },
+    {
+        "title": "AGA: An Accelerated Greedy Additional Algorithm for Test Case Prioritization.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3137929",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Genetic algorithms[]Time complexity[]Web and internet services[]Software algorithms[]Codes[]Testing[]Software engineering"
+    },
+    {
+        "title": "Studying the Practices of Logging Exception Stack Traces in Open-Source Software Projects.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3129688",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Codes[]History[]Open source software[]Guidelines[]Runtime[]Ports (computers)[]Memory"
+    },
+    {
+        "title": "Locating Performance Regression Root Causes in the Field Operations of Web-Based Systems: An Experience Report.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3131529",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Testing[]Time factors[]Software systems[]Measurement[]Open source software[]Runtime[]Monitoring"
+    },
+    {
+        "title": "A Multi-Armed Bandit Approach for Test Case Prioritization in Continuous Integration Environments.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.2992428",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Testing[]Fault detection[]Software[]Instruments[]Google[]Industries[]Companies"
+    },
+    {
+        "title": "The Impact of Data Merging on the Interpretation of Cross-Project Just-In-Time Defect Models.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3073920",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Context modeling[]Data models[]Predictive models[]Measurement[]Training[]Merging[]Planning"
+    },
+    {
+        "title": "The Impact of Surface Features on Choice of (in)Secure Answers by Stackoverflow Readers.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.2981317",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Security[]Semantics[]Software[]Documentation[]Knowledge based systems[]Message systems[]Licenses"
+    },
+    {
+        "title": "How Different is Test Case Prioritization for Open and Closed Source Projects?",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3063220",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Testing[]Software[]Open source software[]Software development management[]Measurement[]Software algorithms[]History"
+    },
+    {
+        "title": "Clustering Crowdsourced Test Reports of Mobile Applications Using Image Understanding.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.3017514",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Testing[]Task analysis[]Mobile applications[]Computer bugs[]Software[]Mars[]Mobile handsets"
+    },
+    {
+        "title": "ATOM: Commit Message Generation Based on Abstract Syntax Tree and Hybrid Ranking.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.3038681",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Syntactics[]Semantics[]Atomic measurements[]Hybrid power systems[]Benchmark testing[]Writing[]Java"
+    },
+    {
+        "title": "DPWord2Vec: Better Representation of Design Patterns in Semantics.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.3017336",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Natural languages[]Task analysis[]Semantics[]Windows[]Vocabulary[]Software design"
+    },
+    {
+        "title": "Automatic Test Case and Test Oracle Generation Based on Functional Scenarios in Formal Specifications for Conformance Testing.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.2999884",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Software[]Vibrations[]Input variables[]Conformance testing[]Automatic testing[]Information systems"
+    },
+    {
+        "title": "API-Related Developer Information Needs in Stack Overflow.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3120203",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "ncoding[]Taxonomy[]Documentation[]Codes[]Task analysis[]Java[]Data collection"
+    },
+    {
+        "title": "Deep Learning Based Program Generation From Requirements Text: Are We There Yet?",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.3018481",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Software[]Unified modeling language[]Object oriented modeling[]Syntactics[]Tools[]DSL[]Deep learning"
+    },
+    {
+        "title": "Broken External Links on Stack Overflow.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3086494",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "nternet[]Software engineering[]Software[]Knowledge engineering[]Web search[]Computer bugs[]Tools"
+    },
+    {
+        "title": "LogAssist: Assisting Log Analysis Through Log Summarization.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3083715",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Task analysis[]Runtime[]Tools[]Testing[]Faces[]Anomaly detection[]Software systems"
+    },
+    {
+        "title": "DevOps Team Structures: Characterization and Implications.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3102982",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Software[]Companies[]Interviews[]Taxonomy[]Telecommunications[]Stakeholders[]Collaboration"
+    },
+    {
+        "title": "CloudRaid: Detecting Distributed Concurrency Bugs via Log Mining and Enhancement.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.2999364",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Computer bugs[]Concurrent computing[]Cloud computing[]Task analysis[]Runtime[]Message systems[]Tools"
+    },
+    {
+        "title": "Motivation Under Gamification: An Empirical Study of Developers&apos; Motivations and Contributions in Stack Overflow.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3130088",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Software[]Psychology[]Regulation[]Programming profession[]Biological system modeling[]Engineering profession[]Predictive models"
+    },
+    {
+        "title": "A Methodology for Analyzing Uptake of Software Technologies Among Developers.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.2993758",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Software[]Supply chains[]Technological innovation[]Software measurement[]Data models[]Time factors[]Libraries"
+    },
+    {
+        "title": "Pluto: Exposing Vulnerabilities in Inter-Contract Scenarios.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3117966",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Pluto[]Tools[]Smart contracts[]Semantics[]Computer bugs[]Codes[]Virtual machining"
+    },
+    {
+        "title": "A Faceted Taxonomy of Requirements Changes in Agile Contexts.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3104732",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Software[]Interviews[]Taxonomy[]Computer bugs[]Bibliographies[]Australia[]Software engineering"
+    },
+    {
+        "title": "Any-Horizon Uniform Random Sampling and Enumeration of Constrained Scenarios for Simulation-Based Formal Verification.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3109842",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Monitoring[]Integrated circuit modeling[]Contracts[]Numerical models[]Law[]Mathematical model[]Iterative methods"
+    },
+    {
+        "title": "Testing Self-Adaptive Software With Probabilistic Guarantees on Performance Metrics: Extended and Comparative Results.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3101130",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Testing[]Software[]Probabilistic logic[]Uncertainty[]Tools[]Servers[]Monte Carlo methods"
+    },
+    {
+        "title": "Transfer Learning Across Variants and Versions: The Case of Linux Kernel Size.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3116768",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "nel[]Linux[]Transfer learning[]Predictive models[]Codes[]Training[]Software systems"
+    },
+    {
+        "title": "Why Did Developers Migrate Android Applications From Java to Kotlin?",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3120367",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Java[]Codes[]Open source software[]Tools[]Interviews[]Computer languages[]Internet"
+    },
+    {
+        "title": "Automated Generation of Consistent Graph Models With Multiplicity Reasoning.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.3025732",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Numerical models[]Tools[]Object oriented modeling[]Generators[]Unified modeling language[]Biological system modeling"
+    },
+    {
+        "title": "Real World Scrum A Grounded Theory of Variations in Practice.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.3025317",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Scrum (Software development)[]Lead[]Software[]Project management[]Interviews[]Electric breakdown[]Estimation"
+    },
+    {
+        "title": "What Drives and Sustains Self-Assignment in Agile Teams.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3101732",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Task analysis[]Software[]Interviews[]Lead[]Business[]Resource management[]Companies"
+    },
+    {
+        "title": "In Search of Socio-Technical Congruence: A Large-Scale Longitudinal Study.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3082074",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Open source software[]Computer bugs[]Software quality[]Measurement[]Software architecture[]Data models[]Task analysis"
+    },
+    {
+        "title": "Modeling Functional Similarity in Source Code With Graph-Based Siamese Networks.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3105556",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Cloning[]Semantics[]Syntactics[]Deep learning[]Arrays[]Tools[]Neural networks"
+    },
+    {
+        "title": "XPro: A Model to Explain the Limited Adoption and Implementation of Experimentation in Software Startups.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.3042610",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Software[]Business[]Technological innovation[]Companies[]Inhibitors[]Uncertainty[]Testing"
+    },
+    {
+        "title": "Output Sampling for Output Diversity in Automatic Unit Test Generation.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.2987377",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Computer bugs[]Tools[]Semantics[]Generators[]Software engineering[]Test pattern generators"
+    },
+    {
+        "title": "Hashing Fuzzing: Introducing Input Diversity to Improve Crash Detection.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3100858",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "nstruments[]Hash functions[]Testing[]Software[]System testing[]Fuzzing[]Generators"
+    },
+    {
+        "title": "Formal Equivalence Checking for Mobile Malware Detection and Family Classification.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3067061",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Malware[]Operating systems[]Machine learning[]Training[]Tools[]Smart phones[]Automata"
+    },
+    {
+        "title": "Flexible Combinatorial Interaction Testing.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.3010317",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Testing[]Standards[]Software[]Computational modeling[]Computers[]Electronic mail[]Tools"
+    },
+    {
+        "title": "Detecting Developers&apos; Task Switches and Types.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.2984086",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Task analysis[]Feature extraction[]Semantics[]Microsoft Windows[]Switches[]Machine learning"
+    },
+    {
+        "title": "Exploring the Use of Chatrooms by Developers: An Empirical Study on Slack and Gitter.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3109617",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Software[]Software development management[]Interviews[]Tools[]Productivity[]History[]Organizations"
+    },
+    {
+        "title": "The Relevance of Classic Fuzz Testing: Have We Solved This One?",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.3047766",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Tools[]Testing[]Software[]Operating systems[]Fuzzing[]Software reliability[]Linux"
+    },
+    {
+        "title": "How Templated Requirements Specifications Inhibit Creativity in Software Engineering.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3112503",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Creativity[]Stakeholders[]Task analysis[]Encoding[]Software design[]Protocols[]Software systems"
+    },
+    {
+        "title": "${{\\sf Colosseum}}$Colosseum: Regression Test Prioritization by Delta Displacement in Test Coverage.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3111169",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Codes[]Scattering[]Logic gates[]Task analysis[]Software testing[]Open source software[]Maintenance engineering"
+    },
+    {
+        "title": "Quality of Automated Program Repair on Real-World Defects.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.2998785",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Maintenance engineering[]Java[]Contracts[]Manuals[]Diversity reception[]Inspection[]Software quality"
+    },
+    {
+        "title": "Engineering Impacts of Anonymous Author Code Review: A Field Experiment.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3061527",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "nternet[]Browsers[]Tools[]Software development management[]Software[]Particle measurements[]Licenses"
+    },
+    {
+        "title": "On the Relationship Between the Developer&apos;s Perceptible Race and Ethnicity and the Evaluation of Contributions in OSS.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3073773",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Software development management[]Cultural differences[]Tools[]Software engineering[]Open source software[]Psychology[]Gender issues"
+    },
+    {
+        "title": "How Software Developers Mitigate Their Errors When Developing Code.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.3040554",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Software[]Task analysis[]Encoding[]Psychology[]Interviews[]Software engineering[]Footwear"
+    },
+    {
+        "title": "Generating Unit Tests for Documentation.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3087087",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Documentation[]Testing[]Skeleton[]Java[]Software[]Redundancy[]Libraries"
+    },
+    {
+        "title": "Compiling Quantamorphisms for the IBM Q Experience.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3117515",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Programming[]Algebra[]Quantum computing[]Software[]Testing[]Standards[]Quantum mechanics"
+    },
+    {
+        "title": "A Deep Dive into the Impact of COVID-19 on Software Development.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3088759",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "COVID-19[]Software[]Pandemics[]Productivity[]Data mining[]Software development management[]Computer bugs"
+    },
+    {
+        "title": "An Ensemble Approach for Annotating Source Code Identifiers With Part-of-Speech Tags.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3098242",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Grammar[]Tagging[]Natural languages[]Tools[]Annotations[]Software engineering[]Semantics"
+    },
+    {
+        "title": "Using Symbolic States to Infer Numerical Invariants.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3106964",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "nference algorithms[]Tools[]Security[]Performance analysis[]Engines[]Encoding[]Benchmark testing"
+    },
+    {
+        "title": "A Variability Fault Localization Approach for Software Product Lines.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3113859",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Computer bugs[]Location awareness[]Elevators[]Software product lines[]Codes[]Testing[]Measurement"
+    },
+    {
+        "title": "Recommending API Function Calls and Code Snippets to Support Software Development.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3059907",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Recommender systems[]Libraries[]Tools[]Data mining[]Task analysis[]Software engineering[]Documentation"
+    },
+    {
+        "title": "Revisiting Supervised and Unsupervised Methods for Effort-Aware Cross-Project Defect Prediction.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.3001739",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Manuals[]Predictive models[]Atmospheric measurements[]Particle measurements[]Data models[]Software[]Testing"
+    },
+    {
+        "title": "Enhance Combinatorial Testing With Metamorphic Relations.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3131548",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Testing[]Software[]Manuals[]Fault detection[]Costs[]Combinatorial testing[]Merging"
+    },
+    {
+        "title": "A Theory of Pending Schemas in Combinatorial Testing.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3113920",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Testing[]Color[]Software[]Complexity theory[]Combinatorial testing[]Licenses[]Computer science"
+    },
+    {
+        "title": "How Gender-Biased Tools Shape Newcomer Experiences in OSS Projects.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.2984173",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Tools[]Problem-solving[]Open source software[]Documentation[]Cultural differences[]Productivity"
+    },
+    {
+        "title": "Within-Project Defect Prediction of Infrastructure-as-Code Using Product and Process Metrics.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3051492",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Measurement[]Software[]Predictive models[]Machine learning[]Radon[]Cloud computing[]Task analysis"
+    },
+    {
+        "title": "Comments on &quot;Using $k$k-Core Decomposition on Class Dependency Networks to Improve Bug Prediction Model&apos;s Practical Performance&quot;.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2022.3140599",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Computer bugs[]Logistics[]Predictive models[]Mathematical models[]Testing[]Software systems[]Codes"
+    },
+    {
+        "title": "GUI-Guided Test Script Repair for Mobile Apps.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.3007664",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Meters[]Graphical user interfaces[]Mobile applications[]Maintenance engineering[]Testing[]Tools[]Computer vision"
+    },
+    {
+        "title": "A Family of Experiments to Compare Two Model-Driven Development Tools vs a Traditional Development Method.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3127350",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Tools[]Computational modeling[]Unified modeling language[]Codes[]Usability[]Time measurement[]Model-driven development"
+    },
+    {
+        "title": "Experimental Evaluation of Test-Driven Development With Interns Working on a Real Industrial Project.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.3027522",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Software[]Companies[]Testing[]Writing[]Programming[]Market research"
+    },
+    {
+        "title": "Trident: Controlling Side Effects in Automated Program Repair.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3124323",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Maintenance engineering[]Computer bugs[]Codes[]Databases[]Training data[]Switches[]Semantics"
+    },
+    {
+        "title": "Vuln4Real: A Methodology for Counting Actually Vulnerable Dependencies.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.3025443",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Libraries[]Ecosystems[]Security[]Open source software[]Java[]Tools"
+    },
+    {
+        "title": "TkT: Automatic Inference of Timed and Extended Pushdown Automata.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.2998527",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Automata[]Clocks[]Software systems[]Timing[]Data mining[]Computational modeling"
+    },
+    {
+        "title": "Revisiting Test Impact Analysis in Continuous Testing From the Perspective of Code Dependencies.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.3045914",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Testing[]Software[]Maintenance engineering[]Manuals[]Computer bugs[]Automation[]Tools"
+    },
+    {
+        "title": "Defect Reduction Planning (Using TimeLIME).",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3062968",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Software[]Planning[]Measurement[]Tools[]Software quality[]Software algorithms[]Couplings"
+    },
+    {
+        "title": "Empowering the Human as the Fitness Function in Search-Based Model-Driven Engineering.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3121253",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Software[]Software engineering[]Analytical models[]Task analysis[]Sociology[]Model driven engineering[]Maintenance engineering"
+    },
+    {
+        "title": "DevOps Research-Based Teaching Using Qualitative Research and Inter-Coder Agreement.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3092705",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "ucation[]Industries[]Companies[]Encoding[]Reliability[]Telecommunications[]Software"
+    },
+    {
+        "title": "Utilizing Automatic Query Reformulations as Genetic Operations to Improve Feature Location in Software Models.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.3000520",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Genetics[]Adaptation models[]Task analysis[]Software[]Semantics[]Evolutionary computation[]Analytical models"
+    },
+    {
+        "title": "Practical Mutation Testing at Scale: A view from Google.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3107634",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Testing[]Internet[]Tools[]Scalability[]Python[]Productivity[]Probabilistic logic"
+    },
+    {
+        "title": "Pegasus: Performance Engineering for Software Applications Targeting HPC Systems.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.3001257",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Task analysis[]Software[]Tools[]Runtime[]Tuning[]Power demand[]Libraries"
+    },
+    {
+        "title": "Including Everyone, Everywhere: Understanding Opportunities and Challenges of Geographic Gender-Inclusion in OSS.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3092813",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Gender issues[]Software development management[]Open source software[]Software engineering[]Europe[]Toy manufacturing industry[]Industries"
+    },
+    {
+        "title": "Making the Most of Small Software Engineering Datasets With Modern Machine Learning.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3135465",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Codes[]Task analysis[]Transformers[]Training[]Software[]Machine learning[]Support vector machines"
+    },
+    {
+        "title": "Algorithmic Profiling for Real-World Complexity Problems.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3067652",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Complexity theory[]Computer bugs[]Production[]Tools[]Runtime[]Software[]Instruments"
+    },
+    {
+        "title": "Deep Just-In-Time Defect Localization.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3135875",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Codes[]Location awareness[]Computer bugs[]Task analysis[]Software[]Training[]Context modeling"
+    },
+    {
+        "title": "Theoretical and Empirical Analyses of the Effectiveness of Metamorphic Relation Composition.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.3009698",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Testing[]Fault detection[]Software[]Guidelines[]Systematics[]Australia[]Companies"
+    },
+    {
+        "title": "SQAPlanner: Generating Data-Informed Software Quality Improvement Plans.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3070559",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Planning[]Software[]Predictive models[]Visualization[]Tools[]Artificial intelligence[]Software quality"
+    },
+    {
+        "title": "The Impact of Feature Importance Methods on the Interpretation of Defect Classifiers.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3056941",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Software engineering[]Computational modeling[]Internet[]Software quality[]Predictive models[]Neural networks[]Logistics"
+    },
+    {
+        "title": "Combinatorial Test Generation for Multiple Input Models With Shared Parameters.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3065950",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Testing[]Test pattern generators[]Redundancy[]Tools[]Schedules[]Presses[]Information science"
+    },
+    {
+        "title": "The Effect of Feature Characteristics on the Performance of Feature Location Techniques.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3049735",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Measurement[]Feature extraction[]Software maintenance[]Task analysis[]Software systems[]Gold[]Standards"
+    },
+    {
+        "title": "Enabling Decision and Objective Space Exploration for Interactive Multi-Objective Refactoring.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.3024814",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Tools[]Clustering algorithms[]Measurement[]Search problems[]Manuals[]Software[]Space exploration"
+    },
+    {
+        "title": "Reuse of Similarly Behaving Software Through Polymorphism-Inspired Variability Mechanisms.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.3001512",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Cloning[]Software[]Measurement[]Software product lines[]Java[]Object oriented modeling[]Tools"
+    },
+    {
+        "title": "The Ghost Commit Problem When Identifying Fix-Inducing Changes: An Empirical Study of Apache Projects.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3087419",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Maintenance engineering[]Data mining[]Electronic mail[]Computer bugs[]Information filters[]Tools[]Taxonomy"
+    },
+    {
+        "title": "Comparing Block-Based Programming Models for Two-Armed Robots.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.3027255",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Robot kinematics[]Programming profession[]Visualization[]Task analysis[]Manipulators"
+    },
+    {
+        "title": "Watch Out for Extrinsic Bugs! A Case Study of Their Impact in Just-In-Time Bug Prediction Models on the OpenStack Project.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.3021380",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Computer bugs[]Predictive models[]Software[]Data models[]Control systems[]Analytical models[]Context modeling"
+    },
+    {
+        "title": "A Theory of Value for Value-Based Feature Selection in Software Engineering.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.2989666",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Software[]Feature extraction[]Stakeholders[]Companies[]Decision making[]Software engineering[]Planning"
+    },
+    {
+        "title": "Empirical Effort and Schedule Estimation Models for Agile Processes in the US DoD.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3080666",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Software[]US Department of Defense[]Schedules[]Estimation[]Contracts[]Unified modeling language[]Agile software development"
+    },
+    {
+        "title": "Gender Differences in Personality Traits of Software Engineers.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.3003413",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Software[]Software engineering[]Instruments[]Bayes methods[]Sea measurements[]Data models[]Face"
+    },
+    {
+        "title": "A Mixed-Method Approach to Recommend Corrections and Correct REST Antipatterns.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3117023",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Codes[]Tools[]Social networking (online)[]Simple object access protocol[]Measurement[]Linguistics[]History"
+    },
+    {
+        "title": "Integrating Provenance Capture and UML With UML2PROV: Principles and Experience.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.2977016",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Unified modeling language[]Software[]Proposals[]Runtime[]Data models[]Tools"
+    },
+    {
+        "title": "Detecting Continuous Integration Skip Commits Using Multi-Objective Evolutionary Search.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3129165",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Feature extraction[]Tools[]Search problems[]Software engineering[]Optimization[]Documentation[]Codes"
+    },
+    {
+        "title": "What Leads to a Confirmatory or Disconfirmatory Behavior of Software Testers?",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.3019892",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Software[]Software testing[]Interviews[]Electronic mail[]Companies[]Decision making"
+    },
+    {
+        "title": "Deconstructing the Nature of Collaboration in Organizations Open Source Software Development: The Impact of Developer and Task Characteristics.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3108935",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Organizations[]Task analysis[]Collaboration[]Open source software[]Standards organizations[]Information systems[]Writing"
+    },
+    {
+        "title": "Optimization of Software Release Planning Considering Architectural Dependencies, Cost, and Value.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.3020013",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Planning[]Software[]Computer architecture[]Optimization[]Electronic mail[]Analytical models[]Matrix decomposition"
+    },
+    {
+        "title": "Software Module Clustering: An In-Depth Literature Analysis.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.3042553",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Software[]Search problems[]Data mining[]Software engineering[]Software algorithms[]Clustering algorithms[]Systematics"
+    },
+    {
+        "title": "Learning From Mistakes: Machine Learning Enhanced Human Expert Effort Estimates.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.3040793",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Software[]Predictive models[]Companies[]Software engineering[]Estimation error[]Task analysis[]Software measurement"
+    },
+    {
+        "title": "Leveraging Structure in Software Merge: An Empirical Study.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3123143",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Codes[]Runtime[]Merging[]Software algorithms[]Control systems[]Java[]Costs"
+    },
+    {
+        "title": "Eyes on Code: A Study on Developers&apos; Code Navigation Strategies.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.3032064",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Navigation[]Task analysis[]Computer bugs[]Tools[]Maintenance engineering[]Software[]Switches"
+    },
+    {
+        "title": "Learning Component Size Distributions for Software Cost Estimation: Models Based on Arithmetic and Shifted Geometric Means Rules.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3139216",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Software[]Costs[]Arithmetic[]Entropy[]Additives[]Unified modeling language[]Software engineering"
+    },
+    {
+        "title": "An Experience Report on Producing Verifiable Builds for Large-Scale Commercial Systems.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3092692",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Security[]Software[]Tools[]Process control[]System implementation[]Software engineering[]Safety"
+    },
+    {
+        "title": "The Best Laid Plans or Lack Thereof: Security Decision-Making of Different Stakeholder Groups.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.3023735",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Games[]Stakeholders[]Computer security[]Decision making[]Organizations[]Investment"
+    },
+    {
+        "title": "Mining Similar Methods for Test Adaptation.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3057163",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Libraries[]Testing[]Tools[]Software development management[]Python[]Documentation[]Open source software"
+    },
+    {
+        "title": "Inputs From Hell.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.3013716",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Grammar[]Production[]Probabilistic logic[]Computer bugs[]Software[]Test pattern generators"
+    },
+    {
+        "title": "Astraea: Grammar-Based Fairness Testing.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2022.3141758",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Testing[]Grammar[]Task analysis[]Sentiment analysis[]Test pattern generators[]Software testing[]Software systems"
+    },
+    {
+        "title": "A Survey on the Adoption of Patterns for Engineering Software for the Cloud.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3052177",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Cloud computing[]Software[]Companies[]Monitoring[]Industries[]Containers[]Scalability"
+    },
+    {
+        "title": "Building Maintainable Software Using Abstraction Layering.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3119012",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Codes[]Software[]Programming[]Couplings[]Measurement[]Maintenance engineering[]ISO Standards"
+    },
+    {
+        "title": "Why My App Crashes? Understanding and Benchmarking Framework-Specific Exceptions of Android Apps.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.3013438",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Computer bugs[]Tools[]Androids[]Humanoid robots[]Benchmark testing"
+    },
+    {
+        "title": "Quantitative Verification for Monitoring Event-Streaming Systems.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.2996033",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Task analysis[]Probabilistic logic[]Model checking[]Measurement[]Monitoring[]Pipelines[]Computational modeling"
+    },
+    {
+        "title": "Integrating an Ensemble Surrogate Model&apos;s Estimation into Test Data Generation.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.3019406",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Testing[]Estimation[]Data models[]Optimization[]Computational efficiency[]Training[]Sun"
+    },
+    {
+        "title": "Detecting Compiler Warning Defects Via Diversity-Guided Program Mutation.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3119186",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Program processors[]Codes[]Testing[]Software[]Programming[]Feature extraction[]Tools"
+    },
+    {
+        "title": "A Systematical Study on Application Performance Management Libraries for Apps.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3077654",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Privacy[]Systematics[]Runtime[]Prototypes[]Libraries[]Internet[]Behavioral sciences"
+    },
+    {
+        "title": "XDebloat: Towards Automated Feature-Oriented App Debloating.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3120213",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Codes[]Buildings[]Prototypes[]Transforms[]Programming[]Software[]Surface treatment"
+    },
+    {
+        "title": "Multi-Objective Software Effort Estimation: A Replication Study.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3083360",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "timation[]Software[]Predictive models[]Prediction algorithms[]Evolutionary computation[]Java[]Software measurement"
+    },
+    {
+        "title": "A Fast Clustering Algorithm for Modularization of Large-Scale Software Systems.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.3022212",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Clustering algorithms[]Software algorithms[]Search problems[]Software systems[]Semantics[]Software architecture"
+    },
+    {
+        "title": "A Method to Assess and Argue for Practical Significance in Software Engineering.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.3048991",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Bayes methods[]Data models[]Software engineering[]Statistical analysis[]Analytical models[]Testing[]Decision making"
+    },
+    {
+        "title": "Pots of Gold at the End of the Rainbow: What is Success for Open Source Contributors?",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3108032",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "nterviews[]Engineering profession[]Data models[]Analytical models[]Open source software[]Gold[]Data analysis"
+    },
+    {
+        "title": "RefactoringMiner 2.0.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.3007722",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Tools[]Open source software[]Software systems[]Task analysis[]Libraries[]Syntactics[]Maintenance engineering"
+    },
+    {
+        "title": "Machine Learning for Technical Debt Identification.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3129355",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Tools[]Software[]Java[]Radio frequency[]Codes[]Support vector machines[]Benchmark testing"
+    },
+    {
+        "title": "Better Data Labelling With EMBLEM (and how that Impacts Defect Prediction).",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.2986415",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Labeling[]Computer bugs[]Data models[]Software[]Support vector machines[]Standards[]Task analysis"
+    },
+    {
+        "title": "A Systematic Literature Review of Anti-Discrimination Design Strategies in the Digital Sharing Economy.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3139961",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Task analysis[]Sharing economy[]Protocols[]Systematics[]Business[]Software design[]Planning"
+    },
+    {
+        "title": "BinDiffNN: Learning Distributed Representation of Assembly for Robust Binary Diffing Against Semantic Differences.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3093926",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Semantics[]Heuristic algorithms[]Classification algorithms[]Syntactics[]Registers[]Tools[]Task analysis"
+    },
+    {
+        "title": "Challenges of Resolving Merge Conflicts: A Mining and Survey Study.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3130098",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Codes[]Correlation[]Task analysis[]Time measurement[]Tools[]Computer science[]Analytical models"
+    },
+    {
+        "title": "A Compositional Approach for Complex Event Pattern Modeling and Transformation to Colored Petri Nets with Black Sequencing Transitions.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3065584",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Analytical models[]Tools[]Semantics[]Petri nets[]Sequential analysis[]Syntactics[]Image color analysis"
+    },
+    {
+        "title": "An Empirical Study of C++ Vulnerabilities in Crowd-Sourced Code Examples.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.3023664",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Security[]C++ languages[]Androids[]Humanoid robots[]Tools[]Open source software"
+    },
+    {
+        "title": "Quantifying, Characterizing, and Mitigating Flakily Covered Program Elements.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.3010045",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Testing[]Neutrons[]Software[]Logic gates[]Data mining[]Robustness"
+    },
+    {
+        "title": "Code Comprehension Confounders: A Study of Intelligence and Personality.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3127131",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Codes[]Particle measurements[]Atmospheric measurements[]Software engineering[]Time measurement[]Psychology[]Guidelines"
+    },
+    {
+        "title": "DiffTech: Differencing Similar Technologies From Crowd-Scale Comparison Discussions.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3059885",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Libraries[]Tools[]Natural language processing[]Aggregates[]Task analysis[]Tagging[]Data mining"
+    },
+    {
+        "title": "Detecting Software Security Vulnerabilities Via Requirements Dependency Analysis.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.3030745",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Security[]Software[]Testing[]Manuals[]Static analysis[]Regulation[]Scalability"
+    },
+    {
+        "title": "Automatic Detection, Validation, and Repair of Race Conditions in Interrupt-Driven Embedded Software.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.2989171",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Task analysis[]Maintenance engineering[]Hardware[]Embedded systems[]Concurrent computing[]Testing[]Embedded software"
+    },
+    {
+        "title": "Automatic Generation of Acceptance Test Cases From Use Case Specifications: An NLP-Based Approach.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.2998503",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Unified modeling language[]Natural language processing[]Embedded systems[]Test pattern generators[]Semantics"
+    },
+    {
+        "title": "Will Dependency Conflicts Affect My Program&apos;s Semantics?",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3057767",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Libraries[]Semantics[]Testing[]Open source software[]Runtime[]Java[]Computer science"
+    },
+    {
+        "title": "Context-Aware Personalized Crowdtesting Task Recommendation.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3081171",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Task analysis[]Computer bugs[]Testing[]Context modeling[]Feature extraction[]Crowdsourcing[]Videos"
+    },
+    {
+        "title": "Reinforcement-Learning-Guided Source Code Summarization Using Hierarchical Attention.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.2979701",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Software[]Recurrent neural networks[]Training[]Machine learning[]Decoding[]Syntactics[]Maintenance engineering"
+    },
+    {
+        "title": "Predicting Defective Lines Using a Model-Agnostic Technique.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.3023177",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Predictive models[]Computational modeling[]Software quality[]Software systems[]Pipelines[]Software engineering"
+    },
+    {
+        "title": "Continuously Managing NFRs: Opportunities and Challenges in Practice.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3066330",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Organizations[]Software[]Software engineering[]Testing[]Tools[]Requirements engineering[]Interviews"
+    },
+    {
+        "title": "Data Quality Matters: A Case Study on Data Label Correctness for Security Bug Report Prediction.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3063727",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Computer bugs[]Noise measurement[]Predictive models[]Security[]Chromium[]Tuning[]Data models"
+    },
+    {
+        "title": "Sequential Model Optimization for Software Effort Estimation.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.3047072",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "timation[]Software[]Tools[]Optimization[]Data models[]Task analysis[]Mathematical model"
+    },
+    {
+        "title": "Looking For Novelty in Search-Based Software Product Line Testing.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3057853",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Testing[]Frequency modulation[]Measurement[]Software[]Correlation[]Software product lines[]Fault detection"
+    },
+    {
+        "title": "Detecting the Locations and Predicting the Maintenance Costs of Compound Architectural Debts.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3102221",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Maintenance engineering[]Software[]Compounds[]Computer architecture[]History[]Trajectory[]Aggregates"
+    },
+    {
+        "title": "Characterizing and Mitigating Self-Admitted Technical Debt in Build Systems.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3115772",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Codes[]Software[]Tools[]Encoding[]Analytical models[]XML[]Software development management"
+    },
+    {
+        "title": "DevRec: Multi-Relationship Embedded Software Developer Recommendation.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3117590",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Task analysis[]Codes[]Collaboration[]Software development management[]Software[]Convolution[]Computer bugs"
+    },
+    {
+        "title": "Restore: Retrospective Fault Localization Enhancing Automated Program Repair.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.2987862",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Maintenance engineering[]Tools[]Java[]Computer bugs[]Software[]Standards[]Electronic mail"
+    },
+    {
+        "title": "Post2Vec: Learning Distributed Representations of Stack Overflow Posts.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3093761",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Task analysis[]Feature extraction[]Semantics[]Computer architecture[]Encoding[]Deep learning[]Computational modeling"
+    },
+    {
+        "title": "PackerGrind: An Adaptive Unpacking System for Android Apps.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.2996433",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Androids[]Humanoid robots[]Runtime[]Subspace constraints[]Open area test sites[]Tools[]Monitoring"
+    },
+    {
+        "title": "Just-In-Time Defect Identification and Localization: A Two-Phase Framework.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.2978819",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Software[]Computer bugs[]Task analysis[]History[]Fans[]Computer science"
+    },
+    {
+        "title": "Codee: A Tensor Embedding Scheme for Binary Code Search.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3056139",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Binary codes[]Tensors[]Feature extraction[]Semantics[]Search problems[]Task analysis[]Data models"
+    },
+    {
+        "title": "Improving State-of-the-Art Compression Techniques for Log Management Tools.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3069958",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Tools[]Indexes[]IP networks[]Software systems[]Runtime[]Monitoring[]Message systems"
+    },
+    {
+        "title": "Orderly Generation of Test Data via Sorting Mutant Branches Based on Their Dominance Degrees for Weak Mutation Testing.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.3014960",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Software[]Software testing[]Fault detection[]Control engineering[]Data mining[]Sorting"
+    },
+    {
+        "title": "Automated Classification of Overfitting Patches With Statically Extracted Code Features.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3071750",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Feature extraction[]Maintenance engineering[]Training[]Tools[]Syntactics[]Software[]Predictive models"
+    },
+    {
+        "title": "On the Value of Oversampling for Deep Learning in Software Defect Prediction.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3079841",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Deep learning[]Tuning[]Predictive models[]Standards[]Prediction algorithms[]Training[]Tools"
+    },
+    {
+        "title": "Identifying Self-Admitted Technical Debts With Jitterbug: A Two-Step Approach.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.3031401",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Software[]Machine learning[]Pattern recognition[]Training[]Computer hacking[]Machine learning algorithms[]Estimation"
+    },
+    {
+        "title": "Research on Third-Party Libraries in Android Apps: A Taxonomy and Systematic Literature Review.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3114381",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Libraries[]Systematics[]Internet[]Bibliographies[]Tools[]Taxonomy[]Ecosystems"
+    },
+    {
+        "title": "A Systematic Assessment on Android Third-Party Library Detection Tools.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3115506",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Tools[]Codes[]Libraries[]Feature extraction[]Resilience[]Malware[]Computer science"
+    },
+    {
+        "title": "Machine Learning Testing: Survey, Landscapes and Horizons.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2019.2962027",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Machine learning[]Software testing[]Software engineering[]Training data[]Data models[]Robustness"
+    },
+    {
+        "title": "Chatbot4QR: Interactive Query Refinement for Technical Question Retrieval.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.3016006",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Search engines[]Web search[]Java[]Task analysis[]Engines[]Databases"
+    },
+    {
+        "title": "CBUA: A Probabilistic, Predictive, and Practical Approach for Evaluating Test Suite Effectiveness.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.3010361",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Testing[]Predictive models[]Production[]Data models[]Computational modeling[]Training[]Training data"
+    },
+    {
+        "title": "CAGFuzz: Coverage-Guided Adversarial Generative Fuzzing Testing for Image-Based Deep Learning Systems.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3124006",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Testing[]Fuzzing[]Generators[]Neurons[]Feature extraction[]Perturbation methods[]Semantics"
+    },
+    {
+        "title": "A Study of C/C++ Code Weaknesses on Stack Overflow.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3058985",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Security[]Programming[]Software systems[]History[]Electronic mail[]C++ languages[]Indexes"
+    },
+    {
+        "title": "Analyzing Android Taint Analysis Tools: FlowDroid, Amandroid, and DroidSafe.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3109563",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Tools[]Benchmark testing[]Internet[]Smart phones[]Sensitivity[]Mobile applications[]Codes"
+    },
+    {
+        "title": "Automatic Fairness Testing of Neural Classifiers Through Adversarial Sampling.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3101478",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Data models[]Deep learning[]Systematics[]Recurrent neural networks[]Neurons[]Training data[]Task analysis"
+    },
+    {
+        "title": "Inferring Bug Signatures to Detect Real Bugs.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2020.2996975",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Computer bugs[]Tools[]Benchmark testing[]Software[]Manuals[]History[]Sun"
+    },
+    {
+        "title": "Boosting API Recommendation With Implicit Feedback.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/TSE.2021.3053111",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Task analysis[]Software[]Feature extraction[]Training[]Programming[]History[]Engines"
+    },
+    {
+        "title": "A Machine Learning Approach to Improve the Detection of CI Skip Commits.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2020.2967380",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Machine learning[]Decision trees[]Feature extraction[]Message systems[]Documentation[]Buildings"
+    },
+    {
+        "title": "Which Commits Can Be CI Skipped?",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2019.2897300",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Java[]Software[]Prototypes[]Tools[]Virtual machining[]Data collection[]Manuals"
+    },
+    {
+        "title": "SOSRepair: Expressive Semantic Search for Real-World Program Repair.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2019.2944914",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Maintenance engineering[]Semantic search[]Encoding[]Benchmark testing[]Computer bugs[]Software"
+    },
+    {
+        "title": "Automated Documentation of Android Apps.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2018.2890652",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "nowledge based systems[]Documentation[]Java[]Cloning[]Asia[]Task analysis[]Data mining"
+    },
+    {
+        "title": "How to &quot;DODGE&quot; Complex Software Analytics.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2019.2945020",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Tuning[]Text mining[]Software[]Task analysis[]Optimization[]Software engineering[]Tools"
+    },
+    {
+        "title": "App Store Effects on Software Engineering Practices.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2019.2891715",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Software engineering[]Software[]Interviews[]Data mining[]Testing[]Data collection[]Business"
+    },
+    {
+        "title": "A Study of Call Graph Construction for JVM-Hosted Languages.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2019.2956925",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Java[]Static analysis[]Python[]Computer security[]Software engineering[]Graphs"
+    },
+    {
+        "title": "Dealing with Non-Functional Requirements in Model-Driven Development: A Survey.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2019.2904476",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Unified modeling language[]Software[]Companies[]Productivity[]Software engineering[]Security[]Analytical models"
+    },
+    {
+        "title": "Software Deployment on Heterogeneous Platforms: A Systematic Mapping Study.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2019.2932665",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Task analysis[]Program processors[]Systematics[]Heterogeneous networks[]Central Processing Unit[]Field programmable gate arrays"
+    },
+    {
+        "title": "Reusing Solutions Modulo Theories.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2019.2898199",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Scalability[]Software engineering[]Prototypes[]Terminology[]Model checking[]Indexes"
+    },
+    {
+        "title": "A Large Scale Study of Long-Time Contributor Prediction for GitHub Projects.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2019.2918536",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Predictive models[]Feature extraction[]Computer languages[]Task analysis[]Computer bugs[]Mirrors"
+    },
+    {
+        "title": "Debugging of Behavioural Models using Counterexample Analysis.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2019.2915303",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Computer bugs[]Debugging[]Safety[]Model checking[]Task analysis[]Tools[]Analytical models"
+    },
+    {
+        "title": "Fine-Grained Dynamic Resource Allocation for Big-Data Applications.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2019.2931537",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Sparks[]Resource management[]Dynamic scheduling[]Containers[]Task analysis[]Runtime[]Control theory"
+    },
+    {
+        "title": "Adaptive Test Case Allocation, Selection and Generation Using Coverage Spectrum and Operational Profile.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2019.2906187",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Software reliability[]Resource management[]Software testing[]Subspace constraints[]Test pattern generators"
+    },
+    {
+        "title": "On Company Contributions to Community Open Source Software Projects.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2019.2919305",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Companies[]Software[]Technological innovation[]Collaboration[]Interviews[]Licenses"
+    },
+    {
+        "title": "A Longitudinal Study of Application Structure and Behaviors in Android.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2020.2975176",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Androids[]Humanoid robots[]Computer security[]Runtime[]Measurement[]Codes"
+    },
+    {
+        "title": "Efficient Parametric Model Checking Using Domain Knowledge.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2019.2912958",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Markov processes[]Quality of service[]Analytical models[]Unified modeling language[]Software[]Probabilistic logic[]Parametric statistics"
+    },
+    {
+        "title": "SEthesaurus: WordNet in Software Engineering.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2019.2940439",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Thesauri[]Software engineering[]Encyclopedias[]Electronic publishing[]Internet[]Natural language processing"
+    },
+    {
+        "title": "An Empirical Study on Heterogeneous Defect Prediction Approaches.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2020.2968520",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Measurement[]NASA[]Predictive models[]Data models[]Software quality"
+    },
+    {
+        "title": "SequenceR: Sequence-to-Sequence Learning for End-to-End Program Repair.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2019.2940179",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Maintenance engineering[]Computer bugs[]Vocabulary[]Training[]Natural languages[]Benchmark testing"
+    },
+    {
+        "title": "Contract-Based Program Repair Without The Contracts: An Extended Study.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2020.2970009",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Maintenance engineering[]Computer bugs[]Tools[]Java[]Monitoring[]Contracts[]Programming"
+    },
+    {
+        "title": "Coverage Prediction for Accelerating Compiler Testing.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2018.2889771",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Testing[]Program processors[]Computer bugs[]Life estimation[]Acceleration[]Optimization[]Electromagnetic interference"
+    },
+    {
+        "title": "Mining Likely Analogical APIs Across Third-Party Libraries via Large-Scale Unsupervised API Semantics Embedding.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2019.2896123",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Libraries[]Semantics[]Databases[]Task analysis[]Recurrent neural networks[]Deep learning[]Java"
+    },
+    {
+        "title": "An Empirical Study of Dependency Downgrades in the npm Ecosystem.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2019.2952130",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "cosystems[]Software[]Computer bugs[]Tools[]Security[]Task analysis"
+    },
+    {
+        "title": "What&apos;s Wrong with My Benchmark Results? Studying Bad Practices in JMH Benchmarks.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2019.2925345",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Benchmark testing[]Java[]Optimization[]Tools[]Writing[]Static analysis"
+    },
+    {
+        "title": "Recommending Participants for Collaborative Merge Sessions.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2019.2917191",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Collaboration[]History[]Optimization[]Data mining[]Merging[]Task analysis[]Software"
+    },
+    {
+        "title": "On the Energy Footprint of Mobile Testing Frameworks.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2019.2946163",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Automation[]Energy consumption[]Testing[]Tools[]Energy measurement[]Monitoring[]Robots"
+    },
+    {
+        "title": "Automatic Feature Learning for Predicting Vulnerable Software Components.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2018.2881961",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Semantics[]Software systems[]Predictive models[]Security[]Feature extraction[]System recovery"
+    },
+    {
+        "title": "ModGuard : Identifying Integrity &amp; Confidentiality Violations in Java Modules.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2019.2931331",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Java[]Security[]Cognition[]Static analysis[]Encapsulation[]Manuals[]Benchmark testing"
+    },
+    {
+        "title": "What Do Package Dependencies Tell Us About Semantic Versioning?",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2019.2918315",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "cosystems[]Software[]Semantics[]Packaging[]Libraries[]Java[]Computer bugs"
+    },
+    {
+        "title": "Topology-Specific Synthesis of Self-Stabilizing Parameterized Systems with Constant-Space Processes.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2019.2901485",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Topology[]Protocols[]Convergence[]Software algorithms[]Portable computers[]Automata[]Transforms"
+    },
+    {
+        "title": "Symbolic Refinement of Extended State Machines with Applications to the Automatic Derivation of Sub-Components and Controllers.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2018.2878728",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "System recovery[]Control systems[]Calculators[]Facsimile[]Electronic mail[]Unified modeling language[]Computer architecture"
+    },
+    {
+        "title": "$\\mathcal K$K-Branching UIO Sequences for Partially Specified Observable Non-Deterministic FSMs.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2019.2911076",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Testing[]Object oriented modeling[]Software algorithms[]Software[]Integrated circuit modeling[]Scalability[]Parallel algorithms"
+    },
+    {
+        "title": "The Impact of Mislabeled Changes by SZZ on Just-in-Time Defect Prediction.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2019.2929761",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Predictive models[]Data models[]Computer bugs[]Measurement[]Inspection[]Analytical models[]Testing"
+    },
+    {
+        "title": "Evolving JavaScript Code to Reduce Load Time.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2019.2928293",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Software[]Syntactics[]Genetic programming[]Software algorithms[]Heuristic algorithms[]Libraries[]Runtime"
+    },
+    {
+        "title": "ProXray: Protocol Model Learning and Guided Firmware Analysis.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2019.2939526",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Protocols[]Universal Serial Bus[]Bluetooth[]Hidden Markov models[]Analytical models[]Microprogramming[]Feature extraction"
+    },
+    {
+        "title": "Bayesian Data Analysis in Empirical Software Engineering Research.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2019.2935974",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Bayes methods[]Software engineering[]Testing[]Data analysis[]Machine learning[]Statistical analysis[]Software"
+    },
+    {
+        "title": "Semantic Learning and Emulation Based Cross-Platform Binary Vulnerability Seeker.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2019.2956932",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Drilling machines[]Process control[]Automation[]Rocks[]Tools"
+    },
+    {
+        "title": "Checking Smart Contracts With Structural Code Embedding.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2020.2971482",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Computer bugs[]Smart contracts[]Cloning[]Blockchains[]Security"
+    },
+    {
+        "title": "The Assessor&apos;s Dilemma: Improving Bug Repair via Empirical Game Theory.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2019.2944608",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Task analysis[]Computer bugs[]Logic gates[]Games[]Nash equilibrium[]Software"
+    },
+    {
+        "title": "Studying the Impact of Noises in Build Breakage Data.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2019.2941880",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Noise measurement[]Data models[]Software[]Environmental factors[]Servers[]Indexes"
+    },
+    {
+        "title": "Inductive Validity Cores.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2019.2891709",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Computational modeling[]Analytical models[]Tools[]Safety[]Mathematical model[]Approximation algorithms[]Model checking"
+    },
+    {
+        "title": "Testing with Fewer Resources: An Adaptive Approach to Performance-Aware Test Case Generation.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2019.2946773",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Testing[]Runtime[]Genetic algorithms[]Memory management[]Fault detection[]Sociology[]Statistics"
+    },
+    {
+        "title": "Lightweight Assessment of Test-Case Effectiveness Using Source-Code-Quality Indicators.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2019.2903057",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Testing[]Production[]Estimation[]Measurement[]Predictive models[]Machine learning[]Computational modeling"
+    },
+    {
+        "title": "A Cost-Efficient Auto-Scaling Algorithm for Large-Scale Graph Processing in Cloud Environments with Heterogeneous Resources.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2019.2934849",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Cloud computing[]Scalability[]Computational modeling[]Internet of Things[]Heuristic algorithms[]Software algorithms[]Clustering algorithms"
+    },
+    {
+        "title": "A Layered Reference Architecture for Metamodels to Tailor Quality Modeling and Analysis.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2019.2903797",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Computer architecture[]Object oriented modeling[]Analytical models[]Biological system modeling[]Tools[]Software[]Systematics"
+    },
+    {
+        "title": "On the Costs and Profit of Software Defect Prediction.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2019.2957794",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Predictive models[]Software[]Quality assurance[]Measurement[]Mathematical model[]Machine learning[]Computational modeling"
+    },
+    {
+        "title": "PatchNet: Hierarchical Deep Learning-Based Stable Patch Identification for the Linux Kernel.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2019.2952614",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "nel[]Linux[]Computer bugs[]Feature extraction[]Deep learning[]Indexes[]Manuals"
+    },
+    {
+        "title": "A Semantics-Based Hybrid Approach on Binary Code Similarity Comparison.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2019.2918326",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Binary codes[]Semantics[]Computer architecture[]Runtime[]Computer science[]Feature extraction[]Internet of Things"
+    },
+    {
+        "title": "A Survey on Adaptive Random Testing.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2019.2942921",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Subspace constraints[]Testing[]Libraries[]Software[]Power capacitors[]Strips[]Art"
+    },
+    {
+        "title": "Deep Transfer Bug Localization.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2019.2920771",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Computer bugs[]Feature extraction[]Task analysis[]Encoding[]Computer languages[]Semantics[]Data models"
+    },
+    {
+        "title": "Effects of Personality Traits on Pull Request Acceptance.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2019.2960357",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Psychology[]Social factors[]Software engineering[]Task analysis[]Dictionaries[]Robots[]Software"
+    },
+    {
+        "title": "An Empirical Validation of Oracle Improvement.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2019.2934409",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Tools[]Standards[]Generators[]Indexes[]Software testing[]Software"
+    },
+    {
+        "title": "Studying Task Processes for Improving Programmer Productivity.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2019.2904230",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Task analysis[]Productivity[]Software[]Companies[]Markov processes"
+    },
+    {
+        "title": "An Integration Test Order Strategy to Consider Control Coupling.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2019.2921965",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Couplings[]Complexity theory[]Measurement[]Marine vehicles[]Mathematical model[]Software testing"
+    },
+    {
+        "title": "The Impact of Correlated Metrics on the Interpretation of Defect Models.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2019.2891758",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Measurement[]Analytical models[]Analysis of variance[]Complexity theory[]Software quality[]Computer bugs[]Correlation"
+    },
+    {
+        "title": "Service Candidate Identification from Monolithic Systems Based on Execution Traces.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2019.2910531",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Software[]Atomic measurements[]Frequency measurement[]Testing[]Computer architecture[]History"
+    },
+    {
+        "title": "The Effect of Work Environments on Productivity and Satisfaction of Software Engineers.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2019.2903053",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Software[]Productivity[]Organizations[]Software engineering[]Interviews[]Collaboration[]Knowledge engineering"
+    },
+    {
+        "title": "Relations Between Effort Estimates, Skill Indicators, and Measured Programming Skill.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2020.2973638",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Software engineering[]Psychology[]Programming profession[]Estimation[]Java"
+    },
+    {
+        "title": "Modeling and Recommending Open Source Licenses with findOSSLicense.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2019.2909021",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Licenses[]Task analysis[]Encoding[]Analytical models[]Open source software[]Law"
+    },
+    {
+        "title": "A Controlled Experiment with Novice Developers on the Impact of Task Description Granularity on Software Quality in Test-Driven Development.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2019.2920377",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Task analysis[]Software quality[]Productivity[]Process control[]Atmospheric measurements[]Particle measurements"
+    },
+    {
+        "title": "A Progression Model of Software Engineering Goals, Challenges, and Practices in Start-Ups.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2019.2900213",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Software[]Software engineering[]Companies[]Market opportunities[]Requirements engineering[]Analytical models"
+    },
+    {
+        "title": "Metric-Based Fault Prediction for Spreadsheets.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSE.2019.2944604",
+        "journal_name": "IEEE Transactions on Software Engineering",
+        "journal_shorter_form": "TSE",
+        "keywords": "Measurement[]Software[]Prediction algorithms[]Predictive models[]Tools[]Radio frequency[]Task analysis"
+    }
+]

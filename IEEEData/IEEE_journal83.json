@@ -1,0 +1,1842 @@
+[
+    {
+        "title": "Uncertainty Quantification Enforced Flash Radiography Reconstruction by Two-Level Efficient MCMC.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3101929",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "mage reconstruction[]Radiography[]X-ray imaging[]Uncertainty[]Imaging[]Noise measurement[]Bayes methods"
+    },
+    {
+        "title": "TEST: Triplet Ensemble Student-Teacher Model for Unsupervised Person Re-Identification.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3112039",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Adaptation models[]Learning systems[]Couplings[]Training[]Knowledge engineering[]Feature extraction[]Predictive models"
+    },
+    {
+        "title": "Global Aggregation Then Local Distribution for Scene Parsing.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3099366",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "mage segmentation[]Adaptation models[]Visualization[]Convolution[]Semantics[]Predictive models[]Convolutional neural networks"
+    },
+    {
+        "title": "PoT-GAN: Pose Transform GAN for Person Image Synthesis.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3104183",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Transforms[]Image synthesis[]Generative adversarial networks[]Generators[]Training data[]Feature extraction[]Computer architecture"
+    },
+    {
+        "title": "CameraNet: A Two-Stage Framework for Effective Camera ISP Learning.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3051486",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "mage color analysis[]Task analysis[]Pipelines[]Noise reduction[]Image restoration[]Cameras[]Colored noise"
+    },
+    {
+        "title": "Uncertainty Learning for Noise Resistant Sketch-Based 3D Shape Retrieval.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3118979",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Three-dimensional displays[]Shape[]Noise measurement[]Uncertainty[]Task analysis[]Convolutional neural networks[]Resistance"
+    },
+    {
+        "title": "Homogeneous-to-Heterogeneous: Unsupervised Learning for RGB-Infrared Person Re-Identification.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3092578",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Cameras[]Measurement[]Annotations[]Unsupervised learning[]Training[]Reliability[]Estimation"
+    },
+    {
+        "title": "A Deep Ordinal Distortion Estimation Approach for Distortion Rectification.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3061283",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Distortion[]Cameras[]Estimation[]Semantics[]Neural networks[]Calibration[]History"
+    },
+    {
+        "title": "Joint Feature Disentanglement and Hallucination for Few-Shot Image Classification.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3124322",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Task analysis[]Feature extraction[]Visualization[]Training data[]Data models[]Data mining[]Classification"
+    },
+    {
+        "title": "Multi-Domain Adversarial Feature Generalization for Person Re-Identification.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2020.3046864",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Adaptation models[]Cameras[]Training[]Feature extraction[]Data models[]Task analysis[]Scalability"
+    },
+    {
+        "title": "Structure-Coherent Deep Feature Learning for Robust Face Alignment.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3082319",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Faces[]Face recognition[]Heating systems[]Convolution[]Computational modeling[]Deep learning[]Training"
+    },
+    {
+        "title": "Quality Assessment of Free-Viewpoint Videos by Quantifying the Elastic Changes of Multi-Scale Motion Trajectories.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2020.3037504",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Distortion[]Measurement[]Trajectory[]Videos[]Quality assessment[]Strain[]Shape"
+    },
+    {
+        "title": "Multi-Objective Optimization of Quality in VVC Rate Control for Low-Delay Video Coding.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3072225",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Distortion[]Video coding[]Bit rate[]Video recording[]Quality assessment[]Streaming media[]Optimization"
+    },
+    {
+        "title": "L3DOC: Lifelong 3D Object Classification.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3106799",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Three-dimensional displays[]Task analysis[]Solid modeling[]Data models[]Knowledge engineering[]Shape[]Robots"
+    },
+    {
+        "title": "An Iterative Co-Training Transductive Framework for Zero Shot Learning.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3100552",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Visualization[]Semantics[]Training[]Feature extraction[]Testing[]Detectors[]Predictive models"
+    },
+    {
+        "title": "Fine-Grained 3D Shape Classification With Hierarchical Part-View Attention.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2020.3048623",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Three-dimensional displays[]Shape[]Semantics[]Feature extraction[]Proposals[]Automobiles[]Airplanes"
+    },
+    {
+        "title": "Harmonic Feature Activation for Few-Shot Semantic Segmentation.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3058512",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Semantics[]Image segmentation[]Feature extraction[]Tensors[]Harmonic analysis[]Fuses[]Computational modeling"
+    },
+    {
+        "title": "A Bilevel Integrated Model With Data-Driven Layer Ensemble for Multi-Modality Image Fusion.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2020.3043125",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "mage fusion[]Task analysis[]Transforms[]Optimization[]Magnetic resonance imaging[]Dictionaries[]Medical diagnostic imaging"
+    },
+    {
+        "title": "Coupled Network for Robust Pedestrian Detection With Gated Multi-Layer Feature Extraction and Deformable Occlusion Handling.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2020.3038371",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Feature extraction[]Logic gates[]Proposals[]Detectors[]Task analysis[]Neural networks[]Forestry"
+    },
+    {
+        "title": "Rethinking the U-Shape Structure for Salient Object Detection.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3122093",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Feature extraction[]Object detection[]Interpolation[]Calibration[]Data mining[]Semantics[]Deep learning"
+    },
+    {
+        "title": "Learning Steering Kernels for Guided Depth Completion.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3055629",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "nel[]Task analysis[]Shape[]Interpolation[]Estimation[]Neural networks[]Standards"
+    },
+    {
+        "title": "OIFlow: Occlusion-Inpainting Optical Flow Estimation by Unsupervised Learning.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3093781",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Optical imaging[]Feature extraction[]Optical variables control[]Estimation[]Optical fiber networks[]Adaptive optics[]Optical losses"
+    },
+    {
+        "title": "Training Robust Deep Neural Networks via Adversarial Noise Propagation.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3082317",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Training[]Adaptation models[]Visualization[]Computational modeling[]Neural networks[]Manuals[]Robustness"
+    },
+    {
+        "title": "One-Class Fingerprint Presentation Attack Detection Using Auto-Encoder Network.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3052341",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Training[]Silicon compounds[]Feature extraction[]Detectors[]Data models[]Sensors[]Supervised learning"
+    },
+    {
+        "title": "Plant Disease Recognition: A Large-Scale Benchmark Dataset and a Visual Region and Loss Reweighting Approach.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3049334",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Diseases[]Agriculture[]Plants (biology)[]Visualization[]Image recognition[]Feature extraction[]Medical diagnosis"
+    },
+    {
+        "title": "Investigating Customization Strategies and Convergence Behaviors of Task-Specific ADMM.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3113796",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Task analysis[]Convergence[]Convex functions[]Optimization[]Plugs[]Noise reduction[]Linear programming"
+    },
+    {
+        "title": "A Game Theory Based CTU-Level Bit Allocation Scheme for HEVC Region of Interest Coding.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2020.3038515",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Bit rate[]Games[]Game theory[]Encoding[]Optimization[]Faces[]Visualization"
+    },
+    {
+        "title": "Features Guided Face Super-Resolution via Hybrid Model of Deep Learning and Random Forests.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3069554",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Random forests[]Superresolution[]Face recognition[]Image reconstruction[]Image segmentation[]Facial features"
+    },
+    {
+        "title": "Exploit Camera Raw Data for Video Super- Resolution via Hidden Markov Model Inference.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3049974",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Cameras[]Image color analysis[]Superresolution[]Motion estimation[]Image reconstruction[]Hidden Markov models[]Correlation"
+    },
+    {
+        "title": "Adaptive Linear Span Network for Object Skeleton Detection.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3078079",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Feature extraction[]Skeleton[]Search problems[]Computer architecture[]Semantics[]Network architecture[]Transforms"
+    },
+    {
+        "title": "Weakly-Supervised Salient Object Detection With Saliency Bounding Boxes.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3071691",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Object detection[]Annotations[]Detectors[]Training[]Proposals[]Computer science[]Task analysis"
+    },
+    {
+        "title": "Semantics-Aware Adaptive Knowledge Distillation for Sensor-to-Vision Action Recognition.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3086590",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Videos[]Knowledge engineering[]Wearable sensors[]Adaptation models[]Sensors[]Semantics[]Image synthesis"
+    },
+    {
+        "title": "Reduced Reference Perceptual Quality Model With Application to Rate Control for Video-Based Point Cloud Compression.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3096060",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Three-dimensional displays[]Feature extraction[]Distortion[]Measurement[]Geometry[]Image color analysis[]Bit rate"
+    },
+    {
+        "title": "Shadow Removal by a Lightness-Guided Network With Training on Unpaired Data.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2020.3048677",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Training[]Image color analysis[]Generators[]Computer architecture[]Lighting[]Feature extraction[]Task analysis"
+    },
+    {
+        "title": "SAMNet: Stereoscopically Attentive Multi-Scale Network for Lightweight Salient Object Detection.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3065239",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Stereo image processing[]Object detection[]Task analysis[]Fuses[]Deep learning[]Visualization[]Semantics"
+    },
+    {
+        "title": "Image Defogging Quality Assessment: Real-World Database and Method.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2020.3033402",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Atmospheric modeling[]Degradation[]Visualization[]Image color analysis[]Image quality[]Measurement[]Learning systems"
+    },
+    {
+        "title": "An End-to-End Foreground-Aware Network for Person Re-Identification.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3050839",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Feature extraction[]Cameras[]Data models[]Body regions[]Training[]Visualization[]Spatiotemporal phenomena"
+    },
+    {
+        "title": "Vocabulary-Wide Credit Assignment for Training Image Captioning Models.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3051476",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Training[]Measurement[]Task analysis[]Vocabulary[]Feature extraction[]Maximum likelihood estimation[]Adaptation models"
+    },
+    {
+        "title": "Spatial-Aware Texture Transformer for High-Fidelity Garment Transfer.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3107235",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Clothing[]Three-dimensional displays[]Shape[]Training[]Image reconstruction[]Computational modeling[]Information science"
+    },
+    {
+        "title": "SCG: Saliency and Contour Guided Salient Instance Segmentation.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3088282",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Task analysis[]Saliency detection[]Image segmentation[]Head[]Proposals[]Feature extraction[]Computational modeling"
+    },
+    {
+        "title": "Panoptic Feature Fusion Net: A Novel Instance Segmentation Paradigm for Biomedical and Biological Images.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3050668",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Semantics[]Image segmentation[]Task analysis[]Biology[]Biomedical imaging[]Computer architecture[]Histopathology"
+    },
+    {
+        "title": "Joint Multi-Dimension Pruning via Numerical Gradient Update.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3112041",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "timation[]Numerical models[]Optimization[]Training[]Task analysis[]Spatial resolution[]Adaptation models"
+    },
+    {
+        "title": "Block Proposal Neural Architecture Search.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2020.3028288",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Proposals[]Computer architecture[]Task analysis[]DNA[]Convolution[]Network architecture[]Evolutionary computation"
+    },
+    {
+        "title": "An Accurate and Lightweight Method for Human Body Image Super-Resolution.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3055737",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "mage reconstruction[]Feature extraction[]Faces[]Visualization[]Superresolution[]Biological system modeling[]Training"
+    },
+    {
+        "title": "Bayesian Low Rank Tensor Ring for Image Recovery.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3062195",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Tensors[]Bayes methods[]Minimization[]Matrix decomposition[]Structural rings[]Correlation[]Optimization"
+    },
+    {
+        "title": "Fast and Robust Cascade Model for Multiple Degradation Single Image Super-Resolution.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3074821",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Degradation[]Kernel[]Computational modeling[]Feature extraction[]Task analysis[]Superresolution[]Adaptation models"
+    },
+    {
+        "title": "Real-Time 3D Facial Tracking via Cascaded Compositional Learning.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3065819",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Training[]Three-dimensional displays[]Faces[]Videos[]Biological system modeling[]Real-time systems[]Geometry"
+    },
+    {
+        "title": "Adversarial Multi-Label Variational Hashing.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2020.3036735",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Binary codes[]Training[]Semantics[]Generators[]Image retrieval[]Hash functions[]Visualization"
+    },
+    {
+        "title": "Low-Rank Constrained Super-Resolution for Mixed-Resolution Multiview Video.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2020.3042064",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Measurement[]Visualization[]Correlation[]Optimization methods[]Cameras[]Minimization[]Image reconstruction"
+    },
+    {
+        "title": "RGBT Tracking via Multi-Adapter Network with Hierarchical Divergence Loss.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3087341",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Feature extraction[]Target tracking[]Data mining[]Mobile computing[]Adaptation models[]Ad hoc networks[]Kernel"
+    },
+    {
+        "title": "Simultaneous Direct Depth Estimation and Synthesis Stereo for Single Image Plant Root Reconstruction.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3069578",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Three-dimensional displays[]Image reconstruction[]Estimation[]Solid modeling[]Shape[]Cameras[]Periodic structures"
+    },
+    {
+        "title": "Graph-Embedded Lane Detection.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3057287",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Feature extraction[]Lane detection[]Topology[]Fitting[]Roads[]Geometry[]Semantics"
+    },
+    {
+        "title": "Cascaded Convolutional Neural Network-Based Hyperspectral Image Resolution Enhancement via an Auxiliary Panchromatic Image.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3098246",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Spatial resolution[]Image resolution[]Image fusion[]Sensors[]Hyperspectral imaging[]Earth[]Mixture models"
+    },
+    {
+        "title": "VMAF Oriented Perceptual Coding Based on Piecewise Metric Coupling.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3078622",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Measurement[]Image coding[]Encoding[]Videos[]Distortion[]Rate-distortion[]Optimization"
+    },
+    {
+        "title": "Designing Interpretable Recurrent Neural Networks for Video Reconstruction via Deep Unfolding.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3069296",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "mage reconstruction[]Minimization[]Recurrent neural networks[]Image coding[]Signal reconstruction[]Task analysis[]Computational modeling"
+    },
+    {
+        "title": "Pseudo-Supervised Deep Subspace Clustering.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3079800",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Training[]Image reconstruction[]Clustering methods[]Decoding[]Manifolds[]Task analysis[]Robustness"
+    },
+    {
+        "title": "Approximate Intrinsic Voxel Structure for Point Cloud Simplification.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3104174",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Three-dimensional displays[]Image coding[]Task analysis[]Surface treatment[]Pipelines[]Noise reduction[]Feature extraction"
+    },
+    {
+        "title": "Localizing Anomalies From Weakly-Labeled Videos.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3072863",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Videos[]Anomaly detection[]Location awareness[]Semantics[]Detectors[]Training[]Benchmark testing"
+    },
+    {
+        "title": "Rethinking Image Salient Object Detection: Object-Level Semantic Saliency Reranking First, Pixelwise Saliency Refinement Later.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3068649",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Semantics[]Visualization[]Object detection[]Computational modeling[]Image color analysis[]Training[]Feature extraction"
+    },
+    {
+        "title": "Blind Image Quality Assessment With Active Inference.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3064195",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "mage quality[]Generative adversarial networks[]Feature extraction[]Gallium nitride[]Distortion[]Semantics[]Databases"
+    },
+    {
+        "title": "Convex and Compact Superpixels by Edge- Constrained Centroidal Power Diagram.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2020.3045640",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "mage segmentation[]Shape[]Image edge detection[]Clustering algorithms[]Image color analysis[]Image coding[]Erbium"
+    },
+    {
+        "title": "ST-GREED: Space-Time Generalized Entropic Differences for Frame Rate Dependent Video Quality Prediction.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3106801",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Video recording[]Quality assessment[]Streaming media[]Databases[]Band-pass filters[]Predictive models[]Distortion"
+    },
+    {
+        "title": "3DCD: Scene Independent End-to-End Spatiotemporal Feature Learning Framework for Change Detection in Unseen Videos.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2020.3037472",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Videos[]Spatiotemporal phenomena[]Feature extraction[]Training[]Estimation[]Adaptation models[]Three-dimensional displays"
+    },
+    {
+        "title": "A Comprehensive Bi-Static Amplitude Compensated Range Migration Algorithm (AC-RMA).",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3100679",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "maging[]Reflectivity[]Image reconstruction[]Matched filters[]Approximation algorithms[]Transmitting antennas[]Synthetic aperture radar"
+    },
+    {
+        "title": "Rethinking Shape From Shading for Spoofing Detection.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2020.3042082",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Three-dimensional displays[]Shape[]Face recognition[]Two dimensional displays[]Feature extraction[]Hardware[]Facial features"
+    },
+    {
+        "title": "CoANet: Connectivity Attention Network for Road Extraction From Satellite Imagery.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3117076",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Roads[]Feature extraction[]Image segmentation[]Satellites[]Convolution[]Semantics[]Strips"
+    },
+    {
+        "title": "Light Field View Synthesis via Aperture Disparity and Warping Confidence Map.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3066293",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "mage reconstruction[]Rendering (computer graphics)[]Geometry[]Cameras[]Three-dimensional displays[]Apertures[]Interpolation"
+    },
+    {
+        "title": "Asymmetric Supervised Consistent and Specific Hashing for Cross-Modal Retrieval.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2020.3038365",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Semantics[]Optimization[]Quantization (signal)[]Correlation[]Symmetric matrices[]Image coding[]Sparse matrices"
+    },
+    {
+        "title": "Learning Transformation-Invariant Local Descriptors With Low-Coupling Binary Codes.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3106805",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Correlation[]Binary codes[]Training data[]Visualization[]Feature extraction[]Entropy[]Deep learning"
+    },
+    {
+        "title": "Learnable Descriptors for Visual Search.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2020.3031216",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "mage coding[]Standards[]Transform coding[]Image matching[]Pipelines[]Bit rate"
+    },
+    {
+        "title": "Robust Segmentation-Free Algorithm for Homogeneity Quantification in Images.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3086053",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "mage segmentation[]Histograms[]Nanocomposites[]Gray-scale[]Image color analysis[]Indexes[]Flowcharts"
+    },
+    {
+        "title": "Multi-Resolution Aitchison Geometry Image Denoising for Low-Light Photography.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3087943",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Noise reduction[]Wavelet transforms[]Lighting[]Geometry[]Estimation[]Image denoising[]Image edge detection"
+    },
+    {
+        "title": "Evaluating the Stability of Spatial Keypoints via Cluster Core Correspondence Index.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2020.3036759",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Detectors[]Stability criteria[]Indexes[]Feature extraction[]Task analysis[]Estimation[]Three-dimensional displays"
+    },
+    {
+        "title": "Predicting Task-Driven Attention via Integrating Bottom-Up Stimulus and Top-Down Guidance.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3113799",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Task analysis[]Predictive models[]Feature extraction[]Image color analysis[]Visualization[]Computer architecture[]Psychology"
+    },
+    {
+        "title": "Conversational Image Search.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3108724",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "nowledge engineering[]Image representation[]Visualization[]Neural networks[]Search problems[]Logic gates[]Image color analysis"
+    },
+    {
+        "title": "Unsupervised Deep Image Stitching: Reconstructing Stitched Features to Images.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3092828",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "mage stitching[]Image reconstruction[]Feature extraction[]Image resolution[]Estimation[]Strain[]Solid modeling"
+    },
+    {
+        "title": "Non-Greedy L21-Norm Maximization for Principal Component Analysis.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3073282",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Principal component analysis[]Minimization[]Covariance matrices[]Robustness[]Optimization[]Convergence[]Linear programming"
+    },
+    {
+        "title": "DAN: Deep-Attention Network for 3D Shape Recognition.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3071687",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Shape[]Three-dimensional displays[]Task analysis[]Feature extraction[]Correlation[]Computer architecture[]Visualization"
+    },
+    {
+        "title": "PWD-3DNet: A Deep Learning-Based Fully-Automated Segmentation of Multiple Structures on Temporal Bone CT Scans.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2020.3038363",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "mage segmentation[]Bones[]Computed tomography[]Shape[]Biomedical imaging[]Training[]Three-dimensional displays"
+    },
+    {
+        "title": "Interaction-Integrated Network for Natural Language Moment Localization.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3052086",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Visualization[]Semantics[]Location awareness[]Task analysis[]Linguistics[]Convolution[]Data models"
+    },
+    {
+        "title": "HDR-GAN: HDR Image Reconstruction From Multi-Exposed LDR Images With Large Motions.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3064433",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Fuses[]Merging[]Imaging[]Dynamic range[]Generators[]Image restoration[]Image reconstruction"
+    },
+    {
+        "title": "Blind Motion Deblurring Super-Resolution: When Dynamic Spatio-Temporal Learning Meets Static Image Understanding.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3101402",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Superresolution[]Dynamics[]Image restoration[]Task analysis[]Feature extraction[]Spatial resolution[]Streaming media"
+    },
+    {
+        "title": "New Approaches for Monitoring Image Data.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2020.3039389",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Control charts[]Process control[]Monitoring[]Feature extraction[]Image analysis[]Digital images[]Time series analysis"
+    },
+    {
+        "title": "A Hierarchical Superpixel-Based Approach for DIBR View Synthesis.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3092817",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "mage color analysis[]Pipelines[]Three-dimensional displays[]Cameras[]Rendering (computer graphics)[]Visualization[]Interpolation"
+    },
+    {
+        "title": "Salient Object Detection Based on Visual Perceptual Saturation and Two-Stream Hybrid Networks.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3074796",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Visualization[]Feature extraction[]Training[]Computational modeling[]Adaptation models[]Visual perception[]Task analysis"
+    },
+    {
+        "title": "TJU-DHD: A Diverse High-Resolution Dataset for Object Detection.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2020.3034487",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Object detection[]Feature extraction[]Image resolution[]Face recognition[]Proposals[]Training[]Face detection"
+    },
+    {
+        "title": "An Unified Recurrent Video Object Segmentation Framework for Various Surveillance Environments.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3108405",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Decoding[]Feature extraction[]Object segmentation[]Training[]Task analysis[]Optical imaging[]Dynamics"
+    },
+    {
+        "title": "Uncertainty Class Activation Map (U-CAM) Using Gradient Certainty Method.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2020.3046916",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Uncertainty[]Visualization[]Predictive models[]Task analysis[]Knowledge discovery[]Mathematical model[]Deep learning"
+    },
+    {
+        "title": "Text-Based Localization of Moments in a Video Corpus.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3120038",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Task analysis[]Location awareness[]Semantics[]Visualization[]Image coding[]Feature extraction[]Annotations"
+    },
+    {
+        "title": "Global and Local Texture Randomization for Synthetic-to-Real Semantic Segmentation.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3096334",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Painting[]Training[]Semantics[]Image segmentation[]Complexity theory[]Adaptation models[]Task analysis"
+    },
+    {
+        "title": "A Systematic IoU-Related Method: Beyond Simplified Regression for Better Localization.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3077144",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Standards[]Detectors[]Location awareness[]Computer architecture[]Measurement[]Systematics[]Object detection"
+    },
+    {
+        "title": "Digital Image Noise Estimation Using DWT Coefficients.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3049961",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "timation[]Image edge detection[]Discrete cosine transforms[]Standards[]Noise level[]Discrete wavelet transforms[]Digital images"
+    },
+    {
+        "title": "Resolution Learning in Deep Convolutional Networks Using Scale-Space Theory.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3115001",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Shape[]Spatial resolution[]Taylor series[]Kernel[]Standards[]Network architecture[]Wavelet transforms"
+    },
+    {
+        "title": "Direct Unsupervised Super-Resolution Using Generative Adversarial Network (DUS-GAN) for Real-World Data.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3113783",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Training[]Degradation[]Generative adversarial networks[]Superresolution[]Task analysis[]Unsupervised learning[]Quality assessment"
+    },
+    {
+        "title": "It GAN Do Better: GAN-Based Detection of Objects on Images With Varying Quality.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3124155",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Object detection[]Training data[]Image quality[]Computational modeling[]Task analysis[]Generators[]Distortion"
+    },
+    {
+        "title": "Relational Reasoning for Group Activity Recognition via Self-Attention Augmented Conditional Random Field.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3113570",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Feature extraction[]Activity recognition[]Videos[]Semantics[]Transformers[]Three-dimensional displays[]Context modeling"
+    },
+    {
+        "title": "Deep SAR Imaging and Motion Compensation.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3051484",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Synthetic aperture radar[]Radar polarimetry[]Backscatter[]Radar imaging[]Imaging[]Azimuth[]Two dimensional displays"
+    },
+    {
+        "title": "Learning Recurrent Memory Activation Networks for Visual Tracking.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2020.3038356",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Target tracking[]Visualization[]Coherence[]Generators[]Training[]Correlation[]Recurrent neural networks"
+    },
+    {
+        "title": "Toward Fine-Grained Sketch-Based 3D Shape Retrieval.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3118975",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Three-dimensional displays[]Shape[]Solid modeling[]Image retrieval[]Transformers[]Task analysis[]Computational modeling"
+    },
+    {
+        "title": "Semantics-Aware Spatial-Temporal Binaries for Cross-Modal Video Retrieval.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2020.3048680",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Semantics[]Binary codes[]Feature extraction[]Visualization[]Task analysis[]Natural languages[]Stochastic processes"
+    },
+    {
+        "title": "Examinee-Examiner Network: Weakly Supervised Accurate Coronary Lumen Segmentation Using Centerline Constraint.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3125490",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "mage segmentation[]Task analysis[]Arteries[]Supervised learning[]Lesions[]Feature extraction[]Training"
+    },
+    {
+        "title": "Deep Magnification-Flexible Upsampling Over 3D Point Clouds.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3115385",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Three-dimensional displays[]Geometry[]Feature extraction[]Training[]Surface reconstruction[]Image reconstruction[]Deep learning"
+    },
+    {
+        "title": "Diversifying Inference Path Selection: Moving-Mobile-Network for Landmark Recognition.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3076275",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "mage recognition[]Convolution[]Mobile handsets[]Image coding[]Visualization[]Computational modeling[]Network architecture"
+    },
+    {
+        "title": "Efficient Style-Corpus Constrained Learning for Photorealistic Style Transfer.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3058566",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Transforms[]Training[]Rendering (computer graphics)[]Knowledge engineering[]Computer science[]Computational modeling[]Semantics"
+    },
+    {
+        "title": "SlimConv: Reducing Channel Redundancy in Convolutional Neural Networks by Features Recombining.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3093795",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Convolution[]Computational modeling[]Redundancy[]Task analysis[]Kernel[]Image reconstruction[]Transforms"
+    },
+    {
+        "title": "Multi-Relation Attention Network for Image Patch Matching.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3101414",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Feature extraction[]Measurement[]Training[]Deep learning[]Correlation[]Task analysis[]Lighting"
+    },
+    {
+        "title": "Progressive Transfer Learning for Face Anti-Spoofing.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3066912",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Face recognition[]Training[]Reliability[]Data models[]Testing[]Transfer learning[]Training data"
+    },
+    {
+        "title": "Holistic LSTM for Pedestrian Trajectory Prediction.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3058599",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Trajectory[]Vehicle dynamics[]Logic gates[]Dynamics[]Roads[]Correlation[]Task analysis"
+    },
+    {
+        "title": "Deep Dynamic Scene Deblurring for Unconstrained Dual-Lens Cameras.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3072856",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Cameras[]Dynamics[]Deep learning[]Motion segmentation[]Feature extraction[]Superresolution[]Standards"
+    },
+    {
+        "title": "Surface Regularity via the Estimation of Fractional Brownian Motion Index.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2020.3043892",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "ndexes[]Estimation[]Eigenvalues and eigenfunctions[]Surface treatment[]Mathematical model[]Linear regression[]Smoothing methods"
+    },
+    {
+        "title": "Blind Decomposition of Multispectral Document Images Using Orthogonal Nonnegative Matrix Factorization.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3088266",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Manifolds[]Optimization[]Data models[]Matrix decomposition[]Task analysis[]Image segmentation[]Image analysis"
+    },
+    {
+        "title": "Robust Subspace Detectors Based on \u03b1-Divergence With Application to Detection in Imaging.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3077139",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Detectors[]Maximum likelihood estimation[]Robustness[]Light rail systems[]Pollution measurement[]Gaussian noise[]Uncertainty"
+    },
+    {
+        "title": "Tracking-by-Counting: Using Network Flows on Crowd Density Maps for Tracking Multiple Targets.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2020.3044219",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Target tracking[]Tracking[]Object detection[]Trajectory[]Detectors[]Task analysis[]Computational modeling"
+    },
+    {
+        "title": "Bayer CFA Pattern Compression With JPEG XS.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3095421",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "mage coding[]Image color analysis[]Transform coding[]Interpolation[]Color[]Decorrelation[]Complexity theory"
+    },
+    {
+        "title": "Rate-Distortion Optimized Graph Coarsening and Partitioning for Light Field Coding.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3085203",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Transforms[]Image coding[]Rate-distortion[]Correlation[]Encoding[]Standards[]Distortion"
+    },
+    {
+        "title": "Action Anticipation Using Pairwise Human-Object Interactions and Transformers.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3113114",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Transformers[]Object detection[]Visualization[]Image motion[]Predictive models[]Convolutional codes[]Feature extraction"
+    },
+    {
+        "title": "Inspirational Adversarial Image Generation.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3065845",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Training data[]Generative adversarial networks[]Image synthesis[]Face recognition[]Computational modeling"
+    },
+    {
+        "title": "Multi-Temporal Scene Classification and Scene Change Detection With Correlation Based Fusion.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2020.3039328",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Feature extraction[]Correlation[]Remote sensing[]Semantics[]Task analysis[]Training[]Spatial resolution"
+    },
+    {
+        "title": "Spatially-Aware Context Neural Networks.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3097917",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Context modeling[]Convolution[]Semantics[]Computational modeling[]Transforms[]Task analysis[]Object detection"
+    },
+    {
+        "title": "SADRNet: Self-Aligned Dual Face Regression Networks for Robust 3D Dense Face Alignment and Reconstruction.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3087397",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Faces[]Three-dimensional displays[]Face recognition[]Shape[]Image reconstruction[]Geometry[]Solid modeling"
+    },
+    {
+        "title": "Together Recognizing, Localizing and Summarizing Actions in Egocentric Videos.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3070732",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Videos[]Location awareness[]Cameras[]Feature extraction[]Streaming media[]Sports[]Trajectory"
+    },
+    {
+        "title": "A Non-Local Superpatch-Based Algorithm Exploiting Low Rank Prior for Restoration of Hyperspectral Images.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3093780",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "mage restoration[]Sparse matrices[]Hyperspectral imaging[]Degradation[]Additives[]Noise reduction[]Gaussian noise"
+    },
+    {
+        "title": "Deep K-SVD Denoising.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3090531",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Noise reduction[]Dictionaries[]Image denoising[]Task analysis[]Noise measurement[]Training[]Bridges"
+    },
+    {
+        "title": "CapsField: Light Field-Based Face and Expression Recognition in the Wild Using Capsule Routing.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3054476",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Face recognition[]Image recognition[]Two dimensional displays[]Feature extraction[]Cameras[]Visualization[]Imaging"
+    },
+    {
+        "title": "Semantically Adversarial Learnable Filters.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3112290",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Perturbation methods[]Semantics[]Image color analysis[]Image edge detection[]Residual neural networks[]Robustness[]Nonlinear distortion"
+    },
+    {
+        "title": "HRSiam: High-Resolution Siamese Network, Towards Space-Borne Satellite Video Tracking.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2020.3045634",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Satellites[]Target tracking[]Spatial resolution[]Object tracking[]Tracking[]Robustness[]Adaptation models"
+    },
+    {
+        "title": "Uncertainty Guided Multi-Scale Attention Network for Raindrop Removal From a Single Image.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3076283",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Rain[]Uncertainty[]Kernel[]Image restoration[]Task analysis[]Image edge detection[]Degradation"
+    },
+    {
+        "title": "DotFAN: A Domain-Transferred Face Augmentation Net.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3120313",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Face recognition[]Training data[]Lighting[]Finite element analysis[]Codes[]Data models[]Three-dimensional displays[]Generative adversarial networks[]Knowledge transfer"
+    },
+    {
+        "title": "Towards Cross-Dataset Palmprint Recognition Via Joint Pixel and Feature Alignment.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3065220",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Feature extraction[]Palmprint recognition[]Training[]Databases[]Adaptation models[]Task analysis[]Data models"
+    },
+    {
+        "title": "Explicit Facial Expression Transfer via Fine-Grained Representations.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3073857",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Training[]Gold[]Feature extraction[]Facial features[]Gallium nitride[]Shape[]Generative adversarial networks"
+    },
+    {
+        "title": "Video Frame Interpolation and Enhancement via Pyramid Recurrent Framework.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2020.3033617",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "nterpolation[]Degradation[]Streaming media[]Optical imaging[]Image restoration[]Image coding[]Optical sensors"
+    },
+    {
+        "title": "Just Noticeable Distortion Profile Inference: A Patch-Level Structural Visibility Learning Approach.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2020.3029428",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Visualization[]Estimation[]Image coding[]Distortion[]Video coding[]Frequency-domain analysis[]Sensitivity"
+    },
+    {
+        "title": "ES-Net: Erasing Salient Parts to Learn More in Re-Identification.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2020.3046904",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Task analysis[]Visualization[]Training[]Feature extraction[]Random access memory[]Image segmentation[]Force"
+    },
+    {
+        "title": "Unsharp Mask Guided Filtering.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3106812",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "mage edge detection[]Convolutional codes[]Convolutional neural networks[]Convolution[]Task analysis[]Periodic structures[]Noise reduction"
+    },
+    {
+        "title": "Loss-Based Attention for Interpreting Image-Level Prediction of Convolutional Neural Networks.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2020.3046875",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Feature extraction[]Routing[]Visualization[]Training[]Convolutional codes[]Computer architecture[]National Institutes of Health"
+    },
+    {
+        "title": "A Scalable Optimization Mechanism for Pairwise Based Discrete Hashing.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2020.3040536",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Binary codes[]Hash functions[]Symmetric matrices[]Semantics[]Task analysis[]Linear regression[]Convolutional codes"
+    },
+    {
+        "title": "I Understand You: Blind 3D Human Attention Inference From the Perspective of Third-Person.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3092842",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Three-dimensional displays[]Feature extraction[]Estimation[]Faces[]Solid modeling[]Visualization[]Cameras"
+    },
+    {
+        "title": "Enhancement and Speedup of Photometric Compensation for Projectors by Reducing Inter-Pixel Coupling and Calibration Patterns.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2020.3036768",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "mage color analysis[]Calibration[]Cameras[]Couplings[]Multimedia systems[]Estimation[]Surface waves"
+    },
+    {
+        "title": "Backward Attentive Fusing Network With Local Aggregation Classifier for 3D Point Cloud Semantic Segmentation.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3073660",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Three-dimensional displays[]Semantics[]Feature extraction[]Decoding[]Iron[]Noise measurement[]Aggregates"
+    },
+    {
+        "title": "Multidataset Independent Subspace Analysis With Application to Multimodal Fusion.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2020.3028452",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Signal to noise ratio[]Analytical models[]Probability density function[]Principal component analysis[]Optimization[]Independent component analysis[]Brain modeling"
+    },
+    {
+        "title": "Multi-Branch Tensor Network Structure for Tensor-Train Discriminant Analysis.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3120871",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Tensors[]Feature extraction[]Merging[]Supervised learning[]Computational complexity[]Training data[]Matrix decomposition"
+    },
+    {
+        "title": "Hierarchical Edge Refinement Network for Saliency Detection.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3106798",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "mage edge detection[]Feature extraction[]Saliency detection[]Data mining[]Convolutional neural networks[]Semantics[]Visualization"
+    },
+    {
+        "title": "MLDA-Net: Multi-Level Dual Attention-Based Network for Self-Supervised Monocular Depth Estimation.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3074306",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "timation[]Training data[]Feature extraction[]Cameras[]Benchmark testing[]Sensors[]Image sensors"
+    },
+    {
+        "title": "Multi-Stage Feature Fusion Network for Video Super-Resolution.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3056868",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Visualization[]Convolution[]Superresolution[]Task analysis[]Fuses[]Feature extraction[]Modulation"
+    },
+    {
+        "title": "Sparse Coding Driven Deep Decision Tree Ensembles for Nucleus Segmentation in Digital Pathology Images.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3112057",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Pathology[]Image segmentation[]Decoding[]Decision trees[]Convolutional codes[]Feature extraction[]Computer architecture"
+    },
+    {
+        "title": "A Context-Based Image Contrast Enhancement Using Energy Equalization With Clipping Limit.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3083448",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Histograms[]Brightness[]Visualization[]Neurons[]Computer architecture[]Image enhancement[]Transfer functions"
+    },
+    {
+        "title": "PCG-TAL: Progressive Cross-Granularity Cooperation for Temporal Action Localization.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2020.3044218",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Feature extraction[]Proposals[]Kernel[]Grammar[]Benchmark testing[]Three-dimensional displays[]Spatiotemporal phenomena"
+    },
+    {
+        "title": "Improving Weakly Supervised Temporal Action Localization by Exploiting Multi-Resolution Information in Temporal Domain.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3089355",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Videos[]Location awareness[]Task analysis[]Feature extraction[]Reliability[]Annotations[]Three-dimensional displays"
+    },
+    {
+        "title": "Learning to Zoom-In via Learning to Zoom-Out: Real-World Super-Resolution by Generating and Adapting Degradation.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3049951",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Degradation[]Training[]Kernel[]Superresolution[]Sun[]Learning systems[]Cameras"
+    },
+    {
+        "title": "Unsupervised Cross Domain Person Re-Identification by Multi-Loss Optimization Learning.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3056889",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Optimization[]Supervised learning[]Generative adversarial networks[]Training[]Task analysis[]Cameras[]Adaptation models"
+    },
+    {
+        "title": "Iterative Robust Graph for Unsupervised Change Detection of Heterogeneous Remote Sensing Images.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3093766",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Radar polarimetry[]Optical imaging[]Image segmentation[]Image sensors[]Transforms[]Training[]Optical sensors"
+    },
+    {
+        "title": "Novel Convergence Results of Adaptive Stochastic Gradient Descents.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2020.3038535",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Convergence[]Training[]Optimization[]Task analysis[]Stochastic processes[]Adaptive systems[]Sun"
+    },
+    {
+        "title": "MABAN: Multi-Agent Boundary-Aware Network for Natural Language Moment Retrieval.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3086591",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Videos[]Reinforcement learning[]Task analysis[]Semantics[]Natural languages[]Visualization[]Sun"
+    },
+    {
+        "title": "Optimal Pre-Filtering for Improving Facebook Shared Images.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3093794",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Social networking (online)[]Image coding[]Color[]Transform coding[]Distortion[]Image resolution[]Degradation"
+    },
+    {
+        "title": "A Supervised Segmentation Network for Hyperspectral Image Classification.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3055613",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Hyperspectral imaging[]Feature extraction[]Training[]Task analysis[]Imaging[]Image segmentation[]Testing"
+    },
+    {
+        "title": "DRCNN: Dynamic Routing Convolutional Neural Network for Multi-View 3D Object Recognition.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2020.3039378",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Three-dimensional displays[]Routing[]Heuristic algorithms[]Object recognition[]Fuses[]Task analysis[]Shape"
+    },
+    {
+        "title": "KT-GAN: Knowledge-Transfer Generative Adversarial Network for Text-to-Image Synthesis.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2020.3026728",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Task analysis[]Semantics[]Generators[]Generative adversarial networks[]Knowledge engineering[]Feature extraction[]Image generation"
+    },
+    {
+        "title": "Night-Time Scene Parsing With a Large Real Dataset.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3122004",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Streaming media[]Urban areas[]Image segmentation[]Autonomous vehicles[]Semantics[]Computer science"
+    },
+    {
+        "title": "Nocal-Siam: Refining Visual Features and Response With Advanced Non-Local Blocks for Real-Time Siamese Tracking.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3049970",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Target tracking[]Visualization[]Feature extraction[]Real-time systems[]Oceans[]Convolution[]Task analysis"
+    },
+    {
+        "title": "Learning to Rank Proposals for Siamese Visual Tracking.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3120305",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Target tracking[]Proposals[]Training data[]Visualization[]Feature extraction[]Task analysis[]Estimation"
+    },
+    {
+        "title": "AutoPedestrian: An Automatic Data Augmentation and Loss Function Search Scheme for Pedestrian Detection.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3115672",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Search problems[]Data models[]Computer vision[]Task analysis[]Optimization[]Training[]Object detection"
+    },
+    {
+        "title": "Stroke-Based Scene Text Erasing Using Synthetic Data for Training.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3125260",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "mage segmentation[]Task analysis[]Convolution[]Training[]Pipelines[]Engines[]Detectors"
+    },
+    {
+        "title": "Layout-to-Image Translation With Double Pooling Generative Adversarial Networks.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3109531",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Semantics[]Task analysis[]Generative adversarial networks[]Layout[]Generators[]Feature extraction[]Feeds"
+    },
+    {
+        "title": "Learning Guided Convolutional Network for Depth Completion.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2020.3040528",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Convolution[]Kernel[]Laser radar[]Graphics processing units[]Feature extraction[]Task analysis[]Sensors"
+    },
+    {
+        "title": "Facial Expression Recognition Using Frequency Neural Network.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2020.3037467",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Frequency-domain analysis[]Feature extraction[]Discrete cosine transforms[]Face recognition[]Deep learning[]Neural networks[]Facial features"
+    },
+    {
+        "title": "Rethinking Motion Representation: Residual Frames With 3D ConvNets.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3124156",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Three-dimensional displays[]Feature extraction[]Optical imaging[]Video tracking[]Task analysis"
+    },
+    {
+        "title": "AGRNet: Adaptive Graph Representation Learning and Reasoning for Face Parsing.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3113780",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Faces[]Semantics[]Image segmentation[]Cognition[]Feature extraction[]Correlation[]Image edge detection"
+    },
+    {
+        "title": "On Data Augmentation for GAN Training.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3049346",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Gallium nitride[]Generative adversarial networks[]Generators[]Training[]Task analysis[]Standards[]Data models"
+    },
+    {
+        "title": "Multi-Interactive Dual-Decoder for RGB-Thermal Salient Object Detection.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3087412",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Decoding[]Feature extraction[]Object detection[]Semantics[]Fuses[]Task analysis[]Streaming media"
+    },
+    {
+        "title": "UGC-VQA: Benchmarking Blind Video Quality Assessment for User Generated Content.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3072221",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Databases[]Quality assessment[]Video recording[]Streaming media[]Distortion[]Image coding[]Feature extraction"
+    },
+    {
+        "title": "Light-DehazeNet: A Novel Lightweight CNN Architecture for Single Image Dehazing.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3116790",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Atmospheric modeling[]Image color analysis[]Image reconstruction[]Computational modeling[]Visualization[]Image restoration[]Atmospheric measurements"
+    },
+    {
+        "title": "Bio-Inspired Video Enhancement for Small Moving Target Detection.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2020.3043113",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Object detection[]Cameras[]Photoreceptors[]Biological system modeling[]Computational modeling[]Adaptation models[]Insects"
+    },
+    {
+        "title": "Robust Single-Image Super-Resolution via CNNs and TV-TV Minimization.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3108907",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "mage reconstruction[]Training[]TV[]Optimization[]Testing[]Minimization[]Task analysis"
+    },
+    {
+        "title": "Tracking Beyond Detection: Learning a Global Response Map for End-to-End Multi-Object Tracking.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3113169",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Trajectory[]Target tracking[]Object detection[]Measurement[]Task analysis[]Feature extraction[]Data models"
+    },
+    {
+        "title": "Fine-Grained Crowd Counting.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3049938",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Task analysis[]Estimation[]Feature extraction[]Image segmentation[]Context modeling[]Adaptation models[]Surveillance"
+    },
+    {
+        "title": "Robust Face Alignment by Multi-Order High-Precision Hourglass Network.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2020.3032029",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Heating systems[]Faces[]Face recognition[]Shape[]Task analysis[]Predictive models[]Robustness"
+    },
+    {
+        "title": "Angular-Driven Feedback Restoration Networks for Imperfect Sketch Recognition.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3071711",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "mage restoration[]Image recognition[]Task analysis[]Deep learning[]Semantics[]Convolution[]Support vector machines"
+    },
+    {
+        "title": "Interpreting Bottom-Up Decision-Making of CNNs via Hierarchical Inference.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3097187",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Visualization[]Decision making[]Semantics[]Image color analysis[]Perturbation methods[]Neuroscience[]Training"
+    },
+    {
+        "title": "Domain Shift Preservation for Zero-Shot Domain Adaptation.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3084354",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Task analysis[]Data models[]Generative adversarial networks[]Training[]Feature extraction[]Adaptation models[]Semantics"
+    },
+    {
+        "title": "PVRED: A Position-Velocity Recurrent Encoder-Decoder for Human Motion Prediction.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3089380",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Hidden Markov models[]Quaternions[]Predictive models[]Three-dimensional displays[]Decoding[]Dynamics[]Recurrent neural networks"
+    },
+    {
+        "title": "Generative Partial Multi-View Clustering With Adaptive Fusion and Cycle Consistency.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2020.3048626",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Generative adversarial networks[]Adaptation models[]Gallium nitride[]Visualization[]Task analysis[]Kernel[]Data models"
+    },
+    {
+        "title": "Semantic Perceptual Image Compression With a Laplacian Pyramid of Convolutional Networks.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3065244",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "mage coding[]Laplace equations[]Semantics[]Generative adversarial networks[]Training[]Image reconstruction[]Dictionaries"
+    },
+    {
+        "title": "Giant Panda Identification.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3055627",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Task analysis[]Detectors[]Feature extraction[]Annotations[]Visualization[]Face recognition[]Convolution"
+    },
+    {
+        "title": "AAN-Face: Attention Augmented Networks for Face Recognition.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3107238",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Face recognition[]Feature extraction[]Cams[]Training data[]Task analysis[]Noise measurement"
+    },
+    {
+        "title": "Human Interaction Understanding With Joint Graph Decomposition and Node Labeling.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3093383",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Task analysis[]Labeling[]Feature extraction[]Context modeling[]Automobiles[]Optimization[]Mathematical model"
+    },
+    {
+        "title": "Adversarial Multi-Path Residual Network for Image Super-Resolution.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3096089",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Feature extraction[]Residual neural networks[]Superresolution[]Generative adversarial networks[]Image reconstruction[]Generators[]Training"
+    },
+    {
+        "title": "A Self-Training Approach for Point-Supervised Object Detection and Counting in Crowds.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3055632",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Detectors[]Training[]Annotations[]Object detection[]Decoding[]Feature extraction[]Location awareness"
+    },
+    {
+        "title": "MESNet: A Convolutional Neural Network for Spotting Multi-Scale Micro-Expression Intervals in Long Videos.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3064258",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Measurement[]Convolution[]Two dimensional displays[]Feature extraction[]Spatiotemporal phenomena[]Convolutional neural networks[]Videos"
+    },
+    {
+        "title": "Multi-Dimensional Visual Data Completion via Low-Rank Tensor Representation Under Coupled Transform.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3062995",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Tensors[]Transforms[]Correlation[]Visualization[]Color[]Discrete Fourier transforms[]Videos"
+    },
+    {
+        "title": "Multi-View Learning a Decomposable Affinity Matrix via Tensor Self-Representation on Grassmann Manifold.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3114995",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Tensors[]Manifolds[]Task analysis[]Matrix decomposition[]Sparse matrices[]Merging[]Clustering methods"
+    },
+    {
+        "title": "IPGN: Interactiveness Proposal Graph Network for Human-Object Interaction Detection.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3096333",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Task analysis[]Proposals[]Visualization[]Semantics[]Pose estimation[]Message passing[]Knowledge engineering"
+    },
+    {
+        "title": "EnAET: A Self-Trained Framework for Semi-Supervised and Supervised Learning With Ensemble Transformations.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2020.3044220",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Semisupervised learning[]Predictive models[]Data models[]Training[]Task analysis[]Supervised learning[]Neural networks"
+    },
+    {
+        "title": "Human Skin Gloss Perception Based on Texture Statistics.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3061276",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Skin[]Visualization[]Surface texture[]Lighting[]Photography[]Faces[]Surface treatment"
+    },
+    {
+        "title": "Robust Sparse Representation in Quaternion Space.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3064193",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Quaternions[]Color[]Signal processing algorithms[]Matching pursuit algorithms[]Image color analysis[]Image coding[]Sparse matrices"
+    },
+    {
+        "title": "Data-Level Recombination and Lightweight Fusion Scheme for RGB-D Salient Object Detection.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2020.3037470",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Object detection[]Feature extraction[]Semantics[]Deep learning[]Estimation[]Training[]Network architecture"
+    },
+    {
+        "title": "Semi-Supervised Dual Relation Learning for Multi-Label Classification.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3122003",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Semantics[]Feature extraction[]Correlation[]Training data[]Image retrieval[]Task analysis[]Semisupervised learning"
+    },
+    {
+        "title": "Low-Complexity Error Resilient HEVC Video Coding: A Deep Learning Approach.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2020.3043124",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Complexity theory[]Encoding[]Image coding[]Distortion[]Deep learning[]Real-time systems[]High efficiency video coding"
+    },
+    {
+        "title": "Learning Person Re-Identification Models From Videos With Weak Supervision.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3056223",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Videos[]Annotations[]Labeling[]Task analysis[]Feature extraction[]Training[]Reliability"
+    },
+    {
+        "title": "AFAN: Augmented Feature Alignment Network for Cross-Domain Object Detection.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3066046",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Training data[]Object detection[]Feature extraction[]Detectors[]Generators[]Semantics[]Unsupervised learning"
+    },
+    {
+        "title": "iCmSC: Incomplete Cross-Modal Subspace Clustering.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2020.3036717",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Correlation[]Kernel[]Decoding[]Gallium nitride[]Clustering methods[]Generative adversarial networks[]Encoding"
+    },
+    {
+        "title": "Conditional Generative ConvNets for Exemplar-Based Texture Synthesis.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3052075",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Adaptation models[]Image texture[]Heuristic algorithms[]Probabilistic logic[]Maximum likelihood estimation[]Generators[]Feature extraction"
+    },
+    {
+        "title": "Cross-Dataset Point Cloud Recognition Using Deep-Shallow Domain Adaptation Network.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3092818",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Three-dimensional displays[]Task analysis[]Feature extraction[]Adaptation models[]Image recognition[]Target recognition[]Training"
+    },
+    {
+        "title": "Bilateral Asymmetry Guided Counterfactual Generating Network for Mammogram Classification.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3112053",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Lesions[]Mammography[]Data models[]Generative adversarial networks[]Estimation[]Computer science[]Breast cancer"
+    },
+    {
+        "title": "Push for Center Learning via Orthogonalization and Subspace Masking for Person Re-Identification.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2020.3036720",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Correlation[]Task analysis[]Optimization[]Training[]Learning systems[]Semantics[]Lighting"
+    },
+    {
+        "title": "Age-Oriented Face Synthesis With Conditional Discriminator Pool and Adversarial Triplet Loss.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3084106",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Faces[]Generators[]Generative adversarial networks[]Task analysis[]Aging[]Training[]Games"
+    },
+    {
+        "title": "Attentive Feature Refinement Network for Single Rainy Image Restoration.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3064229",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Task analysis[]Rain[]Image restoration[]Sun[]Computer science[]Australia[]Optimization"
+    },
+    {
+        "title": "A Contour Co-Tracking Method for Image Pairs.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3079798",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "mage segmentation[]Probability distribution[]Mathematical model[]Proposals[]Nonhomogeneous media[]Level set[]Active contours"
+    },
+    {
+        "title": "Batch Coherence-Driven Network for Part-Aware Person Re-Identification.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3060909",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Feature extraction[]Training[]Coherence[]Visualization[]Computational efficiency[]Tools[]Semantics"
+    },
+    {
+        "title": "Thanka Mural Inpainting Based on Multi-Scale Adaptive Partial Convolution and Stroke-Like Mask.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3064268",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Convolution[]Feature extraction[]Image restoration[]Training[]Kernel[]Image reconstruction[]Cultural differences"
+    },
+    {
+        "title": "Hierarchical Attention Learning of Scene Flow in 3D Point Clouds.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3079796",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Three-dimensional displays[]Estimation[]Task analysis[]Laser radar[]Correlation[]Lattices[]Optical imaging"
+    },
+    {
+        "title": "TPSSI-Net: Fast and Enhanced Two-Path Iterative Network for 3D SAR Sparse Imaging.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3104168",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Training[]Deep learning[]Three-dimensional displays[]Imaging[]Radar polarimetry[]Loss measurement[]Convolutional neural networks"
+    },
+    {
+        "title": "Low Complexity Trellis-Coded Quantization in Versatile Video Coding.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3051460",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Quantization (signal)[]Encoding[]Distortion[]Image coding[]Rate distortion theory[]Transforms[]Laplace equations"
+    },
+    {
+        "title": "Sketch-Guided Scenery Image Outpainting.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3054477",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Task analysis[]Generators[]Decoding[]Image reconstruction[]Shape[]Semantics[]Toy manufacturing industry"
+    },
+    {
+        "title": "Combining Progressive Rethinking and Collaborative Learning: A Deep Framework for In-Loop Filtering.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3068638",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "mage coding[]Image reconstruction[]Encoding[]Collaborative work[]Deep learning[]Codecs[]Feature extraction"
+    },
+    {
+        "title": "Learning Efficient Hash Codes for Fast Graph-Based Data Similarity Retrieval.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3093387",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Task analysis[]Measurement[]Computational modeling[]Binary codes[]Graph neural networks[]Data models[]Training"
+    },
+    {
+        "title": "PSAT-GAN: Efficient Adversarial Attacks Against Holistic Scene Understanding.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3106807",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Task analysis[]Perturbation methods[]Visualization[]Multitasking[]Autonomous vehicles[]Semantics[]Generative adversarial networks[]Adversarial machine learning"
+    },
+    {
+        "title": "Multi-Scale Low-Discriminative Feature Reactivation for Weakly Supervised Object Localization.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3091833",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Location awareness[]Neurons[]Task analysis[]Pattern recognition[]Automation[]Search problems[]Proposals"
+    },
+    {
+        "title": "Hierarchical Predictive Coding-Based JND Estimation for Image Compression.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2020.3037525",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Visualization[]Estimation[]Visual perception[]Predictive coding[]Image coding[]Predictive models[]Neurons"
+    },
+    {
+        "title": "Light Field Image Super-Resolution Using Deformable Convolution.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2020.3042059",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Convolution[]Cameras[]Light fields[]Image reconstruction"
+    },
+    {
+        "title": "Robust Content-Adaptive Global Registration for Multimodal Retinal Images Using Weakly Supervised Deep-Learning Framework.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3058570",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Retina[]Image segmentation[]Feature extraction[]Image registration[]Imaging[]Convolution[]Pipelines"
+    },
+    {
+        "title": "Multi-Domain Image-to-Image Translation via a Unified Circular Framework.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2020.3037528",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Task analysis[]Semantics[]Visualization[]Generative adversarial networks[]Generators[]Feature extraction[]Meteorology"
+    },
+    {
+        "title": "Attention Guided Multiple Source and Target Domain Adaptation.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2020.3031161",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Semantics[]Task analysis[]Generators[]Generative adversarial networks[]Feature extraction[]Visualization[]Meteorology"
+    },
+    {
+        "title": "Learning Diverse Models for End-to-End Ensemble Tracking.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3051471",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Target tracking[]Head[]Predictive models[]Visualization[]Training[]Computational modeling[]Adaptation models"
+    },
+    {
+        "title": "HOReID: Deep High-Order Mapping Enhances Pose Alignment for Person Re-Identification.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3055952",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Feature extraction[]Semantics[]Annotations[]Pose estimation[]Training[]Testing[]Task analysis"
+    },
+    {
+        "title": "Dynamic Selection Network for Image Inpainting.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2020.3048629",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Convolution[]Task analysis[]Standards[]Feature extraction[]Semantics[]Logic gates[]Training"
+    },
+    {
+        "title": "Semi-Supervised Pixel-Level Scene Text Segmentation by Mutually Guided Network.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3113157",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "mage segmentation[]Task analysis[]Training[]Decoding[]Feature extraction[]Text recognition[]Convolutional neural networks"
+    },
+    {
+        "title": "Graph-Theoretic Post-Processing of Segmentation With Application to Dense Biofilms.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3116792",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "mage segmentation[]Three-dimensional displays[]Microorganisms[]Feature extraction[]Clustering algorithms[]Biomedical imaging[]Shape"
+    },
+    {
+        "title": "Learning Dense Correspondences for Non-Rigid Point Clouds With Two-Stage Regression.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3116786",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Three-dimensional displays[]Estimation[]Solid modeling[]Shape[]Predictive models[]Deep learning[]Data models"
+    },
+    {
+        "title": "Non-Homogeneous Haze Removal via Artificial Scene Prior and Bidimensional Graph Reasoning.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3122806",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Cognition[]Atmospheric modeling[]Scattering[]Logic gates[]Task analysis[]Visualization[]Image restoration"
+    },
+    {
+        "title": "DerainCycleGAN: Rain Attentive CycleGAN for Single Image Deraining and Rainmaking.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TIP.2021.3074804",
+        "journal_name": "IEEE Transactions on Image Processing",
+        "journal_shorter_form": "TIP",
+        "keywords": "Rain[]Generators[]Generative adversarial networks[]Task analysis[]Image reconstruction[]Detectors[]Logic gates"
+    }
+]

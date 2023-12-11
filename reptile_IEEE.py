@@ -58,11 +58,13 @@ def ieee_spider(index):
 
 
 if __name__ == "__main__":
-    processes = []
-    for index in range(40, 43):
-        p = multiprocessing.Process(target=ieee_spider,args=(index,))
-        processes.append(p)
-        p.start()
-    for process in processes:
-        process.join()
+    # processes = []
+    # for index in range(44, 46):
+    #     p = multiprocessing.Process(target=ieee_spider,args=(index,))
+    #     processes.append(p)
+    #     p.start()
+    # for process in processes:
+    #     process.join()
+    for index in range(12,18):
+        ieee_spider(index)
 

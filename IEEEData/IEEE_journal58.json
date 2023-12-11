@@ -1,0 +1,1842 @@
+[
+    {
+        "title": "HGATE: Heterogeneous Graph Attention Auto-Encoders.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3138788",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Semantics[]Representation learning[]Graph neural networks[]Decoding[]Unsupervised learning[]Task analysis[]Labeling"
+    },
+    {
+        "title": "Heterogeneous Information Network Embedding With Adversarial Disentangler.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3096231",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Semantics[]Generators[]Task analysis[]Toy manufacturing industry[]Correlation[]Telecommunications[]Robustness"
+    },
+    {
+        "title": "Rethink the Linearizability Constraints of Raft for Distributed Systems.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2023.3235399",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "ndexes[]Distributed databases[]Throughput[]Hardware[]Consensus algorithm[]Voting[]Synchronization"
+    },
+    {
+        "title": "Reinforced Imitative Graph Learning for Mobile User Profiling.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2023.3270238",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Reinforcement learning[]Semantics[]Knowledge graphs[]Behavioral sciences[]Task analysis[]Tail[]Education"
+    },
+    {
+        "title": "TDN: Triplet Distributor Network for Knowledge Graph Completion.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2023.3272568",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "nowledge graphs[]Tail[]Task analysis[]Convolutional neural networks[]Semantics[]Physics[]Convolution"
+    },
+    {
+        "title": "Modeling User Demand Evolution for Next-Basket Prediction.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3231018",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Behavioral sciences[]Predictive models[]Task analysis[]Iterative methods[]Markov processes[]Force[]Australia"
+    },
+    {
+        "title": "HATR-I: Hierarchical Adaptive Temporal Relational Interaction for Stock Trend Prediction.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3188320",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Market research[]Time series analysis[]Predictive models[]Multiplexing[]Semantics[]Stock markets[]Investment"
+    },
+    {
+        "title": "ScaleG: A Distributed Disk-Based System for Vertex-Centric Graph Processing.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3101057",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Computational modeling[]Scalability[]Programming[]Load modeling[]Australia[]Optimization[]Image color analysis"
+    },
+    {
+        "title": "An Effective Clustering Optimization Method for Unsupervised Linear Discriminant Analysis.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3124023",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Dimensionality reduction[]Clustering methods[]Clustering algorithms[]Linear programming[]Task analysis[]Optimization methods[]Linear discriminant analysis"
+    },
+    {
+        "title": "Towards a Robust Deep Neural Network Against Adversarial Texts: A Survey.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3117608",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Task analysis[]Perturbation methods[]Natural language processing[]Robustness[]Information integrity[]Analytical models[]Sentiment analysis"
+    },
+    {
+        "title": "Fast Label Enhancement for Label Distribution Learning.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3092406",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Training[]Annotations[]Correlation[]Transforms[]Machine learning[]Linear programming[]Time complexity"
+    },
+    {
+        "title": "Efficient Datalog Rewriting for Query Answering in TGD Ontologies.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3111011",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Ontologies[]Prototypes[]Benchmark testing[]Transforms[]Optimization[]OWL[]Engines"
+    },
+    {
+        "title": "Zone-Enhanced Spatio-Temporal Representation Learning for Urban POI Recommendation.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2023.3243239",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Recommender systems[]Urban areas[]Task analysis[]Social networking (online)[]Time-frequency analysis[]Roads[]Representation learning"
+    },
+    {
+        "title": "Prefix Coding Scheme Supporting Direct Access Without Auxiliary Space.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2023.3271111",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Codes[]Symbols[]Encoding[]Decoding[]Image coding[]Huffman coding[]Simulation"
+    },
+    {
+        "title": "Efficient Maximal Biclique Enumeration on Large Uncertain Bipartite Graphs.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2023.3272110",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Bipartite graph[]Space exploration[]Search problems[]Optimization[]Gene expression[]Fraud[]Task analysis"
+    },
+    {
+        "title": "Secure Your Ride: Real-Time Matching Success Rate Prediction for Passenger-Driver Pairs.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3112739",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Urban areas[]Predictive models[]Data models[]Vehicles[]Real-time systems[]Context modeling[]Advertising"
+    },
+    {
+        "title": "Efficient Maximum Edge-Weighted Biclique Search on Large Bipartite Graphs.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3220901",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Bipartite graph[]Upper bound[]Search problems[]Motion pictures[]Image edge detection[]Fraud[]Optimization"
+    },
+    {
+        "title": "Sparse and Flexible Projections for Unsupervised Feature Selection.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3167996",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Feature extraction[]Sparse matrices[]Optimization[]Manifolds[]Data models[]Convergence[]Optics"
+    },
+    {
+        "title": "Multi-Task Weakly Supervised Learning for Origin-Destination Travel Time Estimation.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2023.3236060",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Roads[]Estimation[]Supervised learning[]Public transportation[]Trajectory[]Automobiles[]Uncertainty"
+    },
+    {
+        "title": "PrigSim: Towards Privacy-Preserving Graph Similarity Search as a Cloud Service.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2023.3266449",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Cloud computing[]Databases[]Cryptography[]Data models[]Computer science[]Computational modeling[]Encryption"
+    },
+    {
+        "title": "Privacy-Preserving Analytics on Decentralized Social Graphs: The Case of Eigendecomposition.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3185079",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Cryptography[]Privacy[]Task analysis[]Symmetric matrices[]Differential privacy[]Servers[]Eigenvalues and eigenfunctions"
+    },
+    {
+        "title": "Local-to-Global Deep Clustering on Approximate Uniform Manifold.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3144952",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Manifolds[]Clustering methods[]Task analysis[]Representation learning[]Training[]Data visualization[]Deep learning"
+    },
+    {
+        "title": "Incorporating Link Prediction into Multi-Relational Item Graph Modeling for Session-Based Recommendation.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3111436",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Task analysis[]Predictive models[]Training[]Adaptation models[]Social networking (online)[]Message service[]Recurrent neural networks"
+    },
+    {
+        "title": "Traffic Accident Risk Prediction via Multi-View Multi-Task Spatio-Temporal Networks.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3135621",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Accidents[]Correlation[]Urban areas[]Roads[]Data models[]Predictive models[]Representation learning"
+    },
+    {
+        "title": "Temporal Graph Cube.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2023.3270460",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Data warehouses[]Data models[]Correlation[]Aggregates[]Social networking (online)[]Query processing[]Medical services"
+    },
+    {
+        "title": "Modeling Co-Evolution of Attributed and Structural Information in Graph Sequence.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3094332",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Heuristic algorithms[]Forecasting[]Predictive models[]Correlation[]Prediction algorithms[]Inference algorithms[]Graph neural networks"
+    },
+    {
+        "title": "eShare+: A Data-Driven Balancing Mechanism for Bike Sharing Systems Considering Both Quality of Service and Maintenance.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2023.3253725",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Maintenance engineering[]Predictive models[]Data models[]Context modeling[]Sharing economy[]Quality of service[]Engines"
+    },
+    {
+        "title": "Semi-Supervised Learning via Bipartite Graph Construction With Adaptive Neighbors.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3151315",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Semisupervised learning[]Bipartite graph[]Task analysis[]Laplace equations[]Vegetation[]Scalability[]Computational modeling"
+    },
+    {
+        "title": "A2DJP: A Two Graph-Based Component Fused Learning Framework for Urban Anomaly Distribution and Duration Joint-Prediction.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3176650",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Correlation[]Spatiotemporal phenomena[]Roads[]Accidents[]Predictive models[]Urban areas[]Pipelines"
+    },
+    {
+        "title": "$\\mathrm{W}{2}$Parking: A Data-Driven Win-Win Contract Parking Sharing Mechanism Under Both Supply and Demand Uncertainties.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3220495",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Contracts[]Uncertainty[]Behavioral sciences[]Space vehicles[]Sharing economy[]Sensors[]Predictive models"
+    },
+    {
+        "title": "Cohesive Subgraph Discovery Over Uncertain Bipartite Graphs.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2023.3234567",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "ndexes[]Bipartite graph[]Computational modeling[]Complexity theory[]Task analysis[]Social networking (online)[]Diseases"
+    },
+    {
+        "title": "Discovering Significant Communities on Bipartite Graphs: An Index-Based Approach.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3111349",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Bipartite graph[]Indexing[]Search problems[]Weight measurement[]Motion pictures[]Maintenance engineering[]Heuristic algorithms"
+    },
+    {
+        "title": "Short Text Topic Learning Using Heterogeneous Information Network.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3147766",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Semantics[]Periodic structures[]Optical wavelength conversion[]Grammar[]Peer-to-peer computing[]Speech processing[]Electronic mail"
+    },
+    {
+        "title": "Hiding From Centrality Measures: A Stackelberg Game Perspective.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2023.3267854",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Social networking (online)[]Games[]Terrorism[]Image edge detection[]Computational complexity[]Privacy[]Internet"
+    },
+    {
+        "title": "Implicit Event Argument Extraction With Argument-Argument Relational Knowledge.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3218830",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Data mining[]Training[]Cognition[]Chronic kidney disease[]Task analysis[]Instruments[]Feature extraction"
+    },
+    {
+        "title": "A Branch Elimination-Based Efficient Algorithm for Large-Scale Multiple Longest Common Subsequence Problem.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3115057",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Sorting[]Memory management[]Estimation[]Computer science[]Upper bound[]Merging[]Heuristic algorithms"
+    },
+    {
+        "title": "Causal Inference for Knowledge Graph Based Recommendation.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3231352",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Motion pictures[]Predictive models[]Computational modeling[]Collaborative filtering[]Training[]Task analysis[]Tail"
+    },
+    {
+        "title": "Unsupervised Dimensionality Reduction Based on Fusing Multiple Clustering Results.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3114204",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Dimensionality reduction[]Manifolds[]Principal component analysis[]Optimization[]Learning systems[]Kernel[]Task analysis"
+    },
+    {
+        "title": "When is Early Classification of Time Series Meaningful?",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3108580",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Time series analysis[]Electrocardiography[]Classification algorithms[]Predictive models[]Heart[]Diseases[]Data models"
+    },
+    {
+        "title": "ExamGAN and Twin-ExamGAN for Exam Script Generation.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3233046",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Hidden Markov models[]Generative adversarial networks[]Knowledge engineering[]Training[]Gaussian distribution[]Task analysis[]Databases"
+    },
+    {
+        "title": "A Unified Framework for Adversarial Attacks on Multi-Source Domain Adaptation.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3230825",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Training[]Adaptation models[]Prediction algorithms[]Robustness[]Knowledge transfer[]Minimization[]Machine learning algorithms"
+    },
+    {
+        "title": "A Survey on Accuracy-Oriented Neural Recommendation: From Collaborative Filtering to Information-Rich Recommendation.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3145690",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Data models[]Context modeling[]History[]Neural networks[]Collaboration[]Representation learning[]Predictive models"
+    },
+    {
+        "title": "Knowledge Graph for China&apos;s Genealogy11.A shorter version of this paper won the Best Paper Award at IEEE ICKG 2020 (the 11th IEEE International Conference on Knowledge Graph, ickg 2020.bigke.org).",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3073745",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "nowledge engineering[]Data models[]Blood[]Data mining[]Artificial intelligence[]History[]Semantics"
+    },
+    {
+        "title": "Current Time Series Anomaly Detection Benchmarks are Flawed and are Creating the Illusion of Progress.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3112126",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Benchmark testing[]Anomaly detection[]Time series analysis[]Codes[]Deep learning[]NASA[]Computer science"
+    },
+    {
+        "title": "Enabling Privacy-Preserving and Efficient Authenticated Graph Queries on Blockchain-Assisted Clouds.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2023.3249279",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Blockchains[]Cloud computing[]Metadata[]Servers[]Cryptography[]Authentication[]Privacy"
+    },
+    {
+        "title": "Self-Supervised Learning on Graphs: Contrastive, Generative, or Predictive.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3131584",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Task analysis[]Natural language processing[]Open source software[]Measurement[]Training[]Data models[]Computer vision"
+    },
+    {
+        "title": "Effective Clustering via Structured Graph Learning.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3222411",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Optimization[]Clustering methods[]Clustering algorithms[]Task analysis[]Stability analysis[]Partitioning algorithms[]Eigenvalues and eigenfunctions"
+    },
+    {
+        "title": "An Inverse-Free Block-SOR Method With Randomly Sampling for Temporal Multiplex PageRank Problems.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3197920",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Multiplexing[]Social networking (online)[]Complex networks[]Sparse matrices[]Nonhomogeneous media[]Linear systems[]Damping"
+    },
+    {
+        "title": "Beyond Low-Pass Filtering: Graph Convolutional Networks With Automatic Filtering.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3186016",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Convolution[]Laplace equations[]Bandwidth[]Graph neural networks[]Fourier transforms[]High frequency[]Eigenvalues and eigenfunctions"
+    },
+    {
+        "title": "Category-Controlled Encoder-Decoder for Fake News Detection.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3103833",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Feature extraction[]Semantics[]Decoding[]Social networking (online)[]Task analysis[]Data models[]Recurrent neural networks"
+    },
+    {
+        "title": "Model Reuse With Reduced Kernel Mean Embedding Specification.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3086619",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Task analysis[]Kernel[]Data models[]Predictive models[]Training data[]Testing[]Machine learning"
+    },
+    {
+        "title": "Efficient Retrieval of the Top-$k$k Most Relevant Event-Partner Pairs.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3118552",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Social networking (online)[]Optimization[]Computational modeling[]Data structures[]Bayes methods[]Rocks[]Query processing"
+    },
+    {
+        "title": "Learning Decomposed Representations for Treatment Effect Estimation.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3150807",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "timation[]Instruments[]Reactive power[]Medical services[]Measurement[]Germanium[]Drugs"
+    },
+    {
+        "title": "Adaptive Spectral Rotation via Joint Cluster and Pairwise Structure.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3076521",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "nel[]Clustering algorithms[]Matrix decomposition[]Sparse matrices[]Partitioning algorithms[]Machine learning algorithms[]Laplace equations"
+    },
+    {
+        "title": "OPR-Miner: Order-Preserving Rule Mining for Time Series.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3224963",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Time series analysis[]Data mining[]Pattern matching[]Market research[]Symbols[]Feature extraction[]Clustering algorithms"
+    },
+    {
+        "title": "A Unified Generative Adversarial Learning Framework for Improvement of Skip-Gram Network Representation Learning Methods.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3076766",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Task analysis[]Semantics[]Generators[]Training[]Heterogeneous networks[]Computational modeling[]Predictive models"
+    },
+    {
+        "title": "On the Benefits of Two Dimensional Metric Learning.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3100353",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Measurement[]Complexity theory[]Indexes[]Upper bound[]Electroencephalography[]Brain modeling[]Symmetric matrices"
+    },
+    {
+        "title": "TIRA: Truth Inference via Reliability Aggregation on Object-Source Graph.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3225308",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Crowdsourcing[]Reliability engineering[]Representation learning[]Estimation[]Semantics[]Behavioral sciences[]Task analysis"
+    },
+    {
+        "title": "Querying for Interactions.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3094997",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Videos[]Query processing[]Heuristic algorithms[]Surveillance[]Object recognition[]Filtering algorithms[]Proposals"
+    },
+    {
+        "title": "An Efficient and Accurate Rough Set for Feature Selection, Classification, and Knowledge Representation.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3220200",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Rough sets[]Feature extraction[]Knowledge representation[]Redundancy[]Search problems[]Support vector machines[]Optimization"
+    },
+    {
+        "title": "Multi-Behavior Sequential Recommendation With Temporal Graph Transformer.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3175094",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Urban areas[]Predictive models[]Sensors[]Data models[]Correlation coefficient[]Correlation[]Context modeling"
+    },
+    {
+        "title": "Graph Neural Point Process for Temporal Interaction Prediction.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3149927",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Message passing[]Predictive models[]Adaptation models[]Roads[]Encoding[]Correlation[]Computational modeling"
+    },
+    {
+        "title": "On the Substructure Countability of Graph Neural Networks.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3223471",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Task analysis[]Approximation algorithms[]Prediction algorithms[]Matrix decomposition[]Graph neural networks[]Computational efficiency[]Computational modeling"
+    },
+    {
+        "title": "Robust Clustering Model Based on Attention Mechanism and Graph Convolutional Network.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3150300",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Robustness[]Data models[]Deep learning[]Computational modeling[]Task analysis[]Fuses[]Training"
+    },
+    {
+        "title": "GRRS: Accurate and Efficient Neighborhood Rough Set for Feature Selection.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3222447",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Rough sets[]Feature extraction[]Data models[]Training[]Measurement[]Euclidean distance[]Support vector machines"
+    },
+    {
+        "title": "CenGCN: Centralized Convolutional Networks with Vertex Imbalance for Scale-Free Graphs.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3149888",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Convolution[]Weight measurement[]Social networking (online)[]Laplace equations[]Indexes[]Data mining[]Computer science"
+    },
+    {
+        "title": "A Complex Weighted Discounting Multisource Information Fusion With its Application in Pattern Classification.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3206871",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Correlation[]Expert systems[]Evidence theory[]Cognition[]Robustness[]Australia[]Weight measurement"
+    },
+    {
+        "title": "Diffusion Pixelation: A Game Diffusion Model of Rumor &amp; Anti-Rumor Inspired by Image Restoration.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3144310",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "mage restoration[]Predictive models[]Image quality[]Analytical models[]Social networking (online)[]Prediction algorithms[]Games"
+    },
+    {
+        "title": "Hierarchical Interdisciplinary Topic Detection Model for Research Proposal Classification.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2023.3248608",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Proposals[]Task analysis[]Semantics[]Artificial intelligence[]Codes[]Transformers[]Electronic mail"
+    },
+    {
+        "title": "A Joint Maximum Likelihood Estimation Framework for Truth Discovery: A Unified Perspective.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3173911",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Task analysis[]Reliability theory[]Maximum likelihood estimation[]Convergence[]Privacy[]Heuristic algorithms[]Databases"
+    },
+    {
+        "title": "A Distributed Integrated Feature Selection Scheme for Column Subset Selection.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3108146",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Feature extraction[]Distributed databases[]Measurement[]Approximation algorithms[]Optimized production technology[]Information filters[]Filtering algorithms"
+    },
+    {
+        "title": "Generalized Divergence-Based Decision Making Method With an Application to Pattern Classification.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3177896",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Decision making[]Weight measurement[]Current measurement[]Robustness[]Probability distribution[]Measurement uncertainty[]Evidence theory"
+    },
+    {
+        "title": "Counterfactual Graph Learning for Anomaly Detection on Attributed Networks.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2023.3250523",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Anomaly detection[]Correlation[]Feature extraction[]Training data[]Task analysis[]Representation learning[]Image edge detection"
+    },
+    {
+        "title": "SketchNE: Embedding Billion-Scale Networks Accurately in One Hour.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2023.3250703",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Memory management[]Sparse matrices[]Costs[]Symbols[]Matrix decomposition[]Laplace equations[]Computational modeling"
+    },
+    {
+        "title": "An Efficient Spectral Clustering Algorithm Based on Granular-Ball.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2023.3249475",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Clustering algorithms[]Matrix decomposition[]Clustering methods[]Partitioning algorithms[]Approximation algorithms[]Machine learning algorithms[]Time complexity"
+    },
+    {
+        "title": "A Collaborative Alignment Framework of Transferable Knowledge Extraction for Unsupervised Domain Adaptation.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3185233",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Semantics[]Collaboration[]Training[]Feature extraction[]Task analysis[]Generators[]Minimization"
+    },
+    {
+        "title": "Spatio-Temporal Dynamic Graph Relation Learning for Urban Metro Flow Prediction.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2023.3269771",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Task analysis[]Spatiotemporal phenomena[]Urban areas[]Predictive models[]Graph neural networks[]Data models[]Roads"
+    },
+    {
+        "title": "A Generalized Framework for Preserving Both Privacy and Utility in Data Outsourcing.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3078099",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Cryptography[]Outsourcing[]Encryption[]Data analysis[]Encoding[]Data privacy[]DNA"
+    },
+    {
+        "title": "Towards Lightweight and Automated Representation Learning System for Networks.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2023.3243169",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Costs[]Random access memory[]Libraries[]Sparse matrices[]Social networking (online)[]Memory management[]Graphics processing units"
+    },
+    {
+        "title": "Random Deep Graph Matching.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3221084",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Task analysis[]Graph neural networks[]Optimization[]Robustness[]Interference[]Data models[]Pattern matching"
+    },
+    {
+        "title": "Optimizing Random Walk Based Statistical Estimation Over Graphs via Bootstrapping.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3126906",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "timation[]Mean square error methods[]Standards[]Social networking (online)[]Measurement[]Task analysis[]Estimation error"
+    },
+    {
+        "title": "Learning Regularized Noise Contrastive Estimation for Robust Network Embedding.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3148284",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "timation[]Convergence[]Linearity[]Kernel[]Task analysis[]Predictive models[]Data models"
+    },
+    {
+        "title": "A Framework to Support Continuous Range Queries Over Multi-Attribute Trajectories.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3100650",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Trajectory[]Semantics[]Indexes[]Vehicles[]Task analysis[]Public transportation[]Scalability"
+    },
+    {
+        "title": "Signed Network Representation by Preserving Multi-Order Signed Proximity.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3125148",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Scalability[]Task analysis[]Social networking (online)[]Predictive models[]Periodic structures[]Optimization[]Markov processes"
+    },
+    {
+        "title": "Explicit Message-Passing Heterogeneous Graph Neural Network.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3185128",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Semantics[]Graph neural networks[]Representation learning[]Convolution[]Task analysis[]Logic gates[]Computer architecture"
+    },
+    {
+        "title": "MetaCAR: Cross-Domain Meta-Augmentation for Content-Aware Recommendation.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3209005",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Task analysis[]Recommender systems[]Motion pictures[]Adaptation models[]Training[]Data models[]Data mining"
+    },
+    {
+        "title": "Geometric Algebra Based Embeddings for Static and Temporal Knowledge Graph Completion.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3151435",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Representation learning[]Measurement[]Tensors[]Algebra[]Knowledge graphs[]Predictive models[]Task analysis"
+    },
+    {
+        "title": "Deep Isolation Forest for Anomaly Detection.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2023.3270293",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Partitioning algorithms[]Forestry[]Scalability[]Neural networks[]Detectors[]Synthetic data[]Feature extraction"
+    },
+    {
+        "title": "Self-Supervised Discriminative Feature Learning for Deep Multi-View Clustering.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3193569",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Representation learning[]Task analysis[]Matrix decomposition[]Decoding[]Computer science[]Complexity theory[]Unsupervised learning"
+    },
+    {
+        "title": "Multi-View Partial Multi-Label Learning via Graph-Fusion-Based Label Enhancement.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3232482",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Predictive models[]Training[]Noise measurement[]Task analysis[]Aggregates[]Manifolds[]Labeling"
+    },
+    {
+        "title": "Empowering A* Algorithm With Neuralized Variational Heuristics for Fastest Route Recommendation.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2023.3269084",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Costs[]Roads[]Heuristic algorithms[]Routing[]Task analysis[]Prediction algorithms[]Estimation"
+    },
+    {
+        "title": "A Novel Classifier Ensemble Method Based on Subspace Enhancement for High-Dimensional Data Classification.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3087517",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Feature extraction[]Training[]Diversity reception[]Bagging[]Principal component analysis[]Boosting[]Random forests"
+    },
+    {
+        "title": "NetRL: Task-Aware Network Denoising via Deep Reinforcement Learning.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3091022",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Noise reduction[]Noise measurement[]Task analysis[]Reinforcement learning[]Image edge detection[]Training[]Roads"
+    },
+    {
+        "title": "Time-Aware Context-Gated Graph Attention Network for Clinical Risk Prediction.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3181780",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Data models[]Feature extraction[]Data mining[]Task analysis[]Recurrent neural networks[]Predictive models[]Diseases"
+    },
+    {
+        "title": "Multi-Modal Discrete Collaborative Filtering for Efficient Cold-Start Recommendation.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3079581",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Recommender systems[]Quantization (signal)[]Collaboration[]Feature extraction[]Fuses[]Optimization methods[]History"
+    },
+    {
+        "title": "Channel Attention for Sensor-Based Activity Recognition: Embedding Features into all Frequencies in DCT Domain.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2023.3277839",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Sensors[]Discrete cosine transforms[]Task analysis[]Image sensors[]Sensor phenomena and characterization[]Markov processes[]Deep learning"
+    },
+    {
+        "title": "CCGL: Contrastive Cascade Graph Learning.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3151829",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Training[]Visualization[]Uncertainty[]Supervised learning[]Self-supervised learning[]Predictive models[]Linguistics"
+    },
+    {
+        "title": "CasFlow: Exploring Hierarchical Structures and Propagation Uncertainty for Cascade Prediction.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3126475",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Predictive models[]Uncertainty[]Context modeling[]Social networking (online)[]Biological system modeling[]Computational modeling[]Blogs"
+    },
+    {
+        "title": "Rank-$r$r Discrete Matrix Factorization for Anchor Graph Clustering.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3198800",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Clustering algorithms[]Sparse matrices[]Clustering methods[]Linear programming[]Approximation algorithms[]Time complexity[]Optics"
+    },
+    {
+        "title": "DDRM: A Continual Frequency Estimation Mechanism With Local Differential Privacy.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3177721",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Differential privacy[]Data collection[]Time series analysis[]Noise measurement[]Privacy[]Frequency estimation[]Real-time systems"
+    },
+    {
+        "title": "Knowledge Graph Quality Management: A Comprehensive Survey.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3150080",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Data integrity[]Measurement[]Resource description framework[]Task analysis[]Knowledge engineering[]Error correction[]Quality assessment"
+    },
+    {
+        "title": "Multi-Level Attention Map Network for Multimodal Sentiment Analysis.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3155290",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Feature extraction[]Task analysis[]Sentiment analysis[]Fuses[]Visualization[]User-generated content[]Data mining"
+    },
+    {
+        "title": "Mutual Information-Guided GA for Bayesian Network Structure Learning.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3219862",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Statistics[]Sociology[]Search problems[]Bayes methods[]Genetic algorithms[]Convergence[]Heuristic algorithms"
+    },
+    {
+        "title": "Towards Improving Embedding Based Models of Social Network Alignment via Pseudo Anchors.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3127585",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Social networking (online)[]Task analysis[]Neural networks[]Matrix decomposition[]Geometry[]Data models[]Tuning"
+    },
+    {
+        "title": "Spatial Distribution-Based Imbalanced Undersampling.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3161537",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Training[]Costs[]Biological neural networks[]Machine learning algorithms[]Clustering algorithms[]Signal processing algorithms[]Proposals"
+    },
+    {
+        "title": "Composite Neural Network: Theory and Application to PM2.5 Prediction.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3099135",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Neural networks[]Training[]Data models[]Transfer learning[]Computational modeling[]Predictive models[]Prediction algorithms"
+    },
+    {
+        "title": "Cluster-Based Joins for Federated SPARQL Queries.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3135507",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Clustering algorithms[]Resource description framework[]Costs[]Distributed databases[]Seaports[]Pattern matching[]Marine vehicles"
+    },
+    {
+        "title": "Time-Capturing Dynamic Graph Embedding for Temporal Linkage Evolution.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3085758",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Heuristic algorithms[]Couplings[]Evolution (biology)[]Prediction algorithms[]Trajectory[]Task analysis[]Social networking (online)"
+    },
+    {
+        "title": "Dynamic Set Similarity Join: An Update Log Based Approach.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3126631",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "ndexes[]Heuristic algorithms[]Costs[]Computer science[]Computational efficiency[]Social networking (online)[]Data mining"
+    },
+    {
+        "title": "LiteWSEC: A Lightweight Framework for Web-Scale Spectral Ensemble Clustering.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2023.3267167",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Prototypes[]Laplace equations[]Clustering algorithms[]Bipartite graph[]Time complexity[]Memory management[]Scalability"
+    },
+    {
+        "title": "Local Feature Selection for Large-Scale Data Sets With Limited Labels.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3181208",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Feature extraction[]Rough sets[]Data processing[]Data mining[]Computational efficiency[]Semisupervised learning[]Microcomputers"
+    },
+    {
+        "title": "Region or Global? A Principle for Negative Sampling in Graph-Based Recommendation.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3155155",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Fasteners[]Computer science[]Training data[]Propagation losses[]Training[]Task analysis[]Smoothing methods"
+    },
+    {
+        "title": "Interpretable and Efficient Heterogeneous Graph Convolutional Network.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3101356",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Task analysis[]Convolution[]Computer architecture[]Scalability[]Time complexity[]Symmetric matrices[]Aggregates"
+    },
+    {
+        "title": "Graph Substructure Assembling Network With Soft Sequence and Context Attention.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3148299",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Feature extraction[]Kernel[]Deep learning[]Task analysis[]Recurrent neural networks[]Predictive models[]Optimization"
+    },
+    {
+        "title": "Analysis of Authorization Constraints via Integer Linear Programming.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3124271",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Authorization[]Blacklisting[]Mathematical models[]Petri nets[]Integer linear programming[]Optimization[]Monitoring"
+    },
+    {
+        "title": "Ultra Data-Oriented Parallel Fractional Hot-Deck Imputation With Efficient Linearized Variance Estimation.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2023.3249567",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "ndexes[]Memory management[]Mathematical models[]Feature extraction[]Deep learning[]Curing[]Parallel algorithms"
+    },
+    {
+        "title": "Extracting and Composing Robust Features With Broad Learning System.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3137792",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Feature extraction[]Training[]Data mining[]Learning systems[]Stacking[]Optimization[]Task analysis"
+    },
+    {
+        "title": "Reveal Your Images: Gradient Leakage Attack Against Unbiased Sampling-Based Secure Aggregation.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2023.3271432",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Servers[]Image reconstruction[]Threat modeling[]Security[]Federated learning[]Indexes[]Training data"
+    },
+    {
+        "title": "Revisiting Embedding Based Graph Analyses: Hyperparameters Matter!",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3230743",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Task analysis[]Indexes[]Systematics[]Graph neural networks[]Training[]Performance gain[]Analytical models"
+    },
+    {
+        "title": "Streaming Graph Embeddings via Incremental Neighborhood Sketching.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3149999",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Task analysis[]Computational modeling[]Communication networks[]Social networking (online)[]Graph neural networks[]Faces[]Approximation error"
+    },
+    {
+        "title": "A Survey on Deep Semi-Supervised Learning.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3220219",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Semisupervised learning[]Training[]Taxonomy[]Task analysis[]Deep learning[]Data models[]Supervised learning"
+    },
+    {
+        "title": "Learning Adaptive Embedding Considering Incremental Class.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3109131",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Data models[]Task analysis[]Labeling[]Streaming media[]Training[]Prototypes[]Manuals"
+    },
+    {
+        "title": "Breaking the Expression Bottleneck of Graph Neural Networks.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3168070",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Task analysis[]Graph neural networks[]Convolution[]Buildings[]Systematics[]Representation learning[]Power measurement"
+    },
+    {
+        "title": "Dynamically Optimizing Display Advertising Profits Under Diverse Budget Settings.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3077699",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "timation[]Advertising[]Optimization[]Real-time systems[]Predictive models[]Forecasting[]Browsers"
+    },
+    {
+        "title": "Event-Oriented Visual Question Answering: The E-VQA Dataset and Benchmark.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2023.3267036",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Task analysis[]Visualization[]Transformers[]Feature extraction[]Question answering (information retrieval)[]Encyclopedias[]Data models"
+    },
+    {
+        "title": "Kernelized Multitask Learning Method for Personalized Signaling Adverse Drug Reactions.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3108819",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Drugs[]Biological system modeling[]Kernel[]Task analysis[]Computational modeling[]Bayes methods[]Proteins"
+    },
+    {
+        "title": "Corporate Relative Valuation Using Heterogeneous Multi-Modal Graph Neural Network.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3080293",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Companies[]Cost accounting[]Couplings[]Hidden Markov models[]Business[]Aggregates[]Task analysis"
+    },
+    {
+        "title": "Time-Aware Dynamic Graph Embedding for Asynchronous Structural Evolution.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2023.3246059",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Noise measurement[]Heuristic algorithms[]Transformers[]Task analysis[]Data models[]Data mining[]Australia"
+    },
+    {
+        "title": "Learning Causal Representations for Robust Domain Adaptation.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3119185",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Dogs[]Data models[]Predictive models[]Markov processes[]Adaptation models[]Training[]Sentiment analysis"
+    },
+    {
+        "title": "Who&apos;s Next: Rising Star Prediction via Diffusion of User Interest in Social Networks.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3151835",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Social networking (online)[]Receivers[]Faces[]Electronic commerce[]Recommender systems[]Market research"
+    },
+    {
+        "title": "Efficient Multi-View K-Means Clustering With Multiple Anchor Graphs.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3185683",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Clustering algorithms[]Optimization[]Task analysis[]Matrix converters[]Indexes[]Euclidean distance[]Data models"
+    },
+    {
+        "title": "Hyperbolic Temporal Network Embedding.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3232398",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Numerical models[]Geometry[]Computational modeling[]Data models[]Mathematical models[]Convolutional codes[]Graph neural networks"
+    },
+    {
+        "title": "Cost-Effective Incremental Deep Model: Matching Model Capacity With the Least Sampling.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3132622",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Data models[]Adaptation models[]Training[]Task analysis[]Sustainable development[]Scalability[]Labeling"
+    },
+    {
+        "title": "Discrete Robust Matrix Factorization Hashing for Large-Scale Cross-Media Retrieval.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3107489",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Semantics[]Training data[]Training[]Task analysis[]Media[]Data models[]Videos"
+    },
+    {
+        "title": "Concept-Level Model Interpretation From the Causal Aspect.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3209997",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Predictive models[]Data models[]Feature extraction[]Electronic mail[]Data mining[]Analytical models[]Convolutional neural networks"
+    },
+    {
+        "title": "Edge-Cloud Polarization and Collaboration: A Comprehensive Survey for AI.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3178211",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Artificial intelligence[]Cloud computing[]Computational modeling[]Edge computing[]Collaboration[]Internet of Things[]Hardware"
+    },
+    {
+        "title": "MANE: Organizational Network Embedding With Multiplex Attentive Neural Networks.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3140866",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Social networking (online)[]Multiplexing[]Task analysis[]Semantics[]Analytical models[]Network analyzers[]Electronic mail"
+    },
+    {
+        "title": "Sparse Graph Attention Networks.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3072345",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Task analysis[]Noise measurement[]Training[]Redundancy[]Convolution[]Aggregates[]Social networking (online)"
+    },
+    {
+        "title": "Dual Adversarial Variational Embedding for Robust Recommendation.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3093773",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Data models[]Training[]Decoding[]Robustness[]Probabilistic logic[]Noise reduction[]Collaboration"
+    },
+    {
+        "title": "Multi Global Information Assisted Streaming Session-Based Recommendation System.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3199373",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Data models[]Reservoirs[]Recurrent neural networks[]Computer architecture[]Computational modeling[]Logic gates[]Heuristic algorithms"
+    },
+    {
+        "title": "Scalable Kernel $k$-Means With Randomized Sketching: From Theory to Algorithm.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3222146",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "nel[]Time complexity[]Complexity theory[]Hilbert space[]Costs[]Unsupervised learning[]Feature extraction"
+    },
+    {
+        "title": "Incomplete Multi-View Clustering With Reconstructed Views.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3112114",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "nel[]Clustering methods[]Laplace equations[]Clustering algorithms[]Image reconstruction[]Sun[]Linear programming"
+    },
+    {
+        "title": "OMG: Towards Effective Graph Classification Against Label Noise.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2023.3271677",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Noise measurement[]Training[]Kernel[]Task analysis[]Reliability[]Optimization[]Graph neural networks"
+    },
+    {
+        "title": "MRT: Tracing the Evolution of Scientific Publications.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3088139",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Bit error rate[]Task analysis[]Heuristic algorithms[]Labeling[]Training[]Taxonomy[]Libraries"
+    },
+    {
+        "title": "Online Multi-Label Streaming Feature Selection With Label Correlation.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3113514",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Correlation[]Feature extraction[]Mutual information[]Prediction algorithms[]Heuristic algorithms[]Time complexity[]Streaming media"
+    },
+    {
+        "title": "Online Learning From Incomplete and Imbalanced Data Streams.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2023.3250472",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Heuristic algorithms[]Real-time systems[]Costs[]Data mining[]Classification algorithms[]Optimization[]Aerospace electronics"
+    },
+    {
+        "title": "Robust Unsupervised Feature Selection via Multi-Group Adaptive Graph Representation.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3124255",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Feature extraction[]Iterative methods[]Data models[]Adaptation models[]Optimization[]Sparse matrices[]Faces"
+    },
+    {
+        "title": "Citywide Estimation of Travel Time Distributions With Bayesian Deep Graph Learning.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3117986",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "timation[]Roads[]Transportation[]Training[]Bayes methods[]Trajectory[]Deep learning"
+    },
+    {
+        "title": "DataOps-4G: On Supporting Generalists in Data Quality Discovery.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3151605",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Data integrity[]Task analysis[]Programming[]Codes[]Cleaning[]Data models[]Annotations"
+    },
+    {
+        "title": "CGF: A Category Guidance Based PM$_{2.5}$ Sequence Forecasting Training Framework.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2023.3253703",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Forecasting[]Predictive models[]Training[]Fluctuations[]Decoding[]Market research[]Computational modeling"
+    },
+    {
+        "title": "On Efficient Large Maximal Biplex Discovery.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3077071",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Bipartite graph[]Scalability[]Computer science[]Backtracking[]Partitioning algorithms[]Proteins[]Navigation"
+    },
+    {
+        "title": "Heterogeneous Graph Representation Learning With Relation Awareness.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3160208",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Semantics[]Task analysis[]Representation learning[]Aggregates[]Graph neural networks[]Convolution[]Transformers"
+    },
+    {
+        "title": "Label-Enhanced Graph Neural Network for Semi-Supervised Node Classification.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3231660",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Training[]Task analysis[]Semantics[]Message passing[]Adaptation models[]Sun[]Encoding"
+    },
+    {
+        "title": "Multi-Hop Reasoning Question Generation and Its Application.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3073227",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Task analysis[]Cognition[]Adaptation models[]Correlation[]Data models[]Semantics[]Syntactics"
+    },
+    {
+        "title": "Maximal Clique Search in Weighted Graphs.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2023.3239409",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Computational modeling[]Indexes[]Search problems[]Proteins[]Federated learning[]Uncertainty[]Topology"
+    },
+    {
+        "title": "Robust Sparse Weighted Classification for Crowdsourcing.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3201955",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Labeling[]Crowdsourcing[]Task analysis[]Sparse matrices[]Data models[]Probability distribution[]Entropy"
+    },
+    {
+        "title": "Semantic and Structural View Fusion Modeling for Social Recommendation.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3230972",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Semantics[]Adaptation models[]Predictive models[]Behavioral sciences[]Data models[]Noise measurement[]Aggregates"
+    },
+    {
+        "title": "Collaborative Semantic Aggregation and Calibration for Federated Domain Generalization.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2023.3271851",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Semantics[]Data models[]Training[]Data privacy[]Calibration[]Adaptation models[]Distributed databases"
+    },
+    {
+        "title": "Joint Network Topology Inference via Structural Fusion Regularization.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2023.3264971",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Network topology[]Laplace equations[]Topology[]Task analysis[]Statistical analysis[]Social networking (online)[]Correlation"
+    },
+    {
+        "title": "Persuade to Click: Context-Aware Persuasion Model for Online Textual Advertisement.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3110724",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Context modeling[]Analytical models[]Computational modeling[]Advertising[]Predictive models[]Skin[]Pricing"
+    },
+    {
+        "title": "Modeling Spatial Nonstationarity via Deformable Convolutions for Deep Traffic Flow Prediction.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3112977",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Standards[]Deformable models[]Autocorrelation[]Predictive models[]Urban areas[]Shape[]Residual neural networks"
+    },
+    {
+        "title": "SGSI - A Scalable GPU-Friendly Subgraph Isomorphism Algorithm.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3230744",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Graphics processing units[]Instruction sets[]Memory management[]Scalability[]Parallel processing[]Space exploration[]Search problems"
+    },
+    {
+        "title": "Matching Knowledge Graphs in Entity Embedding Spaces: An Experimental Study.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2023.3272584",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Representation learning[]Task analysis[]Pipelines[]Impedance matching[]Semantics[]Mirrors[]Measurement"
+    },
+    {
+        "title": "Hierarchical Multi-View Graph Pooling With Structure Learning.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3090664",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Task analysis[]Convolution[]Graph neural networks[]Electronic mail[]Collaboration[]Learning systems[]Message passing"
+    },
+    {
+        "title": "Domain-Specific Topic Model for Knowledge Discovery in Computational and Data-Intensive Scientific Communities.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3093350",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Tools[]Biological system modeling[]Neuroscience[]Knowledge discovery[]Bioinformatics[]Market research[]Data models"
+    },
+    {
+        "title": "Eigen-GNN: A Graph Structure Preserving Plug-in for GNNs.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3112746",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Task analysis[]Training[]Laplace equations[]Convolutional codes[]Convolution[]Social networking (online)[]Smoothing methods"
+    },
+    {
+        "title": "A VAE-Based User Preference Learning and Transfer Framework for Cross-Domain Recommendation.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2023.3253168",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Collaboration[]Decoding[]Training[]Knowledge transfer[]Data models[]Bayes methods[]Sparse matrices"
+    },
+    {
+        "title": "Unsupervised Deep Anomaly Detection for Multi-Sensor Time-Series Signals.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3102110",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Anomaly detection[]Predictive models[]Data models[]Autoregressive processes[]Image reconstruction[]Forecasting[]Computational modeling"
+    },
+    {
+        "title": "Enhancing Time Series Predictors With Generalized Extreme Value Loss.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3108831",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Time series analysis[]Predictive models[]Kernel[]Autoregressive processes[]Task analysis[]Data models[]Indexes"
+    },
+    {
+        "title": "ChartNavigator: An Interactive Pattern Identification and Annotation Framework for Charts.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3094236",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Visualization[]Data models[]Annotations[]Data visualization[]Solid modeling[]Inference algorithms[]Estimation"
+    },
+    {
+        "title": "Maximizing the Spread of Effective Information in Social Networks.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3138783",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Social networking (online)[]Mouth[]Smart phones[]Estimation[]Approximation algorithms[]Time complexity[]Statistics"
+    },
+    {
+        "title": "MINING: Multi-Granularity Network Alignment Based on Contrastive Learning.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2023.3273782",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Data mining[]Refining[]Feature extraction[]Data models[]Sun[]Learning systems[]Knowledge transfer"
+    },
+    {
+        "title": "Efficient Hierarchical Storage Management Empowered by Reinforcement Learning.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3176753",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Cloud computing[]Reinforcement learning[]Mathematical models[]Big Data[]Heuristic algorithms[]Costs[]Usability"
+    },
+    {
+        "title": "A Measurement-Driven Analysis and Prediction of Content Propagation in the Device-to-Device Social Networks.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3219399",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Device-to-device communication[]Social networking (online)[]Topology[]Network topology[]Predictive models[]Integrated circuit modeling[]Uncertainty"
+    },
+    {
+        "title": "Multi-View Attribute Weighted Naive Bayes.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3177634",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Training[]Predictive models[]Redundancy[]Data mining[]Fuses[]Computational modeling[]Weight measurement"
+    },
+    {
+        "title": "KNN Classification With One-Step Computation.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3119140",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Training[]Training data[]Sparse matrices[]Prediction algorithms[]Approximation algorithms[]Licenses[]Euclidean distance"
+    },
+    {
+        "title": "Region Embedding With Intra and Inter-View Contrastive Learning.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3220874",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Representation learning[]Feature extraction[]Task analysis[]Guidelines[]Urban areas[]Social networking (online)[]Satellites"
+    },
+    {
+        "title": "A Survey on Aspect-Based Sentiment Analysis: Tasks, Methods, and Challenges.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3230975",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Task analysis[]Sentiment analysis[]Compounds[]Data mining[]Taxonomy[]Analytical models[]Systematics"
+    },
+    {
+        "title": "LOKI: A Practical Data Poisoning Attack Framework Against Next Item Recommendations.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3181270",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Behavioral sciences[]Training[]Reinforcement learning[]Task analysis[]Collaborative filtering[]Recurrent neural networks[]Detectors"
+    },
+    {
+        "title": "Weakly-Supervised Enhanced Semantic-Aware Hashing for Cross-Modal Retrieval.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3172216",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Semantics[]Correlation[]Sparse matrices[]Matrix decomposition[]Binary codes[]Training data[]Noise measurement"
+    },
+    {
+        "title": "CityNeuro: Towards Location and Time Prediction for Urban Abnormal Events.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3193128",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Spatiotemporal phenomena[]Urban areas[]Safety[]Correlation[]Government[]Forecasting[]Fluctuations"
+    },
+    {
+        "title": "Model Inversion Attacks Against Graph Neural Networks.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3207915",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Data models[]Analytical models[]Training[]Predictive models[]Graph neural networks[]Data privacy[]Image reconstruction"
+    },
+    {
+        "title": "Reachable Distance Function for KNN Classification.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3185149",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "uclidean distance[]Covariance matrices[]Probability distribution[]Hamming distance[]Training data[]Machine learning[]Chebyshev approximation"
+    },
+    {
+        "title": "ConPhrase: Enhancing Context-Aware Phrase Mining From Text Corpora.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3193126",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Data mining[]Noise measurement[]Relational databases[]Semantics[]Labeling[]Task analysis[]Hypertension"
+    },
+    {
+        "title": "Adaptive Graph Convolution Methods for Attributed Graph Clustering.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2023.3278721",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Convolution[]Clustering methods[]Automatic generation control[]Proteins[]Social networking (online)[]Feature extraction[]Adaptation models"
+    },
+    {
+        "title": "The Design and Implementation of UniKV for Mixed Key-Value Storage Workloads.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2023.3234510",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "ndexing[]Compaction[]Throughput[]Scalability[]Dynamic range[]Optimization[]Merging"
+    },
+    {
+        "title": "Event Detection With Dynamic Word-Trigger-Argument Graph Neural Networks.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3132956",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Conferences[]Portable document format[]Indexes[]Typesetting[]Loading[]Web sites[]Warranties"
+    },
+    {
+        "title": "Fairness-Aware Maximal Clique in Large Graphs: Concepts and Algorithms.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3232165",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Machine learning[]Computational modeling[]Backtracking[]Social networking (online)[]Task analysis[]Search problems[]Proteins"
+    },
+    {
+        "title": "Stable Subgraph Isomorphism Search in Temporal Networks.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3175800",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Query processing[]Search problems[]Indexes"
+    },
+    {
+        "title": "EATN: An Efficient Adaptive Transfer Network for Aspect-Level Sentiment Analysis.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3075238",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Task analysis[]Sentiment analysis[]Feature extraction[]Data models[]Customer services[]Adaptation models[]Analytical models"
+    },
+    {
+        "title": "OAG: Linking Entities Across Large-Scale Heterogeneous Knowledge Graphs.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3222168",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Task analysis[]Convolutional neural networks[]Computer science[]Imaging[]Analytical models[]Solid modeling[]Long short term memory"
+    },
+    {
+        "title": "Parallel Hub Labeling Maintenance With High Efficiency in Dynamic Small-World Networks.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2023.3236632",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "ndexes[]Labeling[]Maintenance engineering[]Phase locked loops[]Computational efficiency[]Scalability[]Query processing"
+    },
+    {
+        "title": "RLCharge: Imitative Multi-Agent Spatiotemporal Reinforcement Learning for Electric Vehicle Charging Station Recommendation.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3178819",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Charging stations[]Task analysis[]Convolution[]Training[]Reinforcement learning[]Optimization[]Continuous wavelet transforms"
+    },
+    {
+        "title": "Multi-Faceted Knowledge-Driven Pre-Training for Product Representation Learning.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3200921",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Task analysis[]Monitoring[]Semantics[]Pediatrics[]Representation learning[]Electronic publishing[]Electronic commerce"
+    },
+    {
+        "title": "Modality-Invariant Asymmetric Networks for Cross-Modal Hashing.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3144352",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Semantics[]Binary codes[]Electronic mail[]Training[]Representation learning[]Measurement[]Feature extraction"
+    },
+    {
+        "title": "EGraph: Efficient Concurrent GPU-Based Dynamic Graph Processing.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3171588",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Graphics processing units[]Costs[]Heuristic algorithms[]Data transfer[]Throughput[]Public transportation[]Knowledge engineering"
+    },
+    {
+        "title": "A Deep Dual Adversarial Network for Cross-Domain Recommendation.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3132953",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Feature extraction[]Recommender systems[]Knowledge transfer[]Task analysis[]Data mining[]Knowledge engineering[]Adversarial machine learning"
+    },
+    {
+        "title": "Permutation-Equivariant and Proximity-Aware Graph Neural Networks With Stochastic Message Passing.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3154391",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Switched mode power supplies[]Task analysis[]Neural networks[]Message passing[]Decoding[]Stochastic processes[]Electronic mail"
+    },
+    {
+        "title": "System Log Parsing: A Survey.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3222417",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Printing[]Taxonomy[]Runtime[]Terminology[]Standards[]Source coding[]Electronic mail"
+    },
+    {
+        "title": "Context-Aware and Time-Aware Attention-Based Model for Disease Risk Prediction With Interpretability.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3130171",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Predictive models[]Data models[]Computational modeling[]Codes[]Medical services[]Medical diagnostic imaging[]Diseases"
+    },
+    {
+        "title": "On Social Network De-Anonymization With Communities: A Maximum A Posteriori Perspective.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3124559",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Social networking (online)[]Cost function[]Measurement[]Privacy[]Analytical models[]Data models[]Costs"
+    },
+    {
+        "title": "Outdoor Position Recovery From Heterogeneous Telco Cellular Data.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3232361",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Mobile handsets[]Transportation[]Location awareness[]Global Positioning System[]Hidden Markov models[]Base stations[]Feature extraction"
+    },
+    {
+        "title": "When Behavior Analysis Meets Social Network Alignment.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3197985",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Behavioral sciences[]Social networking (online)[]Correlation[]Data mining[]Tensors[]Task analysis[]Predictive analytics"
+    },
+    {
+        "title": "Efficient and Secure Skyline Queries Over Vertical Data Federation.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3222415",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "nsurance[]Companies[]Security[]Costs[]Query processing[]Multi-party computation[]Protocols"
+    },
+    {
+        "title": "Imbalanced Clustering With Theoretical Learning Bounds.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2023.3242306",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Clustering algorithms[]Clustering methods[]Linear programming[]Task analysis[]Supervised learning[]Solids[]Partitioning algorithms"
+    },
+    {
+        "title": "Hierarchical Reduced-Space Drift Detection Framework for Multivariate Supervised Data Streams.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3111756",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Detectors[]Monitoring[]Training[]Task analysis[]Licenses[]Feature extraction[]Delays"
+    },
+    {
+        "title": "Adaptive Memory Networks With Self-Supervised Learning for Unsupervised Anomaly Detection.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3139916",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Anomaly detection[]Image reconstruction[]Data models[]Feature extraction[]Time series analysis[]Training[]Training data"
+    },
+    {
+        "title": "Expanding the Edge: Enabling Efficient Winograd CNN Inference With Deep Reuse on Edge Device.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2023.3269017",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Convolution[]Convolutional neural networks[]Performance evaluation[]Neurons[]Filtering algorithms[]Internet of Things[]Filtering"
+    },
+    {
+        "title": "TENSILE: A Tensor Granularity Dynamic GPU Memory Scheduling Method Toward Multiple Dynamic Workloads System.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3221426",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Graphics processing units[]Tensors[]Dynamic scheduling[]Memory management[]Deep learning[]Schedules[]Processor scheduling"
+    },
+    {
+        "title": "MuL-GRN: Multi-Level Graph Relation Network for Few-Shot Node Classification.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3176880",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Computer vision[]Costs[]Network topology[]Fuses[]Current measurement[]Feature extraction[]Graph neural networks"
+    },
+    {
+        "title": "Fast Gumbel-Max Sketch and its Applications.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2023.3237857",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "timation[]Random variables[]Costs[]Time complexity[]Servers[]Electronic mail[]Roads"
+    },
+    {
+        "title": "WATCH: Two-Stage Discrete Cross-Media Hashing.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3159131",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Hash functions[]Semantics[]Binary codes[]Quantization (signal)[]Matrix decomposition[]Sparse matrices[]Optimization"
+    },
+    {
+        "title": "DAH: Discrete Asymmetric Hashing for Efficient Cross-Media Retrieval.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3099125",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Semantics[]Encoding[]Binary codes[]Hash functions[]Quantization (signal)[]Databases[]Data models"
+    },
+    {
+        "title": "Incremental Learning Based on Granular Ball Rough Sets for Classification in Dynamic Mixed-Type Decision System.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2023.3237833",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Rough sets[]Information systems[]Computational modeling[]Task analysis[]Granular computing[]Knowledge discovery[]Indexes"
+    },
+    {
+        "title": "Dynamic Graph Neural Networks for Sequential Recommendation.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3151618",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Graph neural networks[]Collaboration[]Task analysis[]Convolution[]Training[]Recommender systems[]Predictive models"
+    },
+    {
+        "title": "Independent Relation Representation With Line Graph for Cross-Lingual Entity Alignment.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3232138",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Correlation[]Task analysis[]Tail[]Graph neural networks[]Complexity theory[]Solids[]Semantic search"
+    },
+    {
+        "title": "Dynamic Auto-Structuring Graph Neural Network: A Joint Learning Framework for Origin-Destination Demand Prediction.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3135898",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Transportation[]Predictive models[]Data models[]Vehicle dynamics[]Learning systems[]Urban areas[]Graph neural networks"
+    },
+    {
+        "title": "Link Prediction with Contextualized Self-Supervision.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3200390",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Self-supervised learning[]Task analysis[]Indexes[]Prediction algorithms[]Context modeling[]Seals[]Predictive models"
+    },
+    {
+        "title": "Projective Ranking-Based GNN Evasion Attacks.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3219209",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Perturbation methods[]Data models[]Adaptation models[]Reinforcement learning[]Predictive models[]Mutual information[]Costs"
+    },
+    {
+        "title": "Beyond the Limits of Predictability in Human Mobility Prediction: Context-Transition Predictability.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3148300",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Prediction algorithms[]Urban areas[]Predictive models[]Trajectory[]COVID-19[]Entropy[]Context modeling"
+    },
+    {
+        "title": "Semi-Supervised Entity Alignment With Global Alignment and Local Information Aggregation.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2023.3238993",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "nowledge graphs[]Task analysis[]Training[]Topology[]Graph neural networks[]Data models[]Ontologies"
+    },
+    {
+        "title": "Deep Kernel Network Embedding.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3153053",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "nel[]Convolution[]Representation learning[]Probability distribution[]Knowledge engineering[]Approximation algorithms[]Training"
+    },
+    {
+        "title": "Burstiness-Aware Web Search Analysis on Different Levels of Evidences.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3109304",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Web search[]Biological system modeling[]Computational modeling[]Analytical models[]Time division multiplexing[]Uniform resource locators[]Probabilistic logic"
+    },
+    {
+        "title": "Latent Structure Mining With Contrastive Modality Fusion for Multimedia Recommendation.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3221949",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Visualization[]Semantics[]Collaboration[]Videos[]Recommender systems[]Sports[]Pediatrics"
+    },
+    {
+        "title": "Learning Linear and Nonlinear Low-Rank Structure in Multi-Task Learning.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3203904",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Tensors[]Task analysis[]Multitasking[]Data models[]Deep learning[]Symbols[]Neural networks"
+    },
+    {
+        "title": "Efficiently Counting Triangles for Hypergraph Streams by Reservoir-Based Sampling.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2023.3236335",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Mercury (metals)[]Estimation error[]Switches[]Costs[]Real-time systems[]Image edge detection[]Viruses (medical)"
+    },
+    {
+        "title": "HyperISO: Efficiently Searching Subgraph Containment in Hypergraphs.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3203856",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Costs[]Social networking (online)[]Data mining[]Amino acids[]Transforms[]Symbols[]Proteins"
+    },
+    {
+        "title": "Where to: Crowd-Aided Path Selection by Selective Bayesian Network.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3078833",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Task analysis[]Routing[]Public transportation[]Crowdsourcing[]Roads[]Entropy[]Navigation"
+    },
+    {
+        "title": "A Robust Game-Theoretical Federated Learning Framework With Joint Differential Privacy.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2021.3140131",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Collaborative work[]Servers[]Training[]Privacy[]Differential privacy[]Data models[]Game theory"
+    },
+    {
+        "title": "A Game-Theoretic Federated Learning Framework for Data Quality Improvement.",
+        "year": "2023",
+        "url": "https://doi.org/10.1109/TKDE.2022.3230959",
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "journal_shorter_form": "TKDE",
+        "keywords": "Federated learning[]Games[]Training[]Privacy[]Differential privacy[]Nash equilibrium[]Data models"
+    }
+]

@@ -1,0 +1,1842 @@
+[
+    {
+        "title": "On Lipschitz Bounds of General Convolutional Neural Networks.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TIT.2019.2961812",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Scattering[]Convolution[]Feature extraction[]Transforms[]Stability analysis[]Perturbation methods"
+    },
+    {
+        "title": "Waiting Before Serving: A Companion to Packet Management in Status Update Systems.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TIT.2019.2963035",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Servers[]Transmitters[]Information age[]Receivers[]Queueing analysis[]Buffer storage[]Measurement"
+    },
+    {
+        "title": "Quickest Detection of Dynamic Events in Networks.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TIT.2019.2948350",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Heuristic algorithms[]Approximation algorithms[]Transient analysis[]Computational complexity[]Power system dynamics[]Image edge detection[]Signal processing algorithms"
+    },
+    {
+        "title": "Asymptotic Average Multiplicity of Structures Within Different Categories of Trapping Sets, Absorbing Sets, and Stopping Sets in Random Regular and Irregular LDPC Code Ensembles.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2923198",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Parity check codes[]Periodic structures[]AWGN channels[]Decoding[]Indexes[]Channel models[]Quantization (signal)"
+    },
+    {
+        "title": "Multichannel Sparse Blind Deconvolution on the Sphere.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2928576",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Convolution[]Deconvolution[]Linear programming[]Manifolds[]Microscopy[]Sparse matrices[]Sensors"
+    },
+    {
+        "title": "On the Sub-Optimality of Single-Letter Coding Over Networks.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2917434",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Correlation[]Source coding[]Channel coding[]Upper bound[]Random variables"
+    },
+    {
+        "title": "Detection Under One-Bit Messaging Over Adaptive Networks.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2916845",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Steady-state[]Adaptive systems[]Convolution[]Task analysis[]Monitoring[]Robustness"
+    },
+    {
+        "title": "Non-Asymptotic Converse Bounds and Refined Asymptotics for Two Source Coding Problems.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2920893",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Distortion[]Source coding[]Decoding[]Distortion measurement[]Loss measurement[]Rate-distortion"
+    },
+    {
+        "title": "Wireless MapReduce Distributed Computing.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2924621",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Wireless communication[]Interference[]Time division multiple access[]Distributed databases[]Internet of Things[]Edge computing"
+    },
+    {
+        "title": "Multireference Alignment Is Easier With an Aperiodic Translation Distribution.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2889674",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Complexity theory[]Signal to noise ratio[]Noise measurement[]Discrete Fourier transforms[]Synchronization[]Estimation"
+    },
+    {
+        "title": "High-Dimensional Classification by Sparse Logistic Regression.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2884963",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Logistics[]Complexity theory[]Maximum likelihood estimation[]Data models[]Feature extraction[]Minimization[]Upper bound"
+    },
+    {
+        "title": "Linear Programming Approximations for Index Coding.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2912184",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "ndexes[]Servers[]Network coding[]Linear programming[]Source coding[]Approximation algorithms"
+    },
+    {
+        "title": "On the Capacity of Cloud Radio Access Networks With Oblivious Relaying.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2897564",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Relays[]Encoding[]Decoding[]Indexes[]Loss measurement[]Distortion measurement[]Radio access networks"
+    },
+    {
+        "title": "Optimal Accuracy-Privacy Trade-Off for Secure Computations.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2886458",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Protocols[]Privacy[]Security[]Entropy[]Nonlinear distortion[]Optimization"
+    },
+    {
+        "title": "Community Recovery in Hypergraphs.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2920637",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Complexity theory[]Computational modeling[]Biological system modeling[]Channel coding[]Noise measurement[]Integrated circuit modeling[]Computer vision"
+    },
+    {
+        "title": "A Unified Asymptotic Analysis of Area Spectral Efficiency in Ultradense Cellular Networks.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2845380",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "nterference[]Signal to noise ratio[]Cellular networks[]Fading channels[]Transmitters[]Ad hoc networks[]Context modeling"
+    },
+    {
+        "title": "Decoding From Pooled Data: Phase Transitions of Message Passing.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2855698",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Histograms[]Message passing[]Approximation algorithms[]Mathematical model[]Covariance matrices[]Heuristic algorithms[]Sensors"
+    },
+    {
+        "title": "Lossless Analog Compression.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2923091",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "probability[]Atmospheric measurements[]Particle measurements[]Measurement uncertainty[]Loss measurement[]Compressed sensing[]Decoding"
+    },
+    {
+        "title": "Individual Testing Is Optimal for Nonadaptive Group Testing in the Linear Regime.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2873136",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Testing[]Probabilistic logic[]Error probability[]Blood[]Diseases[]Entropy"
+    },
+    {
+        "title": "List-Decodable Zero-Rate Codes.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2868957",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Hamming distance[]Hypercubes[]Convergence[]Hilbert space[]Error correction codes[]Decoding[]Computational complexity"
+    },
+    {
+        "title": "T-Count Optimization and Reed-Muller Codes.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2906374",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Logic gates[]Qubit[]Optimization[]Decoding[]Fault tolerance[]Fault tolerant systems"
+    },
+    {
+        "title": "Error Exponents for Dimension-Matched Vector Multiple Access Channels With Additive Noise.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2875541",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Additive noise[]Transmitters[]Channel coding[]Receivers[]Decoding[]Capacity planning"
+    },
+    {
+        "title": "On the Evaluation of Marton&apos;s Inner Bound for Two-Receiver Broadcast Channels.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2880241",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Channel capacity[]Receivers[]Optimization[]Perturbation methods[]Channel coding"
+    },
+    {
+        "title": "A Sampling Theory Perspective of Graph-Based Semi-Supervised Learning.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2879897",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Bandwidth[]Semisupervised learning[]Laplace equations[]Data models[]Geometry[]Complexity theory[]Analytical models"
+    },
+    {
+        "title": "Building Blocks for Communication Over Noisy Quantum Networks.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2851297",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Protocols[]Quantum entanglement[]Registers[]Decoding[]Receivers[]Jamming"
+    },
+    {
+        "title": "A Hypothesis Testing Approach for Communication Over Entanglement-Assisted Compound Quantum Channel.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2876280",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Testing[]Compounds[]Quantum entanglement[]Decoding[]Channel coding[]Measurement uncertainty"
+    },
+    {
+        "title": "Convex-Split and Hypothesis Testing Approach to One-Shot Quantum Measurement Compression and Randomness Extraction.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2915242",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Task analysis[]Protocols[]Quantum mechanics[]Registers[]Data mining[]Entropy[]Testing"
+    },
+    {
+        "title": "Maximal Ferrers Diagram Codes: Constructions and Genericity Considerations.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2926256",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Limiting[]Shape[]Measurement[]Task analysis[]Conferences[]Information theory"
+    },
+    {
+        "title": "Low Rank Parity Check Codes: New Decoding Algorithms and Applications to Cryptography.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2933535",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Decoding[]Measurement[]Iterative decoding[]Public key cryptography"
+    },
+    {
+        "title": "Generalization and Improvement of the Levenshtein Lower Bound for Aperiodic Correlation.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2844189",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Correlation[]Radar applications[]Delays[]Indexes[]Impedance matching[]Spread spectrum communication"
+    },
+    {
+        "title": "Covert Communication Over a K-User Multiple-Access Channel.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2930484",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Receivers[]Transmitters[]Reliability[]Throughput[]Channel models[]AWGN channels[]Uncertainty"
+    },
+    {
+        "title": "Mixture Models, Bayes Fisher Information, and Divergence Measures.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2877608",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Probability density function[]Minimization[]Information theory[]Bayes methods[]Mixture models[]Entropy"
+    },
+    {
+        "title": "Deterministic and Probabilistic Conditions for Finite Completability of Low-Tucker-Rank Tensor.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2919568",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Manifolds[]Matrix decomposition[]Probabilistic logic[]Geometry[]Signal processing algorithms[]Image reconstruction"
+    },
+    {
+        "title": "Nearly Optimal Constructions of PIR and Batch Codes.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2852294",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Redundancy[]Information retrieval[]Task analysis[]Linear codes[]Indexes[]Cloud computing[]Time factors"
+    },
+    {
+        "title": "Estimation Efficiency Under Privacy Constraints.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2865558",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Data privacy[]Random variables[]Least mean squares methods[]Probability[]Approximation theory[]Optimization[]Mean square error methods"
+    },
+    {
+        "title": "Near Optimal Coded Data Shuffling for Distributed Learning.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2926704",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Distributed databases[]Encoding[]Indexes[]Interference[]Task analysis"
+    },
+    {
+        "title": "Expurgated Bounds for the Asymmetric Broadcast Channel.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2898206",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "ncoding[]Reliability[]Maximum likelihood decoding[]Upper bound[]Error probability[]Entropy"
+    },
+    {
+        "title": "Interference Mitigation via Relaying.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2878452",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Relays[]Interference[]MIMO communication[]Quantization (signal)[]Covariance matrices[]Correlation[]Antennas"
+    },
+    {
+        "title": "Determining the Number of Samples Required to Estimate Entropy in Natural Sequences.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2898412",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "ntropy[]Probabilistic logic[]Random variables[]Estimation[]Probability distribution[]Time measurement"
+    },
+    {
+        "title": "Latency Analysis for Distributed Coded Storage Systems.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2909868",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Servers[]Encoding[]Markov processes[]Redundancy[]Queueing analysis[]Delays"
+    },
+    {
+        "title": "On the Second Relative Greedy Weight of 4-Dimensional Codes.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2911678",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Upper bound[]Geometry[]Encoding[]Hamming weight[]Security[]Generators"
+    },
+    {
+        "title": "Detecting Random Walks on Graphs With Heterogeneous Sensors.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2907528",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Signal to noise ratio[]Markov processes[]Sensors[]Hidden Markov models[]Spread spectrum communication[]Noise measurement[]Fading channels"
+    },
+    {
+        "title": "Robust Estimators and Test Statistics for One-Shot Device Testing Under the Exponential Distribution.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2903244",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Maximum likelihood estimation[]Testing[]Robustness[]Tuning[]Inspection[]Density measurement"
+    },
+    {
+        "title": "Codes With Hierarchical Locality From Covering Maps of Curves.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2919830",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Maintenance engineering[]Poles and towers[]Reed-Solomon codes[]Linear codes[]Information processing[]Upper bound"
+    },
+    {
+        "title": "Secure Degrees of Freedom Region of Static and Time-Varying Gaussian MIMO Interference Channel.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2839658",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "nterference[]MIMO communication[]Receiving antennas[]Transmitting antennas[]Upper bound"
+    },
+    {
+        "title": "The Capacity of Private Information Retrieval from Byzantine and Colluding Databases.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2869154",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Data privacy[]Information retrieval[]Robustness[]Decoding[]Indexes[]Encoding"
+    },
+    {
+        "title": "Asymmetry Hurts: Private Information Retrieval Under Asymmetric Traffic Constraints.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2933011",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Upper bound[]Data privacy[]Distributed databases[]Information retrieval[]Difference equations[]Computer science"
+    },
+    {
+        "title": "Noisy Private Information Retrieval: On Separability of Channel Coding and Information Retrieval.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2935440",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Databases[]Noise measurement[]Channel coding[]Information retrieval[]Additives[]Data privacy"
+    },
+    {
+        "title": "Degrees of Freedom in Wireless Interference Networks With Cooperative Transmission and Backhaul Load Constraints.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2914462",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Transmitters[]Interference[]Receivers[]Array signal processing[]Indexes[]Cellular networks[]Encoding"
+    },
+    {
+        "title": "Universal Sparse Superposition Codes With Spatial Coupling and GAMP Decoding.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2919519",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Decoding[]Compressed sensing[]Couplings[]Memoryless systems[]Resource management[]Encoding[]AWGN channels"
+    },
+    {
+        "title": "Compression of Data Streams Down to Their Information Content.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2896638",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Complexity theory[]Channel coding[]Source coding[]Upper bound[]Probabilistic logic"
+    },
+    {
+        "title": "Partial Permutation Decoding for Several Families of Linear and \u21244-Linear Codes.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2840226",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Systematics[]Decoding[]Linear codes[]Error correction[]Error correction codes[]Binary codes[]Zinc"
+    },
+    {
+        "title": "Minimal Linear Codes in Odd Characteristic.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2891992",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Frequency modulation[]Linear codes[]Cryptography[]Mathematics[]Hamming weight[]Indexes[]Protocols"
+    },
+    {
+        "title": "The Wiretap Channel With Generalized Feedback: Secure Communication and Key Generation.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2883299",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Noise measurement[]Channel models[]Cryptography[]Decoding[]Receivers[]Transmitters[]Encoding"
+    },
+    {
+        "title": "On the Covering Radius of Small Codes Versus Dual Distance.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2857495",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Linear codes[]Upper bound[]Probability distribution[]Two dimensional displays[]Hamming weight[]Indexes[]Hamming distance"
+    },
+    {
+        "title": "Nonparametric Identification in the Dynamic Stochastic Block Model.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2893947",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Nonhomogeneous media[]Biological system modeling[]Markov processes[]Hidden Markov models[]Analytical models[]Multiprotocol label switching"
+    },
+    {
+        "title": "Minimizing the Age of Information Through Queues.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2912159",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Servers[]Delays[]Stochastic processes[]Queueing analysis[]Throughput[]Scheduling[]Out of order"
+    },
+    {
+        "title": "A Characterization of Guesswork on Swiftly Tilting Curves.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2879477",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "ntropy[]Maximum likelihood decoding[]Source coding[]Distribution functions[]Decoding[]Error analysis[]Codes"
+    },
+    {
+        "title": "Statistical Mechanics of MAP Estimation: General Replica Ansatz.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2937335",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Glass[]Distortion[]Thermodynamics[]Estimation[]Temperature distribution[]Additives[]Random variables"
+    },
+    {
+        "title": "Generalized Subspace Subcodes With Application in Cryptology.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2909872",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Reed-Solomon codes[]Additives[]Linear codes[]Generators[]Cryptography[]Decoding"
+    },
+    {
+        "title": "From ds-Bounds for Cyclic Codes to True Minimum Distance for Abelian Codes.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2868446",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Decoding[]Algebra[]Zirconium[]Zinc[]Encoding[]Discrete Fourier transforms"
+    },
+    {
+        "title": "Benefits of Cache Assignment on Degraded Broadcast Channels.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2926714",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Receivers[]Cache memory[]Upper bound[]Channel coding[]Decoding[]Noise measurement"
+    },
+    {
+        "title": "Line Codes Generated by Finite Coxeter Groups.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2868453",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Wires[]Encoding[]Receivers[]Resistors[]Threshold voltage[]Decoding[]Modulation"
+    },
+    {
+        "title": "A Note on Reverse Pinsker Inequalities.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2896192",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Upper bound[]Entropy[]Q measurement[]Information theory[]Quantization (signal)[]Bayes methods"
+    },
+    {
+        "title": "Game Theoretic Dynamic Channel Allocation for Frequency-Selective Interference Channels.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2868440",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Games[]Channel allocation[]Interference channels[]Resource management[]Radio spectrum management[]Fading channels"
+    },
+    {
+        "title": "Finite-Field Matrix Channels for Network Coding.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2875763",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Network coding[]Probability distribution[]Capacity planning[]Limiting[]Channel capacity[]Linear codes"
+    },
+    {
+        "title": "PIR Array Codes With Optimal Virtual Server Rate.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2920975",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Servers[]Protocols[]Upper bound[]Distributed databases[]Information retrieval[]Complexity theory"
+    },
+    {
+        "title": "Energy, Latency, and Reliability Tradeoffs in Coding Circuits.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2865701",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "ntegrated circuit modeling[]Decoding[]Encoding[]Computational modeling[]Clocks[]Error probability[]Wires"
+    },
+    {
+        "title": "Upper and Lower Bounds on the Computational Complexity of Polar Encoding and Decoding.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2917683",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Decoding[]Encoding[]Complexity theory[]Mesh networks[]Integrated circuit modeling[]Computational modeling[]Quantum computing"
+    },
+    {
+        "title": "Moments of the Scores.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2903248",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Random variables[]Density measurement[]Convolution[]Zinc[]Convergence[]Exponential distribution"
+    },
+    {
+        "title": "Non-Uniform Bounds in the Poisson Approximation With Applications to Informational Distances I.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2913313",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Upper bound[]Entropy[]Random variables[]Indexes"
+    },
+    {
+        "title": "BP-LED Decoding Algorithm for LDPC Codes Over AWGN Channels.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2866879",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Maximum likelihood decoding[]Complexity theory[]Light emitting diodes[]AWGN channels[]Iterative decoding"
+    },
+    {
+        "title": "Message Transmission Over Classical Quantum Channels With a Jammer With Side Information: Message Transmission Capacity and Resources.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2878209",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Jamming[]Encoding[]Random variables[]Hilbert space[]Receivers[]Law"
+    },
+    {
+        "title": "Secure and Robust Identification via Classical-Quantum Channels.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2920952",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Receivers[]Compounds[]Quantum mechanics[]Channel capacity[]Time measurement[]Hilbert space[]Privacy"
+    },
+    {
+        "title": "Tone Reservation for OFDM With Restricted Carrier Set.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2932391",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Peak to average power ratio[]Indexes[]Guidelines[]Probabilistic logic[]Communication systems[]Frequency division multiplexing"
+    },
+    {
+        "title": "Calculating the Hilbert Transform on Spaces With Energy Concentration: Convergence and Divergence Regions.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2859328",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Transforms[]Hafnium[]Convergence[]Fourier series[]Extraterrestrial measurements[]Quantum mechanics"
+    },
+    {
+        "title": "Reconstructing Gaussian Sources by Spatial Sampling.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2903152",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Rate-distortion[]Bayes methods[]Rate distortion theory[]Covariance matrices[]Probability density function[]Acoustic distortion"
+    },
+    {
+        "title": "Multilevel Constructions: Coding, Packing and Geometric Uniformity.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2933219",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Lattices[]Binary codes[]Constellation diagram[]Linear codes[]Labeling"
+    },
+    {
+        "title": "${\\mathbb{Z}_{2}\\mathbb{Z}_{4}}$ -Additive Cyclic Codes: Kernel and Rank.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2870891",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "nel[]Binary codes[]Generators[]Additives[]Linear codes[]Linearity[]Standards"
+    },
+    {
+        "title": "Information Topological Characterization of Periodically Correlated Processes by Dilation Operators.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2923217",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Rotation measurement[]Topology[]Manifolds[]Stochastic processes[]Position measurement[]Geometry[]Kernel"
+    },
+    {
+        "title": "Optimization of Non Binary Parity Check Coefficients.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2881436",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Parity check codes[]Hamming weight[]Galois fields[]Complexity theory[]Hamming distance[]Optimization[]Binary codes"
+    },
+    {
+        "title": "Guessing Attacks on Distributed-Storage Systems.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2933000",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Password[]Entropy[]Encoding[]Receivers"
+    },
+    {
+        "title": "The Price of Uncertain Priors in Source Coding.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2888475",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Source coding[]Receivers[]Redundancy[]Entropy[]Uncertainty[]Standards"
+    },
+    {
+        "title": "Efficiently Decodable Non-Adaptive Threshold Group Testing.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2907990",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Decoding[]Testing[]Complexity theory[]Matrix converters[]Probabilistic logic[]Indexes[]Sociology"
+    },
+    {
+        "title": "On a Fractional Version of Haemers&apos; Bound.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2889108",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Hafnium[]Upper bound[]Seminars[]Finance[]Engineering profession[]Linear programming[]Organizations"
+    },
+    {
+        "title": "AWGN-Goodness Is Enough: Capacity-Achieving Lattice Codes Based on Dithered Probabilistic Shaping.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2875004",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Lattices[]Signal to noise ratio[]Gaussian distribution[]Probabilistic logic[]Decoding[]Constellation diagram[]Integrated circuits"
+    },
+    {
+        "title": "New Characterization and Parametrization of LCD Codes.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2829873",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Binary codes[]Communication system security[]Side-channel attacks[]Linear codes"
+    },
+    {
+        "title": "On $\\sigma$ -LCD Codes.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2873130",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Linear codes[]Parity check codes[]Side-channel attacks[]Binary codes"
+    },
+    {
+        "title": "On Squares of Cyclic Codes.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2867873",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Cryptography[]Linear codes[]Protocols[]Binary codes[]Reed-Solomon codes[]Complexity theory"
+    },
+    {
+        "title": "Improved Bounds on the Threshold Gap in Ramp Secret Sharing.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2902151",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Cryptography[]Privacy[]Upper bound[]Secure storage[]Tools[]Resilience"
+    },
+    {
+        "title": "Rosenthal&apos;s Decoding Algorithm for Certain 1-Dimensional Convolutional Codes.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2921370",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Convolutional codes[]Decoding[]Block codes[]Complexity theory[]Controllability[]Parity check codes"
+    },
+    {
+        "title": "Random Matrices From Linear Codes and Wigner&apos;s Semicircle Law.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2912309",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Linear codes[]Gold[]Electrostatic discharges[]Standards[]Eigenvalues and eigenfunctions[]Random variables"
+    },
+    {
+        "title": "Upper Bounds via Lamination on the Constrained Secrecy Capacity of Hypergraphical Sources.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2897129",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Upper bound[]Lamination[]Protocols[]Complexity theory[]Random variables[]Entropy[]Pins"
+    },
+    {
+        "title": "Minimal Characterization of Shannon-Type Inequalities Under Functional Dependence and Full Conditional Independence Structures.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2900669",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Random variables[]Cramer-Rao bounds[]Network coding[]Markov processes[]Atomic measurements[]Channel coding"
+    },
+    {
+        "title": "On the Complete Weight Distribution of Subfield Subcodes of Algebraic-Geometric Codes.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2922630",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Linear codes[]Standards[]Hamming distance[]Poles and zeros[]Indexes[]Error correction codes"
+    },
+    {
+        "title": "On the Maximum Size of Block Codes Subject to a Distance Criterion.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2889244",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Block codes[]Size measurement[]Upper bound[]Graph theory"
+    },
+    {
+        "title": "Estimation in Tournaments and Graphs Under Monotonicity Constraints.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2893911",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Symmetric matrices[]Estimation[]Probability[]Sorting[]Adaptation models[]Stochastic processes[]Computational modeling"
+    },
+    {
+        "title": "Capacity-Achieving Codes That Mitigate Intercell Interference and Charge Leakage in Flash Memories.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2884210",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "ncoding[]Transistors[]Programming profession[]Interference[]Couplings[]Decoding"
+    },
+    {
+        "title": "The Capacity of Online (Causal) $q$ -Ary Error-Erasure Channels.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2898863",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Upper bound[]Channel capacity[]Encoding[]Delays[]Receivers[]Computational modeling[]Reliability"
+    },
+    {
+        "title": "Stable Recovery of Structured Signals From Corrupted Sub-Gaussian Measurements.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2890194",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Sensors[]Linear matrix inequalities[]Sparse matrices[]Complexity theory[]Analytical models[]Noise measurement[]Matrix decomposition"
+    },
+    {
+        "title": "Anonymous Heterogeneous Distributed Detection: Optimal Decision Rules, Error Exponents, and the Price of Anonymity.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2922628",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Testing[]Histograms[]Error probability[]Bayes methods[]Minimization[]Labeling[]Wireless sensor networks"
+    },
+    {
+        "title": "Quantum Sphere-Packing Bounds With Polynomial Prefactors.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2891347",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Channel coding[]Error probability[]Quantum mechanics[]Testing[]Software reliability"
+    },
+    {
+        "title": "Generalized Compute-Compress-and-Forward.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2864638",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Lattices[]Transmitters[]Receivers[]Optimization[]Relay networks (telecommunications)[]Radiofrequency identification"
+    },
+    {
+        "title": "Sharp Analytical Capacity Upper Bounds for Sticky and Related Channels.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2920375",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Upper bound[]Channel capacity[]Synchronization[]Memoryless systems[]Capacity planning[]Encoding[]Numerical models"
+    },
+    {
+        "title": "Expressions for the Entropy of Basic Discrete Distributions.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2900716",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "ntropy[]Random variables[]Gaussian distribution[]Standards[]Upper bound[]Limiting[]Information theory"
+    },
+    {
+        "title": "Improved Upper Bounds and Structural Results on the Capacity of the Discrete-Time Poisson Channel.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2896931",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Upper bound[]Dark current[]Random variables[]Receivers[]Additives[]Shape[]Indexes"
+    },
+    {
+        "title": "Recovery and Convergence Rate of the Frank-Wolfe Algorithm for the m-Exact-Sparse Problem.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2919640",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Matching pursuit algorithms[]Convergence[]Dictionaries[]Coherence[]Atomic measurements[]Optimization[]Approximation algorithms"
+    },
+    {
+        "title": "On the Minimax Misclassification Ratio of Hypergraph Community Detection.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2928301",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Clustering algorithms[]Stochastic processes[]Maximum likelihood estimation[]Probabilistic logic[]Image edge detection[]Bayes methods[]Computational modeling"
+    },
+    {
+        "title": "Secure Clustered Distributed Storage Against Eavesdropping.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2924895",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Maintenance engineering[]Bandwidth[]Data models[]Spread spectrum communication[]Encoding[]Security[]Upper bound"
+    },
+    {
+        "title": "Secret-Key Generation in Many-to-One Networks: An Integrated Game-Theoretic and Information-Theoretic Approach.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2902068",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Base stations[]Protocols[]Games[]Encoding[]Game theory[]Random variables[]Resource management"
+    },
+    {
+        "title": "Minimum-Entropy Couplings and Their Applications.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2894519",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "ntropy[]Random variables[]Probability distribution[]Optimization[]Mutual information[]Additives[]Couplings"
+    },
+    {
+        "title": "LDPC Codes Over the q-ary Multi-Bit Channel.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2900894",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "terative decoding[]Maximum likelihood decoding[]Channel models[]Capacity planning[]Mathematical model"
+    },
+    {
+        "title": "An Exact Expression for the Gap in the Data Processing Inequality for f-Divergences.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2904508",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Data processing[]Markov processes[]Convex functions[]Entropy[]Linear algebra[]Memoryless systems[]Linear matrix inequalities"
+    },
+    {
+        "title": "Coherent Multiple-Antenna Block-Fading Channels at Finite Blocklength.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2860979",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Fading channels[]Dispersion[]Channel models[]Encoding[]Receivers[]Channel state information[]Delays"
+    },
+    {
+        "title": "Capacity and Achievable Rate Regions for Linear Network Coding Over Ring Alphabets.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2866244",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Tensile stress[]Network coding[]Receivers[]Linear codes[]Modules (abstract algebra)[]Frequency modulation"
+    },
+    {
+        "title": "Game of Duels: Information-Theoretic Axiomatization of Scoring Rules.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2867469",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Games[]Bayes methods[]Set theory[]Probability distribution[]Information theory[]Entropy[]Decision theory"
+    },
+    {
+        "title": "On the Error in Phase Transition Computations for Compressed Sensing.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2920640",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "TV[]Minimization[]Fats[]Measurement uncertainty[]Handheld computers[]Compressed sensing[]Complexity theory"
+    },
+    {
+        "title": "Tradeoff Relations Between Accessible Information, Informational Power, and Purity.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2874989",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Upper bound[]Power measurement[]Entropy[]Eigenvalues and eigenfunctions[]Hilbert space[]Probability distribution[]Data mining"
+    },
+    {
+        "title": "Quantum Reading Capacity: General Definition and Bounds.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2929925",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Protocols[]Quantum entanglement[]Information theory[]Task analysis[]Receivers"
+    },
+    {
+        "title": "Testing Ising Models.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2932255",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Testing[]Complexity theory[]Computational modeling[]Analytical models[]Upper bound[]Computer science[]Markov random fields"
+    },
+    {
+        "title": "2018 IEEE Communications Society and Information Theory Society Joint Paper Award.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2884177",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Awards"
+    },
+    {
+        "title": "Aligned Image Sets and the Generalized Degrees of Freedom of Symmetric MIMO Interference Channel With Partial CSIT.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2873126",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "MIMO communication[]Integrated circuits[]Receiving antennas[]Transmitting antennas[]Interference channels"
+    },
+    {
+        "title": "$K$ -User Symmetric $M\\times N$ MIMO Interference Channel Under Finite Precision CSIT: A GDoF Perspective.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2854749",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "MIMO communication[]Integrated circuits[]Receiving antennas[]Random variables[]Transmitting antennas[]Interference channels"
+    },
+    {
+        "title": "Optimality of Simple Layered Superposition Coding in the 3 User MISO BC With Finite Precision CSIT.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2927007",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "MISO communication[]Encoding[]Receivers[]Transmitters[]Artificial intelligence[]Interference channels"
+    },
+    {
+        "title": "Blind Joint MIMO Channel Estimation and Decoding.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2878016",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Decoding[]MIMO communication[]Channel estimation[]Optimization[]Receivers[]Transmitters[]Gain"
+    },
+    {
+        "title": "B-Spline-Based Exact Discretization of Continuous-Domain Inverse Problems With Generalized TV Regularization.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2902926",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Splines (mathematics)[]Inverse problems[]Green's function methods[]Noise measurement[]Search problems[]TV[]Dictionaries"
+    },
+    {
+        "title": "From Cages to Trapping Sets and Codewords: A Technique to Derive Tight Upper Bounds on the Minimum Size of Trapping Sets and Minimum Distance of LDPC Codes.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2879823",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Upper bound[]Bipartite graph[]Iterative decoding[]Indexes"
+    },
+    {
+        "title": "On Computing the Multiplicity of Cycles in Bipartite Graphs Using the Degree Distribution and the Spectrum of the Graph.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2895356",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Bipartite graph[]IP networks[]Vegetation[]Parity check codes[]Eigenvalues and eigenfunctions[]Symmetric matrices[]Indexes"
+    },
+    {
+        "title": "Hardness Results on Finding Leafless Elementary Trapping Sets and Elementary Absorbing Sets of LDPC Codes.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2904988",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Parity check codes[]Computational complexity[]Decoding[]AWGN channels[]Channel models[]Quantization (signal)"
+    },
+    {
+        "title": "Perfect Anonymity.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2893334",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Receivers[]Cryptography[]Communication systems[]Probability distribution[]Random variables[]World Wide Web"
+    },
+    {
+        "title": "Sufficiently Myopic Adversaries Are Blind.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2916590",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Jamming[]Memoryless systems[]Receivers[]Channel models[]Zinc[]Standards[]Noise measurement"
+    },
+    {
+        "title": "The Subfield Codes of Ovoid Codes.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2907276",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Generators[]Linear codes[]Geometry[]Indexes[]Hamming weight[]Computer science"
+    },
+    {
+        "title": "Bent Vectorial Functions, Codes and Designs.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2922401",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Linear codes[]Boolean functions[]Generators[]Binary codes[]Hamming weight[]Error correction[]Error correction codes"
+    },
+    {
+        "title": "Quantum Channel Capacities per Unit Cost.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2854747",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Quantum mechanics[]Cost function[]Task analysis[]Time factors[]Satellites[]Channel capacity"
+    },
+    {
+        "title": "Asymptotically Optimal Prediction for Time-Varying Data Generating Processes.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2882819",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Time series analysis[]Computational modeling[]Numerical models[]Adaptation models[]Parametric statistics[]Kinetic theory[]Predictive models"
+    },
+    {
+        "title": "Capacity-Achieving Guessing Random Additive Noise Decoding.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2896110",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Receivers[]Maximum likelihood decoding[]Complexity theory[]Approximation algorithms[]Channel coding[]Manganese"
+    },
+    {
+        "title": "Renormalization Group Decoder for a Four-Dimensional Toric Code.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2879937",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Decoding[]Face[]Two dimensional displays[]Image color analysis[]Logic gates[]Three-dimensional displays"
+    },
+    {
+        "title": "Entropy Accumulation With Improved Second-Order Term.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2929564",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "ntropy[]Protocols[]Testing[]Tools[]Random variables[]Security[]Quantum mechanics"
+    },
+    {
+        "title": "&quot;Short-Dot&quot;: Computing Large Linear Transforms Distributedly Using Coded Short Dot Products.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2927558",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "ncoding[]Transforms[]Sensors[]Task analysis[]Machine learning[]Distributed processing[]Delays"
+    },
+    {
+        "title": "Shortened Regenerating Codes.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2840995",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Maintenance engineering[]Upper bound[]Entropy[]Data collection[]Bandwidth[]Random variables[]Distributed databases"
+    },
+    {
+        "title": "Separable Codes for the Symmetric Multiple-Access Channel.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2893234",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Upper bound[]Channel coding[]Standards[]Terminology[]Cryptography"
+    },
+    {
+        "title": "On the Capacity of the Peak Power Constrained Vector Gaussian Channel: An Estimation Theoretic Perspective.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2890208",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Gaussian channels[]Estimation theory[]Mutual information[]Mean square error methods[]Gaussian noise[]Channel capacity[]Optimization[]Probability"
+    },
+    {
+        "title": "Adaptive Nonparametric Clustering.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2903113",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Clustering algorithms[]Manifolds[]Shape[]Clustering methods[]Tuning[]Sensitivity[]Partitioning algorithms"
+    },
+    {
+        "title": "Displacement Convexity in Spatially Coupled Scalar Recursions.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2864728",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "nterpolation[]Hafnium[]Encoding[]Couplings[]Mathematical model[]Compressed sensing[]Parity check codes"
+    },
+    {
+        "title": "$k$ -Connectivity of Inhomogeneous Random Key Graphs With Unreliable Links.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2892029",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Wireless sensor networks[]Wireless communication[]Communication system security[]Nonhomogeneous media[]Cryptography[]Erbium[]Reliability"
+    },
+    {
+        "title": "The Entropy Rate of Some P\u00f3lya String Models.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2936556",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "ntropy[]DNA[]Probabilistic logic[]Noise measurement[]Organisms[]Biological information theory"
+    },
+    {
+        "title": "Sharp Oracle Inequalities for Stationary Points of Nonconvex Penalized M-Estimators.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2863700",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "timation[]Optimization[]Robustness[]Sociology[]Convex functions[]Linear regression"
+    },
+    {
+        "title": "Determinant Codes With Helper-Independent Repair for Single and Multiple Failures.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2904294",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Maintenance engineering[]Bandwidth[]Encoding[]Data centers[]Distributed databases[]Standards[]Urban areas"
+    },
+    {
+        "title": "Limits on Sparse Data Acquisition: RIC Analysis of Finite Gaussian Matrices.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2859327",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Sparse matrices[]Linear matrix inequalities[]Eigenvalues and eigenfunctions[]Probability[]Data acquisition[]Compressed sensing[]Robustness"
+    },
+    {
+        "title": "Lattice-Based Robust Distributed Source Coding.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2878219",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Decoding[]Source coding[]Distortion[]Lattices[]Rate-distortion[]Performance analysis"
+    },
+    {
+        "title": "Algorithmic No-Cloning Theorem.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2910562",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Complexity theory[]Quantum mechanics[]Entropy[]Cloning[]Transforms[]Qubit[]Turing machines"
+    },
+    {
+        "title": "Remote Source Coding Under Gaussian Noise: Dueling Roles of Power and Entropy Power.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2897842",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "ntropy[]Distortion[]Distortion measurement[]Rate-distortion[]Upper bound[]Random variables[]Measurement uncertainty"
+    },
+    {
+        "title": "Grassmannian Codes With New Distance Measures for Network Coding.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2899748",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Network coding[]Encoding[]Receivers[]Computer science[]Hamming distance[]Upper bound[]Measurement uncertainty"
+    },
+    {
+        "title": "Network Simplification in Half-Duplex: Building on Submodularity.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2923994",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Diamond[]Relay networks (telecommunications)[]Approximation algorithms[]Network topology[]Topology[]Additives"
+    },
+    {
+        "title": "Non-Asymptotic Entanglement Distillation.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2914688",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Quantum entanglement[]Quantum computing[]Estimation[]Task analysis[]Testing[]Entropy"
+    },
+    {
+        "title": "New Constructions of MDS Euclidean Self-Dual Codes From GRS Codes and Extended GRS Codes.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2916367",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Reed-Solomon codes[]Generators[]Indexes[]Arrays[]Geometry[]Memory[]Data communication"
+    },
+    {
+        "title": "Some New Constructions of Quantum MDS Codes.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2939114",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Quantum mechanics[]Reed-Solomon codes[]Quantum computing[]Two dimensional displays[]Linear codes[]Generators[]Task analysis"
+    },
+    {
+        "title": "Optimal Universal Learning Machines for Quantum State Discrimination.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2916646",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Qubit[]Quantum mechanics[]Task analysis[]Training data[]Probability distribution[]Probabilistic logic[]Training"
+    },
+    {
+        "title": "Exponential Error Rates of SDP for Block Models: Beyond Grothendieck&apos;s Inequality.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2839677",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Signal to noise ratio[]Error analysis[]Computational modeling[]Stochastic processes[]Robustness[]Standards[]Partitioning algorithms"
+    },
+    {
+        "title": "The Shift Bound for Abelian Codes and Generalizations of the Donoho-Stark Uncertainty Principle.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2906301",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Fourier transforms[]Uncertainty[]Algebra[]Indexes[]Harmonic analysis[]Information theory"
+    },
+    {
+        "title": "Subcovers and Codes on a Class of Trace-Defining Curves.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2868822",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Mathematical model[]Topology[]Polynomials[]Codes"
+    },
+    {
+        "title": "Recovery of Binary Sparse Signals With Biased Measurement Matrices.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2929192",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Sparse matrices[]Compressed sensing[]Transmitters[]Null space[]Face[]Position measurement[]Noise measurement"
+    },
+    {
+        "title": "The Meet Operation in the Imbalance Lattice of Maximal Instantaneous Codes: Alternative Proof of Existence.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2932326",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Lattices[]Binary trees[]Encoding[]Indexes[]Terminology[]MONOS devices[]Information science"
+    },
+    {
+        "title": "Non-Asymptotic Achievable Rates for Gaussian Energy-Harvesting Channels: Save-and-Transmit and Best-Effort.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2927006",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Batteries[]Random variables[]Transmitters[]Standards[]Markov processes[]Encoding[]Indexes"
+    },
+    {
+        "title": "Optimal Streaming Codes for Channels With Burst and Arbitrary Erasures.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2894124",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Delays[]Forward error correction[]Convolutional codes[]Decoding[]Channel models[]Internet[]Servers"
+    },
+    {
+        "title": "Close to Uniform Prime Number Generation With Fewer Random Bits.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2859045",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "ntropy[]Random variables[]Cryptography[]Testing[]Standards[]Indexes"
+    },
+    {
+        "title": "$t$ -Private Information Retrieval Schemes Using Transitive Codes.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2871050",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Reed-Muller codes[]Information retrieval[]Linear codes"
+    },
+    {
+        "title": "On the Derivative Imbalance and Ambiguity of Functions.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2912196",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Cryptography[]Time-frequency analysis[]Boolean functions[]Upper bound[]Fourier transforms[]Information theory"
+    },
+    {
+        "title": "Asymptotic Bayesian Theory of Quickest Change Detection for Hidden Markov Models.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2843379",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Hidden Markov models[]Bayes methods[]Markov processes[]Delays[]Convergence[]Computational modeling"
+    },
+    {
+        "title": "Unique Reconstruction of Coded Strings From Multiset Substring Spectra.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2935973",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "ncoding[]Redundancy[]Noise measurement[]Data storage systems[]Decoding[]History[]Throughput"
+    },
+    {
+        "title": "Codes Correcting Two Deletions.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2876281",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Redundancy[]Error correction codes[]Government[]History[]Measurement[]3G mobile communication"
+    },
+    {
+        "title": "Constructions of Partial MDS Codes Over Small Fields.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2890201",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Manganese[]Arrays[]Indexes[]Industries[]Computer science[]Information theory"
+    },
+    {
+        "title": "New Binary and Ternary LCD Codes.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2834500",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Liquid crystal displays[]Linear codes[]Cryptography[]Measurement[]Decoding[]Transforms[]Indexes"
+    },
+    {
+        "title": "Classical and Quantum Evaluation Codes at the Trace Roots.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2868442",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Linear codes[]Quantum computing[]Generators[]IEEE Sections[]Indexes[]Computers[]Error correction codes"
+    },
+    {
+        "title": "Universal Tree Source Coding Using Grammar-Based Compression.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2919829",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Binary trees[]Redundancy[]Source coding[]Grammar[]Upper bound[]Directed acyclic graph"
+    },
+    {
+        "title": "Nearly Optimal Sparse Group Testing.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2891651",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Testing[]Computer science[]Blood[]Upper bound[]Reconstruction algorithms[]Informatics[]Indexes"
+    },
+    {
+        "title": "Feedback Capacity of Gaussian Channels Revisited.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2884050",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Gaussian noise[]Channel capacity[]Noise measurement[]Gaussian processes[]Zinc[]Optimization[]Symmetric matrices"
+    },
+    {
+        "title": "Cooperative Binning for Semi-Deterministic Channels With Non-Causal State Information.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2921764",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Relays[]Decoding[]Indexes[]Transmitters[]Receivers[]Silicon[]Channel state information"
+    },
+    {
+        "title": "Quantum Versus Classical Simultaneity in Communication Complexity.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2918453",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Switched mode power supplies[]Complexity theory[]Protocols[]Computational modeling[]Quantum communication[]Message passing[]Quantum computing"
+    },
+    {
+        "title": "On the Information Dimension of Stochastic Processes.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2922186",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "ntropy[]Rate-distortion[]Gaussian processes[]Europe[]Interference channels[]Quantization (signal)"
+    },
+    {
+        "title": "Constant-Rate Interactive Coding Is Impossible, Even in Constant-Degree Networks.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2904576",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "ncoding[]Task analysis[]Protocols[]Noise measurement[]Adaptation models[]Complexity theory[]Network topology"
+    },
+    {
+        "title": "Linear Codes for Broadcasting With Noisy Side Information.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2893617",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "ncoding[]Indexes[]Receivers[]Noise measurement[]Transmitters[]Broadcasting[]Decoding"
+    },
+    {
+        "title": "Crossed Products and Coding Theory.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2923652",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Radio frequency[]Product codes[]Lattices[]Modules (abstract algebra)"
+    },
+    {
+        "title": "Symbol Erasure Correction in Random Networks With Spread Codes.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2880767",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Channel models[]Decoding[]Network coding[]Geometry[]Measurement[]Complexity theory"
+    },
+    {
+        "title": "MIMO Gaussian Broadcast Channels With Common, Private, and Confidential Messages.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2892107",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "MIMO communication[]Random variables[]Probability density function[]Security[]Encoding[]Predictive models[]Covariance matrices"
+    },
+    {
+        "title": "Wiretap and Gelfand-Pinsker Channels Analogy and Its Applications.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2910106",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Receivers[]Security[]Channel state information[]Broadcasting[]Physical layer security[]Europe"
+    },
+    {
+        "title": "Performance Bounds of Concatenated Polar Coding Schemes.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2935198",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "analysis[]Maximum likelihood decoding[]Concatenated codes"
+    },
+    {
+        "title": "On Finite Block-Length Quantization Distortion.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2881738",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Distortion[]Vector quantization[]Upper bound[]Rate-distortion[]Rate distortion theory[]Probability density function"
+    },
+    {
+        "title": "Comparison of Quantum Channels by Superchannels.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2907989",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Quantum mechanics[]Entropy[]Programming[]Testing[]Indexes[]Heart[]Uncertainty"
+    },
+    {
+        "title": "Reed-Solomon Codes Over Small Fields With Constrained Generator Matrices.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2897767",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Silicon[]Generators[]Reed-Solomon codes[]Indexes[]Linear codes[]3G mobile communication"
+    },
+    {
+        "title": "Alphabet-Dependent Bounds for Linear Locally Repairable Codes Based on Residual Codes.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2911595",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Maintenance engineering[]Linear codes[]Upper bound[]Optimized production technology[]Reliability engineering"
+    },
+    {
+        "title": "Probabilistic Existence Results for Parent-Identifying Schemes.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2927020",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Probabilistic logic[]Encryption[]Testing[]Technological innovation[]Multimedia systems[]Indexes"
+    },
+    {
+        "title": "Improved Upper Bound on the Network Function Computing Capacity.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2893107",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Upper bound[]Network coding[]Computational modeling[]Network topology[]Decoding[]Source coding"
+    },
+    {
+        "title": "Sequence Pairs With Asymptotically Optimal Aperiodic Correlation.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2906215",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Correlation[]Zinc[]Indexes[]Transmitters[]Receivers[]Atmospheric measurements[]Particle measurements"
+    },
+    {
+        "title": "Understanding the Related-Key Security of Feistel Ciphers From a Provable Perspective.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2903796",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Ciphers[]Analytical models[]Indexes[]Protocols[]3GPP Standards"
+    },
+    {
+        "title": "On the Asymptotics of Solving the LWE Problem Using Coded-BKW With Sieving.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2906233",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Complexity theory[]Lattices[]Cryptography[]Search problems[]Quantum computing[]Zinc[]Noise level"
+    },
+    {
+        "title": "A Key Recovery Reaction Attack on QC-MDPC.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2877458",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Decoding[]Generators[]Linear codes[]Public key[]Quantum computing[]Iterative decoding"
+    },
+    {
+        "title": "Polynomial Time Decodable Codes for the Binary Deletion Channel.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2876861",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Binary codes[]Upper bound[]Synchronization[]Decoding[]Capacity planning[]Encoding[]Channel capacity"
+    },
+    {
+        "title": "How Long Can Optimal Locally Repairable Codes Be?",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2891765",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Upper bound[]Linear codes[]Distributed databases[]Reed-Solomon codes[]Explosions"
+    },
+    {
+        "title": "Mutual Information of Wireless Channels and Block-Jacobi Ergodic Operators.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2927017",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Mutual information[]Mathematical model[]Manganese[]Wireless communication[]Jacobian matrices[]Signal to noise ratio[]MIMO communication"
+    },
+    {
+        "title": "Distributed Estimation of Gaussian Correlations.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2913384",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "timation[]Correlation[]Encoding[]Indexes[]Entropy[]Reactive power[]Testing"
+    },
+    {
+        "title": "Delay in Cooperative Communications: Achieving Higher Multiplexing Gain in Gaussian Interference Channels With Full-Duplex Transmitters.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2937459",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Transmitters[]Delays[]OFDM[]Relays[]Interference channels"
+    },
+    {
+        "title": "Community Recovery in a Preferential Attachment Graph.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2927624",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Message passing[]Stochastic processes[]Inference algorithms[]Clustering algorithms[]Belief propagation[]Simulation[]Task analysis"
+    },
+    {
+        "title": "Sparse and Balanced Reed-Solomon and Tamo-Barg Codes.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2873128",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Reed-Solomon codes[]Polynomials[]Vectors[]Sparse matrices[]Error correction codes[]Encoding"
+    },
+    {
+        "title": "Learning High-Dimensional Generalized Linear Autoregressive Models.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2884673",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Predictive models[]Data models[]Time series analysis[]Biological system modeling[]Autoregressive processes[]Neurons[]Biological neural networks"
+    },
+    {
+        "title": "Wiretap Channels With Causal State Information: Strong Secrecy.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2925611",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Optical wavelength conversion[]Channel coding[]Ciphers[]Channel state information[]Random variables[]Decoding"
+    },
+    {
+        "title": "Guess &amp; Check Codes for Deletions, Insertions, and Synchronization.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2841936",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Decoding[]Synchronization[]Redundancy[]Systematics[]Encoding[]Complexity theory[]Numerical simulation"
+    },
+    {
+        "title": "A Combinatorial Methodology for Optimizing Non-Binary Graph-Based Codes: Theoretical Analysis and Applications in Data Storage.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2870437",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Parity check codes[]AWGN channels[]Null space[]Performance gain[]Optimization[]Magnetic recording[]Tools"
+    },
+    {
+        "title": "Robust Multiplication-Based Tests for Reed-Muller Codes.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2863713",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Robustness[]Testing[]Mathematics[]Hamming distance[]Standards[]Probabilistic logic[]Software"
+    },
+    {
+        "title": "Characterization and Efficient Search of Non-Elementary Trapping Sets of LDPC Codes With Applications to Stopping Sets.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2865385",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Computational complexity[]Upper bound[]Iterative decoding[]Bipartite graph[]Decoding"
+    },
+    {
+        "title": "Universal Channel Coding for General Output Alphabet.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2877456",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Decoding[]Error probability[]Channel coding[]Entropy[]Bayes methods[]AWGN channels"
+    },
+    {
+        "title": "High Dimensional Inference With Random Maximum A-Posteriori Perturbations.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2916805",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Perturbation methods[]Random variables[]Optimization[]Distribution functions[]Maximum a posteriori estimation[]Image segmentation[]Entropy"
+    },
+    {
+        "title": "Quasi Structured Codes for Multi-Terminal Communications.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2930591",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Linear codes[]Receivers[]Transmitters[]Probability distribution[]Source coding"
+    },
+    {
+        "title": "New LMRD Code Bounds for Constant Dimension Codes and Improved Constructions.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2905002",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Upper bound[]Finite element analysis[]Indexes[]Extraterrestrial measurements[]Encoding"
+    },
+    {
+        "title": "A Framework for the Construction of Upper Bounds on the Number of Affine Linear Regions of ReLU Feed-Forward Neural Networks.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2927252",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Neural networks[]Histograms[]Upper bound[]Matrix decomposition[]Machine learning[]Indexes[]Training"
+    },
+    {
+        "title": "Correction to Efficient Computation of Normalized Maximum Likelihood Codes for Gaussian Mixture Models With Its Applications to Clustering.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2915237",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Gaussian mixture model[]Clustering methods[]Maximum likelihood estimation"
+    },
+    {
+        "title": "Designing Plateaued Boolean Functions in Spectral Domain and Their Classification.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2909910",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Boolean functions[]Spectral analysis[]Transforms[]Cryptography[]Research and development[]Information security"
+    },
+    {
+        "title": "Generic Constructions of Five-Valued Spectra Boolean Functions.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2910808",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Cryptography[]Europe[]Boolean functions[]Spectral analysis[]Design methodology[]Investment[]Encoding"
+    },
+    {
+        "title": "On the Achievable Rates of Virtual Full-Duplex Relay Channel.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2870591",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Relays[]Decoding[]Spread spectrum communication[]Wireless communication[]Quantization (signal)[]Interference cancellation[]Artificial neural networks"
+    },
+    {
+        "title": "Local Rank Modulation for Flash Memories.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2859403",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Modulation[]Measurement[]Encoding[]Programming[]Law"
+    },
+    {
+        "title": "Reconstruction of Sequences Over Non-Identical Channels.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2859813",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Decoding[]Channel coding[]Combinatorial mathematics[]Channel estimation"
+    },
+    {
+        "title": "Data Discovery and Anomaly Detection Using Atypicality: Theory.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2917669",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Anomaly detection[]Encoding[]Decoding[]Big Data[]Bioinformatics[]Monitoring[]Complexity theory"
+    },
+    {
+        "title": "A New Design of Binary MDS Array Codes With Asymptotically Weak-Optimal Repair.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2923992",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Maintenance engineering[]Bandwidth[]Fault tolerance[]Fault tolerant systems[]Encoding[]Computational complexity[]Arrays"
+    },
+    {
+        "title": "Rack-Aware Regenerating Codes for Data Centers.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2902835",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Maintenance engineering[]Bandwidth[]Data centers[]Redundancy[]Encoding[]Fault tolerant systems"
+    },
+    {
+        "title": "Central Limit Theorem for Mutual Information of Large MIMO Systems With Elliptically Correlated Channels.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2913760",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Covariance matrices[]Mutual information[]MIMO communication[]Transmitting antennas[]Limiting[]Correlation[]Receiving antennas"
+    },
+    {
+        "title": "Active Anomaly Detection in Heterogeneous Processes.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2866257",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Search problems[]Testing[]Anomaly detection[]Sensors[]Error probability[]Convergence[]Complexity theory"
+    },
+    {
+        "title": "Layered Space-Time Index Coding.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2842144",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "ndexes[]Receivers[]Encoding[]MIMO communication[]Algebra[]Transmitters[]Multicast communication"
+    },
+    {
+        "title": "Improved Upper Bounds on Systematic-Length for Linear Minimum Storage Regenerating Codes.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2018.2880239",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Maintenance engineering[]Systematics[]Upper bound[]Peer-to-peer computing[]Silicon[]Spread spectrum communication[]Bandwidth"
+    },
+    {
+        "title": "Blind Group Testing.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2906607",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Testing[]Decoding[]Noise measurement[]Sociology[]Statistics[]Estimation[]Matching pursuit algorithms"
+    },
+    {
+        "title": "Gaussian Intersymbol Interference Channels With Mismatch.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TIT.2019.2900222",
+        "journal_name": "IEEE Transactions on Information Theory",
+        "journal_shorter_form": "TIT",
+        "keywords": "Maximum likelihood decoding[]Measurement[]Encoding[]Receivers[]Memoryless systems[]Intersymbol interference"
+    }
+]

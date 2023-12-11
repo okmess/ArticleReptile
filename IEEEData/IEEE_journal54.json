@@ -1,0 +1,1842 @@
+[
+    {
+        "title": "Location-Based Web Service QoS Prediction via Preference Propagation to Address Cold Start Problem.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2018.2821686",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Quality of service[]Web services[]Sparse matrices[]Reliability[]Computational modeling[]Mathematical model"
+    },
+    {
+        "title": "Evaluation of Opportunistic Service Provisioning with Ordered Chaining.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2018.2842025",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Task analysis[]Mobile handsets[]Performance evaluation[]Sensors[]Ad hoc networks[]Mobile computing[]Silicon"
+    },
+    {
+        "title": "A Learning Automata-Based Scheduling for Deadline Sensitive Task in The Cloud.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2019.2906870",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Task analysis[]Cloud computing[]Energy consumption[]Scheduling[]Learning automata[]Processor scheduling[]Data centers"
+    },
+    {
+        "title": "Distributed Pricing Policy for Cloud-Assisted Body-to-Body Networks with Optimal QoS and Energy Considerations.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2018.2841914",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Cloud computing[]Pricing[]Body area networks[]Medical services[]Computer architecture[]Wireless communication[]Delays"
+    },
+    {
+        "title": "Replication Schemes for Highly Available Workflow Engines.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2018.2813368",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "ngines[]Business[]Load modeling[]Open source software[]Fault tolerance[]Fault tolerant systems[]Computational modeling"
+    },
+    {
+        "title": "Robust and Reliable Process-Aware Information Systems.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2018.2824810",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Automobiles[]Business[]Databases[]Robustness[]Information systems[]Transforms"
+    },
+    {
+        "title": "An Availability Analysis Approach for Deployment Configurations of Containers.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2017.2788442",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Containers[]Analytical models[]Cloud computing[]Stochastic processes[]Tools[]Computer architecture[]Google"
+    },
+    {
+        "title": "Scheduling Inter-Datacenter Video Flows for Cost Efficiency.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2018.2841868",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Bandwidth[]Streaming media[]Cloud computing[]Routing[]Scheduling[]Biological system modeling[]Servers"
+    },
+    {
+        "title": "A Topic-Sensitive Method for Mashup Tag Recommendation Utilizing Multi-Relational Service Data.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2018.2805826",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Mashups[]Tagging[]Data models[]Probabilistic logic[]Computational modeling[]Frequency modulation"
+    },
+    {
+        "title": "Fog Computing Service Provision Using Bargaining Solutions.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2019.2905203",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "ge computing[]Computational modeling[]Cloud computing[]Quality of service[]Heuristic algorithms[]Delays[]Resource management"
+    },
+    {
+        "title": "Privacy-Preserving Task Recommendation Services for Crowdsourcing.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2018.2791601",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Crowdsourcing[]Encryption[]Privacy[]Servers"
+    },
+    {
+        "title": "Scheduling Real-Time Security Aware Tasks in Fog Networks.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2019.2914649",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Security[]Data centers[]Real-time systems[]Computer architecture[]Cloud computing[]Task analysis[]Processor scheduling"
+    },
+    {
+        "title": "Workflow Refactoring for Maximizing Concurrency and Block-Structuredness.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2018.2867593",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Concurrent computing[]Transforms[]Synchronization[]Electronic mail[]Data models[]Collaboration[]Optimal control"
+    },
+    {
+        "title": "Dependence-Based Data-Aware Process Conformance Checking.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2018.2821685",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Petri nets[]Process control[]Computational modeling[]Electronic mail[]Labeling[]Bars[]Jacobian matrices"
+    },
+    {
+        "title": "Evolutionary Multi-Objective Optimization for Web Service Location Allocation Problem.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2018.2793266",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Optimization[]Web services[]Time factors[]Resource management[]Quality of service[]Particle swarm optimization"
+    },
+    {
+        "title": "FogSpot: Spot Pricing for Application Provisioning in Edge/Fog Computing.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2019.2895037",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Cloud computing[]Pricing[]Task analysis[]Quality of service[]Edge computing[]Data centers[]Elasticity[]Economics"
+    },
+    {
+        "title": "Low-Cost Adaptive Monitoring Techniques for the Internet of Things.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2018.2808956",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Monitoring[]Measurement[]Runtime[]Energy consumption[]Internet of Things[]Adaptation models[]Cloud computing"
+    },
+    {
+        "title": "Demystifying Membership Inference Attacks in Machine Learning as a Service.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2019.2897554",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Metasearch[]Machine learning[]Data models[]Predictive models[]Data privacy[]Computational modeling"
+    },
+    {
+        "title": "Fitness-Aware Containerization Service Leveraging Machine Learning.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2019.2898666",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Containers[]Cloud computing[]Software as a service[]Engines[]Complexity theory[]Throughput[]Regression analysis"
+    },
+    {
+        "title": "Supporting User Requirements and Preferences in Cloud Plan Selection.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2017.2777977",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Servers[]Encryption[]Three-dimensional displays[]Computational modeling[]Quality of service"
+    },
+    {
+        "title": "Integrating Social Networks with Mobile Device-to-Device Services.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2018.2867437",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Device-to-device communication[]Delays[]Social network services[]Wireless fidelity[]Long Term Evolution[]Videos[]Bluetooth"
+    },
+    {
+        "title": "OSPN: Optimal Service Provisioning with Negotiation for Bag-of-Tasks Applications.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2017.2787707",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Cloud computing[]Pricing[]Economics[]Nash equilibrium[]Computational modeling"
+    },
+    {
+        "title": "SOLAR: Services-Oriented Deep Learning Architectures-Deep Learning as a Service.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2017.2777478",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Machine learning[]Hardware[]Service-oriented architecture[]Computer architecture[]Field programmable gate arrays[]Training"
+    },
+    {
+        "title": "Provable Data Possession with Outsourced Data Transfer.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2019.2892095",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Cloud computing[]Data integrity[]Computational modeling[]Servers[]Data models"
+    },
+    {
+        "title": "Interactive Refactoring of Web Service Interfaces Using Computational Search.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2017.2787152",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Web services[]Algorithm design and analysis[]Measurement[]Tools[]Ports (Computers)[]Merging[]Decision making"
+    },
+    {
+        "title": "A Distributed Truthful Auction Mechanism for Task Allocation in Mobile Cloud Computing.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2018.2818147",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Task analysis[]Mobile handsets[]Cloud computing[]Electronic mail[]Performance evaluation[]Resource management[]Energy consumption"
+    },
+    {
+        "title": "Towards Green Service Composition Approach in the Cloud.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2018.2868356",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Quality of service[]Cloud computing[]Switches[]Energy consumption[]Servers[]Data centers[]Virtual machining"
+    },
+    {
+        "title": "Context-Aware Service Input Ranking by Learning from Historical Information.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2017.2777487",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Online services[]Service-oriented architecture[]Browsers[]Tools[]Training data"
+    },
+    {
+        "title": "X-Check: Improving Effectiveness and Efficiency of Cross-Browser Issues Detection for JavaScript-Based Web Applications.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2018.2860983",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Browsers[]Testing[]Servers[]Tools[]Data mining[]Timing[]Registers"
+    },
+    {
+        "title": "Mining Set of Interested Communities with Limited Exemplar Nodes for Network Based Services.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2018.2864147",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Google[]Recommender systems[]Task analysis[]Social network services[]Collaboration[]Euclidean distance"
+    },
+    {
+        "title": "Electricity Price-aware Consolidation Algorithms for Time-sensitive VM Services in Cloud Systems.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2019.2894742",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Cloud computing[]Approximation algorithms[]Data centers[]Resource management[]Quality of service[]Power demand[]Virtual machining"
+    },
+    {
+        "title": "Multiple Attributes QoS Prediction via Deep Neural Model with Contexts.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2018.2859986",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Quality of service[]Predictive models[]Collaboration[]Computational modeling[]Context modeling[]Task analysis[]Cloud computing"
+    },
+    {
+        "title": "An Effective Classification-Based Framework for Predicting Cloud Capacity Demand in Cloud Services.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2018.2804916",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Cloud computing[]Time series analysis[]Predictive models[]Market research[]Capacity planning[]Support vector machines[]Computational modeling"
+    },
+    {
+        "title": "A Guard-Driven Analysis Approach of Workflow Net with Data.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2019.2899086",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Unified modeling language[]Workflow management software[]Data models[]Business[]Analytical models"
+    },
+    {
+        "title": "Exploiting Reliable and Scalable Multicast Services in IaaS Datacenters.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2018.2877733",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Forestry[]Bandwidth[]Servers[]Unicast[]Data centers[]Reliability engineering"
+    },
+    {
+        "title": "Defending N-Version Programming Service Components against Co-Resident Attacks in IoT Cloud Systems.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2019.2904958",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Cloud computing[]Servers[]Internet of Things[]Virtual machining[]Redundancy[]Optimization[]Programming"
+    },
+    {
+        "title": "Optimized Contract-Based Model for Resource Allocation in Federated Geo-Distributed Clouds.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2018.2797910",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Resource management[]Cloud computing[]Contracts[]Servers[]Computational modeling[]Scheduling[]Data models"
+    },
+    {
+        "title": "Practical Multi-Keyword and Boolean Search Over Encrypted E-mail in Cloud Server.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2019.2903502",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Servers[]Search methods[]Encryption[]Keyword search[]Databases[]Query processing[]Electronic email"
+    },
+    {
+        "title": "Enabling Cloud Applications to Negotiate Multiple Resources in a Cost-Efficient Manner.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2018.2814045",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Cloud computing[]Pricing[]Optimization[]Resource management[]Yarn[]Learning (artificial intelligence)[]Jacobian matrices"
+    },
+    {
+        "title": "DP-LTOD: Differential Privacy Latent Trajectory Community Discovering Services over Location-Based Social Networks.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2018.2855740",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Trajectory[]Privacy[]Servers[]Social network services[]Clustering algorithms"
+    },
+    {
+        "title": "Analysis and Controlling of Manufacturing Service Ecosystem: A Research Framework Based on the Parallel System Theory.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2019.2917445",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Cloud computing[]Ecosystems[]Computational modeling[]Social networking (online)[]Biological system modeling[]Digital systems[]Supply and demand"
+    },
+    {
+        "title": "Network Aware Mobile Edge Computation Partitioning in Multi-User Environments.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2018.2876535",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Bandwidth[]Cloud computing[]Throughput[]Mobile handsets[]Heuristic algorithms[]Computational modeling[]Partitioning algorithms"
+    },
+    {
+        "title": "Joint Computation Partitioning and Resource Allocation for Latency Sensitive Applications in Mobile Edge Clouds.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2018.2890603",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Cloud computing[]Bandwidth[]Resource management[]Mobile handsets[]Computational modeling[]Servers[]Benchmark testing"
+    },
+    {
+        "title": "Achieving Efficient and Privacy-Preserving Multi-Domain Big Data Deduplication in Cloud.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2018.2881147",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Cloud computing[]Encryption[]Servers[]Resists[]Big Data"
+    },
+    {
+        "title": "A Location-Based Factorization Machine Model for Web Service QoS Prediction.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2018.2876532",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Quality of service[]Web services[]Computational modeling[]Throughput[]Predictive models[]Collaboration"
+    },
+    {
+        "title": "Mashup Recommendation by Regularizing Matrix Factorization with API Co-Invocations.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2018.2803171",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Mashups[]Correlation[]Matrix decomposition[]Quality of service[]Task analysis[]Google"
+    },
+    {
+        "title": "Sifter: A Service Isolation Strategy for Internet Applications.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2018.2876254",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Task analysis[]Interference[]Conferences[]Service-oriented architecture[]Collaboration[]Bills of materials"
+    },
+    {
+        "title": "Comments on &quot;SEPDP: Secure and Efficient Privacy Preserving Provable Data Possession in Cloud Storage&quot;.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2019.2912379",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Security[]Cloud computing[]Games[]Servers[]Forgery[]Computer science[]Data privacy"
+    },
+    {
+        "title": "Temporal Task Scheduling of Multiple Delay-Constrained Applications in Green Hybrid Cloud.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2018.2878561",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Task analysis[]Cloud computing[]Delays[]Data centers[]Green products[]Optimization[]Analytical models"
+    },
+    {
+        "title": "Cost-Aware Traffic Management Under Demand Uncertainty from a Colocation Data Center User&apos;s Perspective.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2018.2796095",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Bandwidth[]Optimization[]IP networks[]Uncertainty[]Stochastic processes[]Degradation"
+    },
+    {
+        "title": "Declarative Construction of Distributed Event-Driven IoT Services Based on IoT Resource Models.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2017.2782794",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Adaptation models[]Process control[]Runtime[]Business[]Controllability[]Internet of Things[]Computational modeling"
+    },
+    {
+        "title": "Enabling Probabilistic Differential Privacy Protection for Location Recommendations.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2018.2810890",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Privacy[]Markov processes[]Aggregates[]Additives[]Probabilistic logic[]Data privacy[]History"
+    },
+    {
+        "title": "Efficient Query of Quality Correlation for Service Composition.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2018.2830773",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Correlation[]Indexes[]Task analysis[]Electronic mail[]Service-oriented architecture"
+    },
+    {
+        "title": "Outsourcing Service Fair Payment Based on Blockchain and Its Applications in Cloud Computing.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2018.2864191",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Outsourcing[]Cloud computing[]Bitcoin[]Servers[]Encryption"
+    },
+    {
+        "title": "Optimized Portfolio Contracts for Bidding the Cloud.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2018.2886885",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Pricing[]Computational modeling[]Optimization[]Resumes[]Meteorology[]Mathematical model[]Portfolios"
+    },
+    {
+        "title": "Privacy-Preserving Linear Region Search Service.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2017.2777970",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Cryptography[]Indexes[]Cloud computing[]Algorithm design and analysis[]Search problems[]Outsourcing"
+    },
+    {
+        "title": "LA-LMRBF: Online and Long-Term Web Service QoS Forecasting.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2019.2901848",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Quality of service[]Forecasting[]Predictive models[]Time series analysis[]Mathematical model[]Web services[]Neural networks"
+    },
+    {
+        "title": "Inference Attack-Resistant E-Healthcare Cloud System with Fine-Grained Access Control.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2018.2790943",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "ncryption[]Access control[]Dentistry[]Privacy"
+    },
+    {
+        "title": "GraphA: Efficient Partitioning and Storage for Distributed Graph Computation.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2017.2778737",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Partitioning algorithms[]Mirrors[]Social network services[]Sparks[]Service computing[]Subspace constraints[]Indexes"
+    },
+    {
+        "title": "Covering-Based Web Service Quality Prediction via Neighborhood-Aware Matrix Factorization.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2019.2891517",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Web services[]Quality of service[]Predictive models[]Prediction algorithms[]Computer science[]Time factors"
+    },
+    {
+        "title": "HCache: A Hash-based Hybrid Caching Model for Real-Time Streaming Data Analytics.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2018.2874966",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Data models[]Batch production systems[]Computational modeling[]Analytical models[]Real-time systems[]Data analysis[]Task analysis"
+    },
+    {
+        "title": "Joint Scheduling of Overlapping MapReduce Phases: Pair Jobs for Optimization.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2018.2875698",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Optimal scheduling[]Job shop scheduling[]Schedules[]Task analysis[]Processor scheduling"
+    },
+    {
+        "title": "CASO: Cost-Aware Secure Outsourcing of General Computational Problems.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2018.2814991",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Outsourcing[]Security[]Cloud computing[]Task analysis[]Servers[]Mathematical model[]Linear programming"
+    },
+    {
+        "title": "Similarity-Maintaining Privacy Preservation and Location-Aware Low-Rank Matrix Factorization for QoS Prediction Based Web Service Recommendation.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/TSC.2018.2839741",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Quality of service[]Web services[]Data privacy[]Predictive models[]Privacy[]Prediction algorithms"
+    },
+    {
+        "title": "Providing Service Continuity in Clouds Under Power Outage.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2017.2728795",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Power system faults[]Power system restoration[]Cloud computing[]Approximation algorithms[]Servers[]Schedules"
+    },
+    {
+        "title": "Doris: An Adaptive Soft Real-Time Scheduler in Virtualized Environments.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2017.2720732",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Real-time systems[]Virtual machine monitors[]Cloud computing[]Schedules[]Ports (Computers)[]Servers[]Processor scheduling"
+    },
+    {
+        "title": "Mining Deficiencies of Online Reputation Systems: Methodologies, Experiments and Implications.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2017.2730206",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Google[]Web and internet services[]Companies[]Crowdsourcing[]Gain measurement[]Approximation algorithms"
+    },
+    {
+        "title": "SSL: A Surrogate-Based Method for Large-Scale Statistical Latency Measurement.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2017.2735409",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "nternet[]Servers[]Time measurement[]Bandwidth[]Electronic mail[]Service computing[]Real-time systems"
+    },
+    {
+        "title": "A Semi-Automatic and Trustworthy Scheme for Continuous Cloud Service Certification.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2017.2657505",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Cloud computing[]Testing[]Security[]Mechanical factors[]Monitoring[]Computational modeling[]Heuristic algorithms"
+    },
+    {
+        "title": "DLTSR: A Deep Learning Framework for Recommendations of Long-Tail Web Services.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2017.2681666",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Mashups[]Machine learning[]Noise reduction[]Ecosystems[]Neural networks[]Data mining"
+    },
+    {
+        "title": "Privacy in Data Service Composition.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2019.2963309",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Data integration[]Data privacy[]Urban areas[]Semantics[]Privacy[]Medical services[]Stakeholders"
+    },
+    {
+        "title": "An Efficient Resource Monitoring Service for Fog Computing Environments.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2019.2962682",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Monitoring[]Cloud computing[]Edge computing[]Tools[]Internet of Things[]Processor scheduling[]Bandwidth"
+    },
+    {
+        "title": "A Privacy-Preserving Localization Service for Assisted Living Facilities.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2016.2646363",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Privacy[]Data privacy[]Context[]Databases[]Monitoring[]Assisted living"
+    },
+    {
+        "title": "Integrated Content and Network-Based Service Clustering and Web APIs Recommendation for Mashup Development.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2017.2686390",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Mashups[]Clustering algorithms[]Algorithm design and analysis[]Search engines[]Application programming interface[]Web services"
+    },
+    {
+        "title": "Game-Theoretic Resource Pricing and Provisioning Strategies in Cloud Systems.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2016.2633266",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Pricing[]Games[]Cloud computing[]Software as a service[]Computational modeling[]Quality of service[]Virtual machining"
+    },
+    {
+        "title": "Sorting of Fully Homomorphic Encrypted Cloud Data: Can Partitioning be Effective?",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2017.2711018",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "ncryption[]Sorting[]Cloud computing[]Databases[]Arrays"
+    },
+    {
+        "title": "QoS Constrained Large Scale Web Service Composition Using Abstraction Refinement.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2017.2707548",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Quality of service[]Web services[]Complexity theory[]Time factors[]Urban areas[]Real-time systems[]Reliability"
+    },
+    {
+        "title": "EliMFS: Achieving Efficient, Leakage-Resilient, and Multi-Keyword Fuzzy Search on Encrypted Cloud Data.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2017.2765323",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Cloud computing[]Fuzzy methods[]Cryptography[]Servers[]Data privacy[]Keyword search[]Search methods"
+    },
+    {
+        "title": "Resource Renting for Periodical Cloud Workflow Applications.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2017.2677450",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Cloud computing[]Processor scheduling[]Scheduling[]Schedules[]Quality of service[]Minimization[]Partitioning algorithms"
+    },
+    {
+        "title": "Learning User Preference from Heterogeneous Information for Store-Type Recommendation.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2017.2755009",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Time-frequency analysis[]Wireless fidelity[]Social network services[]Text analysis[]User centered design[]Statistics[]Mobile handsets"
+    },
+    {
+        "title": "Modeling Latent Relation to Boost Things Categorization Service.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2017.2715159",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Feature extraction[]Hidden Markov models[]Semantics[]Support vector machines[]Internet of Things[]Intelligent sensors"
+    },
+    {
+        "title": "Scalable Discovery of Hybrid Process Models in a Cloud Computing Environment.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2019.2906203",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Computational modeling[]Logic gates[]Cloud computing[]Semantics[]Resists[]Petri nets[]Data models"
+    },
+    {
+        "title": "Personalized Recommendation System Based on Collaborative Filtering for IoT Scenarios.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2020.2964552",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Collaboration[]Internet of Things[]Data models[]Correlation[]Clustering algorithms[]Big Data"
+    },
+    {
+        "title": "A Hybrid BlockChain-Based Identity Authentication Scheme for Multi-WSN.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2020.2964537",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Blockchain[]Authentication[]Peer-to-peer computing[]Wireless sensor networks[]Internet of Things[]Base stations"
+    },
+    {
+        "title": "Time Dependent Pricing for Large-Scale Mobile Networks of Urban Environment: Feasibility and Adaptability.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2017.2713779",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Pricing[]Base stations[]Cellular networks[]Urban areas[]Mobile computing[]Peak to average power ratio"
+    },
+    {
+        "title": "A Hybrid Bio-Inspired Algorithm for Scheduling and Resource Management in Cloud Environment.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2017.2679738",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Cloud computing[]Resource management[]Scheduling[]Time factors[]Particle swarm optimization[]Load management[]Virtual machining"
+    },
+    {
+        "title": "Accelerating Skycube Computation with Partial and Parallel Processing for Service Selection.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2017.2762681",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Time factors[]Web services[]Optimization[]Processor scheduling"
+    },
+    {
+        "title": "IoT-Enabled Service for Crude-Oil Production Systems Against Unpredictable Disturbance.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2020.2964244",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Job shop scheduling[]Real-time systems[]Schedules[]Industries[]Cloud computing[]Monitoring[]Key performance indicator"
+    },
+    {
+        "title": "A Crowd-Sensing Framework for Allocation of Time-Constrained and Location-Based Tasks.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2017.2725835",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Resource management[]Sensors[]Time factors[]Mobile communication[]Optimization[]Benchmark testing[]Service computing"
+    },
+    {
+        "title": "Understanding E-Commerce Systems under Massive Flash Crowd: Measurement, Analysis, and Implications.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2017.2767600",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Cloud computing[]Servers[]Extraterrestrial measurements[]Atmospheric measurements[]Particle measurements[]Electronic commerce[]Content management"
+    },
+    {
+        "title": "Dynamic Multi-Phrase Ranked Search over Encrypted Data with Symmetric Searchable Encryption.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2017.2768045",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "ncryption[]Cloud computing[]Search methods[]Servers[]Keyword search"
+    },
+    {
+        "title": "Service Integrity Assurance for Distributed Computation Outsourcing.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2017.2771469",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Computer applications[]Distributed processing[]Security[]Grid computing[]Outsourcing[]Crowdsourcing"
+    },
+    {
+        "title": "DEAL: Differentially Private Auction for Blockchain-Based Microgrids Energy Trading.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2019.2947471",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Microgrids[]Differential privacy[]Blockchain[]Privacy[]Resource management[]Cost accounting[]Silicon"
+    },
+    {
+        "title": "Research on the Architecture and its Implementation for Instrumentation and Measurement Cloud.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2017.2723006",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Cloud computing[]Sensors[]Instruments[]Computer architecture[]Architecture[]Standards"
+    },
+    {
+        "title": "Customized Network Security for Cloud Service.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2017.2725828",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Cloud computing[]Communication networks[]Middleboxes[]Computer architecture[]Computer crime[]Complexity theory"
+    },
+    {
+        "title": "Virtual Machine Consolidation with Multiple Usage Prediction for Energy-Efficient Cloud Data Centers.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2017.2648791",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Servers[]Cloud computing[]Virtual machining[]Prediction algorithms[]Measurement[]Reliability[]Switches"
+    },
+    {
+        "title": "Deadline Flow Scheduling in Datacenters with Time-Varying Bandwidth Allocations.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2017.2701363",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Channel allocation[]Bandwidth[]Throughput[]Approximation algorithms[]Facebook[]Dynamic scheduling[]Algorithm design and analysis"
+    },
+    {
+        "title": "TAFC: Time and Attribute Factors Combined Access Control for Time-Sensitive Data in Public Cloud.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2017.2682090",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Cloud computing[]Access control[]Encryption[]Time factors[]Memory"
+    },
+    {
+        "title": "Coordinating Workload Scheduling of Geo-Distributed Data Centers and Electricity Generation of Smart Grid.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2017.2773617",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Smart grids[]Power demand[]Scheduling[]Load management[]Processor scheduling[]Data centers"
+    },
+    {
+        "title": "BoR: Toward High-Performance Permissioned Blockchain in RDMA-Enabled Network.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2019.2948009",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Blockchain[]Synchronization[]Peer-to-peer computing[]Throughput[]Data centers[]Bitcoin[]Protocols"
+    },
+    {
+        "title": "ThinORAM: Towards Practical Oblivious Data Access in Fog Computing Environment.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2019.2962110",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Cloud computing[]Edge computing[]Bandwidth[]Servers[]Encryption[]Writing[]Time factors"
+    },
+    {
+        "title": "Shifting to Mobile: Network-Based Empirical Study of Mobile Vulnerability Market.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2016.2646687",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Mobile communication[]Ecosystems[]Security[]Software[]Mobile computing[]Industries[]Computer bugs"
+    },
+    {
+        "title": "Secure and Efficient Cloud Data Deduplication with Ownership Management.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2017.2771280",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Cloud computing[]Servers[]Encryption[]Data models[]Bandwidth"
+    },
+    {
+        "title": "A Practical System for Privacy-Aware Targeted Mobile Advertising Services.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2017.2697385",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Mobile communication[]Advertising[]Mobile computing[]Privacy[]Mobile handsets[]Mobile applications[]Cryptography"
+    },
+    {
+        "title": "GUARDIAN: Blockchain-Based Secure Demand Response Management in Smart Grid System.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2019.2962677",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Blockchain[]Smart grids[]Load management[]Security[]Smart cities"
+    },
+    {
+        "title": "Editorial.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2020.2967234",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "null"
+    },
+    {
+        "title": "Improving Brain E-Health Services via High-Performance EEG Classification With Grouping Bayesian Optimization.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2019.2962673",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "lectroencephalography[]Brain modeling[]Logic gates[]Cloud computing[]Bayes methods[]Optimization[]Diseases"
+    },
+    {
+        "title": "Groupchain: Towards a Scalable Public Blockchain in Fog Computing of IoT Services Computing.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2019.2949801",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "ge computing[]Bitcoin[]Service computing[]Internet of Things[]Cloud computing"
+    },
+    {
+        "title": "Full Verifiability for Outsourced Decryption in Attribute Based Encryption.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2017.2710190",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "ncryption[]Cloud computing[]Standards[]Access control[]Outsourcing"
+    },
+    {
+        "title": "Decentralized Services Computing Paradigm for Blockchain-Based Data Governance: Programmability, Interoperability, and Intelligence.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2019.2951558",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Service computing[]Big Data[]Cloud computing[]Blockchain[]Companies[]Software"
+    },
+    {
+        "title": "Availability-Aware Virtual Cluster Allocation in Bandwidth-Constrained Datacenters.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2017.2694838",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Bandwidth[]Switches[]Cloud computing[]Resource management[]Optimization[]Maintenance engineering[]Load modeling"
+    },
+    {
+        "title": "Resilient Edge Data Management Framework.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2019.2962016",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "nternet of Things[]Cloud computing[]Monitoring[]Storage management[]Intelligent sensors"
+    },
+    {
+        "title": "A Cyclic Game for Service-Oriented Resource Allocation in Edge Computing.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2020.2966196",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Resource management[]Games[]Edge computing[]Quality of experience[]Computational modeling[]Numerical models[]Approximation algorithms"
+    },
+    {
+        "title": "Minimizing Data Access Latencies for Virtual Machine Assignment in Cloud Systems.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2017.2735972",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Cloud computing[]Resource management[]Big Data[]Elasticity[]Virtual machining[]Time complexity[]Simulation"
+    },
+    {
+        "title": "Attribute-Based Keyword Search over Hierarchical Data in Cloud Computing.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2017.2757467",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Cloud computing[]Keyword search[]Logic gates[]Encryption[]Servers[]Search methods[]Text analysis"
+    },
+    {
+        "title": "Opportunistic Sharing of Continuous Mobile Sensing Data for Energy and Power Conservation.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2017.2705685",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Mobile communication[]Activity recognition[]Mobile handsets[]Feeds[]Batteries[]Accelerometers"
+    },
+    {
+        "title": "Policy-Driven Blockchain and Its Applications for Transport Systems.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2019.2947892",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Blockchain[]Bitcoin[]Public key[]Digital signatures[]Smart contracts"
+    },
+    {
+        "title": "Buoy Sensor Cyberattack Detection in Offshore Petroleum Cyber-Physical Systems.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2020.2964548",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Oils[]Cyberattack[]Petroleum[]Oceans[]Markov processes[]Leak detection"
+    },
+    {
+        "title": "What and With Whom? Identifying Topics in Twitter Through Both Interactions and Text.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2017.2696531",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Twitter[]Tagging[]Sparse matrices[]Australia[]Semantics[]Real-time systems[]Indexes"
+    },
+    {
+        "title": "Assessing Invariant Mining Techniques for Cloud-Based Utility Computing Systems.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2017.2679715",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Google[]Software as a service[]Computational modeling[]Measurement[]Monitoring[]Time series analysis[]Capacity planning"
+    },
+    {
+        "title": "Traffic-Aware and Energy-Efficient vNF Placement for Service Chaining: Joint Sampling and Matching Approach.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2017.2671867",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Cloud computing[]Network function virtualization[]Games[]Optimization[]Resource management[]Middleboxes[]Standards"
+    },
+    {
+        "title": "Pattern-Based Design and Verification of Secure Service Compositions.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2017.2690430",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Security[]Urban areas[]Credit cards[]Software[]Computer science[]Pattern matching[]Encoding"
+    },
+    {
+        "title": "A Service-Oriented Permissioned Blockchain for the Internet of Things.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2019.2948870",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Quality of service[]Internet of Things[]Computational modeling[]Scalability"
+    },
+    {
+        "title": "Holistic Technologies for Managing Internet of Things Services.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2020.3000844",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Special issues and sections[]Internet of Things[]Smart devices[]Market opportunities"
+    },
+    {
+        "title": "Dynamic Outsourced Auditing Services for Cloud Storage Based on Batch-Leaves-Authenticated Merkle Hash Tree.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2017.2708116",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Cloud computing[]Indexes[]Security[]Heuristic algorithms[]Data models[]Computational modeling[]Protocols"
+    },
+    {
+        "title": "A Reinforcement Learning Method for Constraint-Satisfied Services Composition.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2017.2727050",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Quality of service[]Internet[]Time factors[]Optimization[]Markov processes[]Uncertainty[]Learning (artificial intelligence)"
+    },
+    {
+        "title": "Facilitating Application-Aware Bandwidth Allocation in the Cloud with One-Step-Ahead Traffic Information.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2019.2922176",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Bandwidth[]Channel allocation[]Computational modeling[]Data centers[]Cloud computing[]Hoses[]Resource management"
+    },
+    {
+        "title": "Decentralized Server-Aided Encryption for Secure Deduplication in Cloud Storage.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2017.2748594",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "ncryption[]Cloud computing[]Servers[]Scalability[]Redundancy"
+    },
+    {
+        "title": "A Blockchain-Based Model for Cloud Service Quality Monitoring.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2019.2948010",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Cloud computing[]Monitoring[]Blockchain[]Smart contracts[]Games[]Quality of service"
+    },
+    {
+        "title": "Energy-Aware Service Selection and Adaptation in Wireless Sensor Networks with QoS Guarantee.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2017.2749227",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Quality of service[]Wireless sensor networks[]Energy consumption[]Service-oriented architecture[]Adaptation models[]Monitoring[]Concrete"
+    },
+    {
+        "title": "Making Neighbors Quiet: An Approach to Detect Virtual Resource Contention.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2017.2720742",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Measurement[]Monitoring[]Quality of service[]Cloud computing[]Servers[]Detectors[]Detection algorithms"
+    },
+    {
+        "title": "Optimal Load Distribution for the Detection of VM-Based DDoS Attacks in the Cloud.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2017.2694426",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Computer crime[]Cloud computing[]Virtual machine monitors[]Monitoring[]Games[]Servers[]Real-time systems"
+    },
+    {
+        "title": "Multi-Value-Independent Ciphertext-Policy Attribute Based Encryption with Fast Keyword Search.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2017.2753231",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "arch[]Encryption[]Servers[]Cloud computing[]Access control[]Public key[]Text analysis[]Commercialization"
+    },
+    {
+        "title": "VOD-ADAC: Anonymous Distributed Fine-Grained Access Control Protocol with Verifiable Outsourced Decryption in Public Cloud.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2017.2687459",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Protocols[]Access control[]Cloud computing[]Encryption[]Concrete[]Privacy"
+    },
+    {
+        "title": "ContractGuard: Defend Ethereum Smart Contracts with Embedded Intrusion Detection.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2019.2949561",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Smart contracts[]Blockchain[]Intrusion detection[]Peer-to-peer computing[]Context modeling[]Runtime"
+    },
+    {
+        "title": "Efficient QoS-Aware Service Recommendation for Multi-Tenant Service-Based Systems in Cloud.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2017.2761346",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Quality of service[]Cloud computing[]Runtime[]Streaming media[]Quality of service[]Clustering methods"
+    },
+    {
+        "title": "Consistent State Updates for Virtualized Network Function Migration.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2017.2765636",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Noise measurement[]Process control[]Control systems[]Network function virtualization[]Computer architecture[]Software defined networking"
+    },
+    {
+        "title": "ENORM: A Framework For Edge NOde Resource Management.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2017.2753775",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Servers[]Cloud computing[]Edge computing[]Resource management[]Computational modeling[]Quality of service[]Scalability"
+    },
+    {
+        "title": "MMDP: A Mobile-IoT Based Multi-Modal Reinforcement Learning Service Framework.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2020.2964663",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Tensors[]Internet of Things[]Markov processes[]Reinforcement learning[]Public transportation[]Sensor systems"
+    },
+    {
+        "title": "Model-as-You-Go for Choreographies: Rewinding and Repeating Scientific Choreographies.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2017.2732988",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Computational modeling[]Adaptation models[]Connectors[]Analytical models[]Process control[]Data models[]Biological system modeling"
+    },
+    {
+        "title": "Minimal Fault-Tolerant Coverage of Controllers in IaaS Datacenters.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2017.2753260",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Cloud computing[]Fault tolerance[]Switches[]Network topology[]Servers[]Synchronization"
+    },
+    {
+        "title": "Minimizing Redundancy to Satisfy Reliability Requirement for a Parallel Application on Heterogeneous Service-Oriented Systems.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2017.2665552",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Redundancy[]Quality of service[]Fault tolerant systems[]Minimization[]Schedules"
+    },
+    {
+        "title": "Cloud/Edge Computing Service Management in Blockchain Networks: Multi-Leader Multi-Follower Game-Based ADMM for Pricing.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2019.2947914",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Games[]Convex functions[]Cloud computing[]Pricing[]Bitcoin"
+    },
+    {
+        "title": "Blockchain Empowered Arbitrable Data Auditing Scheme for Network Storage as a Service.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2019.2953033",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Blockchain[]Servers[]Data integrity[]Metadata[]Smart contracts[]Hash functions"
+    },
+    {
+        "title": "Flexible Wildcard Searchable Encryption System.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2017.2714669",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "ncryption[]Cloud computing[]Keyword search[]Metadata[]Authorization[]Public key"
+    },
+    {
+        "title": "An Energy-Efficient SDN Controller Architecture for IoT Networks With Blockchain-Based Security.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2020.2966970",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Blockchain[]Computer architecture[]Energy consumption[]Routing protocols[]Internet of Things[]Authentication"
+    },
+    {
+        "title": "Blockchain-Based Object Name Service With Tokenized Authority.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2019.2963027",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "nternet of Things[]Blockchain[]Fault tolerance[]Fault tolerant systems[]Access control[]Standards[]Medical services"
+    },
+    {
+        "title": "A Framework of Hypergraph-Based Data Placement Among Geo-Distributed Datacenters.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2017.2712773",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Distributed databases[]Data models[]Resource management[]Measurement[]Cloud computing[]Videos[]Routing"
+    },
+    {
+        "title": "Deadline Constrained Video Analysis via In-Transit Computational Environments.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2017.2653116",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Data centers[]Cloud computing[]Streaming media[]Computational modeling[]Video sequences[]Data processing[]Analytical models"
+    },
+    {
+        "title": "Electricity Cost Minimization for Interruptible Workload in Datacenter Servers.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2017.2759206",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Servers[]Heuristic algorithms[]Stochastic processes[]Energy consumption[]Minimization[]Quality of service[]Energy management[]Pricing"
+    },
+    {
+        "title": "Mining Domain Knowledge on Service Goals from Textual Service Descriptions.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2017.2693147",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Data mining[]Ontologies[]Software[]Knowledge management[]Pragmatics[]Software engineering"
+    },
+    {
+        "title": "Chronos${{\\mathbf +}}$+: An Accurate Blockchain-Based Time-Stamping Scheme for Cloud Storage.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2019.2947476",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Blockchain[]Cloud computing[]Servers[]Bitcoin[]Outsourcing[]Patents"
+    },
+    {
+        "title": "Location Recommendation for Enterprises by Multi-Source Urban Big Data Analysis.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2017.2747538",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Predictive models[]Computational modeling[]Atmospheric modeling[]Air quality[]Computer architecture[]Recommender systems[]Big Data"
+    },
+    {
+        "title": "Guest Editorial: Special Issue on Blockchain-Based Services Computing.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2020.2975678",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Special issues and sections[]Blockchain[]Service computing[]Cloud computing[]Computational modeling[]Internet of Things[]Security"
+    },
+    {
+        "title": "Security-Critical Energy-Aware Task Scheduling for Heterogeneous Real-Time MPSoCs in IoT.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2019.2963301",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Task analysis[]Internet of Things[]Real-time systems[]Energy consumption[]Cryptography[]Computer science"
+    },
+    {
+        "title": "Towards Service Composition Aware Virtual Machine Migration Approach in the Cloud.",
+        "year": "2020",
+        "url": "https://doi.org/10.1109/TSC.2019.2962128",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Virtual machining[]Data centers[]Servers[]Cloud computing[]Optimization[]Data communication[]Topology"
+    },
+    {
+        "title": "Security Middleground for Resource Protection in Measurement Infrastructure-as-a-Service.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2016.2618792",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Measurement[]Monitoring[]Middleware[]Authentication[]Authorization"
+    },
+    {
+        "title": "Purpose-Based Privacy Preserving Access Control for Secure Service Provision and Composition.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2016.2616875",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Access control[]Privacy[]Computational modeling[]Cloud computing[]Data privacy"
+    },
+    {
+        "title": "A Truthful and Fair Multi-Attribute Combinatorial Reverse Auction for Resource Procurement in Cloud Computing.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2016.2632719",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Cloud computing[]Resource management[]Quality of service[]Pricing[]Procurement[]Computational modeling[]Dynamic scheduling"
+    },
+    {
+        "title": "Topic-Based Influence Computation in Social Networks Under Resource Constraints.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2016.2619688",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Twitter[]Data collection[]Market research[]Heuristic algorithms[]Estimation[]Data acquisition"
+    },
+    {
+        "title": "Guest Editor&apos;s Introduction: Special Section on Services and Software Engineering Towards Internetware.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2018.2878660",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Special issues and sections[]Software systems[]Service computing[]Programming[]Runtime[]Cloud computing"
+    },
+    {
+        "title": "Transactional Behavior Verification in Business Process as a Service Configuration.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2017.2667662",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Business[]Cloud computing[]Software as a service[]Adaptation models[]Biological system modeling"
+    },
+    {
+        "title": "Memory Partitioning and Management in Memcached.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2016.2613048",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Slabs[]Memory management[]Twitter[]Servers[]Resource management[]Service-oriented architecture"
+    },
+    {
+        "title": "Flow Classification for Software-Defined Data Centers Using Stream Mining.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2016.2597846",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Data mining[]Bandwidth[]Hardware[]Predictive models[]Routing[]Data models[]Mice"
+    },
+    {
+        "title": "Transformation-Based Streaming Workflow Allocation on Geo-Distributed Datacenters for Streaming Big Data Processing.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2016.2614297",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Resource management[]Big data[]Optimization[]Minimization[]Algorithm design and analysis[]Linear programming"
+    },
+    {
+        "title": "Architecture-Based Behavioral Adaptation with Generated Alternatives and Relaxed Constraints.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2016.2593459",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Business[]Runtime[]Probabilistic logic[]Genetic algorithms[]Planning[]Computer architecture[]Connectors"
+    },
+    {
+        "title": "CauseInfer: Automated End-to-End Performance Diagnosis with Hierarchical Causality Graph in Cloud Environment.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2016.2607739",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Measurement[]Cloud computing[]Computer bugs[]Runtime[]Monitoring[]System analysis and design"
+    },
+    {
+        "title": "Multi-User Multi-Task Computation Offloading in Green Mobile Edge Cloud Computing.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2018.2826544",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Cloud computing[]Task analysis[]Wireless communication[]Servers[]Mobile handsets[]Energy harvesting[]Wireless sensor networks"
+    },
+    {
+        "title": "Latency-Driven Fog Cooperation Approach in Fog Radio Access Networks.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2018.2858253",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Task analysis[]Resource management[]Computational modeling[]Delays[]Edge computing[]Radio access networks[]Heuristic algorithms"
+    },
+    {
+        "title": "Clustering-Based Predictive Process Monitoring.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2016.2645153",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Monitoring[]Payloads[]Runtime[]Decision trees[]Training[]Encoding[]Predictive models[]Classification"
+    },
+    {
+        "title": "Enabling Semantic Search Based on Conceptual Graphs over Encrypted Outsourced Data.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2016.2622697",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Semantics[]Servers[]Indexes[]Encryption[]Cloud computing[]Search problems"
+    },
+    {
+        "title": "SeCo-LDA: Mining Service Co-Occurrence Topics for Composition Recommendation.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2018.2821149",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Mashups[]Biological system modeling[]Ecosystems[]Computational modeling[]Market research[]Probabilistic logic[]Semantics"
+    },
+    {
+        "title": "Straggler Root-Cause and Impact Analysis for Massive-scale Virtualized Cloud Datacenters.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2016.2611578",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Task analysis[]Cloud computing[]Virtualization[]Complexity theory[]Quality of service[]Delays"
+    },
+    {
+        "title": "Server Placement and Selection for Edge Computing in the ePC.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2018.2850327",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Servers[]Long Term Evolution[]Base stations[]Computer architecture[]Edge computing[]Radio link[]Logic gates"
+    },
+    {
+        "title": "Mobile Edge Provision with Flexible Deployment.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2018.2842227",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Servers[]Heuristic algorithms[]Approximation algorithms[]Edge computing[]Computer architecture[]Computational modeling[]Optimization"
+    },
+    {
+        "title": "Programming Situational Mobile Web Applications with Cloud-Mobile Convergence: An Internetware-Oriented Approach.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2016.2587260",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Mobile communication[]Context[]Cloud computing[]Adaptation models[]Mobile handsets[]Programming"
+    },
+    {
+        "title": "When Human Service Meets Crowdsourcing: Emerging in Human Service Collaboration.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2018.2810067",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "cosystems[]Collaboration[]Crowdsourcing[]Web services[]Mobile computing[]Heterogeneous networks"
+    },
+    {
+        "title": "Optimizing Semantic Annotations for Web Service Invocation.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2016.2612632",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Semantics[]Web services[]Quality of service[]Ontologies[]Optimization[]Knowledge based systems[]Semantic Web"
+    },
+    {
+        "title": "ROSF: Leveraging Information Retrieval and Supervised Learning for Recommending Code Snippets.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2016.2592909",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Training[]Information retrieval[]Supervised learning[]Predictive models[]Java[]Computational modeling[]Software"
+    },
+    {
+        "title": "Editorial.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2018.2887058",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "null"
+    },
+    {
+        "title": "A Hybrid Approach for Optimizing Carbon Footprint in InterCloud Environment.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2016.2638900",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Carbon[]Power demand[]Optimization[]Servers[]Cooling[]Biological system modeling[]Routing"
+    },
+    {
+        "title": "A Requirement-Driven Mechanism for the Management of Distributed Infrastructures.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2016.2598338",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Quality of service[]Cloud computing[]Decision making[]Load management[]Computational modeling[]Resource management[]Indexes"
+    },
+    {
+        "title": "Lightweight Indexing and Querying Services for Big Spatial Data.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2016.2637332",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Spatial databases[]Indexing[]Geometry[]Data structures[]Query processing[]Distributed databases"
+    },
+    {
+        "title": "Monitoring Interactions Across Multi Business Processes with Token Carried Data.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2016.2645690",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Monitoring[]Collaboration[]Internet[]Data mining[]Data models[]Web services"
+    },
+    {
+        "title": "Storage Sharing Optimization Under Constraints of SLO Compliance and Performance Variability.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2016.2584057",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Resource management[]Throughput[]Cloud computing[]Servers[]Quality of service[]Performance evaluation[]Capacity planning"
+    },
+    {
+        "title": "Blockchain for Large-Scale Internet of Things Data Storage and Protection.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2018.2853167",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Servers[]Memory[]Public key[]Cloud computing[]Edge computing"
+    },
+    {
+        "title": "A Novel Workflow-Level Data Placement Strategy for Data-Sharing Scientific Cloud Workflows.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2016.2625247",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Cloud computing[]Distributed databases[]Data models[]Data transfer[]Runtime[]Particle swarm optimization[]Algorithm design and analysis"
+    },
+    {
+        "title": "SMS: A Framework for Service Discovery by Incorporating Social Media Information.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2016.2631521",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Twitter[]Semantics[]Social factors[]LinkedIn[]Feature extraction[]Large scale integration"
+    },
+    {
+        "title": "QoS-Aware Web Service Selection with Internal Complementarity.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2016.2598776",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Quality of service[]Automobiles[]Web services[]Random access memory[]Transforms[]Time complexity"
+    },
+    {
+        "title": "AutoTune: Game-Based Adaptive Bitrate Streaming in Cloud-Based Hybrid VoD Systems.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2016.2605082",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Videos[]Bandwidth[]Bit rate[]Cloud computing[]Servers[]Peer-to-peer computing[]Games"
+    },
+    {
+        "title": "A Cloud Brokerage Architecture for Efficient Cloud Service Selection.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2016.2592903",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Cloud computing[]Indexing[]Quality of service[]Computer architecture[]Pricing"
+    },
+    {
+        "title": "Towards Comprehensive Support for Privacy Preservation Cross-Organization Business Process Mining.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2016.2617331",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Organizations[]Privacy[]Data mining[]Transportation[]Standards organizations[]Collaboration"
+    },
+    {
+        "title": "Understanding Mobile Users&apos; Privacy Expectations: A Recommendation-Based Method Through Crowdsourcing.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2016.2636285",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Data privacy[]Mobile communication[]Smart phones[]Data privacy[]Security[]Recommender systems[]Crowdsourcing[]Social networking (online)"
+    },
+    {
+        "title": "MUIT: A Domain-Specific Language and its Middleware for Adaptive Mobile Web-Based User Interfaces in WS-BPEL.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2016.2633535",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "User interfaces[]Smart phones[]Mobile communication[]Business[]Engines[]DSL"
+    },
+    {
+        "title": "Fairness-Efficiency Allocation of CPU-GPU Heterogeneous Resources.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2016.2597141",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Resource management[]Algorithm design and analysis[]Optimization[]Measurement[]Cloud computing[]Heuristic algorithms[]Graphics processing units"
+    },
+    {
+        "title": "An Effective Scheme for QoS Estimation via Alternating Direction Method-Based Matrix Factorization.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2016.2597829",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Quality of service[]Estimation[]Training[]Optimization[]Web services"
+    },
+    {
+        "title": "Privacy-Preserving Reputation Management for Edge Computing Enhanced Mobile Crowdsensing.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2018.2825986",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Sensors[]Privacy[]Cryptography[]Edge computing[]Task analysis[]Servers[]Reliability"
+    },
+    {
+        "title": "Lightweight Fine-Grained Search Over Encrypted Data in Fog Computing.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2018.2823309",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "arch[]Cloud computing[]Edge computing[]Access control[]Encryption"
+    },
+    {
+        "title": "Guest Editorial: Recent Advances in Web Services Research.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2019.2915692",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Special issues and sections[]Service computing[]Web services[]Security[]Computational modeling[]Privacy"
+    },
+    {
+        "title": "An Adaptive Efficiency-Fairness Meta-Scheduler for Data-Intensive Computing.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2016.2635133",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Flexible printed circuits[]Resource management[]Optimization[]Adaptation models[]Google[]Scheduling algorithms"
+    },
+    {
+        "title": "Minimizing Traffic Migration During Network Update in IaaS Datacenters.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2016.2628740",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Bandwidth[]Network topology[]Delays[]Erbium[]Topology[]Decision making[]Routing"
+    },
+    {
+        "title": "EPICS: A Framework for Enforcing Security Policies in Composite Web Services.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2018.2797277",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Access control[]Automata[]Distributed databases[]Credit cards[]Cloud computing"
+    },
+    {
+        "title": "Efficient Provisioning of Security Service Function Chaining Using Network Security Defense Patterns.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2016.2616867",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Security[]Communication networks[]Optimization[]Cloud computing[]Virtual private networks[]Best practices[]Virtualization"
+    },
+    {
+        "title": "Multi-Objective Energy Efficient Virtual Machines Allocation at the Cloud Data Center.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2016.2596289",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Resource management[]Energy consumption[]Servers[]Cloud computing[]Switches[]Heuristic algorithms[]Random access memory"
+    },
+    {
+        "title": "Guest Editorial: Data-Centric Big Services.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2019.2915691",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Special issues and sections[]Big Data[]Spatial databases[]Social networking (online)[]Internet of Things[]Business[]Market opportunities"
+    },
+    {
+        "title": "Probabilistic Modeling of Computing Demand for Service Level Agreement.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2016.2637929",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Resource management[]Data models[]Computational modeling[]Probabilistic logic[]Load modeling[]Maximum likelihood estimation[]Time series analysis"
+    },
+    {
+        "title": "Guest Editor&apos;s Introduction: Special Section on Fog/Edge Computing and Services.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2019.2915693",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Special issues and sections[]Edge computing[]Privacy[]Internet of Things[]Cloud computing[]Privacy[]Computer security"
+    },
+    {
+        "title": "Building and Querying an Enterprise Knowledge Graph.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2017.2711600",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Data models[]Law[]Data mining[]Natural languages[]Joining processes[]Resource description framework"
+    },
+    {
+        "title": "Elastic Load Balancing for Dynamic Virtual Machine Reconfiguration Based on Vertical and Horizontal Scaling.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2016.2634024",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Cloud computing[]Elasticity[]Real-time systems[]Scalability[]Throughput[]Load management[]Resource management"
+    },
+    {
+        "title": "A Distributed Discovery of Communicating Resource Systems Models.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2016.2609913",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Business[]Computational modeling[]Petri nets[]Service-oriented architecture[]Cloud computing[]Semiconductor optical amplifiers"
+    },
+    {
+        "title": "Migration Modeling and Learning Algorithms for Containers in Fog Computing.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2018.2827070",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Containers[]Delays[]Task analysis[]Power demand[]Cloud computing[]Mobile applications[]Resource management"
+    },
+    {
+        "title": "QoS-Aware Service Selection Using an Incentive Mechanism.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2016.2602203",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Quality of service[]Contracts[]Reliability[]Forecasting[]Decision making[]Unified modeling language[]Data collection"
+    },
+    {
+        "title": "Incentive and Unconditionally Anonymous Identity-Based Public Provable Data Possession.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2016.2633260",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Protocols[]Cloud computing[]Concrete[]Privacy[]Public key cryptography[]Servers"
+    },
+    {
+        "title": "Multi-Dimensional QoS Prediction for Service Recommendations.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2016.2584058",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Quality of service[]Tensile stress[]Web services[]Data models[]Optimization[]Prediction algorithms[]Mobile communication"
+    },
+    {
+        "title": "Adaptive Wireless Video Streaming Based on Edge Computing: Opportunities and Approaches.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2018.2828426",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Streaming media[]Transcoding[]Edge computing[]Bandwidth[]Bit rate[]Wireless communication[]Servers"
+    },
+    {
+        "title": "Learning the Evolution Regularities for BigService-Oriented Online Reliability Prediction.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2016.2633264",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Reliability[]Time series analysis[]Web services[]Computer network reliability[]Meteorology[]Big data[]Quality of service"
+    },
+    {
+        "title": "A High-Reliability Multi-Faceted Reputation Evaluation Mechanism for Online Services.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2016.2638812",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Feedback[]Measurement[]Reliability[]Security[]Indexes"
+    },
+    {
+        "title": "Novel Artificial Bee Colony Algorithms for QoS-Aware Service Selection.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2016.2612663",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Quality of service[]Optimization[]Approximation algorithms[]Search problems[]Web services[]Artificial bee colony algorithm"
+    },
+    {
+        "title": "Energy and Migration Cost-Aware Dynamic Virtual Machine Consolidation in Heterogeneous Cloud Datacenters.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2016.2616868",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Cloud computing[]Energy consumption[]Virtual machining[]Genetic algorithms[]Heuristic algorithms[]Optimization[]Estimation"
+    },
+    {
+        "title": "Distributed Multi-Dimensional Pricing for Efficient Application Offloading in Mobile Cloud Computing.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2016.2642182",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Cloud computing[]Mobile communication[]Resource management[]Pricing[]Mobile handsets[]Games[]Servers"
+    },
+    {
+        "title": "Computational Experiment-Based Evaluation on Context-Aware O2O Service Recommendation.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2016.2638083",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Context awareness[]Computational modeling[]Business[]Context modeling[]Context-aware services[]Object recognition[]Meteorology"
+    },
+    {
+        "title": "Cost-Efficient Consolidating Service for Aliyun&apos;s Cloud-Scale Computing.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2016.2612186",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Servers[]Resource management[]Cloud computing[]Production[]Computational modeling[]Switches[]Measurement"
+    },
+    {
+        "title": "HyperCo: Optimizing Network Performance in ARM-Based Mobile Virtualization.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2016.2594760",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Virtualization[]Virtual machine monitors[]Throughput[]Kernel[]Mobile communication[]Switches[]Program processors"
+    },
+    {
+        "title": "An Agent-Based Integrated Self-Evolving Service Composition Approach in Networked Environments.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2016.2631598",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Adaptation models[]Optimization[]Multi-agent systems[]Mobile ad hoc networks[]Business"
+    },
+    {
+        "title": "Defending Against Flow Table Overloading Attack in Software-Defined Networks.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2016.2602861",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Switches[]Computer crime[]Quality of service[]Mathematical model[]Servers"
+    },
+    {
+        "title": "An Integrated Framework for Mining Temporal Logs from Fluctuating Events.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2016.2598747",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Monitoring[]Data mining[]Servers[]Time division multiplexing[]Databases[]Parametric statistics[]Erbium"
+    },
+    {
+        "title": "Guest Editor&apos;s Introduction: Special Section on Virtualization and Services for Cloud-Based Application Systems.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2018.2878591",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Special issues and sections[]Cloud computing[]Service computing[]Resource management[]Monitoring"
+    },
+    {
+        "title": "Errata to &quot;Guest Editor&apos;s Introduction: Special Section on Virtualization and Services for Cloud-Based Application Systems&quot;.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2019.2899283",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Virtualization[]Cloud computing[]Special issues and sections"
+    },
+    {
+        "title": "A Double Deep Q-Learning Model for Energy-Efficient Edge Scheduling.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2018.2867482",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Heuristic algorithms[]Computational modeling[]Edge computing[]Task analysis[]Energy consumption[]Cloud computing[]Internet of Things"
+    },
+    {
+        "title": "Social-Aware Data Dissemination via Device-to-Device Communications: Fusing Social and Mobile Networks with Incentive Constraints.",
+        "year": "2019",
+        "url": "https://doi.org/10.1109/TSC.2016.2599160",
+        "journal_name": "IEEE Transactions on Services Computing",
+        "journal_shorter_form": "TSC",
+        "keywords": "Social network services[]Relays[]Mobile computing[]Mobile communication[]Games[]Data models"
+    }
+]
