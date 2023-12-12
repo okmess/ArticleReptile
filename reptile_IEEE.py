@@ -65,6 +65,6 @@ if __name__ == "__main__":
     #     p.start()
     # for process in processes:
     #     process.join()
-    for index in range(12,18):
+    for index in range(45,46):
         ieee_spider(index)
 
