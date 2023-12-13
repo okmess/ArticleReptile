@@ -565,7 +565,7 @@
         "url": "https://doi.org/10.1109/TPDS.2017.2762297",
         "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
         "journal_shorter_form": "TPDS",
-        "keywords": "null"
+        "keywords": "Servers[]Routing[]Power demand[]Throughput[]Redundancy[]Switches"
     },
     {
         "title": "Cache-Oblivious MPI All-to-All Communications Based on Morton Order.",
@@ -725,7 +725,7 @@
         "url": "https://doi.org/10.1109/TPDS.2018.2817207",
         "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
         "journal_shorter_form": "TPDS",
-        "keywords": "null"
+        "keywords": "Pipeline processing[]Synchronization[]Dynamic scheduling[]Pipelines[]Message systems[]Data structures[]Runtime"
     },
     {
         "title": "Scalable Deadlock-Free Deterministic Minimal-Path Routing Engine for InfiniBand-Based Dragonfly Networks.",
@@ -821,7 +821,7 @@
         "url": "https://doi.org/10.1109/TPDS.2017.2770121",
         "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
         "journal_shorter_form": "TPDS",
-        "keywords": "null"
+        "keywords": "Indexes[]Arrays[]Message systems[]Synchronization[]Semantics[]Multicore processing"
     },
     {
         "title": "A New Algorithm for Parallel Connected-Component Labelling on GPUs.",
@@ -845,7 +845,7 @@
         "url": "https://doi.org/10.1109/TPDS.2018.2791599",
         "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
         "journal_shorter_form": "TPDS",
-        "keywords": "null"
+        "keywords": "Peer-to-peer computing[]Streaming media[]Bandwidth[]Media[]Digital audio broadcasting[]Webinars[]Protocols"
     },
     {
         "title": "Intra-Node Memory Safe GPU Co-Scheduling.",
@@ -1157,7 +1157,7 @@
         "url": "https://doi.org/10.1109/TPDS.2018.2790946",
         "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
         "journal_shorter_form": "TPDS",
-        "keywords": "null"
+        "keywords": "Cloud computing[]Estimation[]Servers[]Algorithm design and analysis[]Electronic mail[]Resource management[]Containers"
     },
     {
         "title": "Toward High Mobile GPU Performance Through Collaborative Workload Offloading.",
@@ -1629,7 +1629,7 @@
         "url": "https://doi.org/10.1109/JSAC.2022.3228605",
         "journal_name": "IEEE Journal of Selected Areas in Communications",
         "journal_shorter_form": "JSAC",
-        "keywords": "null"
+        "keywords": "Array signal processing[]Task analysis[]Internet of Things[]Optimization[]Servers[]Resource management[]Cloud computing"
     },
     {
         "title": "GIFT: Toward Accurate and Efficient Federated Learning With Gradient-Instructed Frequency Tuning.",
@@ -1685,7 +1685,7 @@
         "url": "https://doi.org/10.1109/JSAC.2023.3310050",
         "journal_name": "IEEE Journal of Selected Areas in Communications",
         "journal_shorter_form": "JSAC",
-        "keywords": "null"
+        "keywords": "Power control[]Array signal processing[]Uplink[]Resource management[]Downlink[]Wireless networks[]Channel estimation"
     },
     {
         "title": "On the Physical Layer of Digital Twin: An Integrated Sensing and Communications Perspective.",
@@ -1781,7 +1781,7 @@
         "url": "https://doi.org/10.1109/JSAC.2023.3322821",
         "journal_name": "IEEE Journal of Selected Areas in Communications",
         "journal_shorter_form": "JSAC",
-        "keywords": "null"
+        "keywords": "Location awareness[]Synchronization[]Distance measurement[]5G mobile communication[]Global Positioning System[]Drones[]Antenna arrays[]Indoor environment[]Femtocells"
     },
     {
         "title": "IDRes: Identity-Based Respiration Monitoring System for Digital Twins Enabled Healthcare.",

@@ -1,0 +1,1842 @@
+[
+    {
+        "title": "A Fast Blockchain-Based Federated Learning Framework With Compressed Communications.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3213345",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Training[]Load modeling[]Federated learning[]Convergence[]Blockchains[]Data models[]Computational modeling"
+    },
+    {
+        "title": "Nonlinear Transform Source-Channel Coding for Semantic Communications.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3180802",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "ncoding[]Transforms[]Channel coding[]Entropy[]Image coding[]Semantics[]Standards"
+    },
+    {
+        "title": "Holographic MIMO for LEO Satellite Communications Aided by Reconfigurable Holographic Surfaces.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3196110",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Satellites[]Low earth orbit satellites[]Array signal processing[]Satellite communication[]Phased arrays[]Satellite antennas[]Feeds"
+    },
+    {
+        "title": "HDMA: Holographic-Pattern Division Multiple Access.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3143221",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Wireless communication[]Phased arrays[]Multiaccess communication[]Feeds[]Receivers[]Electromagnetic scattering[]Array signal processing"
+    },
+    {
+        "title": "Degrees of Freedom in 3D Linear Large-Scale Antenna Array Communications - A Spatial Bandwidth Approach.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3196106",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Bandwidth[]MIMO communication[]Three-dimensional displays[]Wireless communication[]Green's function methods[]Electric fields[]Space division multiplexing"
+    },
+    {
+        "title": "Joint MIMO Precoding and Computation Resource Allocation for Dual-Function Radar and Communication Systems With Mobile Edge Computing.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3157389",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Radar[]Sensors[]Robot sensing systems[]Precoding[]Radar signal processing[]Communication symbols[]Resource management"
+    },
+    {
+        "title": "Performance Analysis and Optimization for Jammer-Aided Multiantenna UAV Covert Communication.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3196131",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Jamming[]Antennas[]Autonomous aerial vehicles[]Atmospheric modeling[]Signal to noise ratio[]Shadow mapping[]Resource management"
+    },
+    {
+        "title": "Anti-Collusion Multiparty Smart Contracts for Distributed Watchtowers in Payment Channel Networks.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3213355",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Security[]Games[]Smart contracts[]Bitcoin[]Monitoring[]Routing[]Fraud"
+    },
+    {
+        "title": "RIS-Assisted Joint Transmission in a Two-Cell Downlink NOMA Cellular System.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3143211",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "NOMA[]Optimization[]Array signal processing[]Quality of service[]Wireless networks[]Spectral efficiency[]Silicon carbide"
+    },
+    {
+        "title": "Basil: A Fast and Byzantine-Resilient Approach for Decentralized Training.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3191347",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Training[]Peer-to-peer computing[]Performance evaluation[]Servers[]Machine learning[]Convergence[]Performance gain"
+    },
+    {
+        "title": "Age of Information in Energy Harvesting Aided Massive Multiple Access Networks.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3143252",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Resource management[]Optimization[]Power demand[]NOMA[]Time division multiple access[]Throughput[]Energy harvesting"
+    },
+    {
+        "title": "Pilot-Based Unsourced Random Access With a Massive MIMO Receiver, Interference Cancellation, and Power Control.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3144748",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Coherence[]Power control[]Receivers[]Complexity theory[]Channel estimation[]Silicon carbide[]AWGN channels"
+    },
+    {
+        "title": "Multiobjective Load Balancing for Multiband Downlink Cellular Networks: A Meta- Reinforcement Learning Approach.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3191114",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Load management[]Task analysis[]Optimization[]Throughput[]Multitasking[]Load modeling[]Downlink"
+    },
+    {
+        "title": "Fast MIMO Beamforming via Deep Reinforcement Learning for High Mobility mmWave Connectivity.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2021.3126056",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Array signal processing[]Radio frequency[]Interference[]Training[]Synchronization[]Reinforcement learning[]Hardware"
+    },
+    {
+        "title": "Joint Content Caching, Recommendation, and Transmission Optimization for Next Generation Multiple Access Networks.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3146901",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "NOMA[]Resource management[]Optimization[]Wireless communication[]Power control[]Minimization[]Multicast communication"
+    },
+    {
+        "title": "Edge-Based Cross-Modal Communications for Remote Healthcare.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3211539",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Haptic interfaces[]Reliability[]Medical robotics[]Medical services[]Videos[]Throughput[]Semantics"
+    },
+    {
+        "title": "Data-Driven Deep Learning Based Hybrid Beamforming for Aerial Massive MIMO-OFDM Systems With Implicit CSI.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3196064",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Array signal processing[]Channel estimation[]Downlink[]Uplink[]Neural networks[]Training[]Quantization (signal)"
+    },
+    {
+        "title": "Toward 5G NR High-Precision Indoor Positioning via Channel Frequency Response: A New Paradigm and Dataset Generation Method.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3157397",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "5G mobile communication[]3GPP[]Robustness[]Deep learning[]Training[]Standards[]Fingerprint recognition"
+    },
+    {
+        "title": "A Computationally Efficient EK-PMBM Filter for Bistatic mmWave Radio SLAM.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3155504",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Simultaneous localization and mapping[]Sensors[]Filtering algorithms[]Complexity theory[]Receivers[]Kalman filters[]Computational modeling"
+    },
+    {
+        "title": "Multi-Agent Reinforcement Learning-Based Distributed Channel Access for Next Generation Wireless Networks.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3143251",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Media Access Protocol[]Protocols[]Throughput[]Neural networks[]Heuristic algorithms[]Delays[]Training"
+    },
+    {
+        "title": "Joint Device Selection and Power Control for Wireless Federated Learning.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3180807",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Wireless communication[]Uplink[]Downlink[]Power control[]Atmospheric modeling[]Convergence[]Computational modeling"
+    },
+    {
+        "title": "Eliminating CSI Feedback Overhead via Deep Learning-Based Data Hiding.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3180806",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Downlink[]Image coding[]Semantics[]Transform coding[]Uplink[]Image reconstruction[]Containers"
+    },
+    {
+        "title": "Variational Inference Based Sparse Signal Detection for Next Generation Multiple Access.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3143234",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Complexity theory[]MIMO communication[]Signal detection[]Signal processing algorithms[]NOMA[]Antennas[]Transmitting antennas"
+    },
+    {
+        "title": "Signal Processing-Based Deep Learning for Blind Symbol Decoding and Modulation Classification.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2021.3126088",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Modulation[]Decoding[]Neural networks[]Deep learning[]Signal processing[]Receivers[]Frequency modulation"
+    },
+    {
+        "title": "Mobility-Aware User Association Strategy for IRS-Aided mm-Wave Multibeam Transmission Towards 6G.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3143216",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Radio frequency[]Channel estimation[]Wireless communication[]Reliability[]Shadow mapping[]Degradation[]Array signal processing"
+    },
+    {
+        "title": "Bivariate Polynomial Codes for Secure Distributed Matrix Multiplication.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3142355",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Codes[]Encoding[]Costs[]Task analysis[]Decoding[]Government[]Galois fields"
+    },
+    {
+        "title": "RIS-Assisted Communication Radar Coexistence: Joint Beamforming Design and Analysis.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3155507",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Radar[]Interference[]Array signal processing[]Transmitters[]Receivers[]Wireless communication[]Radar detection"
+    },
+    {
+        "title": "Single-Server Private Linear Transformation: The Joint Privacy Case.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3142293",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Privacy[]Servers[]Computational modeling[]Dimensionality reduction[]Data privacy[]Codes[]Correlation"
+    },
+    {
+        "title": "Scaling Blockchain via Layered Sharding.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3213350",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Blockchains[]Peer-to-peer computing[]Throughput[]Scalability[]Consensus protocol[]Security[]Distributed ledger"
+    },
+    {
+        "title": "Hierarchical Group Testing for Byzantine Attack Identification in Distributed Matrix Multiplication.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3142364",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Testing[]Codes[]Distributed computing[]Task analysis[]Encoding[]Decoding[]Reed-Solomon codes"
+    },
+    {
+        "title": "Two-Timescale End-to-End Learning for Channel Acquisition and Hybrid Precoding.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2021.3126050",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Radio frequency[]Precoding[]Channel estimation[]Training[]MIMO communication[]Deep learning[]Delays"
+    },
+    {
+        "title": "DELUXE: A DL-Based Link Adaptation for URLLC/eMBB Multiplexing in 5G NR.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2021.3126084",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Ultra reliable low latency communication[]Throughput[]5G mobile communication[]Reliability[]Modulation[]Long Term Evolution[]Interference"
+    },
+    {
+        "title": "Guest Editorial Special Issue on Intelligent Blockchain for Future Communications and Networking: Technologies, Trends, and Applications.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3212898",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Special issues and sections[]Blockchains[]Security[]Internet of Things[]Federated learning"
+    },
+    {
+        "title": "TMA-DPSO: Towards Efficient Multi-Task Allocation With Time Constraints for Next Generation Multiple Access.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3143205",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Task analysis[]Resource management[]Next generation networking[]Multitasking[]Time factors[]Security[]Particle swarm optimization"
+    },
+    {
+        "title": "Noncoherent Massive Random Access for Inhomogeneous Networks: From Message Passing to Deep Learning.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3143260",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Receivers[]Deep learning[]Nonhomogeneous media[]Message passing[]Estimation[]Electronic mail[]Training"
+    },
+    {
+        "title": "Learning Tailored Adaptive Bitrate Algorithms to Heterogeneous Network Conditions: A Domain-Specific Priors and Meta-Reinforcement Learning Approach.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3180804",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Streaming media[]Bit rate[]Quality of experience[]Heterogeneous networks[]Bandwidth[]Adaptive systems[]Telecommunication traffic"
+    },
+    {
+        "title": "Learning and Adaptation for Millimeter-Wave Beam Tracking and Training: A Dual Timescale Variational Framework.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2021.3126086",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Vehicle dynamics[]Array signal processing[]Training[]Adaptation models[]Antenna arrays[]Three-dimensional displays[]Probabilistic logic"
+    },
+    {
+        "title": "Joint Coding and Scheduling Optimization for Distributed Learning Over Wireless Edge Networks.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2021.3118432",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Wireless communication[]Task analysis[]Distance learning[]Computer aided instruction[]Codes[]Encoding[]Servers"
+    },
+    {
+        "title": "Accurate Channel Prediction Based on Transformer: Making Mobility Negligible.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3191334",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Channel estimation[]Transformers[]Predictive models[]Precoding[]Antenna arrays[]Aging[]Radio frequency"
+    },
+    {
+        "title": "Interference Nulling Using Reconfigurable Intelligent Surface.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3143220",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "nterference[]Transceivers[]Interference channels[]Wireless communication[]Transmitters[]Receivers[]Projection algorithms"
+    },
+    {
+        "title": "Detecting Arbitrage on Ethereum Through Feature Fusion and Positive-Unlabeled Learning.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3213335",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Feature extraction[]Blockchains[]Behavioral sciences[]Bitcoin[]Smart contracts[]Peer-to-peer computing[]Time series analysis"
+    },
+    {
+        "title": "MIMO OFDM Dual-Function Radar-Communication Under Error Rate and Beampattern Constraints.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3156651",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Radar[]OFDM[]Transmitters[]Radar antennas[]Optimization[]Mutual information[]Error analysis"
+    },
+    {
+        "title": "Mixed-Timescale Deep-Unfolding for Joint Channel Estimation and Hybrid Beamforming.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3191124",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Array signal processing[]Radio frequency[]Channel estimation[]Artificial neural networks[]Massive MIMO[]Computational complexity[]Training"
+    },
+    {
+        "title": "A Phase Noise Resistant Constellation Rotation Method and Its Experimental Validation for NOMA Wi-Fi.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3143236",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "NOMA[]Wireless fidelity[]Receivers[]Phase noise[]Constellation diagram[]Bit error rate[]Wireless communication"
+    },
+    {
+        "title": "ARISE: A Multitask Weak Supervision Framework for Network Measurements.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3180783",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Task analysis[]Data models[]Training[]Noise measurement[]Multitasking[]Cognition[]Adaptation models"
+    },
+    {
+        "title": "WheelLoc: Practical and Accurate Localization for Wheeled Mobile Targets via Integrated Sensing and Communication.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3155530",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Location awareness[]Wheels[]Antenna arrays[]Wireless fidelity[]Inertial sensors[]Mobile antennas[]Hardware"
+    },
+    {
+        "title": "Graph Neural Network Aided MU-MIMO Detectors.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3191344",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Detectors[]Artificial neural networks[]Symbols[]Complexity theory[]Receiving antennas[]Base stations[]Message passing"
+    },
+    {
+        "title": "Online Privacy-Preserving Data-Driven Network Anomaly Detection.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3142302",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Peer-to-peer computing[]Data models[]Anomaly detection[]Distributed databases[]Privacy[]Approximation algorithms[]Computational modeling"
+    },
+    {
+        "title": "Blind Equalization and Channel Estimation in Coherent Optical Communications Using Variational Autoencoders.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3191346",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Blind equalizers[]Optical fiber communication[]Symbols[]Phase shift keying[]Optical polarization[]Nonlinear optics[]Complexity theory"
+    },
+    {
+        "title": "Over-the-Air Statistical Estimation.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2021.3118412",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "timation[]Wireless sensor networks[]Servers[]Encoding[]Computational modeling[]Channel estimation[]Task analysis"
+    },
+    {
+        "title": "Edge Artificial Intelligence for 6G: Vision, Enabling Technologies, and Applications.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2021.3126076",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Artificial intelligence[]6G mobile communication[]Task analysis[]Sensors[]Communication system security[]Training[]Standards"
+    },
+    {
+        "title": "Achieving Low Latency in Massive Access: A Mean-Field Approach.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3143266",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Delays[]Queueing analysis[]Quality of service[]Throughput[]Mathematical models[]Job shop scheduling[]Approximation methods"
+    },
+    {
+        "title": "Infectious Probability Analysis on COVID-19 Spreading With Wireless Edge Networks.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3211534",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Wireless communication[]COVID-19[]Analytical models[]Servers[]Privacy[]Base stations[]Task analysis"
+    },
+    {
+        "title": "Efficient Recovery of a Shared Secret via Cooperation: Applications to SDMM and PIR.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3142366",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Servers[]Costs[]Codes[]Task analysis[]Manganese[]Measurement[]Upper bound"
+    },
+    {
+        "title": "Privacy-Preserving Communication-Efficient Federated Multi-Armed Bandits.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3142374",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Servers[]Privacy[]Protocols[]Costs[]Wireless communication[]Knowledge engineering[]Data models"
+    },
+    {
+        "title": "The Fifth Issue of the Series on Machine Learning in Communications and Networks.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3181863",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Special issues and sections[]Machine learning[]Communication networks"
+    },
+    {
+        "title": "Series Editorial The Fourth Issue of the Series on Machine Learning in Communications and Networks.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2021.3126188",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Special issues and sections[]Machine learning[]Communication networks"
+    },
+    {
+        "title": "Series Editorial The Sixth Issue of the Series on Machine Learning in Communications and Networks.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3190650",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Special issues and sections[]Communication networks[]Machine learningf"
+    },
+    {
+        "title": "Compact Learning Model for Dynamic Off-Chain Routing in Blockchain-Based IoT.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3213283",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Routing[]Internet of Things[]Heuristic algorithms[]Adaptation models[]Blockchains[]Dynamic scheduling[]Training"
+    },
+    {
+        "title": "Faster-Than-Nyquist Asynchronous NOMA Outperforms Synchronous NOMA.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3143245",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "NOMA[]Delays[]Signal to noise ratio[]Interference[]Uplink[]Simulation[]Wireless sensor networks"
+    },
+    {
+        "title": "Joint Device Detection, Channel Estimation, and Data Decoding With Collision Resolution for MIMO Massive Unsourced Random Access.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3145914",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "ncoding[]MIMO communication[]Channel estimation[]Performance evaluation[]Decoding[]Fading channels[]Task analysis"
+    },
+    {
+        "title": "Rainbow-Link: Beam-Alignment-Free and Grant-Free mmW Multiple Access Using True-Time-Delay Array.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3143261",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Phased arrays[]Array signal processing[]OFDM[]Bandwidth[]Costs[]Ultra reliable low latency communication[]Training"
+    },
+    {
+        "title": "A Novel ISAC Transmission Framework Based on Spatially-Spread Orthogonal Time Frequency Space Modulation.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3155538",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Radar[]Sensors[]Radar cross-sections[]Resource management[]Radar antennas[]Modulation[]Channel estimation"
+    },
+    {
+        "title": "CoAvoid: Secure, Privacy-Preserved Tracing of Contacts for Infectious Diseases.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3211547",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Privacy[]Security[]COVID-19[]Servers[]Resists[]Data privacy[]Statistics"
+    },
+    {
+        "title": "Situation-Aware Multivariate Time Series Anomaly Detection Through Active Learning and Contrast VAE-Based Models in Large Distributed Systems.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3191341",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Anomaly detection[]Measurement[]Monitoring[]Time series analysis[]Task analysis[]Data models[]Business"
+    },
+    {
+        "title": "Integrated Sensing and Communications: Toward Dual-Functional Wireless Networks for 6G and Beyond.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3156632",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Radar[]Sensors[]Radar antennas[]Wireless communication[]Radio frequency[]Phased arrays[]MIMO radar"
+    },
+    {
+        "title": "Blockchain Based Offloading Strategy: Incentive, Effectiveness and Security.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3213324",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Blockchains[]Internet of Things[]Security[]Servers[]Voting[]Games[]Encoding"
+    },
+    {
+        "title": "Optimization of Grant-Free NOMA With Multiple Configured-Grants for mURLLC.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3143264",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "NOMA[]Ultra reliable low latency communication[]Reliability[]Uplink[]Resource management[]Reliability engineering[]Optimization"
+    },
+    {
+        "title": "Learning-Based Prediction, Rendering and Transmission for Interactive Virtual Reality in RIS-Assisted Terahertz Networks.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2021.3118405",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Wireless communication[]Quality of experience[]Uplink[]Downlink[]Rendering (computer graphics)[]Prediction algorithms[]Streaming media"
+    },
+    {
+        "title": "Blockchain-Based Task Offloading for Edge Computing on Low-Quality Data via Distributed Learning in the Internet of Energy.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2021.3118417",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Task analysis[]Blockchains[]Data integrity[]Edge computing[]Organizations[]Data privacy[]Reinforcement learning"
+    },
+    {
+        "title": "Transmit Design for Joint MIMO Radar and Multiuser Communications With Transmit Covariance Constraint.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3155512",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Radar[]Interference[]Signal to noise ratio[]Array signal processing[]MIMO radar[]Covariance matrices[]Transmitters"
+    },
+    {
+        "title": "A Storage Sustainability Mechanism With Heterogeneous Miners in Blockchain.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3213309",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Blockchains[]Costs[]Sustainable development[]Protocols[]Bitcoin[]Storage management[]Delays"
+    },
+    {
+        "title": "Optimal Beamformer Design for Millimeter Wave Dual-Functional Radar-Communication Based V2X Systems.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3196089",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Radar[]Array signal processing[]Interference[]Transmitting antennas[]Radio frequency[]Radar antennas[]Receiving antennas"
+    },
+    {
+        "title": "Joint Waveform and Filter Designs for STAP-SLP-Based MIMO-DFRC Systems.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3155501",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Radar[]Clutter[]Sensors[]Radar clutter[]Quality of service[]Signal to noise ratio[]Wireless communication"
+    },
+    {
+        "title": "Guest Editorial Special Issue on Integrated Sensing and Communication - Part I.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3157507",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Special issues and sections[]Sensors[]Radio access networks[]6G mobile communication[]Urban areas[]Surveillance[]Receivers[]Radio transmitters"
+    },
+    {
+        "title": "Guest Editorial Special Issue on Integrated Sensing and Communication - Part II.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3157514",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Special issues and sections[]Sensors[]Radio access networks[]6G mobile communication[]Urban areas[]Surveillance[]Signal processing[]Receivers[]Radio transmitters"
+    },
+    {
+        "title": "Channel-Driven Monte Carlo Sampling for Bayesian Distributed Learning in Wireless Data Centers.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2021.3118406",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Wireless communication[]Servers[]Bayes methods[]Protocols[]Data centers[]Monte Carlo methods[]Distance learning"
+    },
+    {
+        "title": "Unsourced Multiple Access Based on Sparse Tanner Graph - Efficient Decoding, Analysis, and Optimization.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3143225",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Decoding[]Transmitters[]Receivers[]Channel estimation[]Blind equalizers[]Upper bound[]Simulation"
+    },
+    {
+        "title": "Blockchain-Based Credential Management for Anonymous Authentication in SAGVN.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3196091",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Authentication[]Blockchains[]Antenna arrays[]Satellites[]Collaboration[]Base stations[]Wireless communication"
+    },
+    {
+        "title": "Special Issue on Next Generation Multiple Access - Part I.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2021.3139485",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Special issues and sections[]Multiaccess communication[]Long Term Evolution[]5G mobile communication[]Disruptive technologies[]Next generation networking"
+    },
+    {
+        "title": "Guest Editorial Special Issue on Next Generation Multiple Access - Part II.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2021.3139737",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Special issues and sections[]Wireless networks[]Next generation networking[]Channel estimation[]Machine learning[]Iterative decoding[]Resource management[]Multiaccess communication"
+    },
+    {
+        "title": "Distributed Reinforcement Learning for Privacy-Preserving Dynamic Edge Caching.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3142348",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Servers[]Vehicle dynamics[]Privacy[]Optimization[]Training[]Reinforcement learning[]Wireless networks"
+    },
+    {
+        "title": "Proximal Policy Optimization-Based Transmit Beamforming and Phase-Shift Design in an IRS-Aided ISAC System for the THz Band.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3158696",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Array signal processing[]Optimization[]Sensors[]MISO communication[]Resource management[]Wireless communication[]Radar"
+    },
+    {
+        "title": "Evolution of NOMA Toward Next Generation Multiple Access (NGMA) for 6G.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3145234",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "NOMA[]Next generation networking[]MIMO communication[]Silicon carbide[]Interference[]6G mobile communication[]Time division multiple access"
+    },
+    {
+        "title": "Learning-Based Off-Chain Transaction Scheduling in Prioritized Payment Channel Networks.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3213333",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Delays[]Routing[]Blockchains[]Throughput[]Costs[]Jitter[]Scalability[]Learning systems[]Reinforcement learning"
+    },
+    {
+        "title": "Deep Learning-Aided Optical IM/DD OFDM Approaches the Throughput of RF-OFDM.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2021.3126080",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Peak to average power ratio[]Optical signal processing[]Optical transmitters[]Optical receivers[]Optical distortion[]Complexity theory[]Transceivers"
+    },
+    {
+        "title": "Modeling and Analysis of MIMO Multipath Channels With Aerial Intelligent Reflecting Surface.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3196112",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Atmospheric modeling[]MIMO communication[]Channel models[]Solid modeling[]Doppler effect[]Three-dimensional displays[]Scattering"
+    },
+    {
+        "title": "On the Degrees of Freedom Region for Simultaneous Imaging &amp; Uplink Communication.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3155518",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "maging[]Uplink[]Radar imaging[]Measurement[]Lighting[]Decoding[]Reflectivity"
+    },
+    {
+        "title": "Multi-Dimensional Multiple Access With Resource Utilization Cost Awareness for Individualized Service Provisioning in 6G.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3145909",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Costs[]Resource management[]Quality of service[]NOMA[]6G mobile communication[]Hardware[]Performance gain"
+    },
+    {
+        "title": "Resilient UAV Swarm Communications With Graph Convolutional Neural Network.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2021.3126047",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Unmanned aerial vehicles[]Wireless sensor networks[]Indexes[]Time complexity[]Trajectory planning[]Symmetric matrices[]Simulation"
+    },
+    {
+        "title": "NOMA-Aided Joint Radar and Multicast-Unicast Communication Systems.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3155524",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Radar[]Unicast[]NOMA[]Interference[]Radar detection[]Optimization[]Radar imaging"
+    },
+    {
+        "title": "Private Multi-Group Aggregation.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3142357",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Servers[]Privacy[]Costs[]Aggregates[]Random variables[]Estimation[]Differential privacy"
+    },
+    {
+        "title": "A Hierarchical Incentive Design Toward Motivating Participation in Coded Federated Learning.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2021.3126057",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Computational modeling[]Data models[]Training[]Servers[]Task analysis[]Statistics[]Sociology"
+    },
+    {
+        "title": "Latency Optimization for Blockchain-Empowered Federated Learning in Multi-Server Edge Computing.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3213344",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Computational modeling[]Federated learning[]Data models[]Optimization[]Blockchains[]Servers[]Data mining"
+    },
+    {
+        "title": "Following the Correct Direction: Renovating Sparsified SGD Towards Global Optimization in Distributed Edge Learning.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2021.3118396",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Training[]Optimization[]Convergence[]Task analysis[]Image edge detection[]Data models[]Sun"
+    },
+    {
+        "title": "Rethinking Doppler Effect for Accurate Velocity Estimation With Commodity WiFi Devices.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3155523",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Wireless fidelity[]Sensors[]Estimation[]Doppler effect[]Target tracking[]Software[]Transceivers"
+    },
+    {
+        "title": "Private Linear Computation for Noncolluding Coded Databases.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3142362",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Spread spectrum communication[]Codes[]Protocols[]Distributed databases[]Information retrieval[]Indexes[]Linear codes"
+    },
+    {
+        "title": "Accelerated Gradient Descent Learning Over Multiple Access Fading Channels.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2021.3118410",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Fading channels[]Distortion[]Noise measurement[]Computational modeling[]Convergence[]Task analysis[]Collaborative work"
+    },
+    {
+        "title": "Next-Generation Multiple Access Based on NOMA With Power Level Modulation.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3143240",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "NOMA[]Resource management[]Next generation networking[]Maximum likelihood decoding[]Downlink[]Wireless networks[]Quadrature amplitude modulation"
+    },
+    {
+        "title": "Cost-Efficient and Skew-Aware Data Scheduling for Incremental Learning in 5G Networks.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2021.3118430",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Training[]5G mobile communication[]Data models[]Computational modeling[]Servers[]Distributed databases[]Data collection"
+    },
+    {
+        "title": "System-Level Analysis of Joint Sensing and Communication Based on 5G New Radio.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3155522",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Sensors[]OFDM[]5G mobile communication[]Measurement[]Estimation[]Direction-of-arrival estimation[]Communication systems"
+    },
+    {
+        "title": "Joint Activity and Blind Information Detection for UAV-Assisted Massive IoT Access.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3143255",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Performance evaluation[]Modulation[]Media[]MIMO communication[]Autonomous aerial vehicles[]OFDM[]Indexes"
+    },
+    {
+        "title": "Optimal Power Allocation in Downlink Multicarrier NOMA Systems: Theory and Fast Algorithms.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3143237",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "NOMA[]Resource management[]Multiplexing[]Downlink[]Power demand[]Optimization[]Silicon carbide"
+    },
+    {
+        "title": "Decentralized Optimization Over Noisy, Rate-Constrained Networks: Achieving Consensus by Communicating Differences.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2021.3118428",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Optimization[]Convergence[]Quantization (signal)[]Heuristic algorithms[]Wireless communication[]Noise measurement[]Mirrors"
+    },
+    {
+        "title": "Joint Communication and Bio-Sensing With Plasmonic Nano-Systems to Prevent the Spread of Infectious Diseases in the Internet of Nano-Bio Things.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3214288",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Sensors[]Plasmons[]Biosensors[]Nanoscale devices[]Optical surface waves[]Nanobioscience[]Optical sensors"
+    },
+    {
+        "title": "Coded Gradient Aggregation: A Tradeoff Between Communication Costs at Edge Nodes and at Helper Nodes.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3142356",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Costs[]Codes[]Servers[]Encoding[]Data privacy[]Reliability[]Distance learning"
+    },
+    {
+        "title": "Privacy-Preserving Coded Mobile Edge Computing for Low-Latency Distributed Inference.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3142295",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Servers[]Codes[]Privacy[]Data privacy[]Cryptography[]Computational modeling[]Spatial diversity"
+    },
+    {
+        "title": "Blockchain-Enabled Task Offloading With Energy Harvesting in Multi-UAV-Assisted IoT Networks: A Multi-Agent DRL Approach.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3213352",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Blockchains[]Internet of Things[]Games[]Task analysis[]Optimization[]Costs[]Computational modeling"
+    },
+    {
+        "title": "Opportunistic Temporal Fair Mode Selection and User Scheduling in Full-Duplex Systems.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3143212",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "nterference cancellation[]Throughput[]Optimal scheduling[]NOMA[]Intercell interference[]Half-duplex system[]Full-duplex system"
+    },
+    {
+        "title": "Learning Task-Oriented Communication for Edge Inference: An Information Bottleneck Approach.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2021.3126087",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Task analysis[]Servers[]Mutual information[]Image coding[]Feature extraction[]Dynamic scheduling[]Mobile handsets"
+    },
+    {
+        "title": "Target Sensing With Intelligent Reflecting Surface: Architecture and Performance.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3155546",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Sensors[]Robot sensing systems[]Estimation[]Direction-of-arrival estimation[]Wireless communication[]Sensor systems[]Sensor arrays"
+    },
+    {
+        "title": "Fundamental Privacy Limits in Bipartite Networks Under Active Attacks.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3142299",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Social networking (online)[]Noise measurement[]History[]Browsers[]Upper bound[]Random variables[]Indexes"
+    },
+    {
+        "title": "Random Access With Massive MIMO-OTFS in LEO Satellite Communications.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3196128",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Channel estimation[]Low earth orbit satellites[]Satellites[]Massive MIMO[]Satellite broadcasting[]MIMO communication[]Downlink"
+    },
+    {
+        "title": "Federated Anomaly Analytics for Local Model Poisoning Attack.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2021.3118347",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Data models[]Analytical models[]Computational modeling[]Servers[]Training[]Distance learning[]Computer aided instruction"
+    },
+    {
+        "title": "Device-Free Sensing in OFDM Cellular Network.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3155543",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Sensors[]OFDM[]Location awareness[]Cellular networks[]Radar[]Estimation[]Channel estimation"
+    },
+    {
+        "title": "Active Sensing for Communications by Learning.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3155496",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Sensors[]Channel estimation[]Wireless communication[]Array signal processing[]Task analysis[]Deep learning[]Adaptive systems"
+    },
+    {
+        "title": "Equivalence of Non-Perfect Secret Sharing and Symmetric Private Information Retrieval With General Access Structure.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3142375",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Protocols[]Servers[]Upper bound[]Cryptography[]Periodic structures[]Information rates[]Eavesdropping"
+    },
+    {
+        "title": "Dynamic Scheduling for Over-the-Air Federated Edge Learning With Energy Constraints.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2021.3126078",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Training[]Computational modeling[]Wireless communication[]Performance evaluation[]Dynamic scheduling[]Heuristic algorithms[]Delays"
+    },
+    {
+        "title": "A Deep Reinforcement Learning-Based Dynamic Traffic Offloading in Space-Air-Ground Integrated Networks (SAGIN).",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2021.3126073",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Reinforcement learning[]Heuristic algorithms[]Satellites[]Proposals[]Bandwidth[]Channel allocation[]Topology"
+    },
+    {
+        "title": "Incentivizing Proof-of-Stake Blockchain for Secured Data Collection in UAV-Assisted IoT: A Multi-Agent Reinforcement Learning Approach.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3213360",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "nternet of Things[]Blockchains[]Data collection[]Security[]Autonomous aerial vehicles[]Performance evaluation[]Investment"
+    },
+    {
+        "title": "Blockchain-Based Trusted Traffic Offloading in Space-Air-Ground Integrated Networks (SAGIN): A Federated Reinforcement Learning Approach.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3213317",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Space-air-ground integrated networks[]Security[]Blockchains[]Federated learning[]Topology[]Network topology[]Servers[]Malware"
+    },
+    {
+        "title": "Performance and Features: Mitigating the Low-Rate TCP-Targeted DoS Attack via SDN.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2021.3126053",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Feature extraction[]Protocols[]Real-time systems[]Quality of service[]Machine learning[]Costs[]Time-frequency analysis"
+    },
+    {
+        "title": "Straggler Mitigation Through Unequal Error Protection for Distributed Approximate Matrix Multiplication.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2021.3118350",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Codes[]Linear matrix inequalities[]Training[]Error correction codes[]Servers[]Computational modeling[]Task analysis"
+    },
+    {
+        "title": "DeepWiVe: Deep-Learning-Aided Wireless Video Transmission.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3191354",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Bandwidth[]Video compression[]Wireless communication[]Distortion[]Channel allocation[]Resource management[]Parity check codes"
+    },
+    {
+        "title": "Privacy in Retrieval, Computing, and Learning.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3142570",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Special issues and sections[]Privacy[]Information retrieval[]Outsourcing[]Data models[]Information management[]Storage management"
+    },
+    {
+        "title": "Private Retrieval, Computing, and Learning: Recent Progress and Future Challenges.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3142358",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Databases[]Servers[]Privacy[]Data privacy[]Information retrieval[]Distributed databases[]Costs"
+    },
+    {
+        "title": "On Secure Distributed Linearly Separable Computation.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3142373",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Servers[]Costs[]Task analysis[]Security[]Encoding[]Data centers[]Sun"
+    },
+    {
+        "title": "Interference Management for Over-the-Air Federated Learning in Multi-Cell Wireless Networks.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3180799",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Uplink[]Downlink[]Task analysis[]Wireless networks[]Performance evaluation[]Training[]Optimization"
+    },
+    {
+        "title": "Two-Stage Channel Estimation Approach for Cell-Free IoT With Massive Random Access.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3143213",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Channel estimation[]Stochastic processes[]Estimation[]Antennas[]Message passing[]Massive MIMO[]Internet of Things"
+    },
+    {
+        "title": "Deep Reinforcement Learning With Communication Transformer for Adaptive Live Streaming in Wireless Edge Networks.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2021.3126062",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Bit rate[]Streaming media[]Transformers[]Transcoding[]Quality of experience[]Wireless communication[]Energy consumption"
+    },
+    {
+        "title": "Performance Optimization for Semantic Communications: An Attention-Based Reinforcement Learning Approach.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3191112",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Semantics[]Resource management[]Data mining[]Measurement[]Wireless networks[]Information retrieval[]Data models"
+    },
+    {
+        "title": "Trustworthy and Efficient Crowdsensed Data Trading on Sharding Blockchain.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3213331",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Blockchains[]Task analysis[]Smart contracts[]Data integrity[]Crowdsensing[]Privacy[]Information technology"
+    },
+    {
+        "title": "LinkSlice: Fine-Grained Network Slice Enforcement Based on Deep Reinforcement Learning.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3180776",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "nterference[]Quality of service[]Integrated circuits[]Reinforcement learning[]Optimization[]Network slicing[]Base stations"
+    },
+    {
+        "title": "Multi-Frequency Access for Magnetic Induction-Based SWIPT.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3143265",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Array signal processing[]Magnetic resonance[]Wireless communication[]Standards[]Wireless sensor networks[]MIMO communication[]Inductance"
+    },
+    {
+        "title": "Online Spatial Crowdsensing With Expertise-Aware Truth Inference and Task Allocation.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2021.3126045",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Task analysis[]Sensors[]Resource management[]Crowdsensing[]Noise measurement[]Location awareness[]Data integrity"
+    },
+    {
+        "title": "Iterative NOMA Detection for Multiple Access in Satellite High-Mobility Communications.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3143254",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "NOMA[]Satellites[]Interference cancellation[]Receivers[]Doppler shift[]Three-dimensional displays[]Synchronization"
+    },
+    {
+        "title": "Data Propagation for Low Latency Blockchain Systems.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3213330",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Blockchains[]Peer-to-peer computing[]Broadcasting[]Bandwidth[]Throughput[]Protocols[]Multimedia communication[]Low latency communication"
+    },
+    {
+        "title": "A Joint Hybrid Precoding/Combining Scheme Based on Equivalent Channel for Massive MIMO Systems.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3196099",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Precoding[]Massive MIMO[]Radio frequency[]Array signal processing[]Optimization[]Baseband[]Transmitters"
+    },
+    {
+        "title": "Location Awareness in Beyond 5G Networks via Reconfigurable Intelligent Surfaces.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3155542",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Location awareness[]Wireless communication[]Scattering[]Wireless sensor networks[]Sensors[]Transmitting antennas[]Directive antennas"
+    },
+    {
+        "title": "A Platform-Free Proof of Federated Learning Consensus Mechanism for Sustainable Blockchains.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3213347",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Blockchains[]Computational modeling[]Artificial intelligence[]Federal learning[]Data models[]Numerical models[]Consensus protocol"
+    },
+    {
+        "title": "Sensitivity-Aware Spatial Quality Adaptation for Live Video Analytics.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3180801",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Streaming media[]Sensitivity[]Bandwidth[]Visual analytics[]Estimation[]Cameras[]Analytical models"
+    },
+    {
+        "title": "Effective Throughput Maximization of NOMA With Practical Modulations.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3143244",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "NOMA[]Throughput[]Resource management[]Modulation[]Silicon carbide[]Channel allocation[]Quadrature amplitude modulation"
+    },
+    {
+        "title": "Quantized Federated Learning Under Transmission Delay and Outage Constraints.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2021.3126081",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Wireless communication[]Quantization (signal)[]Resource management[]Convergence[]Training[]Servers[]Uplink"
+    },
+    {
+        "title": "Toward Large-Scale Hybrid Edge Server Provision: An Online Mean Field Learning Approach.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3180781",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Servers[]Task analysis[]Edge computing[]Dynamic scheduling[]Costs[]Computational modeling[]Resource management"
+    },
+    {
+        "title": "BSIF: Blockchain-Based Secure, Interactive, and Fair Mobile Crowdsensing.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3213306",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Task analysis[]Blockchains[]Servers[]Sensors[]Security[]Games[]Privacy"
+    },
+    {
+        "title": "Preemptive Scheduling for Distributed Machine Learning Jobs in Edge-Cloud Networks.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3180772",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Servers[]Training[]Data models[]Resource management[]Parallel processing[]Machine learning[]Computer science"
+    },
+    {
+        "title": "Blockchain-Enhanced Federated Learning Market With Social Internet of Things.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3213314",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Task analysis[]Information sharing[]Federated learning[]Social Internet of Things[]Training data[]Data models[]Computational modeling"
+    },
+    {
+        "title": "InFEDge: A Blockchain-Based Incentive Mechanism in Hierarchical Federated Learning for End-Edge-Cloud Communications.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3213323",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Game theory[]Computational modeling[]Servers[]Federated learning[]Computer architecture[]Cloud computing[]Blockchains"
+    },
+    {
+        "title": "HiveMind: Towards Cellular Native Machine Learning Model Splitting.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2021.3118403",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Computational modeling[]5G mobile communication[]Servers[]Load modeling[]Data models[]Adaptation models[]Training"
+    },
+    {
+        "title": "Low-Latency Federated Learning Over Wireless Channels With Differential Privacy.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2021.3126052",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Wireless communication[]Training[]Servers[]Computational modeling[]Wireless sensor networks[]Data models[]Interference"
+    },
+    {
+        "title": "Physical Layer Anonymous Precoding Design: From the Perspective of Anonymity Entropy.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3211556",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Privacy[]Precoding[]Routing[]Authentication[]Antennas[]Signal to noise ratio[]Monitoring"
+    },
+    {
+        "title": "Low Complexity Joint Impairment Mitigation of I/Q Modulator and PA Using Neural Networks.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2021.3126024",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Modulation[]Hardware[]Artificial neural networks[]Frequency modulation[]Wideband[]Transmitters[]Nonlinear distortion"
+    },
+    {
+        "title": "MIMO Waveform Design for Dual Functions of Radar and Communication With Space-Time Coding.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3155508",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Radar[]Radar antennas[]Encoding[]Spaceborne radar[]Codes[]Array signal processing[]MIMO radar"
+    },
+    {
+        "title": "A Robust Distributed Hierarchical Online Learning Approach for Dynamic MEC Networks.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2021.3118342",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Task analysis[]Network topology[]Costs[]Resource management[]Topology[]Servers[]Dynamic scheduling"
+    },
+    {
+        "title": "Resource Allocation in Heterogeneously-Distributed Joint Radar-Communications Under Asynchronous Bayesian Tracking Framework.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3157371",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Radar[]Radar tracking[]Resource management[]Radar measurements[]Phased arrays[]Target tracking[]Radar antennas"
+    },
+    {
+        "title": "Integrating Low-Complexity and Flexible Sensing Into Communication Systems.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3156649",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Sensors[]OFDM[]Signal to noise ratio[]Doppler effect[]Time-frequency analysis[]Discrete Fourier transforms[]Receivers"
+    },
+    {
+        "title": "Multiagent Collaborative Learning for UAV Enabled Wireless Networks.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3191329",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Autonomous aerial vehicles[]Uplink[]Energy efficiency[]Downlink[]Trajectory[]Wireless communication[]Energy consumption"
+    },
+    {
+        "title": "C-GRBFnet: A Physics-Inspired Generative Deep Neural Network for Channel Representation and Prediction.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3180800",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Wireless communication[]Channel estimation[]Radial basis function networks[]Predictive models[]Image reconstruction[]Deep learning[]Channel state information"
+    },
+    {
+        "title": "Guest Editorial Special Issue on Antenna Array Enabled Space/Air/Ground Communications and Networking.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3195678",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Special issues and sections[]Antenna arrays[]Array signal processing[]Sensors[]Tansceivers[]Space-air-ground integrated networks[]Satellites[]Resource management"
+    },
+    {
+        "title": "Antenna Array Enabled Space/Air/Ground Communications and Networking for 6G.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3196320",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Antenna arrays[]Phased arrays[]Array signal processing[]Transmitting antennas[]Arrays[]Broadband antennas[]6G mobile communication"
+    },
+    {
+        "title": "A Transcoding-Enabled 360\u00b0 VR Video Caching and Delivery Framework for Edge-Enhanced Next-Generation Wireless Networks.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3145813",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Bit rate[]Streaming media[]Transcoding[]Next generation networking[]Collaboration[]Wireless networks[]Virtual reality"
+    },
+    {
+        "title": "Waveform Design and Performance Analysis for Full-Duplex Integrated Sensing and Communication.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3155509",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Sensors[]Radar[]Receivers[]Radar signal processing[]Wireless communication[]Radar antennas[]Full-duplex system"
+    },
+    {
+        "title": "Task-Oriented Multi-User Semantic Communications.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3191326",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Semantics[]Task analysis[]Transmitters[]Transformers[]Receivers[]Image retrieval[]Machine translation"
+    },
+    {
+        "title": "Confidentiality-Preserving Edge-Based Wireless Communications for Contact Tracing Systems.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3211549",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Programmable logic arrays[]Wireless communication[]Authentication[]Encryption[]Monitoring[]Communication system security[]Wireless fidelity"
+    },
+    {
+        "title": "Privacy-Preserving Physical-Layer Authentication for Non-Orthogonal Multiple Access Systems.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3143222",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "NOMA[]Privacy[]Programmable logic arrays[]Authentication[]Robustness[]MISO communication[]Receivers"
+    },
+    {
+        "title": "Energy Efficiency Optimization for Rate-Splitting Multiple Access-Based Indoor Visible Light Communication Networks.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3145818",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Precoding[]Visible light communication[]Light emitting diodes[]Resource management[]Interference[]Optical receivers[]Silicon carbide"
+    },
+    {
+        "title": "Graph-Embedded Multi-Agent Learning for Smart Reconfigurable THz MIMO-NOMA Networks.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2021.3126079",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "NOMA[]Resource management[]Channel estimation[]Array signal processing[]MIMO communication[]6G mobile communication[]Quality of service"
+    },
+    {
+        "title": "Decentralized Machine Learning Through Experience-Driven Method in Edge Networks.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2021.3118424",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Computational modeling[]Training[]Topology[]Network topology[]Peer-to-peer computing[]Edge computing[]Wireless communication"
+    },
+    {
+        "title": "A Transaction Cardinality Estimation Approach for QoS-Adjustable Intelligent Blockchain Systems.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3213327",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "timation[]Blockchains[]Quality of service[]Protocols[]Authentication[]Synchronization[]Indexes"
+    },
+    {
+        "title": "Adaptive Aggregate Transmission for Device-to-Multi-Device Aided Cooperative NOMA Networks.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3143267",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "NOMA[]Device-to-device communication[]Silicon carbide[]Relays[]Throughput[]Spectral efficiency[]Aggregates"
+    },
+    {
+        "title": "Achievable Regions and Precoder Designs for the Multiple Access Wiretap Channels With Confidential and Open Messages.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3145916",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Decoding[]Receivers[]Wireless communication[]Wireless sensor networks[]Physical layer security[]MIMO communication[]Encoding"
+    },
+    {
+        "title": "Blockchain-Based Data Sharing With Key Update for Future Networks.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3213312",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Blockchains[]Security[]Artificial intelligence[]Data models[]Cryptography[]Costs[]Encryption[]Internet of things"
+    },
+    {
+        "title": "An Effective Machine Learning Based Algorithm for Inferring User Activities From IoT Device Events.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3191123",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "nternet of Things[]Smart homes[]Telecommunication traffic[]Sensors[]Machine learning algorithms[]Unsupervised learning[]Pattern matching"
+    },
+    {
+        "title": "Optimal Rate-Distortion-Leakage Tradeoff for Single-Server Information Retrieval.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3142296",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Servers[]Databases[]Distortion[]Rate-distortion[]Data privacy[]Privacy[]Information retrieval"
+    },
+    {
+        "title": "Energy-Efficient Dynamic-Subarray With Fixed True-Time-Delay Design for Terahertz Wideband Hybrid Beamforming.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3196090",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Array signal processing[]Wideband[]Antenna arrays[]Radio frequency[]Phase shifters[]Computer architecture[]Switches"
+    },
+    {
+        "title": "AC-SGD: Adaptively Compressed SGD for Communication-Efficient Distributed Learning.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3192050",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Quantization (signal)[]Training[]Convergence[]Stochastic processes[]Adaptation models[]Servers[]Optimization"
+    },
+    {
+        "title": "Robust, Private and Secure Cache-Aided Scalar Linear Function Retrieval From Coded Servers.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3142360",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Servers[]Privacy[]Security[]Handheld computers[]Codes[]Libraries[]Robustness"
+    },
+    {
+        "title": "Dynamic Neural Network for MIMO Detection.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3180794",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Computational modeling[]MIMO communication[]Detectors[]Adaptation models[]Wireless communication[]Heuristic algorithms[]Neural networks"
+    },
+    {
+        "title": "Hybrid Active and Passive Sensing for SLAM in Wireless Communication Systems.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3156630",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Sensors[]Simultaneous localization and mapping[]Antenna arrays[]Communication systems[]5G mobile communication[]Trajectory[]Mobile agents"
+    },
+    {
+        "title": "Mixed Game-Based AoI Optimization for Combating COVID-19 With AI Bots.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3215508",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Games[]COVID-19[]Chatbots[]Optimization[]Wireless communication[]Biosensors[]Artificial intelligence"
+    },
+    {
+        "title": "Blockchain-Empowered Collaborative Task Offloading for Cloud-Edge-Device Computing.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3213358",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Task analysis[]Blockchains[]Resource management[]Optimization[]Delays[]Reinforcement learning[]Smart contracts"
+    },
+    {
+        "title": "Mitigating Routing Update Overhead for Traffic Engineering by Combining Destination-Based Routing With Reinforcement Learning.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3191337",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Routing[]Optimization[]Costs[]Delays[]Routing protocols[]Reinforcement learning[]Linear programming"
+    },
+    {
+        "title": "Intermittent Private Information Retrieval With Application to Location Privacy.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3142301",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Privacy[]Correlation[]Servers[]Markov processes[]Information retrieval[]Costs[]Data privacy"
+    },
+    {
+        "title": "Low Ambiguity Zone: Theoretical Bounds and Doppler-Resilient Sequence Design in Integrated Sensing and Communication Systems.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3155510",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Sensors[]Radar[]Doppler radar[]Delays[]Bandwidth[]Wireless communication[]Linear antenna arrays"
+    },
+    {
+        "title": "Design and Performance Analysis of Multi-Scale NOMA for Future Communication-Positioning Integration System.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3143223",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "nterference[]Resource management[]Frequency measurement[]OFDM[]NOMA[]Distance measurement[]Quality of service"
+    },
+    {
+        "title": "Beam Squint-Aware Integrated Sensing and Communications for Hybrid Massive MIMO LEO Satellite Systems.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3196114",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Low earth orbit satellites[]Satellites[]Sensors[]Massive MIMO[]Antenna arrays[]Spaceborne radar[]Satellite broadcasting"
+    },
+    {
+        "title": "Joint Design of Power Allocation, Beamforming, and Positioning for Energy-Efficient UAV-Aided Multiuser Millimeter-Wave Systems.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3196111",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Optimization[]Autonomous aerial vehicles[]Resource management[]Complexity theory[]Millimeter wave communication[]Array signal processing[]Radio frequency"
+    },
+    {
+        "title": "A Precoding Approach for Dual-Functional Radar-Communication System With One-Bit DACs.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3155532",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Radar[]Precoding[]Downlink[]Quantization (signal)[]Optimization[]Massive MIMO[]Radio frequency"
+    },
+    {
+        "title": "Joint Analog Beamforming and Trajectory Planning for Energy-Efficient UAV-Enabled Nonlinear Wireless Power Transfer.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3196108",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Array signal processing[]Three-dimensional displays[]Autonomous aerial vehicles[]Antennas[]Wireless sensor networks[]Antenna arrays[]Trajectory"
+    },
+    {
+        "title": "Efficient Federated Meta-Learning Over Multi-Access Wireless Networks.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3143259",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Convergence[]Resource management[]Training[]Internet of Things[]Collaborative work[]Stochastic processes[]Servers"
+    },
+    {
+        "title": "Blockchain-Empowered Efficient Data Sharing in Internet of Things Settings.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3213353",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "nternet of Things[]Routing[]Blockchains[]Security[]Routing protocols[]Homomorphic encryption[]Relays"
+    },
+    {
+        "title": "Wi-Fi Sensing for Joint Gesture Recognition and Human Identification From Few Samples in Human-Computer Interaction.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3155526",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Sensors[]Wireless fidelity[]Gesture recognition[]Training[]Radar[]Human computer interaction[]Pattern recognition"
+    },
+    {
+        "title": "Buffer-Aware Virtual Reality Video Streaming With Personalized and Private Viewport Prediction.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2021.3119144",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Streaming media[]Prefetching[]Predictive models[]Resource management[]Visualization[]Prediction algorithms[]Solid modeling"
+    },
+    {
+        "title": "Time-Division ISAC Enabled Connected Automated Vehicles Cooperation Algorithm Design and Performance Evaluation.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3155506",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Sensors[]5G mobile communication[]Time-frequency analysis[]Collaboration[]Vehicle-to-everything[]Millimeter wave communication[]Delays"
+    },
+    {
+        "title": "Adaptive MIMO Detector Based on Hypernetwork: Design, Simulation, and Experimental Test.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2021.3126064",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "MIMO communication[]Detectors[]Receivers[]Damping[]Noise level[]Complexity theory[]Decoding"
+    },
+    {
+        "title": "DISTERNING: Distance Estimation Using Machine Learning Approach for COVID-19 Contact Tracing and Beyond.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3214277",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "timation[]Bluetooth[]Mobile handsets[]COVID-19[]Machine learning algorithms[]Environmental factors[]Machine learning"
+    },
+    {
+        "title": "Joint Coordinated Beamforming and Power Splitting Ratio Optimization in MU-MISO SWIPT-Enabled HetNets: A Multi-Agent DDQN-Based Approach.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2021.3118397",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Array signal processing[]Quality of service[]Optimization[]Wireless communication[]Macrocell networks[]Femtocells[]Interference"
+    },
+    {
+        "title": "Efficient Residual Shrinkage CNN Denoiser Design for Intelligent Signal Processing: Modulation Recognition, Detection, and Decoding.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2021.3126074",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Noise reduction[]Decoding[]Modulation[]Feature extraction[]Convolutional neural networks[]Signal processing algorithms[]Training"
+    },
+    {
+        "title": "Holographic Integrated Sensing and Communication.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3155548",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Array signal processing[]Antenna arrays[]MIMO communication[]Sensors[]Metamaterials[]Radar[]Antennas"
+    },
+    {
+        "title": "Efficient KPI Anomaly Detection Through Transfer Learning for Large-Scale Web Services.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3180785",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Anomaly detection[]Transfer learning[]Key performance indicator[]Training[]Adaptation models[]Shape[]Sun"
+    },
+    {
+        "title": "Resource Allocation in Terrestrial-Satellite-Based Next Generation Multiple Access Networks With Interference Cooperation.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3145810",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "NOMA[]Optimization[]Resource management[]Interference[]Satellites[]Satellite broadcasting[]Wireless communication"
+    },
+    {
+        "title": "FRUIT: A Blockchain-Based Efficient and Privacy-Preserving Quality-Aware Incentive Scheme.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3213341",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Task analysis[]Incentive schemes[]Data privacy[]Blockchains[]Reliability[]Knowledge discovery[]Data integrity"
+    },
+    {
+        "title": "RIS-Aided Ground-Aerial NOMA Communications: A Distributionally Robust DRL Approach.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3143230",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "NOMA[]Trajectory[]Autonomous aerial vehicles[]Uplink[]Power control[]Uncertainty[]Reflection"
+    },
+    {
+        "title": "Simultaneously Transmitting and Reflecting Reconfigurable Intelligent Surface (STAR-RIS) Assisted UAV Communications.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3196102",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Autonomous aerial vehicles[]Trajectory[]Array signal processing[]Optimization[]Relays[]Uncertainty[]Sensors"
+    },
+    {
+        "title": "Intelligent Reflecting Surface-Aided LEO Satellite Communication: Cooperative Passive Beamforming and Distributed Channel Estimation.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3196119",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Low earth orbit satellites[]Array signal processing[]Satellites[]Satellite communication[]Channel estimation[]Orbits[]Costs"
+    },
+    {
+        "title": "Enabling Robust DRL-Driven Networking Systems via Teacher-Student Learning.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2021.3126085",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Streaming media[]Bit rate[]Robustness[]Reinforcement learning[]Neural networks[]Heuristic algorithms[]Servers"
+    },
+    {
+        "title": "Meepo: Multiple Execution Environments per Organization in Sharded Consortium Blockchain.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3213326",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Blockchains[]Smart contracts[]Servers[]Throughput[]Topology[]Merging[]Electronic commerce"
+    },
+    {
+        "title": "Cell-Free Massive MIMO-OFDM for High-Speed Train Communications.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3196088",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Massive MIMO[]OFDM[]Rail transportation[]Uplink[]Fading channels[]Wireless communication[]Symbols"
+    },
+    {
+        "title": "Is RIS-Aided Massive MIMO Promising With ZF Detectors and Imperfect CSI?",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3196097",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Massive MIMO[]Channel estimation[]Detectors[]Radio frequency[]Manganese[]Signal to noise ratio[]Optimization"
+    },
+    {
+        "title": "AI Empowered RIS-Assisted NOMA Networks: Deep Learning or Reinforcement Learning?",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2021.3126068",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "NOMA[]Optimization[]Array signal processing[]Fading channels[]Deep learning[]Wireless networks[]Resource management"
+    },
+    {
+        "title": "Hybrid Reinforcement Learning for STAR-RISs: A Coupled Phase-Shift Model Based Beamformer.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3192053",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Stars[]Array signal processing[]Optimization[]Reinforcement learning[]Surface waves[]Computational modeling[]Channel estimation"
+    },
+    {
+        "title": "Service-Oriented Resource Allocation for Blockchain-Empowered Mobile Edge Computing.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3213343",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "mage edge detection[]Resource management[]Blockchains[]Task analysis[]5G mobile communication[]Optimization[]Peer-to-peer computing[]Microcell networks"
+    },
+    {
+        "title": "Distributed Resource Optimization for NOMA Transmission in Beamforming SATCOM.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3143215",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Optimization[]Precoding[]NOMA[]Payloads[]Interference[]Satellites[]Resource management"
+    },
+    {
+        "title": "Multi-User Blind Symmetric Private Information Retrieval From Coded Servers.",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/JSAC.2022.3142352",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Servers[]Privacy[]Costs[]Indexes[]Decoding[]Security[]Data privacy"
+    },
+    {
+        "title": "Wanna Make Your TCP Scheme Great for Cellular Networks? Let Machines Do It for You!",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/JSAC.2020.3036958",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Cellular networks[]Delays[]Throughput[]Reinforcement learning[]Task analysis[]Real-time systems[]Kernel"
+    },
+    {
+        "title": "MIMO-Based Reliable Grant-Free Massive Access With QoS Differentiation for 5G and Beyond.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/JSAC.2020.3018963",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Quality of service[]Channel estimation[]Receivers[]Pollution measurement[]MIMO communication[]Antennas[]Complexity theory"
+    },
+    {
+        "title": "Toward Using Reinforcement Learning for Trigger Selection in Network Slice Mobility.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/JSAC.2021.3078501",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "5G mobile communication[]Heuristic algorithms[]Cloud computing[]Reinforcement learning[]Network function virtualization[]Computer architecture[]Service level agreements"
+    },
+    {
+        "title": "Age of Information Aware VNF Scheduling in Industrial IoT Using Deep Reinforcement Learning.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/JSAC.2021.3087264",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "ndustrial Internet of Things[]Delays[]Measurement[]Information age[]Reinforcement learning[]Quality of service[]Resource management"
+    },
+    {
+        "title": "Guest Editorial Special Issue on &quot;THz Communications and Networking&quot;.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/JSAC.2021.3071914",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Special issue sand sections[]Wireless networks[]Telecommunication traffic[]Data models[]Low latency communication"
+    },
+    {
+        "title": "Multiple Access in Cell-Free Networks: Outage Performance, Dynamic Clustering, and Deep Reinforcement Learning-Based Design.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/JSAC.2020.3018825",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Array signal processing[]Interference[]Computer architecture[]Network architecture[]NOMA[]Uplink[]Signal detection"
+    },
+    {
+        "title": "HARCI: A Two-Way Authentication Protocol for Three Entity Healthcare IoT Networks.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/JSAC.2020.3020605",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Medical services[]Authentication[]Protocols[]Servers[]Monitoring[]Wireless sensor networks"
+    },
+    {
+        "title": "Simulation-Driven Platform for Edge-Based AAL Systems.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/JSAC.2020.3021544",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Cloud computing[]Monitoring[]Scalability[]Interoperability[]Biomedical monitoring[]Computer architecture[]Retirement"
+    },
+    {
+        "title": "Surface Electromagnetic Performance Analysis of a Graphene-Based Terahertz Sensor Using a Novel Spectroscopy Technique.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/JSAC.2021.3071835",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Spectroscopy[]Graphene[]Substrates[]Permittivity[]Periodic structures[]Optical surface waves[]Conductivity"
+    },
+    {
+        "title": "Invoking Deep Learning for Joint Estimation of Indoor LiFi User Position and Orientation.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/JSAC.2021.3064637",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Light fidelity[]Estimation[]Wireless communication[]Channel estimation[]Receivers[]Light emitting diodes[]Deep learning"
+    },
+    {
+        "title": "A Decoupled Blockchain Approach for Edge-Envisioned IoT-Based Healthcare Monitoring.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/JSAC.2020.3020655",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Medical services[]Monitoring[]Sensors[]Tensile stress[]Peer-to-peer computing[]Cloud computing"
+    },
+    {
+        "title": "A Collision Resolution Protocol for Random Access in Massive MIMO.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/JSAC.2020.3018798",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "MIMO communication[]Protocols[]Signal resolution[]Machine-to-machine communications[]Silicon carbide[]Array signal processing[]Channel estimation"
+    },
+    {
+        "title": "High Dimensional Channel Estimation Using Deep Generative Networks.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/JSAC.2020.3036947",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Channel estimation[]Training[]Receiving antennas[]Radio frequency[]Estimation[]Optimization[]Matching pursuit algorithms"
+    },
+    {
+        "title": "Energy- and Bandwidth-Efficient, QoS-Aware Edge Caching in Fog-Enhanced Radio Access Networks.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/JSAC.2021.3064659",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Quality of service[]Bandwidth[]Streaming media[]Energy consumption[]Copper[]Optical network units[]Analytical models"
+    },
+    {
+        "title": "Minimization of Age of Information in Fading Multiple Access Channels.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/JSAC.2021.3065048",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Time division multiple access[]NOMA[]Wireless communication[]Minimization[]Optimization[]Information age[]Mathematical model"
+    },
+    {
+        "title": "Sub-Terahertz Wireless System Using Dual-Polarized Generalized Spatial Modulation With RF Impairments.",
+        "year": "2021",
+        "url": "https://doi.org/10.1109/JSAC.2021.3071828",
+        "journal_name": "IEEE Journal of Selected Areas in Communications",
+        "journal_shorter_form": "JSAC",
+        "keywords": "Radio frequency[]Phase noise[]GSM[]Correlation[]Transmitting antennas[]Rician channels[]Receivers"
+    }
+]

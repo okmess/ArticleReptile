@@ -101,7 +101,7 @@
         "url": "https://doi.org/10.1109/TC.2020.3043714",
         "journal_name": "IEEE Transactions on Computers ",
         "journal_shorter_form": "TC",
-        "keywords": "null"
+        "keywords": "Ciphers[]Automata[]Synchronization[]Generators[]Delays[]Hardware[]Clocks"
     },
     {
         "title": "JBNN: A Hardware Design for Binarized Neural Networks Using Single-Flux-Quantum Circuits.",
@@ -149,7 +149,7 @@
         "url": "https://doi.org/10.1109/TC.2021.3066899",
         "journal_name": "IEEE Transactions on Computers ",
         "journal_shorter_form": "TC",
-        "keywords": "null"
+        "keywords": "FeFETs[]Reliability[]Transistors[]Integrated circuit reliability[]System-on-chip[]Nonvolatile memory[]Hafnium oxide"
     },
     {
         "title": "PySchedCL: Leveraging Concurrency in Heterogeneous Data-Parallel Systems.",
@@ -221,7 +221,7 @@
         "url": "https://doi.org/10.1109/TC.2020.3036686",
         "journal_name": "IEEE Transactions on Computers ",
         "journal_shorter_form": "TC",
-        "keywords": "null"
+        "keywords": "Memory management[]Linux[]Hardware[]Bandwidth[]Kernel[]Adaptive systems[]Emulation"
     },
     {
         "title": "Online Machine Learning for Energy-Aware Multicore Real-Time Embedded Systems.",
@@ -261,7 +261,7 @@
         "url": "https://doi.org/10.1109/TC.2021.3092639",
         "journal_name": "IEEE Transactions on Computers ",
         "journal_shorter_form": "TC",
-        "keywords": "null"
+        "keywords": "Smart contracts[]Arrays[]Tools[]Semantics[]Detectors[]Libraries[]Memory management"
     },
     {
         "title": "Shuhai: A Tool for Benchmarking High Bandwidth Memory on FPGAs.",
@@ -1533,7 +1533,7 @@
         "url": "https://doi.org/10.1109/TC.2021.3099723",
         "journal_name": "IEEE Transactions on Computers ",
         "journal_shorter_form": "TC",
-        "keywords": "null"
+        "keywords": "Data models[]Training[]Servers[]Computational modeling[]Adaptation models[]Data privacy[]Distributed databases"
     },
     {
         "title": "A Novel CONV Acceleration Strategy Based on Logical PE Set Segmentation for Row Stationary Dataflow.",
@@ -1821,7 +1821,7 @@
         "url": "https://doi.org/10.1109/TC.2020.3018329",
         "journal_name": "IEEE Transactions on Computers ",
         "journal_shorter_form": "TC",
-        "keywords": "null"
+        "keywords": "Runtime[]Autonomous vehicles[]Software[]Security[]Sensors[]Autonomous automobiles[]Safety"
     },
     {
         "title": "OurRocks: Offloading Disk Scan Directly to GPU in Write-Optimized Database System.",

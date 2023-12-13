@@ -26,17 +26,17 @@ def spider(start_url):
 
 def acm_spider():
     content = []
-    with open('ACM_journal.json', 'r') as file:
+    with open('ACM_journal_repeat.json', 'r') as file:
         content = file.read()
         content = json.loads(content)
         for data in content:
             keywords = spider(data['url'])
             data['keywords'] = keywords
             print(data)
-            time.sleep(3)
+            time.sleep(1)
     print(content)
 
-    with open('ACM_journal1.json', 'w') as file:
+    with open('ACM_journal_final_data1.json', 'w') as file:
         json.dump(content, file, indent=4)
 
 

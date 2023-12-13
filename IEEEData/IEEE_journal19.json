@@ -53,7 +53,7 @@
         "url": "https://doi.org/10.1109/TPDS.2019.2892972",
         "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
         "journal_shorter_form": "TPDS",
-        "keywords": "null"
+        "keywords": "Sparks[]Machine learning[]Inference algorithms[]Computational modeling[]Bayes methods[]Data models[]Distributed databases"
     },
     {
         "title": "Emulating a Shared Register in a System That Never Stops Changing.",
@@ -149,7 +149,7 @@
         "url": "https://doi.org/10.1109/TPDS.2018.2866582",
         "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
         "journal_shorter_form": "TPDS",
-        "keywords": "null"
+        "keywords": "Training[]Graphics processing units[]Memory management[]Resource management[]Neural networks[]Data transfer[]Prefetching"
     },
     {
         "title": "Promenade: Proportionally Fair Multipath Rate Control in Datacenter Networks with Random Network Coding.",
@@ -501,7 +501,7 @@
         "url": "https://doi.org/10.1109/TPDS.2019.2926979",
         "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
         "journal_shorter_form": "TPDS",
-        "keywords": "null"
+        "keywords": "Cloud computing[]Task analysis[]Quality of service[]Computational modeling[]Servers[]Distributed algorithms[]Edge computing"
     },
     {
         "title": "Learning Driven Computation Offloading for Asymmetrically Informed Edge Computing.",
@@ -757,7 +757,7 @@
         "url": "https://doi.org/10.1109/TPDS.2019.2908175",
         "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
         "journal_shorter_form": "TPDS",
-        "keywords": "null"
+        "keywords": "Random access memory[]Memory management[]Nonvolatile memory[]Bandwidth[]Monitoring[]Operating systems[]Throughput"
     },
     {
         "title": "Aurora: Seamless Optimization of OpenMP Applications.",
@@ -920,7 +920,7 @@
         "keywords": "Bandwidth[]Instruction sets[]Servers[]Processor scheduling[]Memory management[]Scheduling[]Prediction algorithms"
     },
     {
-        "title": "Editor&apos;s Note.",
+        "title": "Editor's Note.",
         "year": "2019",
         "url": "https://doi.org/10.1109/TPDS.2018.2876704",
         "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
@@ -928,7 +928,7 @@
         "keywords": "null"
     },
     {
-        "title": "Editor&apos;s Note.",
+        "title": "Editor's Note.",
         "year": "2019",
         "url": "https://doi.org/10.1109/TPDS.2019.2922024",
         "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
@@ -936,7 +936,7 @@
         "keywords": "null"
     },
     {
-        "title": "Editor&apos;s Note: IEEE Transactions on Parallel and Distributed Systems (TPDS) Reproducibility Initiative, June 2019.",
+        "title": "Editor's Note: IEEE Transactions on Parallel and Distributed Systems (TPDS) Reproducibility Initiative, June 2019.",
         "year": "2019",
         "url": "https://doi.org/10.1109/TPDS.2019.2922052",
         "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
@@ -1285,7 +1285,7 @@
         "url": "https://doi.org/10.1109/TPDS.2018.2880782",
         "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
         "journal_shorter_form": "TPDS",
-        "keywords": "null"
+        "keywords": "Optical switches[]Routing[]Fault tolerance[]Fault tolerant systems[]Time complexity[]Color"
     },
     {
         "title": "Integrating Coflow and Circuit Scheduling for Optical Networks.",

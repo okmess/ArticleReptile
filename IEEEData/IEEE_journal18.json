@@ -165,7 +165,7 @@
         "url": "https://doi.org/10.1109/TPDS.2020.2992923",
         "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
         "journal_shorter_form": "TPDS",
-        "keywords": "null"
+        "keywords": "Runtime[]Task analysis[]Hardware[]Engines[]Libraries[]Programming[]Productivity"
     },
     {
         "title": "T-BASIR: Finding Shutdown Bugs for Cloud-Based Applications in Cloud Spot Markets.",
@@ -173,7 +173,7 @@
         "url": "https://doi.org/10.1109/TPDS.2020.2980265",
         "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
         "journal_shorter_form": "TPDS",
-        "keywords": "null"
+        "keywords": "Computer bugs[]Cloud computing[]Testing[]Radio access technologies[]Open source software[]Kernel[]Hardware"
     },
     {
         "title": "Simultaneous Management of Peak-Power and Reliability in Heterogeneous Multicore Embedded Systems.",
@@ -621,7 +621,7 @@
         "url": "https://doi.org/10.1109/TPDS.2020.2976057",
         "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
         "journal_shorter_form": "TPDS",
-        "keywords": "null"
+        "keywords": "Context[]Instruction sets[]Switches[]Libraries[]Runtime[]Hardware[]Computer architecture"
     },
     {
         "title": "REACT: Scalable and High-Performance Regular Expression Pattern Matching Accelerator for In-Storage Processing.",
@@ -669,7 +669,7 @@
         "url": "https://doi.org/10.1109/TPDS.2019.2938158",
         "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
         "journal_shorter_form": "TPDS",
-        "keywords": "null"
+        "keywords": "Peer-to-peer computing[]Routing[]Control systems[]Standards[]Protocols[]System analysis and design[]Load management"
     },
     {
         "title": "Combinatorial Auctions for Temperature-Constrained Resource Management in Manycores.",
@@ -717,7 +717,7 @@
         "url": "https://doi.org/10.1109/TPDS.2020.2971074",
         "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
         "journal_shorter_form": "TPDS",
-        "keywords": "null"
+        "keywords": "Fault tolerance[]Fault tolerant systems[]Computer architecture[]Convergence[]Telecommunications"
     },
     {
         "title": "MEMPHA: Model of Exascale Message-Passing Programs on Heterogeneous Architectures.",
@@ -1029,7 +1029,7 @@
         "url": "https://doi.org/10.1109/TPDS.2019.2961905",
         "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
         "journal_shorter_form": "TPDS",
-        "keywords": "null"
+        "keywords": "Task analysis[]Servers[]Bandwidth[]Processor scheduling[]Computational modeling[]Cloud computing[]Edge computing"
     },
     {
         "title": "Bandwidth-Aware Dynamic Prefetch Configuration for IBM POWER8.",
@@ -1253,7 +1253,7 @@
         "url": "https://doi.org/10.1109/TPDS.2020.2990656",
         "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
         "journal_shorter_form": "TPDS",
-        "keywords": "null"
+        "keywords": "Metadata[]Servers[]Indexing[]Production[]Tagging"
     },
     {
         "title": "WEED-MC: Wavelet Transform for Energy Efficient Data Gathering and Matrix Completion.",
@@ -1733,7 +1733,7 @@
         "url": "https://doi.org/10.1109/TPDS.2019.2938164",
         "journal_name": "IEEE Transactions on Parallel and Distributed Systems",
         "journal_shorter_form": "TPDS",
-        "keywords": "null"
+        "keywords": "Task analysis[]Data transfer[]Wide area networks[]Bandwidth[]Processor scheduling[]Scheduling[]Cloud computing"
     },
     {
         "title": "A Highly Reliable Metadata Service for Large-Scale Distributed File Systems.",
